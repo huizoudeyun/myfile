@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>3.1.9</Version>
+    <Version>3.2.0</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -219,38 +219,34 @@
             <streamURL>/ofntFEmqRaQ1xQZgWLX9Y7tUQ6wy/TzStD01D08R2eo82h30oJmJJIN0X4vgN7STdY5Hu0dSuMKvHvwAA61FcML+eYo8SMcaI++vePzjZGVmnMQytAZ46yrd6pc5WtiPmMrr8LRUMdzowqD4MFgRtq0yKRKrDsYHsaCuxGO6H/DqgnmFgDBQEeCvAUtAgqHtbNETFx4fQfawqAXEx2ZPKAsLwhmw6vg5GTYPm1L6vKvqnP2wuLgnPO+a6kYWY0w</streamURL>
         </SubChannel>
         
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育-标清" type="6"  date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育-标清" type="6" week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>BIOPvLOvx6vePvgMYs6YX0D8uMLFMGj+wjpmYBFMbphEwDxodLvUMEDWNz2/DnKJvdtfU9sEoxmDA1kQBO7167wIYf5uXTXILwYmin/UYqE=</streamURL>
             <streamURL>XaUM5Tqc6hbtWRUwskAyzpLzWbX+9fYtANXRE55JRq/1g2bFuDucObLOWFL3aeXdtXgtOnBOg+P1IwzxN8GC9Qxa2urb/075UkojlJnNzMdhOE17FUHyhLbgL1ismqOEtUF0tdYefos/feIgRKjG+w==</streamURL>
             <streamURL>74U//GygwqFtQBWmPYDtEpQp5mdvHVli9NHAtvBOsDHvX77ZRCzqHjEaFY8LBD7MHpFlT6BBlMFUS9WPbWjBgiUhcMII3T2rNeAqngykF1MhxSUQYIsn+VZdAumRLfVErk4NJfv5kztaCLO0/h0ECw==</streamURL>
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7JJmcc73RWaNt9Mm9t+vrNRE4t32Tsb+cqPz9pXHWNKnZ4RUI6GT6LbxM75qHmL2AwcbRStGSpS44ZS1KDqGt/E=</streamURL>
             <streamURL>tUch9tUSQkhSV2zK5H7+DurUM8YjgMy3c9B1n4qS1JULeNocDzK11q1/ih1sbjA3</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育-高清" type="6"  date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育-高清" type="6"  week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL  ptag="3" subptag="1">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T6gT9LZBrKl3jJdNOSaaMJhSyVgVNetJBVjqJ1HFMDEV</streamURL>
             <streamURL>81lqHbq2Dfr/tuNSqPzi4Nn7VpEcEqDC+umaNyFNZ+JgvHCfOhQ15JsVFFnRKLhdzz4IBL0NJLXBKf9YmfA+TQ==</streamURL>
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7JJmcc73RWaNt9Mm9t+vrNRE4t32Tsb+cqPz9pXHWNKnZ4RUI6GT6LbxM75qHmL2AwcbRStGSpS44ZS1KDqGt/E=</streamURL>
             <streamURL>tUch9tUSQkhSV2zK5H7+DurUM8YjgMy3c9B1n4qS1JVukA7n3bU/8p4wgQgtX2Pc</streamURL>
         </SubChannel>
         
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育-流畅" type="3"  date="" week="1,2,3,4,5,6,7" bbtime="10:00" betime="13:00" tb="" te="">
+        <SubChannel iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育-流畅" type="3"  date="1,2,3,4" week="1,2,3,4,5,6,7" bbtime="10:00" betime="13:00" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL ptag="1">3TpmI34LoLg171zWQgJPh06bWQYq2/jsoRkNFFVRRjWIQxfD13y20CEqF+i9R353miYyejnPtxjT/GoJAQX3hw==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育" type="3"  date="" week="1,2,3,4,5,6,7" bbtime="10:00" betime="13:00" tb="" te="">
+        <SubChannel iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育" type="3"  date="1,2,3,4" week="1,2,3,4,5,6,7" bbtime="10:00" betime="13:00" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>oSBXUHuv5TTUSvq3HQM2JVjoGyIOSOz4IBroMk0r4aNV+Ebwy+sGqPBe6vF7vlN1vTlU34bq7Sr1dC6/JbYLfQ==</streamURL>
         </SubChannel>
         
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/ouzhouzuqiu.ico" name="欧洲足球" type="4"   date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://files.cnblogs.com/luxiang/ouzhouzuqiu.ico" name="欧洲足球" type="4" week="" bbtime="" betime="" date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL ptag="1">3TpmI34LoLg171zWQgJPh06bWQYq2/jsoRkNFFVRRjVozI8FW1/CdV9JsKTmQrVjx7qregvA61y8AYhk4QGFug==</streamURL>
             <streamURL>jlnBd/YAQnOuMNCS8l+hzZptTN2qxT6PfjGOaMo7x011XVSANfC8U275W9wEJGCQ</streamURL>
             <streamURL>PA1hbDG4hIrreBjsiLxWKHKCrEezhFuzPyT+5XlZjnCHVv1oRWwM3XIHxX/qo5rjR8gSx8o79UOlfkmzQZCpEw==</streamURL>
             <streamURL>/ofntFEmqRaQ1xQZgWLX9Y7tUQ6wy/TzStD01D08R2eo82h30oJmJJIN0X4vgN7STdY5Hu0dSuMKvHvwAA61FVLuxWvU0WFqGCQhEQwOLenH4H+0hznRA1NbxJe/bbvMeT6CJaZX+u83MxDYedM8zjedY0SiSMZGRUgknODsy69SPsCXbxT9RExj6c136jsky+8ZxA8HUx7XrGyvk+CD33WdCnUNF/csqAWaAXdh6gkzTbDYckowDiSmRbF0Hqh7</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://imgsrc.baidu.com/forum/abpic/item/76cb77d921e29b2711df9b3c.jpg" name="五星体育" type="2"  date="" week="" bbtime="" betime="" tb="13-19:45,13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-22:00,13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://imgsrc.baidu.com/forum/abpic/item/76cb77d921e29b2711df9b3c.jpg" name="五星体育" type="2"  week="" bbtime="" betime="" date="1,2,3,4" tb="1-20:45,1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:00,1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>jE6N73a2qaHK2tUZK3xneFhdgQpQsX9ApzKnA3Iwj7a5liddFMrE/OwcKf5m46WIPI/8x2LjUWvuklac7MuU24/yjESEpLiitjuR0R0B92MTSaipywLknKbLAuRBKuzY</streamURL>
             <streamURL>wghvNScQ1TFj1COweZezOf+QtCdd40S+RF1nG/k+bhKoNDnamSN9i+DBho4jp/pnUUFD3ziVs9ImMuYn8lCRlQ==</streamURL>
             <streamURL>CHlE+rZZKFtgVJZ+RrTfvs+HCrWdt7pIUvonDumd05WuyqDkeIVq5QUEegRmi8p11VUYx17MXgfAMghSiOkytflMwIk5rHEbol1Ha6+1SKl+yofEbfasYevLCBbxsEND</streamURL>
@@ -294,8 +290,7 @@
             
         </SubChannel>
         
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视体育" type="1" date="30,31,1" week="" bbtime="" betime="" tb="30-21:59,31-00:00,31-20:30,31-23:00,1-00:00"
-            te="30-23:59,31-02:30,31-23:00,31-23:59,1-01:30">
+        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视体育" type="1"  week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvNrmjtNMG8VtLiHSc1zmdqgRI6fppda/bGHkv0QC+YuNwCd2e18mmYjvNO59F1gRk8IH2G5MKx3P/uQfqY9ZDsswzNLT1rdh7i97uLaAPm95ufRvtN+NeCCqjvPLJdedaU5/toT9OKIMUVSEjoOgks4+PoJtZTjjijZOY+Cp6rOzBSTp8I/1CKQF7EelVhZNrA=</streamURL>
             <streamURL>kNt5YtlQ006SPt+AXFH62ndokC9CR4nbNrPeV12qLJ/Q7IBOoAoRl4F9DsKsjKeppcKOjsHtX4jUWtYVvjzs+IfcFAjsNSoV8dS5W7EaLAoh2DAjTrX6pTeh1IXEKyFw</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1aRI4I28xikZZr9JEx84tLec=</streamURL>
@@ -596,13 +591,6 @@
             <streamURL>TEyHtZptFWKD74sIGQMKlIPPZ+1aBKRs2DTieDbEylpUB+0bLMXOTWLMsZUwM3Kb/wcnA5aUpEYoApAOVI9kgn5yn9xnt46m5AoxGub/J8X/ci8WKA9l4BCtcEHb+b9H</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4TvAdnBS3v8CRGOwtDmCIkKsEZEGIhuOdKB/FvEbhG70Q=</streamURL>
         </SubChannel>
-        <!--
-         <SubChannel iconURL="http://imgsrc.baidu.com/forum/abpic/item/76cb77d921e29b2711df9b3c.jpg" name="五星体育" type="2">
-         <streamURL>wghvNScQ1TFj1COweZezOUxHbIAzlwHzslSTW3ls/b+mfelwhcAW7HNUgGdqS898IYxBRZdQbRSS46+GfJ6Cjg==</streamURL>
-         <streamURL ptag="1">ewg2+HDoX7UpZsRym7MpEwiA3b5xcO/T7e0uE43f22njTlIkQzLKn+mthUjHd05qurfQVfAydNRCHrMxwGgd7g==</streamURL>
-         </SubChannel>
-         -->
-        
         <SubChannel iconURL="http://photocdn.sohu.com/20120529/Img344336334.jpg" name="劲爆体育" type="3">
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7JJmcc73RWaNt9Mm9t+vrNTmT5cZCdSPH6o6AIlEIL6fiB0+vTbxOGtGzlwPaxwJ0sP178MZj/F2PEOS4X90fz16B0R56tTjP7zUQV+ERfan+6r+7hVvQP52f2UxpSnfCQ==</streamURL>
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7JJmcc73RWaNt9Mm9t+vrNTmT5cZCdSPH6o6AIlEIL6fiB0+vTbxOGtGzlwPaxwJ0jFQtldI6Qz/hME2NULnR08=</streamURL>
@@ -719,8 +707,7 @@
             <streamURL>8EIvYEveJLWsBIImFAVuIXzrIxZlAgzpYMBl1dokmXdneH0RMy5rVag/0ffRtV61rdApY6Pz7Jnj84955CtTIGurrRdNcOlQRmXpPbhOuvpEHclZQNWcTdzbYr3Ep9BG</streamURL>
             <streamURL>J3EHxNaEfdh2+sqRCcn+/wovTnpYc0HqmMl8rAGedrU=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津体育" type="1" date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津体育" type="1" week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>8EIvYEveJLWsBIImFAVuIVlluT1Z2T0NvXzXAQP88Bz2qIoxTabCzCFAo6/zUtYeNnOiQ/418pjgNS1Ot+oMQnDBEaaAIma+HOG25rvoxdOY0NbAKwmL2TfMzA18Q+ef</streamURL>
             <streamURL>J3EHxNaEfdh2+sqRCcn+/5xNigH6V9h4xFJEnDTMXuk=</streamURL>
         </SubChannel>
@@ -863,8 +850,7 @@
             
         </SubChannel>
         
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视体育" type="1" date="30,31,1" week="" bbtime="" betime="" tb="30-21:59,31-00:00,31-20:30,31-23:00,1-00:00"
-            te="30-23:59,31-02:30,31-23:00,31-23:59,1-01:30">
+        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视体育" type="1"  week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvNrmjtNMG8VtLiHSc1zmdqgRI6fppda/bGHkv0QC+YuNwCd2e18mmYjvNO59F1gRk8IH2G5MKx3P/uQfqY9ZDsswzNLT1rdh7i97uLaAPm95ufRvtN+NeCCqjvPLJdedaU5/toT9OKIMUVSEjoOgks4+PoJtZTjjijZOY+Cp6rOzBSTp8I/1CKQF7EelVhZNrA=</streamURL>
             <streamURL>kNt5YtlQ006SPt+AXFH62ndokC9CR4nbNrPeV12qLJ/Q7IBOoAoRl4F9DsKsjKeppcKOjsHtX4jUWtYVvjzs+IfcFAjsNSoV8dS5W7EaLAoh2DAjTrX6pTeh1IXEKyFw</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1aRI4I28xikZZr9JEx84tLec=</streamURL>
@@ -877,8 +863,7 @@
             
         </SubChannel>
         
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视足球" type="1" date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视足球" type="1" week="" bbtime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPYdhZVRZ0bdT+8CEac5sIq5uehyYPT7By6veOkkYPOrc0JnmkKMT4eS1fe5p6toPDnmTN1W6cqXdnt1lgPT6mlA8K+zV1PFosDZZPVNBi31MpGqVsfL/HxnF8ttDJmRNB84ph0guVUH3e5E3SUU/b4kya67rphrkPH7XmqjmocVXufbMTbkLEssBpldBusxBs=</streamURL>
             <streamURL>kNt5YtlQ006SPt+AXFH62ndokC9CR4nbNrPeV12qLJ+h3hfp/5SO1LzUvmKGOyifsVPr/t6l5CL2MwWsjzZPzO3BTyODaXGohtluDjT7tayfLCJCQq1TKVCNrPyo1Vuj</streamURL>
             
@@ -1102,14 +1087,12 @@
             <streamURL>cTiAdki6NalHaLBf+HQ3SFatSV1sdojlpuepjFlII/UaGsenxXchfsn+t3/+nMpVxp7WK5WF9vJGHOWayU4JGjQMW2/ZRaG0EPEGyg8+OtQ=</streamURL>
         </SubChannel>
         
-        <SubChannel iconURL="http://s3.pplive.cn/v/cov/300452/v120.jpg" name="广州竞赛" type="5" date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://s3.pplive.cn/v/cov/300452/v120.jpg" name="广州竞赛" type="5" week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>rtsp://58.248.254.9:9136/tvlive/gzjs-h.stream</streamURL>
         </SubChannel>
         
         
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-szmg1.png" name="深圳体育" type="2" date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-szmg1.png" name="深圳体育" type="2" week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>KZSGFYq7/Bv5ZP6RMeB9cLg/lHOuCP8pn7AGxcLzTQXZbwgdb0sHSYHXqgmjYfgTCQWyFWvNSF9dEIlmdF80zeTHsByupfWEUL7LgMI/j9s=</streamURL>
             <streamURL>bcCOvaAJi4Q+7lMh3KGs+pstZY6t7IDXPACg5CL9x+g4jy+FI/4oZJbyDhdfm6JHBt1h23/9aTWzUab+71eekA==</streamURL>
         </SubChannel>
@@ -1514,8 +1497,7 @@
         <SubChannel iconURL="http://a0.att.hudong.com/27/54/01300000668094128494545729517.jpg" name="江苏国际" type="1">
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+UV5u8AiodgIUTwGfqDQZzurwUQBkoy2k8C2aitcO0BV/KBp6rVd1vxKLP5E1FzNfw==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://a0.att.hudong.com/27/54/01300000668094128494545729517.jpg" name="江苏体育" type="1" date="30,31,1" week="" bbtime="" betime="" tb="30-21:59,31-00:00,31-20:30,31-23:00,1-00:00"
-            te="30-23:59,31-02:30,31-23:00,31-23:59,1-01:30">
+        <SubChannel iconURL="http://a0.att.hudong.com/27/54/01300000668094128494545729517.jpg" name="江苏体育" type="1" week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+UV5u8AiodgIUTwGfqDQZzsZeD7lKRDUnSzUazWjlZdEtrKVJK+i4E7umpgKx71nzA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://a0.att.hudong.com/27/54/01300000668094128494545729517.jpg" name="江苏公共" type="1">
@@ -1904,8 +1886,7 @@
             <streamURL>tUch9tUSQkhSV2zK5H7+DptnzrgXmEsmR3j0mkMwUim8OkeoB+DVGDfYPXSiorBNW2ApAe+jqhf1LhAhFJefNQt0NJxPUXEPryUsABdu/cc=</streamURL>
             <streamURL>P9BJzIIn6b2WfpO+QGOvu9OChyHL5T+NQUbgs4NtZHUh7ZGQVjyTRX53vekjrEo3pPl5aRZMCIMaw2qzYDYZGg9zwB/nm/VOaPWMyMPY3oA=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-shandong1.png" name="山东体育" type="1"  date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-shandong1.png" name="山东体育" type="1"  week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>tUch9tUSQkhSV2zK5H7+DptnzrgXmEsmR3j0mkMwUin/Kkq9YhxCDlvGbVMVSBb6hCv5Uhw839JuTrRTqlRLE4qX+AyBMvmWT0wGZvvlrWU=</streamURL>
             <streamURL>P9BJzIIn6b2WfpO+QGOvu9OChyHL5T+NQUbgs4NtZHUh7ZGQVjyTRX53vekjrEo3yn4NZqbkr/lXgZmndzLniPTpcqauu6kQVVCpEMEi59o=</streamURL>
             
@@ -2402,8 +2383,7 @@
         <SubChannel iconURL="http://img1.niutuku.com/vector/201101/2705/img091423997.jpg" name="大连乐天购物" type="1">
             <streamURL ptag="1">rjgkLTmRDZdJjw/3KzGEBBF05DWJW2hIpZCjfOG27iqgo/sh3W4b/dYTSitC4zzT</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://img1.niutuku.com/vector/201101/2705/img091423997.jpg" name="大连文体" type="1"  date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://img1.niutuku.com/vector/201101/2705/img091423997.jpg" name="大连文体" type="1"  week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL ptag="1">rjgkLTmRDZdJjw/3KzGEBHCwY2bCpsHQ96kuqmreyTdgYC8vVElouPHcrRIJgoaF</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="新闻综合" type="1">
@@ -2492,8 +2472,7 @@
             <streamURL>lp9xC6Q0jLBjADn6wPG9UFF5WJcp1gEg2iDwCX479mk/f9EFDkNAihlccPey/H1tOhDfyDmHEV1k2r/PrNauhA==</streamURL>
             <streamURL>11dlwHIa0wnbX2GAgVdjZYVihjjguzs4L8IvblZF2uvXjiJXenVOxOeHRjzU23kls7Abok4QDrWvcaPvKotnODKWlm4N8FJHVqbGReWdhP4=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/hubei.ico" name="湖北综合" type="1" date="" week="" bbtime="" betime="" tb="13-22:00,14-00:00,14-23:00,15-00:00,16-03:00"
-            te="13-23:59,14-02:30,14-23:59,15-01:30,16-05:30">
+        <SubChannel iconURL="http://files.cnblogs.com/luxiang/hubei.ico" name="湖北综合" type="1" week="" bbtime="" betime=""  date="1,2,3,4" tb="1-23:00,2-00:00,2-21:30,3-00:00,4-04:00" te="1-23:59,2-01:00,2-23:30,3-02:00,4-06:00">
             <streamURL>lp9xC6Q0jLBjADn6wPG9UFF5WJcp1gEg2iDwCX479mm/KfvcdDR917/DanN7+mUFzFXBnP8xFlxldqrybTe7vA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/hubei.ico" name="湖北碟市" type="1">
