@@ -5,7 +5,7 @@
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
-    <relatedChannelInfoURL>www.baidu.com</relatedChannelInfoURL>
+    <relatedChannelInfoURL>http://www.baidu.com</relatedChannelInfoURL>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.6.2</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
