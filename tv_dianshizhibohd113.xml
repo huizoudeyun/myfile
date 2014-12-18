@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.3.5</Version>
+    <Version>1.3.6</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
-    <relatedChannelInfoURL>1BdHLnOw/MWS0kx1nBZSm59qWEEZBr2ykg/jiNINbaxObjbdQdci9xQg3EK0Rjhl32DVRTwET1bj9R8yIOMf+Q==</relatedChannelInfoURL>
+    <relatedChannelInfoURL>http://baidu.com/</relatedChannelInfoURL>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.6.2</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
@@ -241,5 +241,6 @@
         </SubChannel>
         
     </Channel>
+    
     
 </Channels>
