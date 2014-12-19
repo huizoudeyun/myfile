@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>3.1.6</Version>
+    <Version>3.1.7</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -83,54 +83,79 @@
         </SubChannel>
         
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－高清" type="1">
-            <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZCcttvSAOg/mLtqUkDPhsIbHZ15aERlvZOUjyp7i3/pZvSIcG0kCMh8gl6G48Q3aY=</streamURL>
-            <streamURL>qhZdRXHSKuRSwnkTOfzjc1d6a7T+5vpuafcK9h7f6Gn+BrKT3ds265YR+ENI5g/dwslQnfFX2C/zgZUUbOBHCw==</streamURL>
-            <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2T0z88hZRY0FJgKLJfgNF/8lZaGF4KfITdtDj5IYusgTQ==</streamURL>
-            <streamURL>RVwiH+uGwHJn77pjDML10FqyWelMriJpaGlWr2ukHlOKP+IVIHzGYE1SNlAyXkhaoQccsu6ceBnWCSJ6gnygUw==</streamURL>
-            <streamURL>pAvIQyCXGvC5s6rlybU+K/Qvz2CBymkSGb+oXDk09NXTqzEbI2/Sc0H04vwfBREC</streamURL>
-            <streamURL>/ofntFEmqRaQ1xQZgWLX9Y7tUQ6wy/TzStD01D08R2eo82h30oJmJJIN0X4vgN7SWR74YE8zPurRSXfj4n4fCqtH9Ho+iOAud9+1tyQvyO8MqeE/ZIg3gjgPxE/ThKDyV4CDbB2xcWDcy4ILlCOXSom1/pH0cCFmxraK8HzekYAzHdP83C6QcOtw3+yrHQa577NlsZkx+fWZNM/Q3gJTCbM5ScT1qVEHayLALaTonyexPJmZFJjofmb+lBk+3siN</streamURL>
+            <streamURL>http://113.207.58.12:5001/wtvlive/wasu/zhejiang</streamURL>
+            <streamURL>http://tvindexlivephone.is.ysten.com:8080/ysten-business/live/zhejiangstv/z.m3u8</streamURL>
+            <streamURL>http://14.204.84.49:10012/live/ZZTVHQ/chunklist.m3u8</streamURL>
+            <streamURL>http://122.192.35.80:1905/live/zjws.stream/playlist.m3u8</streamURL>
+            <streamURL>http://58.135.196.139:8090/live/638D06E38BD64806A7C1F8C78829F54E/638D06E38BD64806A7C1F8C78829F54E.m3u8</streamURL>
+            
+            <streamURL ptag="1">http://219.232.160.143:5080/hls/79f11bbdc29595b03cde2c26c8e64f1d.m3u8</streamURL>
+            <streamURL>http://zb.v.qq.com:1863/?progid=100005100&amp;ostype=ios</streamURL>
+            <streamURL>http://gslb.tv.sohu.com:80/live?cid=31&amp;type=hls</streamURL>
+            <streamURL>http://live1.zjstv.com/zjws/sd/live.m3u8</streamURL>
+            <streamURL>http://feihustr.dj17kan.com/5B63686E5D575330303030303030337C3532347C317C383030307CE6B599E6B19FE58DABE8A7867C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00</streamURL>
             <streamURL>rtmp://219.232.160.144/livestream/79f11bbdc29595b03cde2c26c8e64f1d</streamURL>
-            <streamURL>PA1hbDG4hIrreBjsiLxWKLA/L0UxD67UaRkSA49Kls5F1CwQop70qzu6Zgj/zUwz6hSHNFktD9caVcWWyg2dPA==</streamURL>
-            <streamURL ptag="3">Vwys1VL/ogxV4oYQQZx8WUJAe7i8OPl4vZgRmmCtiIn7dssPLiD0vuTAUbSIG8q8</streamURL>
+            <streamURL>http://218.207.213.213/live/zjwshd/2300000/mnf.m3u8</streamURL>
+            <streamURL ptag="3">http://1.phpku.vipsinaapp.com/zj.php</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－高清" type="1">
-            <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2T0z88hZRY0FJgKLJfgNF/8lZaGF4KfITdtDj5IYusgTQ==</streamURL>
-            <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZCcttvSAOg/mLtqUkDPhsIbHZ15aERlvZOUjyp7i3/pZvSIcG0kCMh8gl6G48Q3aY=</streamURL>
-            <streamURL>qhZdRXHSKuRSwnkTOfzjc1d6a7T+5vpuafcK9h7f6Gn+BrKT3ds265YR+ENI5g/dwslQnfFX2C/zgZUUbOBHCw==</streamURL>
-            <streamURL>RVwiH+uGwHJn77pjDML10FqyWelMriJpaGlWr2ukHlOKP+IVIHzGYE1SNlAyXkhaoQccsu6ceBnWCSJ6gnygUw==</streamURL>
-            <streamURL>pAvIQyCXGvC5s6rlybU+K/Qvz2CBymkSGb+oXDk09NXTqzEbI2/Sc0H04vwfBREC</streamURL>
-            <streamURL>/ofntFEmqRaQ1xQZgWLX9Y7tUQ6wy/TzStD01D08R2eo82h30oJmJJIN0X4vgN7SWR74YE8zPurRSXfj4n4fCqtH9Ho+iOAud9+1tyQvyO8MqeE/ZIg3gjgPxE/ThKDyV4CDbB2xcWDcy4ILlCOXSom1/pH0cCFmxraK8HzekYAzHdP83C6QcOtw3+yrHQa577NlsZkx+fWZNM/Q3gJTCbM5ScT1qVEHayLALaTonyexPJmZFJjofmb+lBk+3siN</streamURL>
+            
+            <streamURL>http://tvindexlivephone.is.ysten.com:8080/ysten-business/live/zhejiangstv/z.m3u8</streamURL>
+            <streamURL>http://14.204.84.49:10012/live/ZZTVHQ/chunklist.m3u8</streamURL>
+            <streamURL>http://122.192.35.80:1905/live/zjws.stream/playlist.m3u8</streamURL>
+            <streamURL>http://58.135.196.139:8090/live/638D06E38BD64806A7C1F8C78829F54E/638D06E38BD64806A7C1F8C78829F54E.m3u8</streamURL>
+            <streamURL>http://113.207.58.12:5001/wtvlive/wasu/zhejiang</streamURL>
+            
+            <streamURL>http://zb.v.qq.com:1863/?progid=100005100&amp;ostype=ios</streamURL>
+            <streamURL ptag="1">http://219.232.160.143:5080/hls/79f11bbdc29595b03cde2c26c8e64f1d.m3u8</streamURL>
+            <streamURL>http://14.204.84.49:10010/live/ZZTVHQ/chunklist.m3u8</streamURL>
+            <streamURL>http://gslb.tv.sohu.com:80/live?cid=31&amp;type=hls</streamURL>
+            <streamURL>http://live1.zjstv.com/zjws/sd/live.m3u8</streamURL>
             <streamURL>rtmp://219.232.160.144/livestream/79f11bbdc29595b03cde2c26c8e64f1d</streamURL>
-            <streamURL>PA1hbDG4hIrreBjsiLxWKLA/L0UxD67UaRkSA49Kls5F1CwQop70qzu6Zgj/zUwz6hSHNFktD9caVcWWyg2dPA==</streamURL>
-            <streamURL ptag="3">Vwys1VL/ogxV4oYQQZx8WUJAe7i8OPl4vZgRmmCtiIn7dssPLiD0vuTAUbSIG8q8</streamURL>
+            <streamURL>http://218.207.213.213/live/zjwshd/2300000/mnf.m3u8</streamURL>
+            <streamURL ptag="3">http://1.phpku.vipsinaapp.com/zj.php</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1">
-            <streamURL>RVwiH+uGwHJn77pjDML10FqyWelMriJpaGlWr2ukHlOKP+IVIHzGYE1SNlAyXkhaoQccsu6ceBnWCSJ6gnygUw==</streamURL>
-            <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZCcttvSAOg/mLtqUkDPhsIbHZ15aERlvZOUjyp7i3/pZvSIcG0kCMh8gl6G48Q3aY=</streamURL>
-            <streamURL>qhZdRXHSKuRSwnkTOfzjc1d6a7T+5vpuafcK9h7f6Gn+BrKT3ds265YR+ENI5g/dwslQnfFX2C/zgZUUbOBHCw==</streamURL>
-            <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2T0z88hZRY0FJgKLJfgNF/8lZaGF4KfITdtDj5IYusgTQ==</streamURL>
-            <streamURL>pAvIQyCXGvC5s6rlybU+K/Qvz2CBymkSGb+oXDk09NXTqzEbI2/Sc0H04vwfBREC</streamURL>
-            <streamURL>/ofntFEmqRaQ1xQZgWLX9Y7tUQ6wy/TzStD01D08R2eo82h30oJmJJIN0X4vgN7SWR74YE8zPurRSXfj4n4fCqtH9Ho+iOAud9+1tyQvyO8MqeE/ZIg3gjgPxE/ThKDyV4CDbB2xcWDcy4ILlCOXSom1/pH0cCFmxraK8HzekYAzHdP83C6QcOtw3+yrHQa577NlsZkx+fWZNM/Q3gJTCbM5ScT1qVEHayLALaTonyexPJmZFJjofmb+lBk+3siN</streamURL>
+            
+            <streamURL>http://14.204.84.49:10012/live/ZZTVHQ/chunklist.m3u8</streamURL>
+            <streamURL>http://122.192.35.80:1905/live/zjws.stream/playlist.m3u8</streamURL>
+            <streamURL>http://58.135.196.139:8090/live/638D06E38BD64806A7C1F8C78829F54E/638D06E38BD64806A7C1F8C78829F54E.m3u8</streamURL>
+            <streamURL>http://113.207.58.12:5001/wtvlive/wasu/zhejiang</streamURL>
+            <streamURL>http://tvindexlivephone.is.ysten.com:8080/ysten-business/live/zhejiangstv/z.m3u8</streamURL>
+            
+            
+            <streamURL>http://gslb.tv.sohu.com:80/live?cid=31&amp;type=hls</streamURL>
+            <streamURL ptag="1">http://219.232.160.143:5080/hls/79f11bbdc29595b03cde2c26c8e64f1d.m3u8</streamURL>
+            <streamURL>http://zb.v.qq.com:1863/?progid=100005100&amp;ostype=ios</streamURL>
+            <streamURL>http://live1.zjstv.com/zjws/sd/live.m3u8</streamURL>
+            <streamURL>http://feihustr.dj17kan.com/5B63686E5D575330303030303030337C3532347C317C383030307CE6B599E6B19FE58DABE8A7867C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00</streamURL>
             <streamURL>rtmp://219.232.160.144/livestream/79f11bbdc29595b03cde2c26c8e64f1d</streamURL>
-            <streamURL>PA1hbDG4hIrreBjsiLxWKLA/L0UxD67UaRkSA49Kls5F1CwQop70qzu6Zgj/zUwz6hSHNFktD9caVcWWyg2dPA==</streamURL>
-            <streamURL ptag="3">Vwys1VL/ogxV4oYQQZx8WUJAe7i8OPl4vZgRmmCtiIn7dssPLiD0vuTAUbSIG8q8</streamURL>
+            <streamURL>http://218.207.213.213/live/zjwshd/2300000/mnf.m3u8</streamURL>
+            <streamURL ptag="3">http://1.phpku.vipsinaapp.com/zj.php</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1">
-            <streamURL>qhZdRXHSKuRSwnkTOfzjc1d6a7T+5vpuafcK9h7f6Gn+BrKT3ds265YR+ENI5g/dwslQnfFX2C/zgZUUbOBHCw==</streamURL>
-            <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZCcttvSAOg/mLtqUkDPhsIbHZ15aERlvZOUjyp7i3/pZvSIcG0kCMh8gl6G48Q3aY=</streamURL>
-            <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2T0z88hZRY0FJgKLJfgNF/8lZaGF4KfITdtDj5IYusgTQ==</streamURL>
-            <streamURL>RVwiH+uGwHJn77pjDML10FqyWelMriJpaGlWr2ukHlOKP+IVIHzGYE1SNlAyXkhaoQccsu6ceBnWCSJ6gnygUw==</streamURL>
-            <streamURL>pAvIQyCXGvC5s6rlybU+K/Qvz2CBymkSGb+oXDk09NXTqzEbI2/Sc0H04vwfBREC</streamURL>
-            <streamURL>/ofntFEmqRaQ1xQZgWLX9Y7tUQ6wy/TzStD01D08R2eo82h30oJmJJIN0X4vgN7SWR74YE8zPurRSXfj4n4fCqtH9Ho+iOAud9+1tyQvyO8MqeE/ZIg3gjgPxE/ThKDyV4CDbB2xcWDcy4ILlCOXSom1/pH0cCFmxraK8HzekYAzHdP83C6QcOtw3+yrHQa577NlsZkx+fWZNM/Q3gJTCbM5ScT1qVEHayLALaTonyexPJmZFJjofmb+lBk+3siN</streamURL>
+            <streamURL>http://122.192.35.80:1905/live/zjws.stream/playlist.m3u8</streamURL>
+            <streamURL>http://58.135.196.139:8090/live/638D06E38BD64806A7C1F8C78829F54E/638D06E38BD64806A7C1F8C78829F54E.m3u8</streamURL>
+            <streamURL>http://113.207.58.12:5001/wtvlive/wasu/zhejiang</streamURL>
+            <streamURL>http://tvindexlivephone.is.ysten.com:8080/ysten-business/live/zhejiangstv/z.m3u8</streamURL>
+            <streamURL>http://14.204.84.49:10012/live/ZZTVHQ/chunklist.m3u8</streamURL>
+            
+            <streamURL ptag="1">http://219.232.160.143:5080/hls/79f11bbdc29595b03cde2c26c8e64f1d.m3u8</streamURL>
+            <streamURL>http://zb.v.qq.com:1863/?progid=100005100&amp;ostype=ios</streamURL>
+            <streamURL>http://gslb.tv.sohu.com:80/live?cid=31&amp;type=hls</streamURL>
+            <streamURL>http://live1.zjstv.com/zjws/sd/live.m3u8</streamURL>
+            <streamURL>http://feihustr.dj17kan.com/5B63686E5D575330303030303030337C3532347C317C383030307CE6B599E6B19FE58DABE8A7867C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00</streamURL>
             <streamURL>rtmp://219.232.160.144/livestream/79f11bbdc29595b03cde2c26c8e64f1d</streamURL>
-            <streamURL>PA1hbDG4hIrreBjsiLxWKLA/L0UxD67UaRkSA49Kls5F1CwQop70qzu6Zgj/zUwz6hSHNFktD9caVcWWyg2dPA==</streamURL>
-            <streamURL ptag="3">Vwys1VL/ogxV4oYQQZx8WUJAe7i8OPl4vZgRmmCtiIn7dssPLiD0vuTAUbSIG8q8</streamURL>
+            <streamURL>http://218.207.213.213/live/zjwshd/2300000/mnf.m3u8</streamURL>
+            <streamURL ptag="3">http://1.phpku.vipsinaapp.com/zj.php</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－网页" type="1">
-            <streamURL ptag="2">ljC170TFehgnHztV20L00gaPmg+yqUyqRQxabZqlNUzqduPGFN3skjFyEo5qNQEY</streamURL>
-            <streamURL ptag="2">YJ+I8e/XaZgf/6FuaZLTYYxGBnO7aqnkO2IkuCy8rKiZI2IMNqd5LQtdjrpmRSTw</streamURL>
-            <streamURL>YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZCcttvSAOg/mLtqUkDPhsIbHZ15aERlvZOUjyp7i3/pZvSIcG0kCMh8gl6G48Q3aY=</streamURL>
+            <streamURL ptag="2">http://hunanzhibo.com/zhejiang</streamURL>
+            <streamURL ptag="2">http://360kan.wasu.cn/live/zjws/?site=huashu</streamURL>
+            <streamURL ptag="2">http://live.wasu.cn/show/id/1938165</streamURL>
+            <streamURL>http://219.232.160.143:5080/hls/79f11bbdc29595b03cde2c26c8e64f1d.m3u8</streamURL>
         </SubChannel>
+        
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－高清" type="1">
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaNgBJipdzchRWyB2kvCkP0X</streamURL>
             <streamURL>YT7GwMTeVkwt1M+MpJhxAGtaVQnCvNXQfYv5L8a4V7SwwPirFItfHrXjAQm2ERpJ6erYit94rxQeMNYxEHNCLrmrLmGctIjAG1pTrS0BN6o=</streamURL>
