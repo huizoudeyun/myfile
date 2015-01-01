@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>3.2.4</Version>
+    <Version>3.2.5</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -247,31 +247,50 @@
         </SubChannel>
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视综合高清" type="1"   date="" week="0,1,2,3,4,5,6,7" bbtime="7:00" betime="14:00" tb="" te="">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPDvCXWu29webtBFPN2zJ77mY1FB5YhYW2Sz9JuDkon6Tg0tppKd1VNZleu3z5qGmoYS4SW1dyJTcvsNwUIAARccaTF6KcBxKo/xmyDVfFsfOibmagVbXUHoYvh76ulVwUGcArnl1IaEZD6XjSVDJmWgUyxKxrZmwphgODgmoSVTuTCmzAHblo3hLQD6xjc8JU=</streamURL>
-            <streamURL>GnQcQys0G2qJErzpzjyk2eBXANiD7CenDW9q8WJjS+hAKGk+7Fzoe7mu0tNWfoR0bv1xvScqBfcEStNmGvYfQITmL8Rk2roj8wE/TDlxZb8K/AIT/RHNJjEWHC21zblN</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1aUxjCsQx2F7vw5y9GKOeVOM=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视电视剧" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPYmHCMmsGomeVXYXBtTKxdgrqcqp65aWEGFC1Ns65661ZmX+UbBJs9cT65qJYo6JQAM+pukQuXOW2/3W/80XuCXKkJXNtnZmlFIoSzGXC36cJNRJlmVA0FOEU1KOwb9H7PTdmFcOLelf/eNvL6fD7dp/k0vMRzWl+zC0XBBNSnKANz4EGNk7uyNu1hNDjPlQk=</streamURL>
-            <streamURL>74U//GygwqFtQBWmPYDtEpLIHipTy7bvVim/uuQ5410mxxBS5brX/uJ1RZHYmNgO2tMf/MFhGZfjFPd6KIE7UhsEuapaqFV/QWWw5MDc7Pv3RV+hP+ofJrCgoXRmbUBR</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1acj/+pZ0+j7StSPynj2Hj/c=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视电影" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvM98Ff0E/gSQbVu+33RPxNLS4d76Ea4eqtfJZCs1exnJPDWRmD0O8A+sb5y//dxBmsAp/go3Fx2WZf1vnHKJPo7ZpyhlBNg2R9Xs9yx/xtCk8gElo4tkceifxDvP+k3n2LwDGOmfjOgoxl4kEoiEo8vSyL8dzDWtibtIT9Wuh9IrlgL8X3am0E0mdGfQSBa0Lg=</streamURL>
-            <streamURL>GnQcQys0G2qJErzpzjyk2eBXANiD7CenDW9q8WJjS+juN/Je6ardzfA1H9Rg9HwRhb61w/9YOs0U/ZtfxkUiyC0iam2JC9mRXylo88hVc/ZejtoYPtmA86VfwS2ZZr0f</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1aa9s3khW3zPyQ9MF6Og2zgY=</streamURL>
         </SubChannel>
         
+        <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视跨年" type="1">
+            <streamURL></streamURL>
+            <streamURL>ym8lEzPR+87aIzSBUBIctgQnp0aCWAAWZDmxeCQIBJWS6qQf+M9LfrvnsuBYkayt0RXDrZb0MI4RdHNdelPnJAzOu6e0Lh8EqPd3HeMqWQdQrUibNe0rBUkipKxCHSsILZb42m++QEVs/SW+qtfHaGl2vqUUKuIBOFj+8fSS3Cfh1p8oME8DmSMAmKeH07iD</streamURL>
+            <streamURL ptag="2">rEH6tWx9We0DWw9kZlBiRrUvQDye4qjGzTkgoy27kvlzSBTweEuWUxIA3vGggBnK</streamURL>
+            <streamURL ptag="2">www.hunantv.com/v/1/103438/f/1070123.html</streamURL>
+            
+        </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视跨年" type="1">
-            <streamURL>WCmYHeCbtlyKvQXBgNFygwVZVG6OmzLyVvWByinLVXiTgcsceaQeDXGxMZrIir9v5+igCSaDahqf2oHefZYrSr/7fim03/APl11Y2l+fGRG9BnjJla4xu0zCuKXT++1qI7BMKJOHIOvxu6q98t9snPaxfmOcCdgKdkKC8hOJxGJLmzdcFjX6xPl+ZnoKQR6Lfn53PQQdyv0LST4oUIfwNWh2iiprd+SiAMxDkx6zqUDLr5JkMR5DgDddZebNinHxWDRLI4PJfCA3emYASr2a3TfypWN1MYm67nAvX53iFpJkBTZkIdQSHs6citEdhtwiULv/IE9BaoPZ0OZYxV9QLstW9y1UgEwqTUWEBaxkRK5Y4UUsyjbVGcrt2pSmnBFr03o+JryPTT7brNcB1uHqHpoBmYiGZrIEZWUhX02Ij3MPMUE8w+ASSBHFQs6Vvfp95/FXd+98Vn8YhdTNNrp5fwnpgooB5IjyRvPEVFgF4YoLB78RgFD9Er1csP4sRUG4XyvGAYwjf+aAc5bihnA9Jv0O449uyQEYaEL3Jw/VaqpBtoDJbbewMWn9eavW6d7H3jszj6p8Rpx6iS4SowS9fO6qq/Umno3W0fb0xNNFiK/dDLSDf9YDVxScfra/yM8wfJNEELYCL/jbJWwlq4Yyc9GJBSVxCUEFIeFpQH4m0o0iMO8v4GJ2O99J9oioDHpAM6bvHZjoYtBTSgVi2v6RBpBavpRy1KLv2iLN9+J3lTj1hBF7IQYaTeViV7ibzatg28Lq5DwQTi5RcQrkOIKM9Q==</streamURL>
+            <streamURL>ym8lEzPR+87aIzSBUBIctgQnp0aCWAAWZDmxeCQIBJU0Cyvljz4RCSFni9Ah+kwITe8tC+uV4fDwcLbrJN2r8huLK3cFTtQ3h05LQWFzVmAFLiuOxM+Rm3VJUMuZtFM7Y1GtwVsy5CjloTL8JBczkmJ9XsMBULU275kBjas5ilf5to6oGcLx52yOIILxXwFn</streamURL>
+            <streamURL ptag="2">rEH6tWx9We0DWw9kZlBiRphin3+uMMWEiq+tWqdnisRXD/A/+8rhH1RpCJh8ggHs</streamURL>
+            
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视跨年" type="1">
-            <streamURL>WCmYHeCbtlyKvQXBgNFyg1NfW4W4gN5u942auL3fSPWg1VetDcquWuyaV4KPa50/IQ85nAPNCYZk4pDJgbeauc/d9NbrdOi9VQOdM4BPO2rX1BO346gyhEV6xU4M6eV1SD34Cm+ax/0jrCvqkYTAAaTRGSgj+Z43jyF99ETENyxx3JXO0kvHRftsztM6+Pk2u6mKBwcO6ykQ32hV0smbSBSLH1oA/Gj87o9L+gGiCscxrMFfIbXx91WfOI1MDuRSXBq2+4pN6yfyFxquOl0GBe69lUoekkM/48tqfZR4MBBw9r7ggYH8H70ANpWt24DREaFxiLgEbUA2zUYMdaZVa5TeSLkTPPGgc4EGgKdbCM/EsAdddEWAL4Gf5ehcBnO2mSwV+DMj3XmGhm373p95jyxxPTeL9MNT5iPDxnnOiFfzjk0fk7Gv92nQ9v8VzckMontVW7a/VAyqg6b8DnhlPoklYRi127ZMEmQxDuVILPTocLopX6N8PhEio/qaRQVFyZjK6VaeNICgp08lOM6nHClyDsnLXWvf1+g3fTkFyFaUUb7H66gIUAyhAb3UMV7ni9bBQWZmhson9y4c9Tv9O+DExDpldThCjXIm+5+Jx5pXDuErdpM1xqjO+dzBC2hQEX/tVMZg162s/LgBcKHCUr5kTa8YeB0z6flNIQdv4zkdjXkyvz1IOVJA7jSVsIdXabevJswtPFbvngTM+V6TqBU2BUuC0C3BybDyYndQsuwRYGCT61n3YziVreJpdKPuRP5YqVZK9PUm1Nu1eDTqEA==</streamURL>
+            <streamURL>ym8lEzPR+87aIzSBUBIctgQnp0aCWAAWZDmxeCQIBJVtXReU3mq1vfcFIR94N7HAcR+Ke9CPLlBEH4nGWkoDvj22qkjqcl+OJPvo605Qa5Ue9NtEMV6eczY5XnMDOMrLGdT0AjVm7LZgb/ctw5hJU5ph0FHhmFRP48zWqaAuM0zoe9s9pGik5kkhfqNkeQYS</streamURL>
+            <streamURL ptag="2">ErhufloVskQgngEKBspgoywWo+8I8sduCa7CIuVItpoFF73cn3gzn0DTkdlB0X6Y</streamURL>
+            <streamURL ptag="2">rEH6tWx9We0DWw9kZlBiRphin3+uMMWEiq+tWqdnisRfZemy3Dbxjc+o+WtuZxRh</streamURL>
+            
         </SubChannel>
-        
-        <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视跨年" type="1">
-            <streamURL>9mPhmRMLSdTy5z8EWCJCslzuZUEkeDiG4UwtDAqD+WFUiV/R+bo5QNEhvn6kPxdQ+OobwpLmT35ftluqAb+oR3K4AUoEGyhV5SSLzzQYN4+d4t48bpQYJfyQ3P3th1fZDQx+oyN+wGA5I+KYthrqXz7P8rGaN4iUo3HD95RFMIEx8plJHakzTN8T74t/D1Jw7HFrfQwtO0GyuxwDq4QKoPn7439/JWDrFMzdt/ZXny0=</streamURL>
+        <SubChannel iconURL="http://pica.nipic.com/2008-05-16/2008516174610791_2.jpg" name="南方卫视跨年" type="1">
+            <streamURL ptag="2">ErhufloVskQgngEKBspgo6fTA0/WQSXU2Aw4sN1eUq+pz82M1yOu9UXgTPy4bGBS</streamURL>
         </SubChannel>
-        
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西卫视跨年" type="1">
+            <streamURL ptag="2">ErhufloVskQgngEKBspgo8c5vLpTKDIhyO5/L3vR4eriA0YS7AjtCW3yX9e6y5+2</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津卫视跨年" type="1">
+            <streamURL ptag="2">ErhufloVskQgngEKBspgo14ya5iZHZgiwiDyyHNT8RlOuob/40g7Azf0JV8aZ1Bk</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-shanxi1.png" name="山西卫视跨年" type="1">
+            <streamURL ptag="2">ErhufloVskQgngEKBspgo+SBYeHu77H7clh2YDwCXM5yzc9Dz+jZ1ZBG7BMnPb/Q</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南卫视跨年" type="1">
+            <streamURL ptag="2">ErhufloVskQgngEKBspgoxT5NR7vYOLgYLyx+Rxd8237W93/1kkRl4GmJ11lkBBk</streamURL>
+        </SubChannel>
     </Channel>
     
     <Channel name="央视" type="2">
