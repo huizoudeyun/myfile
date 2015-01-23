@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.2.8</Version>
+    <Version>1.2.9</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -252,15 +252,15 @@
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaMYEbwnuBODICWzXeIz8knh</streamURL>
         </SubChannel>
         
+        
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-综艺" type="1" l="cctv3,CCTV-CCTV3-w">
-            <streamURL>6uBLoDBYt6zvb7dxbfb8IERU7JxnSQ3ejvPwZYRFX0LZrP2pBe3DOpl+EWZ16IyB2rC9ZNYHGcuurpd6EEkLOme522YdQDvuBn1VldjG3Pk=</streamURL>
-            <streamURL>dXXz/Ay3SkLi5V5qFtu3BsnPiM3z2HuUZTTNs07BXvOFmgvS7svdahZD/qJ6+jSy32PuqvdMF63l4lCX+/p6WA==</streamURL>
-            <streamURL>rtsp://rlive.tv189.cn:554/live/452</streamURL>
+            <streamURL ptag="3">http://vdn.apps.cntv.cn/api2/liveHtml5.do?channel=pa://cctv_p2p_hdcctv3</streamURL>
+            <streamURL>http://74.82.62.52:1935/liverepeater/13.stream/playlist.m3u8</streamURL>
+            <streamURL>http://zb.v.qq.com:1863/?progid=100405000&amp;ostype=ios</streamURL>
             <streamURL>rtsp://58.200.131.2:554/cctv-3</streamURL>
-            <streamURL>XoGWT5YNZ3m81zrEU/TaRromoCOZIGrO4wMi3lbPCEC0OWT5HcscuqADj/eFJRw6B/r3ybXmP87Zx4I6PwAA4g==</streamURL>
-            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T4yjtswOVD5n0CUG4R/VJ04=</streamURL>
-            <streamURL>XoGWT5YNZ3m81zrEU/TaRromoCOZIGrO4wMi3lbPCEC0OWT5HcscuqADj/eFJRw6B/r3ybXmP87Zx4I6PwAA4g==</streamURL>
-            <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2RBZh1EqA7kLffpes75ncyEIFbvgGn5szz6GK4ysAzAwA==</streamURL>
+            
+            <streamURL>http://liveproxy.fengyunzhibo.com:9222/mweb/cntv/default/cache-8_.m3u8</streamURL>
+            <streamURL>rtsp://rlive.tv189.cn:554/live/452</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-综合" type="1" l="cctv1,CCTV-CCTV1-w">
             <streamURL>JysfTsQn1NsVxtjvjHbCxSwuNPGb9jIoysT5obQnCntAVLmofwzBpY8QzSGIhX80gHuM3u3cCMwNSGq1wD69A6V18o3L38CHYpbCVoOnpYhvI4ssMKTYbVhHu/kMEJqCejDUkUvLp8VvmUsZ+pX0UaJWIrpyXXTbjZUbW+GA3V0=</streamURL>
