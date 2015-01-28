@@ -30,7 +30,7 @@
         <AdsRate Name="FullAdFrequency_ip">10</AdsRate>
     </Ads>
     <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
-    <supportWifiTransfter>1</supportWifiTransfter>
+    <supportWifiTransfter>0</supportWifiTransfter>
     
     <supportNotWifi>0</supportNotWifi>
     
@@ -117,7 +117,7 @@
     
     <Channel name="央视" type="2">
         
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-综合" type="1" l="cctv1,CCTV-CCTV1-w">
+        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-综合" type="1" l="cctv1,CCTV-CCTV1-w,cctv1">
             <streamURL>http://lolbox.duapp.com/proxy/cntv.php/cctv1.m3u8</streamURL>
             <streamURL>http://live.asbctv.com/hls-live/livepkgr/_definst_/liveevent/asUBiNYsYoats8AbvqT0mfBclSk246JHoLj0TIibO37R3zdi13.m3u8</streamURL>
             
@@ -126,7 +126,7 @@
             <streamURL>http://58.135.196.139:8090/live/db3bd108e3364bf3888ccaf8377af077/index.m3u8</streamURL>
         </SubChannel>
         
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV13-新闻" type="1" l="cctv13,CCTV-CCTV13-w">
+        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV13-新闻" type="1" l="cctv13,CCTV-CCTV13-w,CCTV13">
             <streamURL>http://hls.nntv.cn/hls/NNTV_CS.m3u8</streamURL>
             <streamURL>http://live.3gv.ifeng.com/live/CCTV13.m3u8</streamURL>
             <streamURL>http://lolbox.duapp.com/proxy/sohu.php/cctv13.m3u8</streamURL>
@@ -137,7 +137,7 @@
             <streamURL>http://gslb.tv.sohu.com/live?cid=1&amp;type=hls</streamURL>
         </SubChannel>
         
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV2-财经" type="1" l="cctv2,CCTV-CCTV2-w">
+        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV2-财经" type="1" l="cctv2,CCTV-CCTV2-w,cctv2">
             <streamURL>http://lolbox.duapp.com/proxy/cntv.php/cctv2.m3u8</streamURL>
             <streamURL>http://lolbox.duapp.com/proxy/sohucmv.php/CCTV2.m3u8</streamURL>
             <streamURL>http://60.12.207.136:8000/live/flv/channel201</streamURL>
