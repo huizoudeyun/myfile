@@ -5,7 +5,7 @@
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
-    <relatedChannelInfoURL>1BdHLnOw/MWS0kx1nBZSm59qWEEZBr2ykg/jiNINbaxObjbdQdci9xQg3EK0Rjhl32DVRTwET1bj9R8yIOMf+Q==</relatedChannelInfoURL>
+    <relatedChannelInfoURL>http://luzizi1.blog.163.com/blog/static/1965381912011976358342/</relatedChannelInfoURL>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.6.5</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
@@ -19,11 +19,11 @@
     <use1stConfigRate>0.5</use1stConfigRate>
     
     
-    <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4wDgTkbQBuhoi61oDGWqTiE0amZqqIEcQBu5+nY+VfKit5wf7zH2D8o30/lybh7tbVonkRH5CO6cWQZly8mqJSNkPqJLAfOLY9YODVxwQqMo</playerlistURL>
-    <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGtxVxdsXb0u54a4GvvTY1u9+I8ctCHtbt8LJNEP/7qB+GVNJghW5YwFiYuMYQupc+lirMzdyQSvMiXwUqLf/+EH</playerlistURL_header>
+    <playerlistURL>c:http://api.cntv.cn/epg/epginfo3?serviceId=cbox&amp;c=%@&amp;d=%@,m:http://www.tvmao.com/program/%@%@.html,n:http://tv.cntv.cn/live/%@</playerlistURL>
+    <playerlistURL_header>Referer==http://cctv.com##Referer==http://tvmao.com##Referer==http://www.cctv.com</playerlistURL_header>
     
-    <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
-    <ConfigURL>tHM85qotxc+ZK/AHEPXxhv7cLpQkMzCTGuRx54pi1ywaBoa9KssmlHqe+ZQbhzgoE2gsbkq1iEAPV6YehopllxvpFviPpBTV8HECuCVMZEA=</ConfigURL>
+    <IPAddressInfoURL>http://127.0.0.1</IPAddressInfoURL>
+    <ConfigURL>http://files.cnblogs.com/luxiang/tvlivechannelslist_encrypt_supperhd120.xml</ConfigURL>
     
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
