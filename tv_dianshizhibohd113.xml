@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.3.6</Version>
+    <Version>1.3.7</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -35,7 +35,6 @@
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－流畅" type="1" l="hunan,HUNANTV-HUNANTV1-w">
-            <streamURL ptag="3" h="User-Agent==ios7.1.1_v313#3.1.3_w320_h480_md7e145de673b261d41d2153a62d611dddfcc7a20_piPad 2 (WiFi)_u152519">qhZdRXHSKuRSwnkTOfzjcxvKz+bzqW1fxuOhGIGP0QBHBp+BkxYs/tFKNCzl6J2W</streamURL>
             <streamURL>qhZdRXHSKuRSwnkTOfzjczlR0AQst1WXSQHEG97gfECBQAcRwD/gayYjtMdX4YwAd1bU7Hv3EZeim3Bm7iJIEQ==</streamURL>
             <streamURL>P1EO0NWEsdpogR48Cf4K2oOQYO1horAOlp7BUbpA6Z3Hk93SG5xcs+OMM3FYTLKRzurF14Z92YN9Jub5r0k0lxeWF4hKaGiDDkXrcPQM6sw=</streamURL>
             <streamURL>JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49mAVN0/TxBvg8OjUTz2Wb5p+fNSAnKvsqqhOHJd4PC/OQ==</streamURL>
@@ -87,6 +86,17 @@
             <streamURL>JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49mAVN0/TxBvg8OjUTz2Wb5p+fNSAnKvsqqhOHJd4PC/OQ==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－标清" type="1" l="hunan,HUNANTV-HUNANTV1-w">
+            <streamURL>AHSnwfo2gjGyPSTB1MSBKrhIVybtrJLg+KifhpJzWs9tfUZTMwq5ib9nAPgIXgvS5aZ6WOugSTJA7lRJsl3MLtxZKC8RDTvGoQ+uRXpqOk+H4Z1v5aiwsb0X23O4FcQW/SS9rs+uoIwS0jxZDVI7HSKggyy1g1vFTw7U8XCHOfAI76KLuAODu+0/asP7Tw18rJaTu3ueHqXXEQrZQAXKjjZC/HmYRAxH1D279GKI4/ZvpzLUmO9qyi9HBTxTO+xoHGiTW0O+aE5psKVETVIoewFWDsJKcukHzRsHKoI/eJmLChKJPOnALQ8tNy3vU0jZPJerKMs4eA2mUfJNbbLfvHuAtLAYsDEybygFd+DFjtJVPG+IAlXezcYnkZC299Ze</streamURL>
+            <streamURL>P1EO0NWEsdpogR48Cf4K2oOQYO1horAOlp7BUbpA6Z3Hk93SG5xcs+OMM3FYTLKRzurF14Z92YN9Jub5r0k0lxeWF4hKaGiDDkXrcPQM6sw=</streamURL>
+            <streamURL>JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49mAVN0/TxBvg8OjUTz2Wb5p+fNSAnKvsqqhOHJd4PC/OQ==</streamURL>
+            <streamURL>J4i1kxSOmSpfFWlBxOD1iznC9vXueJFewKMEoaln4tcm2uupuvK3qz4EfgBpLzlb</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BkHSKt6oLglTLw2Y4RrWnLLBZ4V9H2BPM+5VEuAfVlmgtZKo1yhAMvhu7GlO3Z39fw==</streamURL>
+            <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQL9vHeHJAfMmIG27R/FMD4v6q7aLU+kGj3BBdTK0uIMjplIBhiVFNhjd0WVCTlUZqs=</streamURL>
+            <streamURL>qhZdRXHSKuRSwnkTOfzjczlR0AQst1WXSQHEG97gfECBQAcRwD/gayYjtMdX4YwAd1bU7Hv3EZeim3Bm7iJIEQ==</streamURL>
+            <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQL9vHeHJAfMmIG27R/FMD4v6q7aLU+kGj3BBdTK0uIMjplIBhiVFNhjd0WVCTlUZqs=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－标清" type="1" l="hunan,HUNANTV-HUNANTV1-w">
+            <streamURL>gEiVHNBqRfKOSCiPUj2/a17uR73fxTwhrQ8uJ5xDZLyGL/usaDvIN066G98JU+XsZ7CdaXiXcqMN9jA8Fgc+2RVYwCRkCF95Hl+k3kJYP+VMhTFBIlItypr7t9ze5ek2v/ZYg64CK520r4vL7zQa69yooYzvMDtNbERHGmQCxeX44PsNWtV7IJusafl6+a0sFp+cKsrj+DxhmSBmZVHUI9ohj202qZNN8K0kUAIsXPHV+53FN2wtBYIQEhzFDOhKzG8Vpe8IdA0kLOJNntokZ7PQIROfISSf0w9TNKkvCLYEbMYMHUSHjIv7l7HolMfvKFyA0VCJIHzqmpDBRz/Bs1iNzH08U1hHvgT+X6yCnFPzweSDq0OJCJSHkNkxlY4Ji9llt+mE1xulOzjN+9fVZcSZTHoB6V4UqX18pc2BNliMFzmMwVpnXmXpOr01QRWzrfhPD6nwvVKCK+zalUSsuDgUluOk+VEeZmn8Jc4zBP5J83vt9OI0iSMwVcA7CIf3QWGCcW0ZN5XWf+pGu6UpQw==</streamURL>
             <streamURL>AHSnwfo2gjGyPSTB1MSBKrhIVybtrJLg+KifhpJzWs9tfUZTMwq5ib9nAPgIXgvS5aZ6WOugSTJA7lRJsl3MLtxZKC8RDTvGoQ+uRXpqOk+H4Z1v5aiwsb0X23O4FcQW/SS9rs+uoIwS0jxZDVI7HSKggyy1g1vFTw7U8XCHOfAI76KLuAODu+0/asP7Tw18rJaTu3ueHqXXEQrZQAXKjjZC/HmYRAxH1D279GKI4/ZvpzLUmO9qyi9HBTxTO+xoHGiTW0O+aE5psKVETVIoewFWDsJKcukHzRsHKoI/eJmLChKJPOnALQ8tNy3vU0jZPJerKMs4eA2mUfJNbbLfvHuAtLAYsDEybygFd+DFjtJVPG+IAlXezcYnkZC299Ze</streamURL>
             <streamURL>P1EO0NWEsdpogR48Cf4K2oOQYO1horAOlp7BUbpA6Z3Hk93SG5xcs+OMM3FYTLKRzurF14Z92YN9Jub5r0k0lxeWF4hKaGiDDkXrcPQM6sw=</streamURL>
             <streamURL>JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49mAVN0/TxBvg8OjUTz2Wb5p+fNSAnKvsqqhOHJd4PC/OQ==</streamURL>
@@ -205,8 +215,8 @@
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－流畅" type="1" l="anhui,AHTV-AHTV1-w">
             <streamURL>izteI8RE6B71cO4fYCzoA3xmZ5UAE8oPgGpEwDLLcPO/pucQR1BGuteirHkVxD3N</streamURL>
-            <streamURL>izteI8RE6B71cO4fYCzoA3xmZ5UAE8oPgGpEwDLLcPOVQTTxMUzr+0+YvsE94jIa</streamURL>
             <streamURL>YT7GwMTeVkwt1M+MpJhxAGtaVQnCvNXQfYv5L8a4V7Q2AgkobElV+Hz4WoSxRO2YMok26xmVUrPdMNZbyCKFnHRlJtp+ME7kovF369a5Zhw=</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA3xmZ5UAE8oPgGpEwDLLcPOVQTTxMUzr+0+YvsE94jIa</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaO5cUFKXpUUhiJE4SGknMSUhIRigUCq3kLda1DXFZ76uA==</streamURL>
             <streamURL>XE4ZdOl4CcFVStYNV8LgIkTv8HL72QHjsnyOqAxObByRSR3O8oBcrDFx/DVh81GllsHT0i+t963lLXGbz0PDQA==</streamURL>
             <streamURL>zUlcvy539kKf3dhssyMTaeMAewxCBojUoL1H29FkCpWhArbeReRRbTwlK3Lt1hNN</streamURL>
