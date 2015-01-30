@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.3.5</Version>
+    <Version>1.3.6</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
-    <relatedChannelInfoURL>1BdHLnOw/MWS0kx1nBZSm59qWEEZBr2ykg/jiNINbaxObjbdQdci9xQg3EK0Rjhl32DVRTwET1bj9R8yIOMf+Q==</relatedChannelInfoURL>
+    <relatedChannelInfoURL>http://luzizi1.blog.163.com/blog/static/1965381912011976358342/</relatedChannelInfoURL>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.6.5</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>3</reloadTime>
     <nofreshTime>5</nofreshTime>
-    <playerlistURL>ZvZMritTfrfiGjncB57/v8znH1Y68UmE8CkiMJgrGUc=</playerlistURL>
-    <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
+    <playerlistURL>c:http://127.0.0.1,</playerlistURL>
+    <IPAddressInfoURL>http://127.0.0.1</IPAddressInfoURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
