@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.4.5</Version>
+    <Version>1.1.5</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -11,23 +11,15 @@
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>3</reloadTime>
     <nofreshTime>5</nofreshTime>
-    
-    <!-- 广告开启及比率 -->
     <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
-    <!-- 配置文件访问比率 -->
     <useConfigRate>10,65,25</useConfigRate>
-    
-    <!-- 支持加密-->
     <playerlistURL>c:http://api.cntv.cn/epg/epginfo3?serviceId=cbox&amp;c=%@&amp;d=%@,m:http://www.tvmao.com/program/%@%@.html,n:http://tv.cntv.cn/live/%@</playerlistURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://tvmao.com##Referer==http://www.cctv.com</playerlistURL_header>
     <IPAddressInfoURL>http://127.0.0.1</IPAddressInfoURL>
     <ConfigURL>http://files.cnblogs.com/luxiang/tvlivechannelslist_encrypt_supperhd120.xml,http://files.cnblogs.com/luxiang/tvlivechannelslist_encrypt_supperhd120.xml</ConfigURL>
-    <!-- <ConfigURL_header>User-Agent==webkit##Referer==http://aaa.com</ConfigURL_header>-->
-    
-    
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
@@ -46,8 +38,6 @@
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
     </Tips>
-    
-    <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－流畅" type="1" l="hunan,HUNANTV-HUNANTV1-w,hunan">
             <streamURL>qhZdRXHSKuRSwnkTOfzjc5yPltygPZvH4lltabdru3plni5MQOPodcTaTQTdPBhvfuwpjhq8+LoVD1GeBJpx4A==</streamURL>
