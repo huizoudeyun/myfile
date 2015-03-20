@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.3.12</Version>
+    <Version>1.3.15</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -40,20 +40,6 @@
     </Tips>
     
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－流畅" type="1" l="hunan,HUNANTV-HUNANTV1-w,hunan">
             <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc39ZxKfu7Q+Yx4P7EGSMhaW+YorLfiLZUlaWyKRhospvCLqpExGS2Gvx60u89ht4xA==</streamURL>
@@ -246,11 +232,15 @@
             <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQIL+fMSj5DfPfTpbHr67aTI5EUWWhFm9Xh+M9JAcz9q2Q==</streamURL>
             <streamURL>zUlcvy539kKf3dhssyMTaRMj55PrOM4CjUqURNd1oFtju9tzlTco0Cvw0R8FYhW6</streamURL>
             <streamURL>izteI8RE6B71cO4fYCzoA3xmZ5UAE8oPgGpEwDLLcPPqUId5G/vd2aGOKzAhiqTZ</streamURL>
+            <streamURL ptag="3" h="Referer==http://m.wasu.cn/folder,freewap,RDUCHS-NB3G-IPS-04142544122384658,195432.page?profile=wasuClientH5_cj||User-Agent==wasu_iPhone">http://m.wasu.cn/a?t=38&amp;u=RDUCHS-NB3G-IPS-04142544122384658&amp;f=195432&amp;a=6406182&amp;profile=wasuClientH5_cj</streamURL>
+            
         </SubChannel>
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-高清" type="1" l="cctv3,CCTV-CCTV3-w,cctv3">
             
-            <streamURL ptag="1">uNFMtTWI46kXzL9ecO5zA8SIHuxRj0ds6zoQMg5d3Y8yiN+ctOUQeVF9QWz6cKXDGb3yFmRiw9BQYyveY+kMnyTUJeSt5fh7WTx6D1nD98atSKdlQO3H0hOZFuk7f2z+5ypvcznF7kSUL2z+NCOVU5SrdSIjIymfNpSEwQMHR5s=</streamURL>
+            <streamURL ptag="3" subptag="1" h="Referer==http://m.wasu.cn/folder,freewap,RDUCHS-NB3G-IPS-04142544122384658,195432.page?profile=wasuClientH5_cj||User-Agent==wasu_iPhone">http://m.wasu.cn/a?t=38&amp;u=RDUCHS-NB3G-IPS-04142544122384658&amp;f=195432&amp;a=6609353&amp;profile=wasuClientH5_cj</streamURL>
+            
+            
             <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GGVsAFQ7P8LwYghPY96X2c5cCvFX37PsBg+JqsL2C5loi/jaA4nB9x3sP28pUyQwtU=</streamURL>
             <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc0i81iVmlgoClt9PYN3pcG4xkOcXSDAB0Mxie89c/vUYqHDPmF+JMqrQ5Ub+WCb1bg==</streamURL>
             <streamURL>izteI8RE6B71cO4fYCzoA3xmZ5UAE8oPgGpEwDLLcPP8NbboRL5UPLKynIe/RTha</streamURL>
@@ -262,8 +252,9 @@
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T4yjtswOVD5n0CUG4R/VJ04=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-流畅" type="1" l="cctv3,CCTV-CCTV3-w,cctv3">
-            <streamURL ptag="1">dF/kF26e/LAtquDJNSOYu/DHGjtHttE1JFK0seMpq3FVRA7gpkTR5VQXBmzb4tx4nMyaJf2v2n7Xbd31T6tJ7RmRQbYNKXaOA0vyhBgoyKQXhdXS69skYpYjj7xqG6oUXOzxaaOCcBEpemPc5XvCj8+LV0E3Ii8guPt+mp+GkdJaD8iWM61xkUcBZijUTRIcWN6hpoLwYFh5A+AOBLmP7Lx16GHbdjGJUo0dpR1Xa/z5bAw8pI+ly1n93yASIQ3jZ20ufKw6R0bpXWEquz5QEAAlZrRPiyI34A/PW3zXa83fhfaXSHKpFG0I2Huf3ZJcfS9rWdTzOV9rQ6DLz4vRb95CNci6LSpZoPlkgnR4JN2qNbmfy5s/fNJtI4CxeIiAWunQtd/Q5hogKiE18X6ZWbTU5KavU07ZAgTw+U54HEWQNgRBtZRGA3oBZbZMJf7KznRUPyr9VLBAm848LRdZhkBYSnQIP7fYIpP4yYOrkTrTXLTbSy8IE/AmPWY9LyvXg16punpc6nCS4b9d2D5GKOpiYyPRtQsbY0w60XgV3gu0mmVCP5qTN71RzHQypLPEUIlOgvKrgviIZHsuCLwBTESSlNVS7DUx77ngqV+weWX/4SgMxUd/NR/hoFQuKN+AoThRy289O4sakH3HAwHE9Q==</streamURL>
-            <streamURL ptag="1">uNFMtTWI46kXzL9ecO5zA8SIHuxRj0ds6zoQMg5d3Y8yiN+ctOUQeVF9QWz6cKXDGb3yFmRiw9BQYyveY+kMnyTUJeSt5fh7WTx6D1nD98atSKdlQO3H0hOZFuk7f2z+5ypvcznF7kSUL2z+NCOVU5SrdSIjIymfNpSEwQMHR5s=</streamURL>
+            <streamURL ptag="3" subptag="1">http://hitvout.starcor1.net:8098/nn_cms_app_out/nn_cms_view/gxcatv20/n3_a_a.php?nns_tag=27&amp;nns_func=apply_play_video&amp;amp;nns_video_id=432eb44fbd8438d7001c486976034912&amp;nns_quality=std&amp;nns_video_type=1&amp;nns_output_type=json</streamURL>
+            <streamURL ptag="3" subptag="1" h="Referer==http://m.wasu.cn/folder,freewap,RDUCHS-NB3G-IPS-04142544122384658,195432.page?profile=wasuClientH5_cj||User-Agent==wasu_iPhone">http://m.wasu.cn/a?t=38&amp;u=RDUCHS-NB3G-IPS-04142544122384658&amp;f=195432&amp;a=6609353&amp;profile=wasuClientH5_cj</streamURL>
+            
             <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GGVsAFQ7P8LwYghPY96X2c5cCvFX37PsBg+JqsL2C5loi/jaA4nB9x3sP28pUyQwtU=</streamURL>
             <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc0i81iVmlgoClt9PYN3pcG4xkOcXSDAB0Mxie89c/vUYqHDPmF+JMqrQ5Ub+WCb1bg==</streamURL>
             <streamURL>izteI8RE6B71cO4fYCzoA3xmZ5UAE8oPgGpEwDLLcPP8NbboRL5UPLKynIe/RTha</streamURL>
@@ -2645,7 +2636,7 @@
         <SubChannel iconURL="" name="四海钓鱼" type="4" l=",BAMC-BAMC4-w,">
             <streamURL>1eflJFQdpzScMsF/W0MYRYKeetitfS9p6DYJaBjt1t5FU9JwuuzgXNQ9SplPz5y3</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="看看新闻网1" type="4">
+        <SubChannel iconURL="" name="看看新闻网3" type="4">
             <streamURL>UDe2rIDQyDFYn01NEIhvq2LlPkBwRIr0OhBSqeWYr4xXZy8AHL3JnJwDG0QRFeLBC+jTkRphR9P/hzFFkHn//g==</streamURL>
             <streamURL>UDe2rIDQyDFYn01NEIhvq2LlPkBwRIr0OhBSqeWYr4wd4GFpSrd6txo7IlULMZHMULx10743STa6iVOrylx4dg==</streamURL>
             <streamURL>XJkstuq/6Diay27PvZkcrt8kota/aHpRBGy/TUqu7iL5xeBq5TkzsubkvdLg67Wq7V5HDZPk5KvvHHGrz5hp+Q==</streamURL>

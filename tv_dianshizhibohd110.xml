@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.5.17</Version>
+    <Version>1.5.18</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -243,8 +243,7 @@
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-高清" type="1" l="cctv3,CCTV-CCTV3-w,cctv3">
             
-            <streamURL ptag="1">uNFMtTWI46kXzL9ecO5zA8SIHuxRj0ds6zoQMg5d3Y8yiN+ctOUQeVF9QWz6cKXDGb3yFmRiw9BQYyveY+kMnyTUJeSt5fh7WTx6D1nD98atSKdlQO3H0hOZFuk7f2z+5ypvcznF7kSUL2z+NCOVU5SrdSIjIymfNpSEwQMHR5s=</streamURL>
-            <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GGVsAFQ7P8LwYghPY96X2c5cCvFX37PsBg+JqsL2C5loi/jaA4nB9x3sP28pUyQwtU=</streamURL>
+             <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GGVsAFQ7P8LwYghPY96X2c5cCvFX37PsBg+JqsL2C5loi/jaA4nB9x3sP28pUyQwtU=</streamURL>
             <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc0i81iVmlgoClt9PYN3pcG4xkOcXSDAB0Mxie89c/vUYqHDPmF+JMqrQ5Ub+WCb1bg==</streamURL>
             <streamURL>izteI8RE6B71cO4fYCzoA3xmZ5UAE8oPgGpEwDLLcPP8NbboRL5UPLKynIe/RTha</streamURL>
             <streamURL>QPcQof4z6fUKws0PIbBGvBGlH19E3hK1aewvraj03NYQ9pr7ZV3o4W13XbQsubiZvZ8LaTApyubl6wy3LgBKMsrrcRahXYKOLSqJ6Xd3Su4=</streamURL>
@@ -256,8 +255,7 @@
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-流畅" type="1" l="cctv3,CCTV-CCTV3-w,cctv3">
             <streamURL ptag="1">dF/kF26e/LAtquDJNSOYu/DHGjtHttE1JFK0seMpq3FVRA7gpkTR5VQXBmzb4tx4nMyaJf2v2n7Xbd31T6tJ7RmRQbYNKXaOA0vyhBgoyKQXhdXS69skYpYjj7xqG6oUXOzxaaOCcBEpemPc5XvCj8+LV0E3Ii8guPt+mp+GkdJaD8iWM61xkUcBZijUTRIcWN6hpoLwYFh5A+AOBLmP7Lx16GHbdjGJUo0dpR1Xa/z5bAw8pI+ly1n93yASIQ3jZ20ufKw6R0bpXWEquz5QEAAlZrRPiyI34A/PW3zXa83fhfaXSHKpFG0I2Huf3ZJcfS9rWdTzOV9rQ6DLz4vRb95CNci6LSpZoPlkgnR4JN2qNbmfy5s/fNJtI4CxeIiAWunQtd/Q5hogKiE18X6ZWbTU5KavU07ZAgTw+U54HEWQNgRBtZRGA3oBZbZMJf7KznRUPyr9VLBAm848LRdZhkBYSnQIP7fYIpP4yYOrkTrTXLTbSy8IE/AmPWY9LyvXg16punpc6nCS4b9d2D5GKOpiYyPRtQsbY0w60XgV3gu0mmVCP5qTN71RzHQypLPEUIlOgvKrgviIZHsuCLwBTESSlNVS7DUx77ngqV+weWX/4SgMxUd/NR/hoFQuKN+AoThRy289O4sakH3HAwHE9Q==</streamURL>
-            <streamURL ptag="1">uNFMtTWI46kXzL9ecO5zA8SIHuxRj0ds6zoQMg5d3Y8yiN+ctOUQeVF9QWz6cKXDGb3yFmRiw9BQYyveY+kMnyTUJeSt5fh7WTx6D1nD98atSKdlQO3H0hOZFuk7f2z+5ypvcznF7kSUL2z+NCOVU5SrdSIjIymfNpSEwQMHR5s=</streamURL>
-            <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GGVsAFQ7P8LwYghPY96X2c5cCvFX37PsBg+JqsL2C5loi/jaA4nB9x3sP28pUyQwtU=</streamURL>
+             <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GGVsAFQ7P8LwYghPY96X2c5cCvFX37PsBg+JqsL2C5loi/jaA4nB9x3sP28pUyQwtU=</streamURL>
             <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc0i81iVmlgoClt9PYN3pcG4xkOcXSDAB0Mxie89c/vUYqHDPmF+JMqrQ5Ub+WCb1bg==</streamURL>
             <streamURL>izteI8RE6B71cO4fYCzoA3xmZ5UAE8oPgGpEwDLLcPP8NbboRL5UPLKynIe/RTha</streamURL>
             <streamURL>QPcQof4z6fUKws0PIbBGvBGlH19E3hK1aewvraj03NYQ9pr7ZV3o4W13XbQsubiZvZ8LaTApyubl6wy3LgBKMsrrcRahXYKOLSqJ6Xd3Su4=</streamURL>
