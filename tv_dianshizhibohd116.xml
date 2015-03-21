@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.3.15</Version>
+    <Version>1.3.16</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -10,12 +10,13 @@
     <convertURLEngineConfigV>1.7.0</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>3</reloadTime>
-    <nofreshTime>5</nofreshTime>
+    <nofreshTime>10</nofreshTime>
     <loadOpenAdRate_ip>1</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
-    <loadPlayerAdRate_ip>0.2</loadPlayerAdRate_ip>
+    <loadPlayerAdRate_ip>0.5</loadPlayerAdRate_ip>
     <useConfigRate>15,70,15</useConfigRate>
+    <isOpenLoadConfig>0</isOpenLoadConfig>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4wDgTkbQBuhoi61oDGWqTiE0amZqqIEcQBu5+nY+VfKit5wf7zH2D8o30/lybh7tbVonkRH5CO6cWQZly8mqJSNkPqJLAfOLY9YODVxwQqMo</playerlistURL>
     <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGtxVxdsXb0u54a4GvvTY1u9+I8ctCHtbt8LJNEP/7qB+GVNJghW5YwFiYuMYQupc+lirMzdyQSvMiXwUqLf/+EH</playerlistURL_header>
     <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
