@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.3.14</Version>
+    <Version>1.3.15</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -14,7 +14,7 @@
     <loadOpenAdRate_ip>1</loadOpenAdRate_ip>
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
-    <loadPlayerAdRate_ip>0.2</loadPlayerAdRate_ip>
+    <loadPlayerAdRate_ip>0.4</loadPlayerAdRate_ip>
     <useConfigRate>15,70,15</useConfigRate>
     <isOpenLoadConfig>0</isOpenLoadConfig>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
@@ -53,6 +53,7 @@
 
 
 
+
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－流畅" type="1" l="hunan,hunan">
             <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc1WkHnsuPIo/w9LIrpRGQ6RGk1WSY04gfcZv+/RfPTcrFiUX3vsqJbly3SO4UC1EwQ==</streamURL>
@@ -78,8 +79,8 @@
             <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQL9vHeHJAfMmIG27R/FMD4v6q7aLU+kGj3BBdTK0uIMjplIBhiVFNhjd0WVCTlUZqs=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－普清" type="1" l="hunan,hunan">
-            <streamURL>EfAPoUFLPtSbsbJ6bFwAWwCP9O/68AbQBhYPnvkF3yosN9HDmuuv9MMwWnlgcQHnRvGd92IIj+KtFWpxbbwachkBv7ZksQwJ3OweHVUXaC4=</streamURL>
-            <streamURL>P37Qt8albxMYCifnGe8oLlbcZ5q/fMVh/KT7Mq3NOsK+BR3k37fDAbAzhYCfXQ4+paIDfoyKqA/Ha62x9vFLgH12NfPy7IWCDao4zj3VyJWCTyDXmk0lyBqpxqUXD9dDVwALO1uTIUYWAUm9TgncTC4vLK+9z0Mvr3UJU84TDR8=</streamURL>
+            <streamURL ptag="1">EfAPoUFLPtSbsbJ6bFwAWwCP9O/68AbQBhYPnvkF3yosN9HDmuuv9MMwWnlgcQHnRvGd92IIj+KtFWpxbbwachkBv7ZksQwJ3OweHVUXaC4=</streamURL>
+            <streamURL ptag="1">P37Qt8albxMYCifnGe8oLlbcZ5q/fMVh/KT7Mq3NOsK+BR3k37fDAbAzhYCfXQ4+paIDfoyKqA/Ha62x9vFLgH12NfPy7IWCDao4zj3VyJWCTyDXmk0lyBqpxqUXD9dDVwALO1uTIUYWAUm9TgncTC4vLK+9z0Mvr3UJU84TDR8=</streamURL>
             <streamURL ptag="1">J4i1kxSOmSpfFWlBxOD1iznC9vXueJFewKMEoaln4tep6sA4KlfYHGCNmGhB+gn1</streamURL>
             <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc1WkHnsuPIo/w9LIrpRGQ6RGk1WSY04gfcZv+/RfPTcrFiUX3vsqJbly3SO4UC1EwQ==</streamURL>
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+RwVcdy07aXBiv/LFjfkMDJdl/ROuTmyQRPyH02dH2mYv1W31vsTmdSQuzP/g/qgAA==</streamURL>
@@ -291,10 +292,7 @@
         </SubChannel>
         
         
-        
-        
-        
-        
+                
         
         
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视综合高清" type="1"   date="" week="0,1,2,3,4,5,6,7" bbtime="7:00" betime="14:00" tb="" te="">
@@ -2671,7 +2669,7 @@
             <streamURL>UDe2rIDQyDFYn01NEIhvq2LlPkBwRIr0OhBSqeWYr4wd4GFpSrd6txo7IlULMZHMULx10743STa6iVOrylx4dg==</streamURL>
             <streamURL>XJkstuq/6Diay27PvZkcrt8kota/aHpRBGy/TUqu7iL5xeBq5TkzsubkvdLg67Wq7V5HDZPk5KvvHHGrz5hp+Q==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.yooyoo360.com/photo/2009-3-7/pic116.jpg" name="美国中文电视台1" type="1">
+        <SubChannel iconURL="http://www.yooyoo360.com/photo/2009-3-7/pic116.jpg" name="美国中文电视台2" type="1">
             <streamURL>4TOkF69qeIfhnaQQfUB+wdyTSpcY6Pg/v6JszzeoLEGxsc2RjRdK0quqt3mhInWI</streamURL>
         </SubChannel>
     </Channel>
