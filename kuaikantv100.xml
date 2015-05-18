@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.4</Version>
+    <Version>1.0.6</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -15,7 +15,7 @@
     <loadOpenAdRate_ip>1</loadOpenAdRate_ip>
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
-    <loadPlayerAdRate_ip>0.1</loadPlayerAdRate_ip>
+    <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <useConfigRate>15,70,15</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
@@ -46,13 +46,16 @@
     
     
 
+
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－流畅" type="1" l="hunan,hunan">
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBq2FSW+AmlXynZD3SOWR5OIXYlEMstn4+6D6I8JUb+XOg==</streamURL>
+            <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kIS1QLUXl61MxRKAQJWNadbASFpFwUpXC46KIhW/hiKF1A==</streamURL>
+            <streamURL>zvl18gmYqnxyRsgPKucRfgty1XOLCczWDqoE6EJkR0W0tmNJzTU+3cv6mva64pAsWT4LWKjihoM7vOWD+P6Hsg==</streamURL>
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49mAVN0/TxBvg8OjUTz2Wb5p+fNSAnKvsqqhOHJd4PC/OQ==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc97OU277roC47KKruuSCjApH1MVe6eZ3KXd16lNZ5Lo1U7NAZJC1G9QI6/877wyILA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcx7F+eZ6C1PgKcVHGfph0chy0WcJE918JkfcHRqmXz7wM4Wvxfj4sOHSE4zCcAATsw==</streamURL>
             <streamURL>P1EO0NWEsdpogR48Cf4K2oOQYO1horAOlp7BUbpA6Z3Hk93SG5xcs+OMM3FYTLKRzurF14Z92YN9Jub5r0k0lxeWF4hKaGiDDkXrcPQM6sw=</streamURL>
             <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQL9vHeHJAfMmIG27R/FMD4v6q7aLU+kGj3BBdTK0uIMjplIBhiVFNhjd0WVCTlUZqs=</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+RwVcdy07aXBiv/LFjfkMDJdl/ROuTmyQRPyH02dH2mYv1W31vsTmdSQuzP/g/qgAA==</streamURL>
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kIS1QLUXl61MxRKAQJWNadbASFpFwUpXC46KIhW/hiKF1A==</streamURL>
             <streamURL ptag="3">ateWLmPFtQ1/CstBM7PblZb0sdrM3poBemWzGPPeDCY=</streamURL>
             <streamURL>J4i1kxSOmSpfFWlBxOD1iznC9vXueJFewKMEoaln4tcm2uupuvK3qz4EfgBpLzlb</streamURL>
@@ -60,10 +63,11 @@
         </SubChannel>
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－高清" type="1" l="hunan,hunan">
             <streamURL>P1EO0NWEsdpogR48Cf4K2oOQYO1horAOlp7BUbpA6Z3Hk93SG5xcs+OMM3FYTLKRzurF14Z92YN9Jub5r0k0lxeWF4hKaGiDDkXrcPQM6sw=</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc97OU277roC47KKruuSCjApH1MVe6eZ3KXd16lNZ5Lo1U7NAZJC1G9QI6/877wyILA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcx7F+eZ6C1PgKcVHGfph0chy0WcJE918JkfcHRqmXz7wM4Wvxfj4sOHSE4zCcAATsw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－普清" type="1" l="hunan,hunan">
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc97OU277roC47KKruuSCjApH1MVe6eZ3KXd16lNZ5Lo1U7NAZJC1G9QI6/877wyILA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcx7F+eZ6C1PgKcVHGfph0chy0WcJE918JkfcHRqmXz7wM4Wvxfj4sOHSE4zCcAATsw==</streamURL>
+            <streamURL>zvl18gmYqnxyRsgPKucRfgty1XOLCczWDqoE6EJkR0W0tmNJzTU+3cv6mva64pAsWT4LWKjihoM7vOWD+P6Hsg==</streamURL>
             <streamURL>AHSnwfo2gjGyPSTB1MSBKrhIVybtrJLg+KifhpJzWs9tfUZTMwq5ib9nAPgIXgvS5aZ6WOugSTJA7lRJsl3MLtxZKC8RDTvGoQ+uRXpqOk+H4Z1v5aiwsb0X23O4FcQW/SS9rs+uoIwS0jxZDVI7HSKggyy1g1vFTw7U8XCHOfAI76KLuAODu+0/asP7Tw18rJaTu3ueHqXXEQrZQAXKjjZC/HmYRAxH1D279GKI4/ZvpzLUmO9qyi9HBTxTO+xoHGiTW0O+aE5psKVETVIoewFWDsJKcukHzRsHKoI/eJmLChKJPOnALQ8tNy3vU0jZPJerKMs4eA2mUfJNbbLfvHuAtLAYsDEybygFd+DFjtJVPG+IAlXezcYnkZC299Ze</streamURL>
             <streamURL>P1EO0NWEsdpogR48Cf4K2oOQYO1horAOlp7BUbpA6Z3Hk93SG5xcs+OMM3FYTLKRzurF14Z92YN9Jub5r0k0lxeWF4hKaGiDDkXrcPQM6sw=</streamURL>
         </SubChannel>
@@ -73,7 +77,7 @@
         </SubChannel>
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－标清" type="1" l="hunan,hunan">
             <streamURL>AHSnwfo2gjGyPSTB1MSBKrhIVybtrJLg+KifhpJzWs9tfUZTMwq5ib9nAPgIXgvS5aZ6WOugSTJA7lRJsl3MLtxZKC8RDTvGoQ+uRXpqOk+H4Z1v5aiwsb0X23O4FcQW/SS9rs+uoIwS0jxZDVI7HSKggyy1g1vFTw7U8XCHOfAI76KLuAODu+0/asP7Tw18rJaTu3ueHqXXEQrZQAXKjjZC/HmYRAxH1D279GKI4/ZvpzLUmO9qyi9HBTxTO+xoHGiTW0O+aE5psKVETVIoewFWDsJKcukHzRsHKoI/eJmLChKJPOnALQ8tNy3vU0jZPJerKMs4eA2mUfJNbbLfvHuAtLAYsDEybygFd+DFjtJVPG+IAlXezcYnkZC299Ze</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc97OU277roC47KKruuSCjApH1MVe6eZ3KXd16lNZ5Lo1U7NAZJC1G9QI6/877wyILA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcx7F+eZ6C1PgKcVHGfph0chy0WcJE918JkfcHRqmXz7wM4Wvxfj4sOHSE4zCcAATsw==</streamURL>
         </SubChannel>
         
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－高清" type="1" l="zhejiang,zhejiang">
@@ -89,7 +93,7 @@
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－普清" type="1" l="zhejiang,zhejiang">
             <streamURL ptag="1">2+lRS24Wf5BHlPpfP+NBWwbA0Jg0R1t4f22FsP24htV+chOXXpbZq7uI2wFt2zXMp4WhJtltfuzW0H3z83DbSQLMOkYEKfsWW+vudnbCVBje9cEzXfg09SD1wLE7Yelr4ghPCAycx38xrlbUZXXzuQ==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjczMTrwB1lUW/ycJYZXvwZWG6Tojb18Kdm9apnsWKeA8yh45LBrM8d+xNfJ/7igKjRQ==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxj6htt4M2nSHiwzRL4GgMTf4fsY94LD1/xEUOX0SaIO6dSXH7CxGwkDxBX3dO1YeQ==</streamURL>
             <streamURL >YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZCcttvSAOg/mLtqUkDPhsIbHZ15aERlvZOUjyp7i3/pZvSIcG0kCMh8gl6G48Q3aY=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－流畅" type="1" l="zhejiang,zhejiang">
@@ -112,7 +116,7 @@
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1" l="zhejiang,zhejiang">
             <streamURL ptag="3">dF/kF26e/LAtquDJNSOYu/DHGjtHttE1JFK0seMpq3FVRA7gpkTR5VQXBmzb4tx4nMyaJf2v2n7Xbd31T6tJ7RmRQbYNKXaOA0vyhBgoyKQXhdXS69skYpYjj7xqG6oUXOzxaaOCcBEpemPc5XvCj5DllYzcMsE3GdqxoAMLZ28XhukvnPh/SClIJoEJCa97v4D8DBbFxOqbb+16yXz12rhsIGrkEF+PkIJhBU74ztCXkVphX7I0C+/p0+IxgsgMdP8BQy6+/PSMG90me16fR0edkasoByY7PYpjnDNKSg/+hcUlVS4B/dRX4VZyZnJ4</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dsQnQt838Dj3DbNGIqD1xz2Ox/BnbMrSIT4F1TAfIxAY/5hzvx7s+QukMsnOnMs9w==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBpDC1ST9PS2tr4e5CWAH8mno7xquS3LukpJaHJAXjODUQ==</streamURL>
             <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZCcttvSAOg/mLtqUkDPhsIbHZ15aERlvZOUjyp7i3/pZvSIcG0kCMh8gl6G48Q3aY=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－网页" type="1" l="zhejiang,zhejiang">
@@ -127,32 +131,34 @@
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2SjmwzGJxSspzqQ+RoIaJ6R+DhzdHg0Dewi1xDUKylwRg==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－普清" type="1" l="dongfang,dongfang">
+            <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2TWAHm5vTMK/TDbU12jwNkM</streamURL>
             <streamURL>YT7GwMTeVkwt1M+MpJhxACt9Bf1yJDavD6FM0VgPW/vWB071L8m2enJZ4KPlz251acYl5UJqZM+e17YbOl58+6UQUhkrvuLIKf39R2GHYSU=</streamURL>
             <streamURL>zUlcvy539kKf3dhssyMTafAlLuPN/OMXQth1blL994MO+rOEhGs837wgHLAKUqp8</streamURL>
             <streamURL>XJkstuq/6Diay27PvZkcrgfYHEP4efzDStSzZskz2zyza06wNNUMXiPWYSo2wmAX2QQBKrIB68G0k92sSVMUNg==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcwFEpT08T7r/XtNCgJv1ZCN+/gpvC7onjztvFxfDLBzHqChPHORMJccwG4qoVXLDhg==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc1RwJ+bI8TJEBuYF1wi1vaTj4Tr4iaVvlZW843KdYoidcR0rcj8dcJtwvoROuYuhwA==</streamURL>
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2SjmwzGJxSspzqQ+RoIaJ6R+DhzdHg0Dewi1xDUKylwRg==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－标清" type="1" l="dongfang,dongfang">
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaNgBJipdzchRWyB2kvCkP0X</streamURL>
             <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFhgjlhunU0hlY/h93uFwf8PKoc8RhYSL3GcrS9ZnvYUjA==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dsQnQt838Dj3DbNGIqD1xxq88UNJxnmGhN7erY9yrlDmH+5ozBtPlz4WW4/+udt9Q==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcwFEpT08T7r/XtNCgJv1ZCN+/gpvC7onjztvFxfDLBzHqChPHORMJccwG4qoVXLDhg==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBrKpJl5ysi3A+0tSZ5qyNe4vctbdIKl35yV7GMTLBvTRQ==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc1RwJ+bI8TJEBuYF1wi1vaTj4Tr4iaVvlZW843KdYoidcR0rcj8dcJtwvoROuYuhwA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－流畅" type="1" l="dongfang,dongfang">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvOSOTWMDvACSUPz7KT5j3WJZySnLxHJ2OVXwDrpZn8UxtSB/kXzRm0PkvUMoF+VKTOzauAyK6kx2OXTZSF4X7vkQceUfZHn+J9ItNpcJ3SgahrlxMYG+eNAI0Q1j6yAVFWefI64QLlhBpuU9iiLipeO4uvan9j5JEu5lGvfKDjhig==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-jstv1.png" name="江苏卫视－高清" type="1" l="jiangsu,jiangsu">
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BpJzxezY7hLlShRpUDrXERJXm1WsxggTLWlkSL1kqFuDI+5fFQ8mA53A4zIGXf3WjA==</streamURL>
             <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZAaG4iAZy0GSNvi49sPZuFXf2AzQZ9bTdcUht7vWnDTPNQ3PDt0CmFPaFg2/YQang=</streamURL>
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+dK+n+bX8b8lpypvs6oQUwwzYPfYbSUUtt2hkMWB4Uj2WMjVHS4VvfkqUJtgb2YN2A==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc3r1fQ2ze3uK0/7l6MNP6Xz2TymInJG40cC1+6kQbu8MspM+2tTrGq89OKw78vZ9PA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc6jUgYNA6Qp2sRJbewvTv63Un7Kb1+if2Xh4lLZImllgrdDMPeC6nKngzHLujUilvg==</streamURL>
             <streamURL ptag="1">R2h9WrjHwngrNw23Zrnkq5/Z1NaI6qED00J42e6hdJ3dse0aszSoRI1tPQvyMSJGYpFn+D75EbpkMkAmBuGCIHaUX9rCn0hQ7Ka6RPg15S4=</streamURL>
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+dK+n+bX8b8lpypvs6oQUwwzYPfYbSUUtt2hkMWB4Uj2WMjVHS4VvfkqUJtgb2YN2A==</streamURL>
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49kETYLQ7TWa8vu84/uMRTYnel8xXjwmmZUJnh37mvfxqw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-jstv1.png" name="江苏卫视－流畅" type="1" l="jiangsu,jiangsu">
             <streamURL>izteI8RE6B71cO4fYCzoA/uYrzuzPSJ6ii2q95gNX4skzjkng50F5ojnM7eZZJLs</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc3r1fQ2ze3uK0/7l6MNP6Xz2TymInJG40cC1+6kQbu8MspM+2tTrGq89OKw78vZ9PA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc6jUgYNA6Qp2sRJbewvTv63Un7Kb1+if2Xh4lLZImllgrdDMPeC6nKngzHLujUilvg==</streamURL>
             <streamURL ptag="1">R2h9WrjHwngrNw23Zrnkq5/Z1NaI6qED00J42e6hdJ3dse0aszSoRI1tPQvyMSJGYpFn+D75EbpkMkAmBuGCIHaUX9rCn0hQ7Ka6RPg15S4=</streamURL>
             <streamURL>YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZAaG4iAZy0GSNvi49sPZuFXf2AzQZ9bTdcUht7vWnDTPNQ3PDt0CmFPaFg2/YQang=</streamURL>
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49kETYLQ7TWa8vu84/uMRTYnel8xXjwmmZUJnh37mvfxqw==</streamURL>
@@ -160,11 +166,12 @@
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-jstv1.png" name="江苏卫视－标清" type="1" l="jiangsu,jiangsu">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPvGG3l1lpZ3b8O9GzPdKsHo2NoKjBiG/YPYL/y+JwIamnl2Nm/4DYJytEORFwskVWID0B9cvuloEooKim5l0HwEjBZcd8Ddf2/WT6BNYbpxpMFuX7DM7X5CNJC/3oLyIu6h9QxZ5T4qWxt7Ydt/cx3ZA42tkcmjrjIXJDE/8DNYQ==</streamURL>
+            <streamURL>zvl18gmYqnxyRsgPKucRfhqgCqJJu9rbdw7n9OqlBLssqUzSKkE14qbgq3Bm+N7V2keQ1hY7Lo7AVdtrK5P74A==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－高清" type="1" l="anhui,anhui">
             <streamURL>YT7GwMTeVkwt1M+MpJhxACt9Bf1yJDavD6FM0VgPW/uDVDEIfAPSEG634NSiVp9ThQ9axsf7E6APBYe8QP9e/htBr+v7ycgR1PIAJO+mWdo=</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc6cmQ2w554qDEfAvTb3VbC4NpOG9pmhBoVticzUn4S/eYMVnrjS0kEG1mkMWre/ylQ==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+btkLtiyLR8Eh84NHD1Fo4+fYJJM/QYcN3Fql8JwwWxGHr5sr9+JgRI0c1UXuV/kuQ==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxcz2/WXHZUYLo/+spjN9tM7An3UE5wcDhlvh5Ci/ARzNLZX3JVKgPBl1Rvc50T2lw==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBpW8TiDBHTAveDCwRkB3En+ZGiLoC1ITvdafQ2a7HRlOw==</streamURL>
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2TnLZaZs1HEN2Te75XPj5RTM54juL46+aakZsBpjdbNAQ==</streamURL>
             <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAGtaVQnCvNXQfYv5L8a4V7Q2AgkobElV+Hz4WoSxRO2YMok26xmVUrPdMNZbyCKFnHRlJtp+ME7kovF369a5Zhw=</streamURL>
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kISnYRTCM5Nnqd8lHCeZ/Ls9EuT5vHrcBCFd61E8SDMYkw==</streamURL>
@@ -172,7 +179,7 @@
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－流畅" type="1" l="anhui,anhui">
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2TnLZaZs1HEN2Te75XPj5RTM54juL46+aakZsBpjdbNAQ==</streamURL>
             <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAGtaVQnCvNXQfYv5L8a4V7Q2AgkobElV+Hz4WoSxRO2YMok26xmVUrPdMNZbyCKFnHRlJtp+ME7kovF369a5Zhw=</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+btkLtiyLR8Eh84NHD1Fo4+fYJJM/QYcN3Fql8JwwWxGHr5sr9+JgRI0c1UXuV/kuQ==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBpW8TiDBHTAveDCwRkB3En+ZGiLoC1ITvdafQ2a7HRlOw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-szmg1.png" name="深圳卫视－高清" type="2" l="shenzhen,shenzhen">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvN/t/HE+Ep4rDV3Tcv4wCvGuofGL5gTYNW2S6o/d7O/zEaVlP3cjAbBdAQpgMXs2gGPRc6qFaBafMQyB4SgBwN5U9m/dlqh3TKJCz2UYmG3LMQ3Y4P/aYHId3aF/aFona9qTJNse3N5QDgqdFEMXXWEygp78ltWD0HBY3Jq7pSArA==</streamURL>
@@ -208,33 +215,35 @@
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-高清" type="1" l="cctv3,cctv3">
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T4yjtswOVD5n0CUG4R/VJ04=</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbUxKL2i450KJmLNwPLZi+M4</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln3R3KOnHLmZ5xYoc1Xatf6jm+HToyhcolwae6OeFWR3Sg==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbG2KtyBaKqOiE62FJU/wQGKhSXUQCy7hXgxX4Vad3B/g==</streamURL>
             <streamURL>XoGWT5YNZ3m81zrEU/TaRromoCOZIGrO4wMi3lbPCEC0OWT5HcscuqADj/eFJRw6B/r3ybXmP87Zx4I6PwAA4g==</streamURL>
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2RBZh1EqA7kLffpes75ncyEIFbvgGn5szz6GK4ysAzAwA==</streamURL>
             <streamURL>ks+x80iyagrWprHovc/8Wd9n8QMqaSfKauQHrzGq5A9UuNri6prrSeygIalN6gb5</streamURL>
-            <streamURL>dXXz/Ay3SkLi5V5qFtu3BvK/aga+/sG65+EH77S8B4D7HOe9buCk268JtJ7fK42JFWM7hsLCaE9b4g55elnhEw==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFj6FczHu+sWg5NO/mIMJznLy1q67buJKqxkCj7T53DR7A==</streamURL>
             <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GGVsAFQ7P8LwYghPY96X2c5cCvFX37PsBg+JqsL2C5loi/jaA4nB9x3sP28pUyQwtU=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-流畅" type="1" l="cctv3,cctv3">
             <streamURL ptag="3" subptag="1">dF/kF26e/LAtquDJNSOYu/DHGjtHttE1JFK0seMpq3FVRA7gpkTR5VQXBmzb4tx4nMyaJf2v2n7Xbd31T6tJ7RmRQbYNKXaOA0vyhBgoyKQXhdXS69skYpYjj7xqG6oUXOzxaaOCcBEpemPc5XvCj5DllYzcMsE3GdqxoAMLZ297XEZVwkvQaNXrvNHvM3ev76RJ1PGq3DpDvuCn7Gb+9zfdBCFG3ywdX9mlVS2d9dN6oSAB4srWoEOaHNQTzDFZIa46clujQh2lVM3CJuAKgMlKxGYmIW7vrhOCI183Pz1slhgbJQLs4hi6FafTW1Vo</streamURL>
             <streamURL ptag="3" subptag="1" h="Referer==http://m.wasu.cn/folder,freewap,RDUCHS-NB3G-IPS-04142544122384658,195432.page?profile=wasuClientH5_cj||User-Agent==wasu_iPhone">uNFMtTWI46kXzL9ecO5zA8SIHuxRj0ds6zoQMg5d3Y8yiN+ctOUQeVF9QWz6cKXDGb3yFmRiw9BQYyveY+kMnyTUJeSt5fh7WTx6D1nD98atSKdlQO3H0hOZFuk7f2z+5ypvcznF7kSUL2z+NCOVU5SrdSIjIymfNpSEwQMHR5s=</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln3R3KOnHLmZ5xYoc1Xatf6jm+HToyhcolwae6OeFWR3Sg==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbG2KtyBaKqOiE62FJU/wQGKhSXUQCy7hXgxX4Vad3B/g==</streamURL>
             <streamURL>XoGWT5YNZ3m81zrEU/TaRromoCOZIGrO4wMi3lbPCEC0OWT5HcscuqADj/eFJRw6B/r3ybXmP87Zx4I6PwAA4g==</streamURL>
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2RBZh1EqA7kLffpes75ncyEIFbvgGn5szz6GK4ysAzAwA==</streamURL>
             <streamURL>ks+x80iyagrWprHovc/8Wd9n8QMqaSfKauQHrzGq5A9UuNri6prrSeygIalN6gb5</streamURL>
-            <streamURL>dXXz/Ay3SkLi5V5qFtu3BvK/aga+/sG65+EH77S8B4D7HOe9buCk268JtJ7fK42JFWM7hsLCaE9b4g55elnhEw==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFj6FczHu+sWg5NO/mIMJznLy1q67buJKqxkCj7T53DR7A==</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbUxKL2i450KJmLNwPLZi+M4</streamURL>
         </SubChannel>
         
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-综合" type="1" l="cctv1,cctv1">
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln18kIbyPiVWslDWt3Skl0/ai45ITkBJlcIUOJLftXIYhQ==</streamURL>
-            <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49m1bkOabZUQ5jFqYTI8ClekuM+jGTyzqqIWeHhAQtotog==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c3UygC22SBoRXPwzD8EZ/MMX2lKqzhMg20FVK8+mlNWKg==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFjDjJsDqoBaVBz9DrZE6ebHeodrTXavFg4OyAdKQ/Td2w==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYxNuuacWKDHQRWcScFzp69Dc5c8kKHgt1E8Cj4DNHmTA==</streamURL>
+            <streamURL>J4i1kxSOmSpfFWlBxOD1i6UghS9UwNhL8JHn/r8KXMZfZFSOWdDvdyxP7PvxYA3G</streamURL>
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctuw9oPkG7sQA57r+lBhyWdU=</streamURL>
             <streamURL>rtsp://stream1.gzcbn.tv:1935/app_2/ls_1.stream</streamURL>
             <streamURL>rtsp://stream1.gzcbn.tv:1935/app_2/ls_2.stream</streamURL>
-            <streamURL>J4i1kxSOmSpfFWlBxOD1i6UghS9UwNhL8JHn/r8KXMZfZFSOWdDvdyxP7PvxYA3G</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyLpfILJJGwBtN1aCmMUk6Q=</streamURL>
+            <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49m1bkOabZUQ5jFqYTI8ClekuM+jGTyzqqIWeHhAQtotog==</streamURL>
         </SubChannel>
         
         
@@ -244,8 +253,11 @@
         
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV体育-标清" type="1" l="cctv5,cctv5">
-            <streamURL>dXXz/Ay3SkLi5V5qFtu3Bm6S3b5ouCKOPLM1YHXcgTgVJLPyr/oFvjwUimixOTMB592qxYxhuj8eHIs3UKPuow==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln0ulDNZxcKWuhRboJvPEDFlCSoUflVcfnYGXjnsplYxGQ==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/taeynhTCASfiblOlJ8mGGQBE7dEzDc9fGEC9rJl+zASOA==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c0JY7GCmSPXiKf6zjRoQ+qQzKwtiFtsMNB80toBk201Fg==</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA/uYrzuzPSJ6ii2q95gNX4spMvFfvTW+rTTD18ppSCE5</streamURL>
+            <streamURL>mtA1aPvfh4SSOvt+gNVJMadAwLBkj4NfiUJj9AzTckaDNQKxM3OYJhZFdqJxve5su/z6LNQTYdpI0PzUY1QA7Q==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BpJzxezY7hLlShRpUDrXERIoEMXs82KTOMxtsvTB4RKbnCth+jc6rBxM65mhrCr3BQ==</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE9Zxa+YlLpp6Eyzdg3CHTzTs0oU8fmRDMWoSkRLqQMmL</streamURL>
             <streamURL>izteI8RE6B71cO4fYCzoA5iw/2pR/BeRQ+b2K8ns4AoIuTSpjT3Ga5dA2LM3Zktx</streamURL>
             <streamURL ptag="1">R2h9WrjHwngrNw23Zrnkq5/Z1NaI6qED00J42e6hdJ2LDKRNHgBlODqx1JsEP0UHqScRY4TvOS7/5Jl5bPeCUA/aqzokHaddrimVZ+ZcbL4=</streamURL>
@@ -253,6 +265,8 @@
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+KwdAYbpjawgXPvxSewvCMpg=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV体育-普清" type="1" l="cctv5,cctv5">
+            <streamURL>izteI8RE6B71cO4fYCzoA/uYrzuzPSJ6ii2q95gNX4spMvFfvTW+rTTD18ppSCE5</streamURL>
+            <streamURL>mtA1aPvfh4SSOvt+gNVJMadAwLBkj4NfiUJj9AzTckaDNQKxM3OYJhZFdqJxve5su/z6LNQTYdpI0PzUY1QA7Q==</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE9Zxa+YlLpp6Eyzdg3CHTzTs0oU8fmRDMWoSkRLqQMmL</streamURL>
             <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQJgPiIBdpInzQc3ruMHl89Yeal+tzYbBrXVSb/lIuJesCQXOij/KhNxgkZYlsvt3qA=</streamURL>
             <streamURL ptag="1">R2h9WrjHwngrNw23Zrnkq5/Z1NaI6qED00J42e6hdJ2LDKRNHgBlODqx1JsEP0UHqScRY4TvOS7/5Jl5bPeCUA/aqzokHaddrimVZ+ZcbL4=</streamURL>
@@ -262,36 +276,42 @@
             <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GEujpU2WEGhcK12qhJWqmdm7Fzz59pZFc09DVlvus+OumhnON6C1ortIEwGHJ+bRi0=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV体育-高清" type="1" l="cctv5,cctv5">
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+b/9vjG5e0LQ8zGYFsChu7vZoG/sRUwg6nQ+S5MER2FreqbeoJ7yCFWukh9EENvMOA==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c0JY7GCmSPXiKf6zjRoQ+qQzKwtiFtsMNB80toBk201Fg==</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA/uYrzuzPSJ6ii2q95gNX4spMvFfvTW+rTTD18ppSCE5</streamURL>
             <streamURL>Tzb09zUj4GSP9Xwjj0Q1C3FWo9nPzdJgzXw8m89LMDAJpuCepuSTnoRlONcs4p4bfKi919bVVsvEP2mpHkIdzg==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+体育" type="1" l=",cctv5plus">
-            <streamURL>dIr2PFTeBQtHqGsNVcDm73nZX3SI214yqU/3xvsdC0jdFKb+Uy8rnn7cMp/BfionZH9ZmDpaOexoT/OLDqRjDd6NYtJSE/UQ0lTS/Kzc7pU=</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA/uYrzuzPSJ6ii2q95gNX4uhKWTuitvCViJAbZUPQPI8XkUHo6jZQyP5PGSrrqYOMw==</streamURL>
+            <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQLX36oxaErhaBIVOdFgsEQyfHk76WLT9KWSrzF4eG19AMiSIFBOQGuMdAT0y12We+A=</streamURL>
             <streamURL>rtsp://118.85.193.196:554/2013/92941/M150_98000000000000000001384308528956.sdp</streamURL>
             <streamURL>ks+x80iyagrWprHovc/8WWRNbdEUQqCmnLyn1WXs73c/UvLuKIf9EhcKjni0lTlF</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+K3WEDYlqY8TOS7vRkgMbcjr+nPee0+pKLtUFeM+oa7CU</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV风云足球" type="1" l=",cctvfyzq">
-            <streamURL>izteI8RE6B71cO4fYCzoA5iw/2pR/BeRQ+b2K8ns4Arj8DdLBe0hLW9nC2H7wfuFIlV0DVoj+ppn45Y2qHsBww==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+b/9vjG5e0LQ8zGYFsChu7tsTy6Akj2rDK+ysTwCp29ixUhQ8vJqymvKA1+W9+/dbA==</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA/uYrzuzPSJ6ii2q95gNX4uC6odzH3G9lfzxYHcTBjf7/aMBjt1yPO/G3NkFygsGpA==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c1Dp+o6x9kPi+wLBv5OpH9j1wPG737y/hUNo8M861Dqvg==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育-标清" type="6" l=",btv6">
-            <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxb1A3Eti+nF0TKXRrP8ZaInkazfCioVbNsdgyF8bzAlVix408yIDO6ZfVsQPZxVO44=</streamURL>
-            <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GEE82j1hb23kvzFOfewhJDWeuCJr+hg8qLlKcOGzF/iIwuVJ4pWJS0+wQdpDUpZ3F0=</streamURL>
-            <streamURL>izteI8RE6B71cO4fYCzoA/PonASUZH24SZfHNclFEy8ZRZGq8UbxNIsLMgZs/sVXujCea0ggryUncVigg1+U5A==</streamURL>
+        <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育-标清" type="6"  l=",btv6">
+            <streamURL>izteI8RE6B71cO4fYCzoA/uYrzuzPSJ6ii2q95gNX4v1a/BlkxqKnfSaZpkDXuknTpJ/14UdsYCUEjcTJJ4lZg==</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA5XQX3jWd07U+gSlQQoPzOo7e6RrLtbmRaf8Zkn9FoqksIDxnI8102UCG6mCwdXG4w==</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA5XQX3jWd07U+gSlQQoPzOrfmfrBOP9u8YhKf8MVlfnH</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育-高清" type="6" l=",btv6">
-            <streamURL>ks+x80iyagrWprHovc/8Wcxpe087lZTov2WM0FEA+ghp91JYTpmVyme3GHt+EtJu</streamURL>
+            <streamURL>3qYmU+XG6EIPB2q0iXYOKwgfx84pyqOYi1cOXS7e42PrmGlcyxbw6o6GeIoGDGjd</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA/uYrzuzPSJ6ii2q95gNX4v1a/BlkxqKnfSaZpkDXuknTpJ/14UdsYCUEjcTJJ4lZg==</streamURL>
+            <streamURL>izteI8RE6B71cO4fYCzoA5XQX3jWd07U+gSlQQoPzOo7e6RrLtbmRaf8Zkn9FoqksIDxnI8102UCG6mCwdXG4w==</streamURL>
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxb1A3Eti+nF0TKXRrP8ZaInkazfCioVbNsdgyF8bzAlVix408yIDO6ZfVsQPZxVO44=</streamURL>
-            <streamURL>izteI8RE6B71cO4fYCzoA/PonASUZH24SZfHNclFEy8ZRZGq8UbxNIsLMgZs/sVXujCea0ggryUncVigg1+U5A==</streamURL>
-            <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GEE82j1hb23kvzFOfewhJDWeuCJr+hg8qLlKcOGzF/iIwuVJ4pWJS0+wQdpDUpZ3F0=</streamURL>
+            <streamURL>ks+x80iyagrWprHovc/8Wcxpe087lZTov2WM0FEA+ghp91JYTpmVyme3GHt+EtJu</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育-流畅" type="3">
+            <streamURL>izteI8RE6B71cO4fYCzoA5XQX3jWd07U+gSlQQoPzOoiF8nDw6MPDzo8DE0b58q2</streamURL>
+            <streamURL>mF36GIwx0X3Dzk9ReN9IPkyf7xrQq4yHrfyhRlsHJGP/p50nQkWgbiyDiA+ItDANDXV7bKPpsNMVp/ffMLe/ww==</streamURL>
             <streamURL ptag="1">oSBXUHuv5TTUSvq3HQM2JZxpoXDVUJpZYWpEXnprBoLFdTCs75JYIanOtPC5iJq7XrIORGFRzZZdN+JI9C47EA==</streamURL>
             <streamURL ptag="1">oSBXUHuv5TTUSvq3HQM2JVjoGyIOSOz4IBroMk0r4aNV+Ebwy+sGqPBe6vF7vlN1vTlU34bq7Sr1dC6/JbYLfQ==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育-标清" type="3">
             <streamURL ptag="1">qV1ZQv1Zy5QM1ImQTTNKIvTrXZHWj7PzKQDPoW31vSW94sRB7mBO1fXjqsKOrScgk86gGML3jJTZSV8tvD5ljw==</streamURL>
+            <streamURL>mF36GIwx0X3Dzk9ReN9IPkyf7xrQq4yHrfyhRlsHJGP/p50nQkWgbiyDiA+ItDANDXV7bKPpsNMVp/ffMLe/ww==</streamURL>
             <streamURL ptag="1">3TpmI34LoLg171zWQgJPh06bWQYq2/jsoRkNFFVRRjWIQxfD13y20CEqF+i9R353miYyejnPtxjT/GoJAQX3hw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/ouzhouzuqiu.ico" name="欧洲足球" type="4">
@@ -355,7 +375,8 @@
     <Channel name="央视" type="2">
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-流畅" type="1" l="cctv1,cctv1">
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln18kIbyPiVWslDWt3Skl0/ai45ITkBJlcIUOJLftXIYhQ==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYxNuuacWKDHQRWcScFzp69Dc5c8kKHgt1E8Cj4DNHmTA==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFjDjJsDqoBaVBz9DrZE6ebHeodrTXavFg4OyAdKQ/Td2w==</streamURL>
             <streamURL>rtsp://stream1.gzcbn.tv:1935/app_2/ls_1.stream</streamURL>
             <streamURL>rtsp://stream1.gzcbn.tv:1935/app_2/ls_2.stream</streamURL>
             <streamURL ptag="1">J4i1kxSOmSpfFWlBxOD1izqRZGf/cpQFdScBvzJUe6BfPJ+pP+O7ZAmeRKhYhsLC</streamURL>
@@ -365,6 +386,8 @@
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49m1bkOabZUQ5jFqYTI8ClekuM+jGTyzqqIWeHhAQtotog==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-标清" type="1" l="cctv1,cctv1">
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c3UygC22SBoRXPwzD8EZ/MMX2lKqzhMg20FVK8+mlNWKg==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFjDjJsDqoBaVBz9DrZE6ebHeodrTXavFg4OyAdKQ/Td2w==</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyLpfILJJGwBtN1aCmMUk6Q=</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE9Zxa+YlLpp6Eyzdg3CHTzSQ4oAwR5vRDH2iV6pl1W3/</streamURL>
             <streamURL>rtsp://stream1.gzcbn.tv:1935/app_2/ls_1.stream</streamURL>
@@ -394,20 +417,21 @@
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV2-标清" type="1" l="cctv2,cctv2">
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T8V6g/GIxjUmiGQ7UuGi800=</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln3MzhrVGR+SbqpIt3y4CMgRQeQm1DRc/Q6178NdsypUNw==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbLQG/l+i195xej/GpYjnlUBMqZyiR9vSkRr0TgcIWjBQ==</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbU4QL5cO8Bb5xUP6DOPk5OA</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dz88M2eAEGtoPUjPtAK1KCg7Ar3cI/aARJqd2z0S5eG6QonAcmSYEFddGj7wxfUSQ==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c0otyz+jvBarNCCisI8q2YUao+8lkmiAIjW+XAahHzJug==</streamURL>
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxZOvYKLbDzMAulApRYFavlOcTo63Cl+FITvN7Am7kB0e87eHtTNR14k5j/ni7PfUeE=</streamURL>
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49mD9Cw/KD+1CVBlkemtMHVWWBazbw9BL2UQvBwgnK1O7A==</streamURL>
             <streamURL>XoGWT5YNZ3m81zrEU/TaRromoCOZIGrO4wMi3lbPCECcOFCSHubVX/Ll4BoyPVUMJDRwk1PSxhnsRHWF1qE87g==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV2-普清" type="1" l="cctv2,cctv2">
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbU4QL5cO8Bb5xUP6DOPk5OA</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln3MzhrVGR+SbqpIt3y4CMgRQeQm1DRc/Q6178NdsypUNw==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbLQG/l+i195xej/GpYjnlUBMqZyiR9vSkRr0TgcIWjBQ==</streamURL>
         </SubChannel>
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-综艺标清" type="1" l="cctv3,cctv3">
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln3R3KOnHLmZ5xYoc1Xatf6jm+HToyhcolwae6OeFWR3Sg==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbG2KtyBaKqOiE62FJU/wQGKhSXUQCy7hXgxX4Vad3B/g==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c3rcG/evUGB6ULfp+jMM8VQyM9akwOIxeuZfH9Uhlm0LA==</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbUxKL2i450KJmLNwPLZi+M4</streamURL>
             <streamURL>XoGWT5YNZ3m81zrEU/TaRromoCOZIGrO4wMi3lbPCEC0OWT5HcscuqADj/eFJRw6B/r3ybXmP87Zx4I6PwAA4g==</streamURL>
             <streamURL>rtsp://stream1.gzcbn.tv:1935/app_2/ls_3.stream</streamURL>
@@ -417,24 +441,25 @@
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-综艺流畅" type="1" l="cctv3,cctv3">
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T4yjtswOVD5n0CUG4R/VJ04=</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbUxKL2i450KJmLNwPLZi+M4</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln3R3KOnHLmZ5xYoc1Xatf6jm+HToyhcolwae6OeFWR3Sg==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbG2KtyBaKqOiE62FJU/wQGKhSXUQCy7hXgxX4Vad3B/g==</streamURL>
             <streamURL>XoGWT5YNZ3m81zrEU/TaRromoCOZIGrO4wMi3lbPCEC0OWT5HcscuqADj/eFJRw6B/r3ybXmP87Zx4I6PwAA4g==</streamURL>
             <streamURL>rtsp://stream1.gzcbn.tv:1935/app_2/ls_3.stream</streamURL>
             <streamURL>rtsp://stream1.gzcbn.tv:1935/app_2/ls_4.stream</streamURL>
         </SubChannel>
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV4-国际亚洲" type="1" l="cctv4,cctv4">
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c3tGa/OlYjksejdTr1NiRdyR3SA34Tq8bkOvAcpHz9U+A==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BpJzxezY7hLlShRpUDrXERLsXYppolWrcd7wFM890Tw7bqRsibCNoPhrLQGcOUZZUQ==</streamURL>
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49nghOy2vqngnkanoEtlb/fXj7xqdlvKMelIvJsYpZVQkw==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dz88M2eAEGtoPUjPtAK1KB+YSSlMklBKU/yFuMcdTWHeSBQAyaxwdojZ/k5LEACyw==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln1y1dPNXHxmhmfgKjKWWcCNtJGY5x3VfKuyMzDDDAC5qA==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+bofTX4d3D24kmLTDNPa8c3tGa/OlYjksejdTr1NiRdyR3SA34Tq8bkOvAcpHz9U+A==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYWXGkojF4UO6o6DfvGWyRxNRTx1ms24EI74Gj5w6dJxw==</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T3slDuKigfk57oNnRyiSHhw=</streamURL>
-            <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GGvgSiSzGaa25OidwQm35ToJe0i7EULQjMKmPZL2OnK2r5QGtX2Okweu+U/nC+fqPk=</streamURL>
             <streamURL>J4i1kxSOmSpfFWlBxOD1i6GMcTqp/wuQGC6VaAbcdxZ1cwWJuvSHLhHBqgmhjuEo</streamURL>
         </SubChannel>
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV6-电影" type="1" l="cctv6,cctv6">
             <streamURL>AHSnwfo2gjGyPSTB1MSBKgf52YsUppvR17bHoK2+aQKqIUq7O5H5aJDD9vsLz2egJ2xpEzbCJTyNfb5hiV6GOnyHWp3MMOPh5yNG07Ary+x7+D52rPPZtImNgEj4+sk+0JJe07C3FrwDbDlwiTfBQYFGAjpHcIBcCl5V3Ln5os3SF6s37G2lM0NwjH3M4MffH4NO7lo0cRKKHiU+L1PR/vZIc2KR//XBOImVzq4m9AorfwrITcPlLHm867wYsgNTywx3O7lN3AiHpWqjNE24BLr89UK+TOQVtR+CnFEGb5rUM/8RCT/du+IGGwUa16eYVAf4sI0SI3VtvY33FihPjB3a13Hmz5joEYx5L1PVh1/eTiUtxcPQJ44XNiDsX1d+XNmnpqvNJQxCEOqrWtLi9w==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln3QSlNJPe78v4Jmc9lEk5isxJm7v8gXs0Dzyi4qylqhSBELK9Cq6JdU5Qm2XBxyuj4=</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbPlyL+XEq4YCKEHM172jw5YClUtnLgFEICw7DYhO/SAVu6YltlAWSlS3ehrgZVjjA=</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbVJtG8i4PMu+J4kZUHQMfFS</streamURL>
             <streamURL>XoGWT5YNZ3m81zrEU/TaRromoCOZIGrO4wMi3lbPCEBKjwwLBF5hUTk/yXUuzT1GTS+/Hwhk+/maWzxRUs1f9Q==</streamURL>
             <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQLxe7Hyp07fU38eskH4Fhg1/DjsPd2GFkATDpgGAg3NzrappUHhPhbFjBnfGH/+Nnc=</streamURL>
@@ -451,17 +476,17 @@
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TwOzRsw0KeHf3Z29hCNB67w=</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbUsQawhXjZAzU9qrftwHu3E</streamURL>
             <streamURL>ks+x80iyagrWprHovc/8Wd9n8QMqaSfKauQHrzGq5A9M/GIHOugE78jmcxTh8RVH</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln26+0Z+Q+vj6JO3famVC1waMtRe/1gU+OrOkDyN8s+dTPBORTHf8VZAQ2zqmQQYBuI=</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/taYz9E7zwXjo+X0zWA6XLBP5CLeviaOg0yAJueH8LIh8m5Nb5rdOeXiyIol9dYr5aM=</streamURL>
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvOjV80xCCOyre2uz6D+wXAQOFCtoprTCOHzABa4uBSrHdRgh1d+ZVB71bTR4y7vIdLoXdzgHebF3CpjFEidt3rYwppTNMvKF59fsupasGFyA+CoBZp0CMfe02cGGWnV/IAldjI68EGGyZc49z0laJ2dLuytFTjUIKU7+naGt3vNKA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV9-纪录" type="1" l="cctvjilu,cctv9">
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49lRouYhlSJ3CnW89faPvXlagNOeCaiBf/U0sP9SEu9OBw==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln0ZSjrzcnOBziL9ACC0+a7jwTqESiVFBedRwDqxUbnISQ==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbn3fGmNoDVAwiJ+xvd80lP9P3661EKFzr1kWKnkSPvnA==</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T6taviOoDy7R76M5mM0Kmvw=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV10-科教" type="1" l="cctv10,cctv10">
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE20h9F1gHA2BRZfyoR4sgbXkPUSV//EComtNPEdhw3nG</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln0asIW8FOsGA+agr5BtB0FWbLUvcZH+LOz14Nas+Jiq3g==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYvveq0biqaxotMIVmPil1mN8/DMjiPGqAFx9Zjx0HUQg==</streamURL>
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49lz+kjLOG4eCw/HOeEy1mX9DQFmCtD3RQe/2a/ymnO+4w==</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T9yeS5uioLdS9nI1UPsOYSo=</streamURL>
         </SubChannel>
@@ -476,14 +501,14 @@
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV12-社会与法" type="1" l="cctv12,cctv12">
             <streamURL ptag="1">Y7KhB0Ro2HqqlEYV3b0v5gHj3C411lm694EoQqsWuN6+SpksnmNqy6YFbeGt2H3JvycVARCLAJ1DA0pOuPCzwmqCLKOFBnJMSgj2kVMQL8VNaKmdSxSASfbB6SNFDGlPmIrMcrD+9x8nHYyes07NGwwaLF+mVNe89Wls7EApOPlTb5+Y0kO70/uVjzQLhMHSoLUHenakWTfHogsg4XL+ZYPzPSWxIH8xUkdSyeQh6za/C4HDgGG9JtbmT4n9xrWz/msCIWhqoA/OpOJfuf19XPBWqn7lNCrrTL2gW0FdhmhgJGWcms/ifu/YY5kCxtKRGYOtOZ0YmJ5sabc8dc6jyjGlCJj2/phg0B6zxvlYOU4yQG5bDKaye6OkxXxvBuLe</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln0YixZHN9mmVT1BUlklHZp7tB60e22apcKTux3uOc3pTA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYgmJ0gSoZp5vRTprJkCrhNzIJj60eUZHpVOoo5QflCvQ==</streamURL>
             <streamURL>JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49nZXKSOyaZMPtESFBPathvv9XxrtBtWcjmf0toTCc+CGw==</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1Tz5BTM8fn6dHaI20fk9KQcs=</streamURL>
             
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV14-少儿" type="1" l="cctvchild,cctvchild">
             <streamURL ptag="1">Y7KhB0Ro2HqqlEYV3b0v5iDI/EgXIf6W1XmYv196oN5fQ1BRfym1H4hiL/FmiZchWHQpv3nbx0ixssiIpVd8H9Ej82owJ/ZT0+rx5b7ZaTuoA/qhKx3RBad87UtcC6uc6kwk4BgHg/Dd8RCrqJ9Rwr6OYSMCFmAcW3zr1VpZ5eCHFTqqjjUN2SdaFyTWOwv+IId3nwLHT67dtKDEA02Wc86TKoy+TedrKlqGsV/y3H3DK0WTSwO/4DuIl8cOa/Z8F0eTh1BB5LQyAiYFSyuhf+mHQRHOZrzGtmrDh/n1UMUN41Jvxh761F9yUXm55vv5Ki1e5EHv/kJt22aZizqGjm+7o75x+1FYQsfiuNU+bNWaKaL7Z6oUcZAoPdwaqw1wKtNBvkZh+TK8+O24qColNN2gk07z9W2RuKuegu8eaeE=</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln1WaCYl0UQ3ah0ufT5DlHKyxtoibxGm5VFbRFdNzl9qOA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYAaBewU/iZ4GgX5i2b57Fx0dXQ1I5WZ7y3R0yrxXKthA==</streamURL>
             <streamURL>Qb41RzJYZIaM0p2Xrs1YE9Zxa+YlLpp6Eyzdg3CHTzSrhETjgvoox2t9Gf1u/B6c</streamURL>
             <streamURL>JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49kTMBkviw8VkKC7NvbPrV4NWpGKEhHy4mOp4MB3R+VX/A==</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1Ty1FeqBMF7miDnRRZEg5B38=</streamURL>
@@ -517,10 +542,10 @@
     <Channel name="北京" type="3">
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 卫视" type="1" l="btv1,btv1">
             <streamURL>izteI8RE6B71cO4fYCzoA5XQX3jWd07U+gSlQQoPzOp+mWbpq3Oo490PbjAje2TH</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dsQnQt838Dj3DbNGIqD1xzdw/gZEWwinv4L+rVN2RRYA0cNT+pBHfXpxrCeRpWPgg==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBoaMlOmCLdlNW0P6unRcQaMSCMM1vw8o7ybINofcdwAtg==</streamURL>
             <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFgXLDUKcV9TftJF6A9GpEha9ENQp4Yx0jsysw8KX+NqXg==</streamURL>
             <streamURL>zvl18gmYqnxyRsgPKucRfunhMTd/yQ/h2t0lPV8iQTs/Fnhrs7XDfzb72CDjQrCkPbaXksczX4XZZ4TRXCB9lw==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc8I2Rim0HnMl3ZHSdLyJMXLfkQ9xqbkscP3+iR3ArWD4zhbqRsAHdmqm68Bbo9z6sw==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcwjcOTFSJ5d+CkKF8iYH1IHVN/TzepR3q/m/xOqCUiKePGNoBCDmmw/eMqWz31wU6A==</streamURL>
             <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GHsGgBWfFQrnh9r/PayiD6stNX8NKGFrbPYF+aj4PI9tcn/tmeC4Bw9Ok6/t9BPqNA=</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaNJLuqyOzjLqU/2fpcJ/mKKO0bmuGZMhZT9wmTAwmoXxA==</streamURL>
             <streamURL ptag="1">R2h9WrjHwngrNw23Zrnkq5/Z1NaI6qED00J42e6hdJ0ufp4FDRfQSy+LYbsdz+nuKnf9/6dhn8VuxAeT7ieGOrHF6Wd9EjT2+WwUadB94OU=</streamURL>
@@ -528,11 +553,11 @@
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京卫视－sohu" type="1" l="btv1,btv1">
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaNJLuqyOzjLqU/2fpcJ/mKKO0bmuGZMhZT9wmTAwmoXxA==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc8I2Rim0HnMl3ZHSdLyJMXLfkQ9xqbkscP3+iR3ArWD4zhbqRsAHdmqm68Bbo9z6sw==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcwjcOTFSJ5d+CkKF8iYH1IHVN/TzepR3q/m/xOqCUiKePGNoBCDmmw/eMqWz31wU6A==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京卫视－letv" type="1" l="btv1,btv1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvNV5qNVaH26+qRASopCXZEiImNLTzj1BoGKmO5/4Uo+5TZhFYTK8uPTD8RcjD6lAI5gCx40eDmHUXqBu0qblUyBa28+XhOhYd1/xbm35x8lQGiM9ZWljtTGNJoYODx+zVRqSUYtWtP0iGYXuZEEVgnoB+FiY/wBOjp7tHZa9tB4vw==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc8I2Rim0HnMl3ZHSdLyJMXLfkQ9xqbkscP3+iR3ArWD4zhbqRsAHdmqm68Bbo9z6sw==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcwjcOTFSJ5d+CkKF8iYH1IHVN/TzepR3q/m/xOqCUiKePGNoBCDmmw/eMqWz31wU6A==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="BTV 新闻" type="8" l="btv9,btv9">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvO2tFbAJkFN5rXyIoyPqezwjHyccP4BOpaS8OQtHfMwE+Ab5JiNBqCkc4+LjAbsOSK/igXTv5wJPl8odAndjSkRIIgUgWCl4LnTWn6HnjAQ0ts/ZRsq8KSauKfEq0I/b6cK6WezB4hT9eVnv4o0rEh+DPNOTAHbSgM1Y6C4n1idwQ==</streamURL>
@@ -598,13 +623,13 @@
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－流畅" type="1" l="dongfang,dongfang">
             <streamURL>XJkstuq/6Diay27PvZkcrt8kota/aHpRBGy/TUqu7iJRm9p5Uag2ORbx6cbeo4VgaIOfTdCPT0AM7URyAUw5Mw==</streamURL>
             <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxACt9Bf1yJDavD6FM0VgPW/vWB071L8m2enJZ4KPlz251acYl5UJqZM+e17YbOl58+6UQUhkrvuLIKf39R2GHYSU=</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcwFEpT08T7r/XtNCgJv1ZCN+/gpvC7onjztvFxfDLBzHqChPHORMJccwG4qoVXLDhg==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc1RwJ+bI8TJEBuYF1wi1vaTj4Tr4iaVvlZW843KdYoidcR0rcj8dcJtwvoROuYuhwA==</streamURL>
             <streamURL>YT7GwMTeVkwt1M+MpJhxAGtaVQnCvNXQfYv5L8a4V7SwwPirFItfHrXjAQm2ERpJ6erYit94rxQeMNYxEHNCLrmrLmGctIjAG1pTrS0BN6o=</streamURL>
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2SjmwzGJxSspzqQ+RoIaJ6R+DhzdHg0Dewi1xDUKylwRg==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－高清" type="1" l="dongfang,dongfang">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvOSOTWMDvACSUPz7KT5j3WJZySnLxHJ2OVXwDrpZn8UxtSB/kXzRm0PkvUMoF+VKTOzauAyK6kx2OXTZSF4X7vkQceUfZHn+J9ItNpcJ3SgahrlxMYG+eNAI0Q1j6yAVFWefI64QLlhBpuU9iiLipeO4uvan9j5JEu5lGvfKDjhig==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcwFEpT08T7r/XtNCgJv1ZCN+/gpvC7onjztvFxfDLBzHqChPHORMJccwG4qoVXLDhg==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc1RwJ+bI8TJEBuYF1wi1vaTj4Tr4iaVvlZW843KdYoidcR0rcj8dcJtwvoROuYuhwA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://96296.2500sz.com/news/yxds/2010/10/28/16-39-55-2024-1.jpg" name="东方财经" type="1">
             <streamURL>cITZcCk/8dYn6ptu5S+7Ig/SuAkBSzGqMkkwBdSr7yqBbwsrpeS8rN8kITQG9yhS</streamURL>
@@ -684,6 +709,7 @@
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2T38Vabt9xa0ojfhh6jVdDHuAlI7d/QTODYhnW8j9PcZw==</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaNLX/nAnShMFGHdwcJDa48ClANmyWFlETM/UpB/4wjDRA==</streamURL>
             <streamURL>zUlcvy539kKf3dhssyMTaeikZEbYsP6+dLs0pb+2Zd/sR04vOrRGMx0M9w31n+4u</streamURL>
+            <streamURL>xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPLXNtrkCOxzVpR73ytj9DUiVjOw/O9+NvBHfFrnVJB71KvPxgnVN6p7s0xhywanrnHIPTsCX9lp/JmrjEfMuGa+fWRwgGNdWBLMvPs7SIyU5yImWyeHe9Z2yJCQjVSEWcurMhPLojH8BIrIJHkgWvtBQGTWfLwGJZtBWx6FXtAvBhIsl9pw+V6Oj5loLDBeS0=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津购物" type="1">
             <streamURL>rT/2RMu8UQMJPmwmM50utyNr6MhJJOo2w0hqbfUA/Wg70dTOmKSVfPS59uzWZa/L8RNQ82RICQY1HAiL2/8NRA==</streamURL>
@@ -701,7 +727,7 @@
             <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAGtaVQnCvNXQfYv5L8a4V7Ra6ZNEpLtUS7jVWgnSoRvK6l/pFLHxKbqtGSQRTyHl39NouAmodrTERtZevExcq+M=</streamURL>
             <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQJPEax6FZG7ZjGn1ibYdZKDSx9t4ofwZgQ5B5MV7vIk5ekTbt6w+lNboFZB8lljVtM=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-ctv1.png" name="重庆卫视－普清" type="1" l="chongqing,chongqing">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-ctv1.png" name="重庆卫视－普清" type="1"  l="chongqing,chongqing">
             <streamURL>Bxv1mH1mbAzNjJBTlhsOpWrAci7eUjfEfsgHZZhdfenN7vhCIaGe/Lf1DEtj7LWE8FALFOWPNe646cA25OB3Z4E17WPkdwBVC+8xPS8zymE=</streamURL>
             <streamURL ptag="1">YT7GwMTeVkwt1M+MpJhxAGtaVQnCvNXQfYv5L8a4V7Ra6ZNEpLtUS7jVWgnSoRvK6l/pFLHxKbqtGSQRTyHl39NouAmodrTERtZevExcq+M=</streamURL>
             <streamURL>JN3JIvyYBCrUPJrKrbAixQ69Xdb+hs3MogBtC/FVqXXVrKhhb2Nc8X3Y/u3WipXK</streamURL>
@@ -1081,7 +1107,7 @@
             <streamURL>AHSnwfo2gjGyPSTB1MSBKrhIVybtrJLg+KifhpJzWs9tfUZTMwq5ib9nAPgIXgvS5aZ6WOugSTJA7lRJsl3MLtxZKC8RDTvGoQ+uRXpqOk+H4Z1v5aiwsb0X23O4FcQW/SS9rs+uoIwS0jxZDVI7HSKggyy1g1vFTw7U8XCHOfAI76KLuAODu+0/asP7Tw18rJaTu3ueHqXXEQrZQAXKjjZC/HmYRAxH1D279GKI4/ZvpzLUmO9qyi9HBTxTO+xoHGiTW0O+aE5psKVETVIoewFWDsJKcukHzRsHKoI/eJmLChKJPOnALQ8tNy3vU0jZPJerKMs4eA2mUfJNbbLfvHuAtLAYsDEybygFd+DFjtJVPG+IAlXezcYnkZC299Ze</streamURL>
             <streamURL>P1EO0NWEsdpogR48Cf4K2oOQYO1horAOlp7BUbpA6Z3Hk93SG5xcs+OMM3FYTLKRzurF14Z92YN9Jub5r0k0lxeWF4hKaGiDDkXrcPQM6sw=</streamURL>
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49mAVN0/TxBvg8OjUTz2Wb5p+fNSAnKvsqqhOHJd4PC/OQ==</streamURL>
-            <streamURL>dXXz/Ay3SkLi5V5qFtu3BvK/aga+/sG65+EH77S8B4Bjg0BvVyES0xzxej7Db9xf5/lWPanWkGwi1j9odvZ62A==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFgMJayeTMwq2bUgleSRsSyORDT/Dim59R1Gh8MciqtRQw==</streamURL>
             <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQL9vHeHJAfMmIG27R/FMD4v6q7aLU+kGj3BBdTK0uIMjplIBhiVFNhjd0WVCTlUZqs=</streamURL>
             <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc1WkHnsuPIo/w9LIrpRGQ6RGk1WSY04gfcZv+/RfPTcrFiUX3vsqJbly3SO4UC1EwQ==</streamURL>
             <streamURL>HM+3TA6KhOJ+oni9z4nb15//IIJ2mmWRKjue0EWAEQL9vHeHJAfMmIG27R/FMD4v6q7aLU+kGj3BBdTK0uIMjplIBhiVFNhjd0WVCTlUZqs=</streamURL>
@@ -1198,7 +1224,7 @@
         
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视" type="1" l="zhejiang,zhejiang">
             <streamURL>0aMlvXHlPNovm6rTEzYMaQVOEOpU4e6kVUNJAE1nqJUtpQwaMcqgRz6FWKEP5PzD9ps0rPpJUhnl2dgBSpok0A==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dsQnQt838Dj3DbNGIqD1xz2Ox/BnbMrSIT4F1TAfIxAY/5hzvx7s+QukMsnOnMs9w==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBpDC1ST9PS2tr4e5CWAH8mno7xquS3LukpJaHJAXjODUQ==</streamURL>
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kIQYv4zP6cF8J4Av5stihXN/YbIPquIyFgRBAXrp1m4Yzw==</streamURL>
             <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFj/viJy7nMxraGgmFj8UZgkLWF6SrCoj9bZw1A4KKCQzg==</streamURL>
             <streamURL>R2h9WrjHwngrNw23Zrnkq5/Z1NaI6qED00J42e6hdJ2aV6j+b5sLZ7fU1rNXWYP+6JSpgjfSsCkb17mHH/72zDyay3lvnRTmdA1FpVoHs9yxtg1R7pZV8ToOSOUkCOUQ</streamURL>
@@ -1364,7 +1390,7 @@
         
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-jstv1.png" name="江苏卫视" type="1" l="jiangsu,jiangsu">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPvGG3l1lpZ3b8O9GzPdKsHeSMI86Do6CO0AEqUm0qC2QV59FVO903utjCCPTuIFUqmLkw/EZCKOMQezTkogSYqFW3Nae1hWY1mcHYfmytrMqYciADxR0cBBcvA6ZQY4spNpHaDfOilLF7p43UJF4VgqJz0KiZs+XXjkZPI/n19Xg==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc3r1fQ2ze3uK0/7l6MNP6Xz2TymInJG40cC1+6kQbu8MspM+2tTrGq89OKw78vZ9PA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc6jUgYNA6Qp2sRJbewvTv63Un7Kb1+if2Xh4lLZImllgrdDMPeC6nKngzHLujUilvg==</streamURL>
             <streamURL ptag="1">JRQ9QvGweqGvynRkpdDVfjsqfppRQIDw1kE4WprX49kETYLQ7TWa8vu84/uMRTYnel8xXjwmmZUJnh37mvfxqw==</streamURL>
             <streamURL>EfAPoUFLPtSbsbJ6bFwAW/BP06hzJRHV8KwtnSnu4GF0l1Woh8VzJHGqCzD+iKtlXjIvqyEgbMOjWrp3MZrslRDmwT6zqMu7ew992a7u9hw=</streamURL>
         </SubChannel>
@@ -1501,16 +1527,14 @@
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视" type="1" l="anhui,anhui">
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2TnLZaZs1HEN2Te75XPj5RTM54juL46+aakZsBpjdbNAQ==</streamURL>
             <streamURL>YT7GwMTeVkwt1M+MpJhxAIhrJBZ04Nm7PohuJkogkhZqMwUHyDy3ZB9uDXmjUUwrBEBp2iS5kSL/FeT/ukP29Dc/my15AB/L8oHkHnkr2sA=</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dsQnQt838Dj3DbNGIqD1xwMHkDtMuJeRgNYsPIZt4dYpQJIdZDmNjhicmJLTKp31w==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBpW8TiDBHTAveDCwRkB3En+ZGiLoC1ITvdafQ2a7HRlOw==</streamURL>
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kISnYRTCM5Nnqd8lHCeZ/Ls9EuT5vHrcBCFd61E8SDMYkw==</streamURL>
             <streamURL>YT7GwMTeVkwt1M+MpJhxACt9Bf1yJDavD6FM0VgPW/uDVDEIfAPSEG634NSiVp9ThQ9axsf7E6APBYe8QP9e/htBr+v7ycgR1PIAJO+mWdo=</streamURL>
             <streamURL>xCyntrCJD+ZkKUHzR3zd0J8m1yKVXrbQCF883YuPNPTEQ6XMKOzCd66FGVo0FLnFqy3PFPegwhiNFV8OZrnUIA==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dsQnQt838Dj3DbNGIqD1xwMHkDtMuJeRgNYsPIZt4dYpQJIdZDmNjhicmJLTKp31w==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+dsQnQt838Dj3DbNGIqD1xwMHkDtMuJeRgNYsPIZt4dYpQJIdZDmNjhicmJLTKp31w==</streamURL>
             <streamURL>YT7GwMTeVkwt1M+MpJhxAGtaVQnCvNXQfYv5L8a4V7Q2AgkobElV+Hz4WoSxRO2YMok26xmVUrPdMNZbyCKFnHRlJtp+ME7kovF369a5Zhw=</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaO5cUFKXpUUhiJE4SGknMSUhIRigUCq3kLda1DXFZ76uA==</streamURL>
             <streamURL>zUlcvy539kKf3dhssyMTaeMAewxCBojUoL1H29FkCpWhArbeReRRbTwlK3Lt1hNN</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc6cmQ2w554qDEfAvTb3VbC4NpOG9pmhBoVticzUn4S/eYMVnrjS0kEG1mkMWre/ylQ==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxcz2/WXHZUYLo/+spjN9tM7An3UE5wcDhlvh5Ci/ARzNLZX3JVKgPBl1Rvc50T2lw==</streamURL>
         </SubChannel>
         
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽影视" type="6">
@@ -1665,7 +1689,7 @@
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-shandong1.png" name="山东卫视" type="1" l="shandong,shandong">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPokJtdbAPsXIaAIVa41AU8SCX59iLVRWIV9R8phXAQKNFHqM1g5KiXIvO4rKFUC4mDr/+8OAYbDCkaAhQaIdSMsxaLwBxA2W6aKLgojB6oD8xzWJnRno1GcoPCVO/CCv4+zUfPRenVciQJMjOWR1wQg4RlKOEIaE0dstJdhPIo2Q==</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaMym54Z1l2HiLX0ywu9fWRZAt9mrOy8OOLvOJAO3UGgSw==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+btkLtiyLR8Eh84NHD1Fo4+xtHfzC++uI6Z4mRFuOvpzmKHe8tm423KwaP5Hynh7yQ==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBrPnpYNw15gjjUaEl23trhS57173IjId1ThwUt+v8UXfg==</streamURL>
             
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2T9rFPPmyYKxqTIKRYnhvmStp96bxg4afOFEEbBhUnE4w==</streamURL>
         </SubChannel>
@@ -2062,8 +2086,34 @@
     <Channel name="江西" type="17">
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-cjxtv1.png" name="江西卫视" type="1" l="jiangxi,jiangxi">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvNTbtpxsC2n0p2d8vfHWw5Qsp4TSn4UgHfu1+3qmU2RJ4UR8bUEUItNMtPeCTn8KVAA+tO6T2PwTC5/jWyDHInmuzcPBntjAyqayaEgiLWRaO3i71Vt7UhJsQvXtcuDSM6OEUHOQHCsnDlKUMicLyav3artLC1YLo5MyI9IdMqGcw==</streamURL>
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nSX+MDpgdrlOnkog9bFJiHrqQovJCAQuaMdPMfpkjpk5TKXHQnZFfQBDw0TC9Fpxn4=</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaOp4W8ROeY352nD8ERtKkgp+EQXl69tw4uqtl1rCIKn6g==</streamURL>
             <streamURL>izteI8RE6B71cO4fYCzoA/PonASUZH24SZfHNclFEy9K/x8bnOh9P48FUBWWgC2Z</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-cjxtv1.png" name="江西都市" type="1">
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nRhbV3H1B1ocHSHaVCdnC5WZvFC/q8x1bo6bLbuhGo5WEIKgvN696PNNtR+JBMFLh4=</streamURL>
+            <streamURL>o+k+/Gc7P4MDS9CWp8nuK5vtwSKBnyNzrDzjpxpCVB3AmFXAIesjVJ9mC0gPxUYMhbyZSO7aHu58NXh4ENsP6PkksmxNopHFpzdxwqrWAhTXE52c9cqTuR09LYBzYJFF</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-cjxtv1.png" name="江西经视" type="1">
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nTonD53iNoGIwzqvM3dv+q2L8oi8PDrqtxcsiQYMcOoolapV4XKXjeElLo7V7DZLEI=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-cjxtv1.png" name="江西影视" type="1">
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nQJ3BgyfYFjsHj3kY+B3Ai2EmN6xRcbqrfgdn490yrRwUcWQ4vatomc2Bvl7F+Sro8=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-cjxtv1.png" name="江西公共" type="1">
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nRhMYKQyFp5qV8VrlGtKXcJnWg2q1yDO5byGzDcePNxatp0kOFnCVLcFBL1S7DvU2g=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-cjxtv1.png" name="江西少儿" type="1">
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nTAfr0BHwTlJt/dQRZKv2eU0TOPpS6HG1x/jQtW9rRKnLUFQCkOTB/fXHLsJPwExgA=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="江西红色频道" type="1">
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nSl0fhqqmawwro1b8S8ri43rc4avtKes0y3J0WU1mZRhlRfUDAV2tMH7j3lGwvZFDE=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="江西风尚购物" type="1">
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nR+TODIyqePQfFSoNh/vFmpm0nhcLwbCk5GWbJIqLL4hGFLd8aDkMuZtb/0CNP9Sus=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="江西移动电视" type="1">
+            <streamURL>XXNttITn8dgIf6lOdCnsLlW23SkNcEA1vHCQOBno8nRfxl/zpYTPjRaBsPfr/wLzBa3b+3r5ULoynKBtFw/+H3r21Dj4R5CCnNeJ9/dF35w=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="南昌一台" type="1">
             <streamURL>zw0feNJCUKl+pJOjSANt6GG/9wsjHkSgcTjti3Yf3JJGh2RXP4jpZZEc5iaEgxO3CbFASdOcPeP/BuFflA7bvg==</streamURL>
@@ -2388,33 +2438,33 @@
             <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2SZHwuE8TeCDttFWbl3yXXKWrHCpvb4JSOG3Jp4XU5Ylw==</streamURL>
             <streamURL>izteI8RE6B71cO4fYCzoA/PonASUZH24SZfHNclFEy+Rhv8/5O9TUmX8lrb3vCfv</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaPEopmkeO+XJA3++eUa3w7c3hAi86oRFtDo9ZalmLYJ3g==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln32pMMywWFACMM+5ie0+vIyNIPRq2RFaOgv9H8kTKvjWA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tZTE9bHPZ2zYBHhbo918WKMFdzo3FubKD8s0hjkATAx0g==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南都市" type="1">
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kIQRtMjwyncCsNX87bJD9OgjSGOFjhrrRlVQV6vQ6OZTPA==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln2RKkjFFHFXGHZprHYgylwVUIU6wctBL7ZEwh8f09ydOA==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYAjHBS5+von0DHUvPUg0Lt7pvIHBDg2k51LN83Y7WNsg==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南娱乐" type="1">
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kIQ40r3Bg9tpxODNvOp8prpi4c7j4DcSgyVITKqFtPBirA==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln0jfukIeG+cxLcauIBSmWZn0rMcEtqN4M7OWKxRb25njw==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tZCx8gC3uCvtvb9UAfQ345S7fmVXrMVH5/0RPSyOP4VWA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南影视" type="1">
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kISEXhBJdMHRr9ObKaJ0POpkgPwyRWdavbl3sBZqzOQw2A==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln1SU9UFISHbUncWO5q3tTjzBpyn4q2ekrzlDI+RHVGZHg==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbnjPw/e9HKz1pO21fUNRomwY0IYlhFdFBT0ZTShn4Agg==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南公共" type="1">
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kIS70q4FhWIZuPmxOEKiwaQjSD2eDtkDsouIGGGriiWRxA==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln0wMkKdZtR5izdH9wE18CKdAgCO2/pHMvxhhCSCr+CI3g==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tbRkUtLsQwHOmMO0DQ/Bc/xTc+758aQtd6EG1TB4B5Lnw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南少儿" type="1">
             <streamURL>qhZdRXHSKuRSwnkTOfzjc+SVGU0i+lEZauZ3bJ+6kIRDmAeqHrDOTjeNtR1LgV4OrEtVKTUn9O8ohRTwu+u4VQ==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln2VB0ISbwhi3xO5KPd6sR55c6obIDheYkq/dioY4vesog==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tZHR+de0TBRs/2vDc4X4AN2tENysVLhUmnWvt+z7ukYFw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南记录" type="1">
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln0Xnj0HVxIBkGTAWYYIkgwYamwbiOSFlsZFfg/VkTqQHQ==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYAZPRR0t68Sn/hJvf4lf1koPNCf7h+XUMUA7gxVGaO5A==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="云南国际" type="1">
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc7qAPjOF8W5Lc0gOkfd8Ln1iHjnkPQz+kflnmDUsp8D29xHRj6wGbs4fGS+HZy3R+Q==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjcxMLOIQjHP+q1kTKgCcF/tYW4TARJyAlsi7FWb52ppVP6DLfLyVitg3Pl855q4c/Xw==</streamURL>
             
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-yntv1.png" name="美丽云南" type="1">
@@ -2462,6 +2512,30 @@
             <streamURL>izteI8RE6B71cO4fYCzoA/PonASUZH24SZfHNclFEy8EvfAOMVFNFcZBJqyw39LR</streamURL>
             <streamURL>SvHQLlCq2z94atKfAJsm7D7XfcAxR9klH0h0IqnJwyjCSRzfsIE0o2SZF0VOCcdo</streamURL>
         </SubChannel>
+        <SubChannel iconURL="" name="西宁新闻" type="1">
+            <streamURL>BwtkB1zp0j4gjAB6j5YHZp7Pd9BUGEfJ0/4Qv5MM4HZ+5g+l8jeeQCrQupv1TKPb</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="西宁生活" type="1">
+            <streamURL>BwtkB1zp0j4gjAB6j5YHZlDx2nwiaRMgmvTH4p7MfIpudX5M9DgTsNoCU4pCxpkO</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="西宁夏都房产" type="1">
+            <streamURL>BwtkB1zp0j4gjAB6j5YHZr9x7Ib/yiNSOrxHxMtjhWtmDvSfDpZ4gaGnKxNFCIJ5</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="西宁文化先锋" type="1">
+            <streamURL>BwtkB1zp0j4gjAB6j5YHZhoU5mFmfTIQZlR0jNKw17zPp9R6f34jnoTKbfcUrhFN</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="青海生活" type="1">
+            <streamURL>XE4ZdOl4CcFVStYNV8LgIkTv8HL72QHjsnyOqAxObBxsNnnLdn5xuBLyOV7tmQ+sanarPjzOgRy9lrHCl/qa2g==</streamURL>
+            <streamURL>w5I4yuf1T8opteW3726REuYI+n1Cu5mARhenEp4yYkGdawRtALhvb11+qMK7icrn</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="青海都市" type="1">
+            <streamURL>XE4ZdOl4CcFVStYNV8LgIkTv8HL72QHjsnyOqAxObBxh8FFvp0MaiG43q7e5Rfb6NXVhQcpeoGZXeze1zVpvYA==</streamURL>
+            <streamURL>w5I4yuf1T8opteW3726RErHfdHSv91KolI7w92lc+ZQ=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="" name="安多卫视" type="1">
+            <streamURL>XE4ZdOl4CcFVStYNV8LgIkTv8HL72QHjsnyOqAxObBwXcjZeVl4dKJcKPYP3/lmRd79GXFzJrscRb7N+DRGexQ==</streamURL>
+            <streamURL>w5I4yuf1T8opteW3726REtY5QKsO3rp8DpfOlXpqAkqh1wqX8w9LchMNzr456S5N</streamURL>
+        </SubChannel>
     </Channel>
     
     <Channel name="新疆" type="30">
@@ -2503,7 +2577,7 @@
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-travel1.png" name="旅游卫视" type="2" l="travel,travel">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvMIZQ7U2cqIow25ZZ4mzgAMkdL6LR10NFqNGcM+5M/iuCnGD7LfI9HhN5RdyzT/KUB9djeNR6FFCGOXp2ArquxbLKgIpJsl2jaAATHpMXBTk6+sHo3qnBNnGrjYTSd0qM43zPdp3ytNvllpevEwjg8oTrs+ESafmdpJQ73WUKXOkw==</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaOIilyYNy5vOuvJwOpgFQXSBuMWYH3b1ajt3QMALUv9cA==</streamURL>
-            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjczNJOtwTujrm22LgZgHmsJM0w44Ry0wePmz26hXHb7o38o7llDH0SAP9Dj7E+R2UKw==</streamURL>
+            <streamURL ptag="1">qhZdRXHSKuRSwnkTOfzjc6E54M+ejcSHwg6wqMnR7uf0qwXAxePJ9g1vYiXRCpCUIqNQWsTrQc2tbtJZzyIoSA==</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T36dMTkMJDqW3P15d+W5Kg0=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="三沙卫视" type="1">
@@ -2608,8 +2682,8 @@
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/zh/thumb/1/10/CETV_logo.png/200px-CETV_logo.png" name="中国教育1" type="1">
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaPXcrKu5+dstv1YewPjK2JITTPXZC3KJ63m6hDzzD3XMw==</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+btkLtiyLR8Eh84NHD1Fo4/wjSXxJ9212wTVvQWV+GEEgYXdz7qzM8Mjr6bmgioUwA==</streamURL>
-            <streamURL>dXXz/Ay3SkLi5V5qFtu3BvK/aga+/sG65+EH77S8B4DoJw+kooD64bsn2XSliNRjHwKM19/QFwrnGzt9o47ePA==</streamURL>
+            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fePJC3A9yxmLna3oXRWUBpZZp0kX3TIhwNLXmunDnZ2f1jmLYtm1PYCXTf4NTK+rQ==</streamURL>
+            <streamURL>dXXz/Ay3SkLi5V5qFtu3BsrOIdLHGrG86XooeazLCFjZ1qHmzKkV0U89Fa5MJK/Qbu58XdUCicKSVWz5R9Ztcw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/zh/thumb/1/10/CETV_logo.png/200px-CETV_logo.png" name="中国教育3" type="1">
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaPSITzUk9avC2RFYzhUX9lrQeZLDfK6Wm28uhrjyq7+sw==</streamURL>
