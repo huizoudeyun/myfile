@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -16,13 +16,13 @@
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
-    <useConfigRate>15,70,15</useConfigRate>
+    <useConfigRate>8,68,8,8,8</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
     <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
-    <ConfigURL>wwT/Hmxe7CLMJc86leYA7ev8xcZxZPrlFrYyISy/DTopQkfFwYzVjQg6hA7aP3OzIwcMj/MT3amII5Ic8mHgKWtyIxJ6V/wcsJAaFl+DhMjIomTcInc5QqF84wMSvdULOuEUjlPpsHTFiwSUnDxa8UVS9gdpnK1FxFJvvIYjui8pDVHXTrLqQGovBsgE0vUsUHccraWHdVu0Ja7qZN1wQxVq9IpOtO8DwMQUM2aUQWwfVv6QLsewCg5nNLJAjT69BlFBfieIB1ghMO24r3s0xOF0W996wdJ2i7eRRKLcRc+LLqcCNqpdiT0Y19BP31xvZ4ILoYetWaO8ZTf5DpFTvpfkpo/lTbIyFh0DWMx4X18=</ConfigURL>
+    <ConfigURL>wwT/Hmxe7CLMJc86leYA7ev8xcZxZPrlFrYyISy/DTopQkfFwYzVjQg6hA7aP3OzIwcMj/MT3amII5Ic8mHgKWtyIxJ6V/wcsJAaFl+DhMjIomTcInc5QqF84wMSvdULOuEUjlPpsHTFiwSUnDxa8UVS9gdpnK1FxFJvvIYjui8rgog/BFbEZmXK7h2QSAYuk++w9rOtXG848gTUXlmLrrd725WRB11HYMppuAyr1GxQBXH50dHaXA033OXHGujOpuQNGuRKy2wJI/SAw5o5wWXU5MKzycGiM5MzI1gMl2uBmgaTGeVhT9O7Opb0L2DNFmldqgFdcwEqcl5tNshKco/jqbea4pH/EkCno/FCcbLg26slLd3BtHSUz3vhd1ziF9SNcN+qcj1SUV5gI5x6zZjPq9MiSWs/nvciewOr7wi/ucblF+kf7A7J9O2WMUiF6Wp6ut6H/3jEQrMilSoRcJPI19vLeoVfmIwyHnwu4lSHn0oRU8wkeXZ5zh0kdDZ6LKES6BkhffsCPXHSolr4A6tJTQvrd4Dsaz+u4UEzaV8HojRDppfdzFrxDlhqSPjQTftnmd6QMtgSD6B9ev1l5ZUR5Ux0lry2MbIUyxfoRCQ=</ConfigURL>
 
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
@@ -37,7 +37,7 @@
         <appVersion>1.0.1</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>5</frequency>
+            <frequency>8</frequency>
             <link>https://itunes.apple.com/app/id979828328</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>

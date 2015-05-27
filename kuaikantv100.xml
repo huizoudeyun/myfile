@@ -33,7 +33,7 @@
     <supportWifiTransfter>1</supportWifiTransfter>
     <supportNotWifi>1</supportNotWifi>
     <Tips>
-        <appVersion>1.0.0</appVersion>
+        <appVersion>1.0.1</appVersion>
         <info>
             <valid>1</valid>
             <frequency>8</frequency>

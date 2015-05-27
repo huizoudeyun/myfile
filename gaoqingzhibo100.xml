@@ -32,10 +32,10 @@
     <supportWifiTransfter>1</supportWifiTransfter>
     <supportNotWifi>1</supportNotWifi>
     <Tips>
-        <appVersion>1.0.0</appVersion>
+        <appVersion>1.0.1</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>5</frequency>
+            <frequency>8</frequency>
             <link>https://itunes.apple.com/app/id979828328</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
