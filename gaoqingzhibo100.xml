@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.35</Version>
+    <Version>1.0.36</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -16,7 +16,7 @@
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
-    <useConfigRate>8,68,8,8,8</useConfigRate>
+    <useConfigRate>24,40,12,12,12</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
