@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.3.52</Version>
+    <Version>1.3.53</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -15,12 +15,12 @@
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0.2</loadPlayerAdRate_ip>
-    <useConfigRate>24,40,12,12,12</useConfigRate>
+    <useConfigRate>10,10,8,48,8,8,8</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
     <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
-    <ConfigURL>wwT/Hmxe7CLMJc86leYA7TN8W91P4iGws0qgASp/oEbupoPr/khGxO++bXH/W1WEekLqXbFzdzeYIf0lKOQLVApLFy2f4fM02KWmxFRsZ4oikehT+WhLFu/BrMSPKS8semxNsbdtprOL99sNR8uS8ssFvT6kD2GwQML/5S3QYBLa9Ynhi+SOaBgiS+wgY7kt2AwU0zUA4LCSfyUszA7B6zizf3+/OUYyypOFn5NrcuOS39R5K9gGegTYXMa6+ZANSXEuDEoNYaXXjcD0XBLzrwdwnpCISbkPr3pXBeXgdWxt/bpfcy+HX1A4XOWyYMLSNUlYbXbUdb3TyWHSOPf6Y4rX8AmPws+4CzH+OAi/whAVKDqB+N0pCJLGmpc3pwUySwooN0B9hxPHB964Mmp8R8df+3ci+OV6f0NDNwxMfZWDrgaxac6s2QwD4bc2eMCAHiCfeCJKhdSVmq02PeCAwFRmpQMZ+FaNK/KS3GKeKCirTQCXVyS4Gtv5uwCVH+Qww4xixps4V2xgPw71KLzrz4wFJW3huri6rLF/W+jcaIyuO370asAHBUgzIM57VvzP3qcdLHYcOKnKLaXcsY+OTz3OJE1ALxTEclchAw+6Xn/sLQ3Lj8mCKpY/XygKA6V8qicDID5fJrLbvHxE8bTBxQ==</ConfigURL>
+    <ConfigURL>wwT/Hmxe7CLMJc86leYA7TN8W91P4iGws0qgASp/oEbupoPr/khGxO++bXH/W1WEekLqXbFzdzeYIf0lKOQLVApLFy2f4fM02KWmxFRsZ4oikehT+WhLFu/BrMSPKS8semxNsbdtprOL99sNR8uS8ssFvT6kD2GwQML/5S3QYBLa9Ynhi+SOaBgiS+wgY7kt97E/e2KIMUN9GFLOCV+CSipHduBIMfhY4PG3FPb7hVode7KiI/+6Ta4n4sZr34u2254ySTxXxo0FZt/0/ys8B+jrh59RSlz1o7tEyQ7AlDT1FeJl8ngzpqrPZ2mbtjTvhD24pcY9PvqN09J6UhLxzKHvrFZ+5jc7/K5fv2Mszyoz0HCIQc5NRIm/9wvA55OK25awEBS/0DVWp3Rb3ZXUq7DHUFL3IjKpnrZ6a0/oJu030gbhHmuhosrJnPIdw63hRM7OvvRT7r1WC96ARgx62hsQ0+ToRD3wYtyel3a3nLP90aoN0Sl+0l7aJJgv43T3DUosLxrkXSLJvQ9kTuXITNcjgQbEORj+ieZelGDISsFk0/DjeqEmH0w4jZpNCf6lVVDZMFzSlzeJOy9a7ggurOmhQT9I65o5Cv6Q4FCIrXWf80J+DJrLgUlQvXlB0svhKO3+W8mFX1CIke9qvhL0VY7PElqTWtw8C13sTX/hBGkC/DH8fLxZRTKi5FJI3N4JUEjVjGoMhaGscFMtsSA2Yw==</ConfigURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
