@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.14</Version>
+    <Version>1.0.29</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -16,14 +16,13 @@
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
-    <useConfigRate>2,2,5,85,5,1</useConfigRate>
+    <useConfigRate>24,40,12,12,12</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
     <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
-    <ConfigURL>wwT/Hmxe7CLMJc86leYA7ev8xcZxZPrlFrYyISy/DTopQkfFwYzVjQg6hA7aP3OzIwcMj/MT3amII5Ic8mHgKWtyIxJ6V/wcsJAaFl+DhMjIomTcInc5QqF84wMSvdULOuEUjlPpsHTFiwSUnDxa8UVS9gdpnK1FxFJvvIYjui8rOwg24xvkd60x2S3Vy5zSCfXJWI+++hLzQdkkEUdSohqibd6CkRxwyEbENVTWoyzwcgqDtLwu27Cwrwv43lCMKpDxX5Y15MT7l5BjUAm2CAwGiketpfyrid1xTIUJzvEnay4xyA8bv8msBO+9rNAGPc9bJy+QmRMszLdCR2eZmI44cRQn759PsbvfTN1SzUP5W79vK6UijawGdJb/ranb6G9zaadYhntZSGZdvWF/Z5RX1u8EgYxOONz6bx0JqDydGwfFsA+TE6ym/DtZ/EEFDHeB6e9a/jmzfI8LgOjHwLBwXDqizV5ORo0YbLBx2LkRam+HR/jpmF+3t6XF9NhcJfIpHB1y9oYExOcnyX4IWw==</ConfigURL>
-
+    
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
@@ -34,15 +33,17 @@
     <supportWifiTransfter>1</supportWifiTransfter>
     <supportNotWifi>1</supportNotWifi>
     <Tips>
-        <appVersion>1.0.1</appVersion>
+        <appVersion>1.0.0</appVersion>
         <info>
             <valid>1</valid>
             <frequency>8</frequency>
-            <link>https://itunes.apple.com/app/id979828328</link>
+            <link>https://itunes.apple.com/app/id997229527</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
     </Tips>
     
+    <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
+
 
 
 
