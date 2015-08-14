@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.5.39</Version>
-    <isClearFavCh>1</isClearFavCh>
-    <isClearRecentCh>1</isClearRecentCh>
-    <isClearCustomCh>1</isClearCustomCh>
+    <Version>1.5.40</Version>
+    <isClearFavCh>0</isClearFavCh>
+    <isClearRecentCh>0</isClearRecentCh>
+    <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
     <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
