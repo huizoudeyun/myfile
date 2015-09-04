@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.42</Version>
+    <Version>1.0.43</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -80,9 +80,10 @@
 
 
 
+
     <Channel name="热门" type="1">
-        <SubChannel iconURL="http://img1.cache.netease.com/catchpic/A/A6/A6CB2D4E70084854C6E9C9F972489B78.jpg" name="阅兵回顾" type="1" >
-            <streamURL>za3IerkXMK4Bmnz91rVqCEMfU2FhR4Uddd6EgqJR5OzLzinBkfk8CT+pm1frNe4qAfRM3+zWuU+1+9cAJfbLb0uf4Oyro6hE1i3nx1ogQCfi+a2U2BfFo9l793d5LTdvLSl1r9e+eSNBiRrKdjNbqowXg+uopmDvvMf1XU7Qgt4=</streamURL>
+        <SubChannel iconURL="http://img1.cache.netease.com/catchpic/A/A6/A6CB2D4E70084854C6E9C9F972489B78.jpg" name="70周年阅兵回顾" type="1" >
+            <streamURL>2/UN3yLm52jzcaJ8pqVQaM3oQBBx2Yy4zi3mN0/YEcGd/dQ+3mfe1oZkap0GzmPZVitSlDGYd5jq0umiJ8wse7yNujzShOeJqm8xlng7G6LZZTHZbgod2fj3i1mIn16QOAxPw3jsP6O8LdXxkK708F6Ucc5PWKferjWssg7B3O+1WXbbxsdzfw4ceeuC9G+p+VIKOo6F+rJUkfWqeaqhN5YAuuHOqHZeOgRk3HMj/BL6wso1gAo7FEYAwbef2DFli9LRuDtAVcUlyr52hlL2AQTshEF/Lmm4hwuYE6GQxOS1Vccsm8eV5F8oPMTN/745CzRALe9o/TdczSgSxn9MqdFzFMgQOhN7F+ESksvZpWsMDQ405hS1EsMTwKo5jFEss8BmYRAa66+7bA66AY+HQaQZldLr4V2sMkQKi8M65YFEiEdz9l0HQN916oLands7gkkm/i/cQfupB0YiDdA0ONBUNdinj0ZILHV6Zyx78SKDmrU3sf1S9JDRh6hYowN8xf2CbmSh2Smq77hkKg3Cg7h0Z+27/DKUHOGxefE+Y5O+YxFNEBD4v6FI3p/IxUau9tNWvtHr3ZwXZGBGX2niOI8Yr5sv4jTEfhi161sdkUoy4dS74Wsge6EHg8aIeytma8zroUzlh5M0jkw0SmwiZFRfYEaNPb+muOPEOFRk6KDBe4wPYA0Wli7qk+ANZzAopcxc3Jth/pvPZxC9oBkhhOC+tdfDG9ZB4uQ4XAYxOAS2Qlzek5m465GPEvfnXvKGrUe8iTuOP3EPNcvQfG6yr5XWvf27Tj45zqhl3uRH1l8vzWfiaOiBa93+tOtyAQkX</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.imgo.tv/mgiphone/soc/images/tb_icon.png" name="湖南卫视－流畅" type="1" l="hunan,hunan">
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+XuLVIQTPAbrDXVBqnnrcBDV66pcRCc26AWR63nzV/bwzmkyep+HJF4uRJHDuobsAQ==</streamURL>
