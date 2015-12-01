@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.97</Version>
+    <Version>1.1.8</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
@@ -42,13 +42,6 @@
         </info>
     </Tips>
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
-
-
-
-
-
-
-
 
 
 

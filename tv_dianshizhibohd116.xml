@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.5.96</Version>
+    <Version>1.5.97</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
-    <isClearCustomCh>0</isClearCustomCh>
+    <isClearCustomCh>1</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
     <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
     <avoptions>user-agent==AppleCoreMedia/1.0.0.14C109 (Macintosh; U; Intel Mac OS X 10_10_2; zh_cn)</avoptions>
@@ -32,7 +32,7 @@
     <supportWifiTransfter>1</supportWifiTransfter>
     <supportNotWifi>1</supportNotWifi>
     <Tips>
-        <appVersion>1.3.2</appVersion>
+        <appVersion>1.6.0</appVersion>
         <info>
             <valid>1</valid>
             <frequency>5</frequency>
@@ -42,20 +42,6 @@
     </Tips>
     
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
