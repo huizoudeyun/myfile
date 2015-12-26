@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.39</Version>
+    <Version>1.0.40</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -42,6 +42,7 @@
         </info>
     </Tips>
     
+
 
 
 
@@ -160,9 +161,6 @@
         </SubChannel>
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="香港影视" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvNhmiuK4DMcMKvQcyOHXVT9gzXLIPCTAFhH0Pff1CYWFejRvaFYOw+iM5J40LF7qhqkD+VrmcHas3v0HYO3Q13BlqG8V3pkBaEc2LbdBaTEuCK5dFd6fr33LEGFgIKdSVKKypLA2D9Oax6GJhSQ/SwVtVnvyoxlVHMpvjLjZCI5/gWvv+42KJ85wPR77JWbiik=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视文娱" type="1">
-            <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvP9SdsItOTYhzYTChcIRy3vPLT7Cr/tF64CkFCpzmP/YvmU0uJ6zTSOSh73vC799DtUVaymihcRbEjGL0gFbtCuJ+oAg6y7RIX+bNV5+fRQrVKFgjC2t+QidF67gRW0V0pWBYbk/HlKkeoPGbDm9jJopv/tv9GVdiDHnaSjD2nuu5eZE1vQExfpC7YXJvW3dDo=</streamURL>
         </SubChannel>
     </Channel>
     
