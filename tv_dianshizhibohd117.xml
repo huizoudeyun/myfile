@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.45</Version>
+    <Version>1.0.46</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -69,17 +69,18 @@
 
 
 
+
     <Channel name="热门" type="1">
         
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1" l="zhejiang,zhejiang"  date="26" week="3,6" bbtime="23:20,21:00" betime="23:59,23:59" tb="26-21:40" te="26-23:59">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1" l="zhejiang,zhejiang"  date="2" week="3,6" bbtime="21:50,21:00" betime="23:30,23:59" tb="2-21:40" te="2-23:59">
             <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7yt6hKqfsPrAdTagBRLM+LDdal4Ki2VAcIGjzr/twnD7VED/bJo112cDgWKQHsPjRL</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－流畅" type="1" l="zhejiang,zhejiang"  date="26" week="3,6" bbtime="23:20,21:00" betime="23:59,23:59" tb="26-21:40" te="26-23:59">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－流畅" type="1" l="zhejiang,zhejiang"  date="2" week="3,6" bbtime="21:50,21:00" betime="23:30,23:59" tb="2-21:40" te="2-23:59">
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+ckEXyqNT6/JJ4wsSRmABp+TeNdp/U7xkWQCQLqg8kmmdxOnCWlul3j1wah7fT4ldQ==</streamURL>
             <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7yt6hKqfsPrAdTagBRLM+LDdal4Ki2VAcIGjzr/twnD7VED/bJo112cDgWKQHsPjRL</streamURL>
             <streamURL>rtsp://rlive.tv189.cn:554/live/222</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－普清" type="1" l="zhejiang,zhejiang"  date="26" week="3,6" bbtime="23:20,21:00" betime="23:59,23:59" tb="26-21:40" te="26-23:59">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－普清" type="1" l="zhejiang,zhejiang"  date="2" week="3,6" bbtime="21:50,21:00" betime="23:30,23:59" tb="2-21:40" te="2-23:59">
             <streamURL>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7xHSRMO35OMmLgCtkHFyL9Y</streamURL>
         </SubChannel>
@@ -116,12 +117,12 @@
             <streamURL>dXXz/Ay3SkLi5V5qFtu3Bp4EMR+8SOyy+BvFBUKsD32QDiPU51k4HYJ/bOMplNSYh7GlZwIwHRbTg2wv6WLFIQ==</streamURL>
             <streamURL ptag="3" subptag="1">dF/kF26e/LAtquDJNSOYu/DHGjtHttE1JFK0seMpq3FVRA7gpkTR5VQXBmzb4tx4nMyaJf2v2n7Xbd31T6tJ7RmRQbYNKXaOA0vyhBgoyKQXhdXS69skYpYjj7xqG6oUXOzxaaOCcBEpemPc5XvCj5DllYzcMsE3GdqxoAMLZ2+cUgvsUtD6RxFx0uapVn45q9dkAM6cpl/HZnvL7o+VDt7bEES//QuDAgi1S+NNi6cdtGSwyI4RfMHLnY0lYCmReBSlvL9IoJK4T8tZZkLb6VD0JffltyeK4XXCoP0fOkQg/tPlL/qU619u6MlKIdgi</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－流畅" type="1" l="anhui,anhui" date="27" week="0,1,2,3,4,5,6,7" bbtime="13:50,22:00" betime="18:00,23:30" tb="27-08:30" te="27-11:00">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－流畅" type="1" l="anhui,anhui" date="3" week="0,1,2,3,4,5,6,7" bbtime="13:50,22:00" betime="18:00,23:30" tb="3-08:30" te="3-11:00">
             <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7yoJSi25164aln1Hr+S1ORhWKbgFCQMA7C7foN0/2rvP59KoI1cY/1N6FD2gN+P0Kd</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yaj6RgV4LpA3VKpF722QoVtymrnsH8XQkZ2wl5BSkC9w==</streamURL>
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+ckEXyqNT6/JJ4wsSRmABp+YsWm8dbj4dxnO05hM3z5MlhO285zdeE8h2eJr92B7eA==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－高清" type="1" l="anhui,anhui" date="27" week="0,1,2,3,4,5,6,7" bbtime="13:50,22:00" betime="18:00,23:30" tb="27-08:30" te="27-11:00">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－高清" type="1" l="anhui,anhui" date="3" week="0,1,2,3,4,5,6,7" bbtime="13:50,22:00" betime="18:00,23:30" tb="3-08:30" te="3-11:00">
             <streamURL>LME4Swt6riK1M/uRzVXPT8RHO7GyZLtQWiRT/pkKddgVPf+MeMqYCEXTJyeUFZTdKXrM+M80baWinUnH77E9O6tHaY1lQo/UsDkwDDeIgrotHBsV2FGOddVskX0E457Cklgm0f3z+5q3kPLTaur0jUYTUrGqnV+kVxd5e7r/PHye7+0fy6b7t1i/yrQiasAQkDRV/RDjHKBB5zpyH0upf94jCIVsBgNVJwDZs19f1f36ba3C/UtLXMwcKf36jfwWqa5/4jQUTsAt8o8UvvjbwOTIC5NG4cQ60yn2uqdiLAU=</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaO5cUFKXpUUhiJE4SGknMSUhIRigUCq3kLda1DXFZ76uA==</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yaj6RgV4LpA3VKpF722QoVtymrnsH8XQkZ2wl5BSkC9w==</streamURL>
@@ -828,7 +829,7 @@
     </Channel>
     
     <Channel name="浙江" type="10">
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视" type="1" l="zhejiang,zhejiang"  date="26" week="3,6" bbtime="23:20,21:00" betime="23:59,23:59" tb="26-21:40" te="26-23:59">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视" type="1" l="zhejiang,zhejiang"  date="2" week="3,6" bbtime="21:50,21:00" betime="23:30,23:59" tb="2-21:40" te="2-23:59">
             <streamURL>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7xHSRMO35OMmLgCtkHFyL9Y</streamURL>
         </SubChannel>
@@ -1108,7 +1109,7 @@
     </Channel>
     
     <Channel name="安徽" type="28">
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视" type="1" l="anhui,anhui" date="27" week="0,1,2,3,4,5,6,7" bbtime="13:50,22:00" betime="18:00,23:30" tb="27-08:30" te="27-11:00">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视" type="1" l="anhui,anhui" date="3" week="0,1,2,3,4,5,6,7" bbtime="13:50,22:00" betime="18:00,23:30" tb="3-08:30" te="3-11:00">
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+ckEXyqNT6/JJ4wsSRmABp+YsWm8dbj4dxnO05hM3z5MlhO285zdeE8h2eJr92B7eA==</streamURL>
             <streamURL>RVwiH+uGwHJn77pjDML10ARrIzaBOZhB1GFecW6QVaO5cUFKXpUUhiJE4SGknMSUhIRigUCq3kLda1DXFZ76uA==</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yaj6RgV4LpA3VKpF722QoVtymrnsH8XQkZ2wl5BSkC9w==</streamURL>
