@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.45</Version>
+    <Version>1.1.46</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -21,7 +21,7 @@
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
     <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
-    <ConfigURL>wwT/Hmxe7CLMJc86leYA7ev8xcZxZPrlFrYyISy/DToh5go2mdKCgGBL+cIGhipflmgqtCNP3hcVdMOq8wKroWY65b7gSePn8FnhD6Dp6aMd1NQUDABRiUroGcwRCQECQIgw39/GMQduQuyC9duJe2bm1ZQFHVtr4pyfsZoyr/C1GDvCuEuCCBZ1LWTihWVH72wRJqrcfBuw9odWBBcmqPo5dbZlJSGeet+9JOoSfNJtuE3HJPgdllgwEGkOs/QxQIoA1uQ6rM5wjyPww2wLkItrbxNbvO1pqsW+b7B4JqL+CBzmw9zzZA9VG+ZwiyK0t4lcKrEinP3aYtyYdl66JeOKAWOga6olUZtDOX9TUVqVCeZNAgBt6OpLuTQGXTTZmdiS0QqH1OpJ1YmWRzvwjxTm7fC7FhUYesCDq3sKBwDeQrBL2Fuw1tLtSWtUBkd/QipsA17oGxyFARRjUPxN0n7yegaJ095e+b3yIMZwdU6C/qdhlU+bbdhi35p4ZY+nKt/qZDzWjRDDtm5pGU9yvw==</ConfigURL>
+    <ConfigURL>++wOS2l9N/2iJ8aGPaeYcqHEaD9rjrUtWCBWLURG4qGZbzFYEPbMeT9sMtdb2W8V6vBj9RLRbeMyACJ7CVJidJ9OyOKFIdVaduKiMuFTjTEj3N/o043g5CjUbi5sZxLF/OIcEKePRBOgZPtN8gLfJ7mn7x05M+B9HM+gYZEayL3LtlQ7XcQJ/G3RU3YqkfJLYXOeIYc+x8rC7CqsuXNsMG7jiPF/cJnZQ0idvznYGaSa4aMPFbkvdB3jEZxHSXgjXiAidh6cjL6+4OMmQRpD9XIpZRzD15IQOzhvWAzrBUWavXKq1ri+vky8fHMiDF8AuFryI4jBIVhkAmLdABBnsk34eNnRMXmRretj9iSrSleAQtcptKwrTrtautCNx2qZLiZpbN3p2sD6eG7gRt2S8K9eGyv4Mra9VgdOxsOFWl2FU8Uq7/6m0J0KfGGV0tK+6rsFXxlANVM8pGKRoK86D3pgO+Y+NvhfCE1TBFC28O3wB0IhAA0AThtrLLCZEjz3vWF/iYUP0Z3K/cSvl5G7PQ==</ConfigURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>

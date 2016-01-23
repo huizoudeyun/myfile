@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.11</Version>
+    <Version>1.0.12</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -27,6 +27,9 @@
     <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
+    
+    <useConfigRate>2,2,5,85,5,1</useConfigRate>
+    <ConfigURL>++wOS2l9N/2iJ8aGPaeYcgIQcuXfuCg/ba+8J3gK0GiYXZ75ydgXgmcstxcHvV4ZMfBkO+DxMZyZRVHFuCnEEfa9n7Ds2lza7weeQoskorXnPmsieSRHWAa0csGNkIBYBi4+5voMK4AmR8XGpIijjKnTA00GDdo2E1/8417I+yiiMV02/qbMNdEFESZsKTMz7iADNouHVYKBSXraL8RBeEmz6fITUhRoUPEVmfDgUdQQigS+ioVPh4I4Rs4kzG186G6VzfuVyqvIaF5tHwQBDb03i4BqfXVfyhkB8CPLC4nIbsVl/g9i7kQuFRkjCWa99BZZAD/J3b2AfljRYk8FJHnm/yx9PfwoYmYi3qMovF/76KJODqkgWWKJEl5HfYYhF+p3vChDKGFLWXECrAdFV20RPPXAwpnNho2dBAAobog7+ow/qgXXFoO7VNt15KqXS70Oi+3VxWf53fXPUlIx/UC27RRwcTV5Uq3LY8DosOx1MwBic5Rnx0XzpEoJ4VGACu+aKp/cqSjuvDzE2Ly5Lc+iOkSTtJpnT+iYj+SkAnNjoh3lLiPvO52i2x5vA+lc</ConfigURL>
     
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>

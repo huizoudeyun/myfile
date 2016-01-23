@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.31</Version>
+    <Version>1.1.32</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -16,7 +16,8 @@
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
-    <useConfigRate>60,20,20</useConfigRate>
+    <useConfigRate>2,2,5,85,5,1</useConfigRate>
+    <ConfigURL>++wOS2l9N/2iJ8aGPaeYcnY1j4XD1DwWqsBV8lJGr7dYSmFZNtEBd0S4TahzKbwCA46leaqQtoQPUlSwsTINOY7XMRZ1yRiFGl/6vugfYsXvMrX1w1Z3xZo/KP6mhBiu9TI7q+yqIHXUnQ1KphnEN7zjlO8EgOfqKEyt6ay0WyZCKjIZwkOtOfzUgXWoTqM/CBOLilmDzPdO/2+YLCQn+nbSo0WbIAGKhvh+Q2YWtZQuZL+BOZngQIXqkBh5xVCG77GrtOSOib/B+UclWdP8Ac4aIJ0hKyT+Udi7SaY3pGPxgDzqHKeYKrDgyn1aaSgvwNBicGWo7ix8eYCGUF7W7ZU6XTPA0spNJM/+/zIF/KLCaM0emE12AaLtFla3mmSd2Et6lWKOkYYrAAbj39KkEH9oy4yIT9+Lqm5J6Ww8rwZHemIADIj9m3MHtWWeTIRh7hdvOcIKPTdlcJLIwjkt62083+GucEVfFAL6zvDJXYyd1nDFTmzVX989Cy7sPAsl+rPpocqvKgQnPI8oyQvmXQogqZrCLv2j/9fV73mjOHbqSSryxcb4bp48/UJ2Gl9iv3VCW7RocPZ8iH/OOcVO2fkaSQ+g2qCEJfghWhm0ytAkLa2yfZxAVz1mnVXOoE+PVEnzPwyovoq8Ma5vPJkZNFCQW/Uli0Y4fNPGr4eK+bQxQEFDpGWHciEZh1JEEtmXV9/WunEQdzZvPnQfUFYIy33AjN1u0vRVrM/BRIL5EYs=</ConfigURL>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
     
