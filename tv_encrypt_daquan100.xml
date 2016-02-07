@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.6</Version>
+    <Version>1.1.7</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -78,8 +78,8 @@
 
 
 
+
     <Channel name="热门" type="1">
-        
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1" l="zhejiang,zhejiang">
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7zdtNs6Gww7aM+iA2d47JWNZ0BgMyl5ETeRwZjI1EfYWw==</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7zdtNs6Gww7aM+iA2d47JWNQCNeXITh+4WiVXFV+sdHAg==</streamURL>
@@ -131,7 +131,7 @@
             <streamURL>dXXz/Ay3SkLi5V5qFtu3Bp4EMR+8SOyy+BvFBUKsD32QDiPU51k4HYJ/bOMplNSYh7GlZwIwHRbTg2wv6WLFIQ==</streamURL>
             <streamURL>WSai0B/HmpwFfKa+RYxJ35ht20FM0We0IYiLzkxR4tFxIF8tx/5cYXwtr3PWmxT1DX8P/bHt9YABGURTmTw+ig==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－流畅" type="1" l="anhui,anhui">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－流畅" type="1" l="anhui,anhui" >
             <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7yoJSi25164aln1Hr+S1ORhWKbgFCQMA7C7foN0/2rvP59KoI1cY/1N6FD2gN+P0Kd</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yaj6RgV4LpA3VKpF722QoV4ewPRCsQpb0hDn4AfmbZMg==</streamURL>
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+ckEXyqNT6/JJ4wsSRmABp+YsWm8dbj4dxnO05hM3z5MlhO285zdeE8h2eJr92B7eA==</streamURL>
@@ -173,29 +173,6 @@
             <streamURL ptag="3" subptag="1">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T6wjhsw1w/Cmmx0Bb+8JzA4=</streamURL>
         </SubChannel>
         
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-综艺" type="1" l="cctv3,cctv3">
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yp/L+xMhICPektS7wDJ2VR</streamURL>
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wDwnBKcvw1Rn7RehkSzI8JAMsr0FliYO0t7KQzxOa2QQ==</streamURL>
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wDwnBKcvw1Rn7RehkSzI8JE71ExqwCHLaChwXSezuXKg==</streamURL>
-            <streamURL>WSai0B/HmpwFfKa+RYxJ38jty4uG50SyrSyl1XBm/0KPkxP0aHQBKyVnY8ymksbO</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-综合" type="1" l="cctv1,cctv1">
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7y+DGsVtEOVHl8ziL0IykmRCbqwMnIV/ZKq8kpSPiRhtg==</streamURL>
-            <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctms6FcLgGqRGcfluJZFCeiYamqIJVSHVEabbZpoitJT85Ire/lMtZyevEgQmYP2Rwg==</streamURL>
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yXW691NFrsIgwcBrSpXQWrF9bx1AklGyVM6yKBTnBWAg==</streamURL>
-            <streamURL>1xXLqbwto7JpphRH6rJNjwcBf6w59m/By6R0fnCPoxHC0LvTq3NLyvz6vecqC8W7TDSlaCgK/Tu2oyb5Ox09Zw==</streamURL>
-            <streamURL>J4i1kxSOmSpfFWlBxOD1i6UghS9UwNhL8JHn/r8KXMZfZFSOWdDvdyxP7PvxYA3G</streamURL>
-            <streamURL>WSai0B/HmpwFfKa+RYxJ38jty4uG50SyrSyl1XBm/0KVd4XGtCuJ+Eg5Gavt4yLP</streamURL>
-        </SubChannel>
-        
-        
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视春节大联欢" type="1">
-            <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvN+5wcnToUPrRC99KBH/wKtTyBtOTA6TmMe5N/ORYjUn6cnPfeW7kYlcwF8i2ioYSeZhYbxkc8Wk0cWkvXwYFiXeINWOrdXqpZYEd0luNwbKtBMLG+GzNNQDtO+QqrJ37eIXusqN7F3brH5Oipwd7Hlq+jdKEaa51hmDZnaK9yfeLUToTJUj2YUGjjiWMjaWH4=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视综合高清" type="1">
-            <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPDvCXWu29webtBFPN2zJ77mY1FB5YhYW2Sz9JuDkon6Tg0tppKd1VNZleu3z5qGmoYS4SW1dyJTcvsNwUIAARccaTF6KcBxKo/xmyDVfFsfOibmagVbXUHoYvh76ulVwUGcArnl1IaEZD6XjSVDJmWgUyxKxrZmwphgODgmoSVTuTCmzAHblo3hLQD6xjc8JU=</streamURL>
-            <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1aUxjCsQx2F7vw5y9GKOeVOM=</streamURL>
-        </SubChannel>
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视电视剧" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPYmHCMmsGomeVXYXBtTKxdgrqcqp65aWEGFC1Ns65661ZmX+UbBJs9cT65qJYo6JQAM+pukQuXOW2/3W/80XuCXKkJXNtnZmlFIoSzGXC36cJNRJlmVA0FOEU1KOwb9H7PTdmFcOLelf/eNvL6fD7dp/k0vMRzWl+zC0XBBNSnKANz4EGNk7uyNu1hNDjPlQk=</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1acj/+pZ0+j7StSPynj2Hj/c=</streamURL>
@@ -214,13 +191,13 @@
     
     <Channel name="央视" type="2">
         
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-流畅" type="1" l="cctv1,cctv1">
+        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-流畅" type="1" l="cctv1,cctv1" date="8" week="2" bbtime="08:30" betime="16:00" tb="8-08:30" te="8-16:00">
             <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7yDovVulD/tk6toR6Fz89o2uQn2FERTV7rXCqKtxXJXi2SGeDw5efssJ4Kd6Kp3Jcc</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yXW691NFrsIgwcBrSpXQWrF9bx1AklGyVM6yKBTnBWAg==</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7y+DGsVtEOVHl8ziL0IykmRCbqwMnIV/ZKq8kpSPiRhtg==</streamURL>
             <streamURL ptag="1">J4i1kxSOmSpfFWlBxOD1izqRZGf/cpQFdScBvzJUe6BfPJ+pP+O7ZAmeRKhYhsLC</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-普清" type="1" l="cctv1,cctv1">
+        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-普清" type="1" l="cctv1,cctv1" date="8" week="2" bbtime="08:30" betime="16:00" tb="8-08:30" te="8-16:00">
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7y+DGsVtEOVHl8ziL0IykmRCbqwMnIV/ZKq8kpSPiRhtg==</streamURL>
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctms6FcLgGqRGcfluJZFCeiYamqIJVSHVEabbZpoitJT85Ire/lMtZyevEgQmYP2Rwg==</streamURL>
             <streamURL>rtmp://202.117.80.19:1935/live/live2</streamURL>
@@ -228,12 +205,12 @@
             <streamURL ptag="3" subptag="1">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyLpfILJJGwBtN1aCmMUk6Q=</streamURL>
         </SubChannel>
         
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-标清" type="1" l="cctv3,cctv3">
+        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-标清" type="1" l="cctv3,cctv3" date="8" week="2" bbtime="08:30" betime="16:00" tb="8-08:30" te="8-16:00">
             <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7y4IAQgFQQ0vBxh/51risTlcXhhejqIwALiSc5KJ8FRdnqPHHStvvpfwmDhNIpl8Xj</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yp/L+xMhICPektS7wDJ2VR</streamURL>
             <streamURL ptag="3" subptag="1">dF/kF26e/LAtquDJNSOYu/DHGjtHttE1JFK0seMpq3FVRA7gpkTR5VQXBmzb4tx4nMyaJf2v2n7Xbd31T6tJ7RmRQbYNKXaOA0vyhBgoyKQXhdXS69skYpYjj7xqG6oUXOzxaaOCcBEpemPc5XvCj5DllYzcMsE3GdqxoAMLZ297XEZVwkvQaNXrvNHvM3ev76RJ1PGq3DpDvuCn7Gb+9zfdBCFG3ywdX9mlVS2d9dN6oSAB4srWoEOaHNQTzDFZIa46clujQh2lVM3CJuAKgMlKxGYmIW7vrhOCI183Pz1slhgbJQLs4hi6FafTW1Vo</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-普清" type="1" l="cctv3,cctv3">
+        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-普清" type="1" l="cctv3,cctv3" date="8" week="2" bbtime="08:30" betime="16:00" tb="8-08:30" te="8-16:00">
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wDwnBKcvw1Rn7RehkSzI8JAMsr0FliYO0t7KQzxOa2QQ==</streamURL>
             <streamURL ptag="3" subptag="1">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T4yjtswOVD5n0CUG4R/VJ04=</streamURL>
         </SubChannel>
@@ -267,14 +244,6 @@
             <streamURL ptag="3" subptag="1">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T8V6g/GIxjUmiGQ7UuGi800=</streamURL>
         </SubChannel>
         
-        
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV4-国际亚洲" type="1" l="cctv4,cctv4">
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wcJ9vvJD3rdkO6M1oyiGEBZrdAGMxOdYIyLZfN4wUUoA==</streamURL>
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yV5ptILFDwg+ihV52uoCz28ehNn2zORDJshRryYa8EAw==</streamURL>
-            <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7yUCXifCOGRa9qEh31LYME5F/3XMEqp5Fxf3RKJk7QUr3m+296ESpLtRZgkfDB7Fc6</streamURL>
-            <streamURL ptag="1">J4i1kxSOmSpfFWlBxOD1i6GMcTqp/wuQGC6VaAbcdxZ1cwWJuvSHLhHBqgmhjuEo</streamURL>
-            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T3slDuKigfk57oNnRyiSHhw=</streamURL>
-        </SubChannel>
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV6-电影" type="1" l="cctv6,cctv6">
             <streamURL>rtmp://203.207.99.19:1935/live/CCTV7</streamURL>
@@ -430,7 +399,7 @@
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yWO7MoTdVh+2neaacNsave</streamURL>
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7zsc8E12D+xRkz1DLttS3OQAcIx2ZialXeXzz0LWqEGEg==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.vartcn.com/sucai/UploadFiles_8407/200901/2009011520183814_S.jpg" name="上视纪实" type="2">
+        <SubChannel iconURL="http://www.vartcn.com/sucai/UploadFiles_8407/200901/2009011520183814_S.jpg" name="上视星尚" type="2">
             <streamURL>ewg2+HDoX7UpZsRym7MpEwiA3b5xcO/T7e0uE43f22mkH+EWfVwPzv6fU9hR+iVHp95bAOjCXqRsgauSv/1zyQ==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.vartcn.com/sucai/UploadFiles_8407/200901/2009011520183814_S.jpg" name="上视纪实" type="2">
@@ -575,7 +544,6 @@
         </SubChannel>
         
     </Channel>
-    
     <Channel name="乐视" type="7">
         
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视电视剧" type="1">
@@ -804,7 +772,6 @@
             <streamURL>q4lLpvRBp1OazQhOuo5HDaizHQR2P9ZBPPeN6e1nuMnfapBqsjxRwW1YsiLnDhYJQvNuUg0ARpam4ljWZC2MLk5ys132dg6RPFjhRtztD9w=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/channel-pearlriver1.ico" name="珠江卫视" type="5">
-            <streamURL>h72WXg1nIPJ+1QkyOWhp5loBx5flVGrKGnhreKd0L2TFRbQVlK/7IhLnJC98rsAt3FZKPznnsPW11a/EMI2hOQ==</streamURL>
             <streamURL ptag="1">3TpmI34LoLg171zWQgJPh06bWQYq2/jsoRkNFFVRRjUiWo2T2sHANKiITcjgV4VuOZeOsnLRCsHlLWVApZMi5g==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/channel-pearlriver1.ico" name="珠江电影" type="5">
