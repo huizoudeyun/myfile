@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.17</Version>
-    <isClearFavCh>0</isClearFavCh>
-    <isClearRecentCh>0</isClearRecentCh>
-    <isClearCustomCh>0</isClearCustomCh>
+    <Version>1.0.18</Version>
+    <isClearFavCh>1</isClearFavCh>
+    <isClearRecentCh>1</isClearRecentCh>
+    <isClearCustomCh>1</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
     <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
     <avoptions>user-agent==AppleCoreMedia/1.0.0.14C109 (Macintosh; U; Intel Mac OS X 10_10_2; zh_cn)</avoptions>
@@ -28,7 +28,7 @@
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
     
-    <useConfigRate>2,2,5,85,5,1</useConfigRate>
+    <useConfigRate>5,5,5,85</useConfigRate>
     <ConfigURL>++wOS2l9N/2iJ8aGPaeYcgIQcuXfuCg/ba+8J3gK0GiYXZ75ydgXgmcstxcHvV4ZMfBkO+DxMZyZRVHFuCnEEfa9n7Ds2lza7weeQoskorXnPmsieSRHWAa0csGNkIBYBi4+5voMK4AmR8XGpIijjKnTA00GDdo2E1/8417I+yiiMV02/qbMNdEFESZsKTMz7iADNouHVYKBSXraL8RBeEmz6fITUhRoUPEVmfDgUdQQigS+ioVPh4I4Rs4kzG186G6VzfuVyqvIaF5tHwQBDb03i4BqfXVfyhkB8CPLC4nIbsVl/g9i7kQuFRkjCWa99BZZAD/J3b2AfljRYk8FJHnm/yx9PfwoYmYi3qMovF/76KJODqkgWWKJEl5HfYYhF+p3vChDKGFLWXECrAdFV20RPPXAwpnNho2dBAAobog7+ow/qgXXFoO7VNt15KqXS70Oi+3VxWf53fXPUlIx/UC27RRwcTV5Uq3LY8DosOx1MwBic5Rnx0XzpEoJ4VGACu+aKp/cqSjuvDzE2Ly5Lc+iOkSTtJpnT+iYj+SkAnNjoh3lLiPvO52i2x5vA+lc</ConfigURL>
     
     <Ads>
@@ -51,21 +51,6 @@
     </Tips>
     
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <Channel name="热门" type="1">
@@ -179,20 +164,6 @@
     </Channel>
     
     <Channel name="央视" type="2">
-        
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-流畅" type="1" l="cctv1,cctv1" date="8" week="2" bbtime="08:30" betime="16:00" tb="8-08:30" te="8-16:00">
-            <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7yDovVulD/tk6toR6Fz89o2uQn2FERTV7rXCqKtxXJXi2SGeDw5efssJ4Kd6Kp3Jcc</streamURL>
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7yXW691NFrsIgwcBrSpXQWrF9bx1AklGyVM6yKBTnBWAg==</streamURL>
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7y+DGsVtEOVHl8ziL0IykmRCbqwMnIV/ZKq8kpSPiRhtg==</streamURL>
-            <streamURL ptag="1">J4i1kxSOmSpfFWlBxOD1izqRZGf/cpQFdScBvzJUe6BfPJ+pP+O7ZAmeRKhYhsLC</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1-普清" type="1" l="cctv1,cctv1" date="8" week="2" bbtime="08:30" betime="16:00" tb="8-08:30" te="8-16:00">
-            <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7y+DGsVtEOVHl8ziL0IykmRCbqwMnIV/ZKq8kpSPiRhtg==</streamURL>
-            <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctms6FcLgGqRGcfluJZFCeiYamqIJVSHVEabbZpoitJT85Ire/lMtZyevEgQmYP2Rwg==</streamURL>
-            <streamURL>rtmp://202.117.80.19:1935/live/live2</streamURL>
-            <streamURL>1xXLqbwto7JpphRH6rJNjwcBf6w59m/By6R0fnCPoxHC0LvTq3NLyvz6vecqC8W7TDSlaCgK/Tu2oyb5Ox09Zw==</streamURL>
-            <streamURL ptag="3" subptag="1">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyLpfILJJGwBtN1aCmMUk6Q=</streamURL>
-        </SubChannel>
         
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV3-标清" type="1" l="cctv3,cctv3" date="8" week="2" bbtime="08:30" betime="16:00" tb="8-08:30" te="8-16:00">
             <streamURL>561fxxKHbl/AZ3u9xPwB925xaG3dSeuZhNRR0lpB7nHhTlJfzEumGZKEPaE5J/7y4IAQgFQQ0vBxh/51risTlcXhhejqIwALiSc5KJ8FRdnqPHHStvvpfwmDhNIpl8Xj</streamURL>
