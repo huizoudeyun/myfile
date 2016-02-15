@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.59</Version>
+    <Version>1.0.60</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -45,6 +45,7 @@
     
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
     
+
 
 
 
@@ -549,9 +550,6 @@
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="喜剧电影" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvNKcH3jQA2bpdGPpvxNgoSKajkFMEAhvERux/tt8QzsGpgR+GDcY+MB9AbPnbe79iSbW1NkFFAN67unATJFmINLLyXx0OR5TSHDjoGA/7aVhx0USX1rgT42NGi/yw4SjV8R02IcmIIv8GmztS74fjveftvUj9zurdc0gZ+CXV2itsSfO2yK14Yr3C0dEdvceP0=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视音乐节" type="1">
-            <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvNC80j5jwFV5JRPPC2PREi7Sqm3cWhv6Y5JsrVRrNoQRHDRNVrGqg+02fOG6+rdTlgryoZIQ3j7imOXEt3EaKU9Cto70BSRodHxXeitXbS9NeyUgdotcDOcYT0BRYK+3dhxh1snla0NaQqxpr6oQ4vtnGybs1Y2vSIaV8hpdvuATdDDnzIo2qQJrcU4pAAphGg=</streamURL>
-        </SubChannel>
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视娱乐" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPLPfaKg7vTZp1Ar9vj62jv1uhECYnmWwdSNgoBGj0lBmhBVYS0r/EGiocIW9b4fI49OFRBfbtgnKgxZ43mD6ctcpO5q0GFchnKYxUTbB8+OJiYmwyeRquln+tmegHu4HgCbs1ekjR8qnhwn2HLu4JibWp7vgKm6jBP2BWRrcxUBx7VTct+aORVwgIteaKgi78=</streamURL>
         </SubChannel>
@@ -561,18 +559,6 @@
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视动漫" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvMhzetE18AaCosgv15RLwqtgjywYrA3qmVbHKRsGGKYZe9mJ4uicxyhvB+Gpv29pybdoDYZ1N4Ml898pEaB2aT3Fba5KWLVlZbnbaaDXF+hstNAhzdYDwA8xkaOCGDZP6ta7beOegSGZzn9DQv3Y9vcJggYiBXjoM7XXcGPOcK1/fRSg+VCdcEFq1x48XT9eSU=</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1aUQAQwXjFGPTaQ8tLXDqtQU=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视音乐" type="1">
-            <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvOtfuNuuwYt4lXa7VlKadPh2oKP9c1IYOZPtoQd4Fdiz08kpMPX8wlP1Zik1VpxBg/UOWsdz0OhAb0VkIBUM6rmw7/ofNw8MqMLOAdelupT6qA6UVVhmaLuHYXPXGvYgXoQ/4APigZxri2cSjHzrM4MyuyY+Udo8885RC0/u4Wy3WXKsSTYQ9Gw0GXTJsL52N8=</streamURL>
-            <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1aZFg4OW+CqrIPk1KTSQEsFc=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视MV" type="1">
-            <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvN7sC6Y1ObQ+lhMjRN2b4qiY5THLZ0jYeDx80XzBRzfZT8xPCuWpNE6Efl5mdfpbj+i0LLzrerLN8GOxW+jZiaTyZlu7uSTsBUKLCSnJd9ynNi5erDq+rgk+2Du+khLPWYBGkb3Ce4LAwdtdjGLn8+sEG1hWxsgakKszSKLekvQ2HBspv4YCUglUjPhPe+4Dm8=</streamURL>
-            <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1aUpwmrcidoXSwak85P6P4jg=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="乐视演唱会" type="1">
-            <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPuSVEBktrTu5pYldu4PEJcXsUPQK99SZqs7QYHtHUZWWAGpfPzGVgWNfdUdBBVKc+KcewdRGzOiEZa1FJSFNdD/ypbMKrWXxzfKRSjVu18g1y4Zhc2e43VTHYkXUDFZ/zqeOwc/69Yd3yMjsGavTaAkG8ADzN1IIDEtkt7wHoniDybbYZzLJk62WL5xlhucn8=</streamURL>
-            <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1afd89zNud9LLuD1/e1p5fEU=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://video.wcdma186.net/uploads/tv_channel/image/1368/7bdc7159ad59a91951f16280c39df05f.png" name="古典音乐" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvMDaa8wEnsbG+CM5DMCrlJldyYdQLLqoSnA2LlD4nfDTGtlJQ4Idt6X44kNywy8MvnDtx438KwM5XkLY7ZMICcvanHdbmLATyCwlJhcilvqEQZ+R4bsO4R3KqKSxiflswZh6MuJ8mIqhc1/Gnb+0NZfh55dMACCGlDpfDw6NqdrLSdHQto7Lbyshk4Gnf6OJz4=</streamURL>
