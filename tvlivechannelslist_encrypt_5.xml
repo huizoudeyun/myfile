@@ -1,43 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.12</Version>
-    <isClearFavCh>1</isClearFavCh>
-    <isClearRecentCh>1</isClearRecentCh>
-    <isClearCustomCh>1</isClearCustomCh>
+    <Version>10.3.50</Version>
+    <isClearFavCh>0</isClearFavCh>
+    <isClearRecentCh>0</isClearRecentCh>
+    <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
-    <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
-    <avoptions>user-agent==AppleCoreMedia/1.0.0.14C109 (Macintosh; U; Intel Mac OS X 10_10_2; zh_cn)</avoptions>
+    <relatedChannelInfoURL>http://luzizi1.blog.163.com/blog/static/1965381912011976358342/</relatedChannelInfoURL>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.7.1</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
-    <reloadTime>10</reloadTime>
-    <nofreshTime>20</nofreshTime>
-    <loadOpenAdRate_ip>1</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
-    <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
-    <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
-    <useConfigRate>5,5,5,85</useConfigRate>
-    <isOpenLoadConfig>1</isOpenLoadConfig>
-    <Appstate>1</Appstate>
-    <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
-    <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
-    <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
-    <ConfigURL>++wOS2l9N/2iJ8aGPaeYcs48w2MdKv/KsxmMmDlf3aaF/DF43i2Mt7ia9gStNndWbV0gz/mxMclSuUGrVbr/n69747b7iDgEkYzh37RnlGtkXEO+MyrGsaJezC6z9OtreB8dL9qBa3GAL9eXMrd8hSP2JjLOZSNeRWukoQSmToEiTANMEZ/3Dtxy+ecuOBZNIVr2XV3h+KvrDxsFhf8W4Znl3FUCE81sqolwfntl7AvYy4nCAhZwnZ3KRWkL3AbSlysEqR4FkKBzU7pG0/rm1VtItR5eEy2q5nznJs4iJa1ZWeE/ESpm/VgCd/F7x1II0KWRN8Qa6mmHuFnM2fFyhQ4Dn/y1j3xEb+3rmolmOtwFtGN8Rm39RYskMU1C5jw3XZm+jNlxteRdXnxWFkKXlWczaohlYzW1ZpZPehRCUq2FhRaHr/e/YrzV4ndH+lfAX/b79rfzmQ+Quvd7LPd+3wM7SHNcs/ii7X40q0z8a+WIDUe1aoKB+aysmq+8Qsj7</ConfigURL>
+    <reloadTime>3</reloadTime>
+    
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
         <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">15</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">10</AdsRate>
-    </Ads> <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
+        <AdsRate Name="FullAdFrequency">10</AdsRate>
+    </Ads>
+    <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
     <supportWifiTransfter>1</supportWifiTransfter>
-    <supportNotWifi>1</supportNotWifi>
+    
+    <supportNotWifi>0</supportNotWifi>
+    
     <Tips>
-        <appVersion>1.0.1</appVersion>
+        <appVersion>2.1.0</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>8</frequency>
-            <link>https://itunes.apple.com/app/id991675873</link>
+            <frequency>3</frequency>
+            <link>http://itunes.apple.com/cn/app/id788605489</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
     </Tips>
