@@ -1,56 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    
-    <Version>1.0.27</Version>
-    <isClearFavCh>1</isClearFavCh>
-    <isClearRecentCh>1</isClearRecentCh>
-    <isClearCustomCh>1</isClearCustomCh>
+    <Version>1.0.23</Version>
+    <isClearFavCh>0</isClearFavCh>
+    <isClearRecentCh>0</isClearRecentCh>
+    <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
     <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
     <avoptions>user-agent==AppleCoreMedia/1.0.0.14C109 (Macintosh; U; Intel Mac OS X 10_10_2; zh_cn)</avoptions>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.7.2</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
-    <reloadTime>15</reloadTime>
-    <nofreshTime>25</nofreshTime>
-    <loadOpenAdRate_ip>0.3</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.3</loadOpenAdRate_ipad>
+    <reloadTime>10</reloadTime>
+    <nofreshTime>20</nofreshTime>
+    <loadOpenAdRate_ip>1</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
-    <loadPlayerAdRate_ip>0.2</loadPlayerAdRate_ip>
-    <!--
-    <loadFullDelay>0.1</loadFullDelay>
-    <bannerOnhomepageTime>100</bannerOnhomepageTime>
-    <loadHomeBannerAdRate_ip>1</loadHomeBannerAdRate_ip>
-     -->
+    <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
+    <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
-     <isOpenLoadConfig>1</isOpenLoadConfig>
-
-    <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
+    <playerlistURL_header>JvHeyBHCt2Wu3iyL9O/UwuGlJi/VPA0lPTU2gBYGMGuvaC9DX+H3+hnTquYA6k2V7qwsT2M9UebPf+9zd62tbQ==</playerlistURL_header>
     <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
     
-    <useConfigRate>5,5,5,85</useConfigRate>
-    <ConfigURL>++wOS2l9N/2iJ8aGPaeYcgIQcuXfuCg/ba+8J3gK0GiYXZ75ydgXgmcstxcHvV4ZMfBkO+DxMZyZRVHFuCnEEfa9n7Ds2lza7weeQoskorXnPmsieSRHWAa0csGNkIBYBi4+5voMK4AmR8XGpIijjKnTA00GDdo2E1/8417I+yiiMV02/qbMNdEFESZsKTMz7iADNouHVYKBSXraL8RBeEmz6fITUhRoUPEVmfDgUdQQigS+ioVPh4I4Rs4kzG186G6VzfuVyqvIaF5tHwQBDb03i4BqfXVfyhkB8CPLC4nIbsVl/g9i7kQuFRkjCWa99BZZAD/J3b2AfljRYk8FJHnm/yx9PfwoYmYi3qMovF/76KJODqkgWWKJEl5HfYYhF+p3vChDKGFLWXECrAdFV20RPPXAwpnNho2dBAAobog7+ow/qgXXFoO7VNt15KqXS70Oi+3VxWf53fXPUlIx/UC27RRwcTV5Uq3LY8DosOx1MwBic5Rnx0XzpEoJ4VGACu+aKp/cqSjuvDzE2Ly5Lc+iOkSTtJpnT+iYj+SkAnNjoh3lLiPvO52i2x5vA+lc</ConfigURL>
+    <useConfigRate>68,8,8,8,8</useConfigRate>
+    <ConfigURL>++wOS2l9N/2iJ8aGPaeYct65YV4Yc5s9haZ3E6zOMCAHQH4FQ9/HxNbO6zqZk1rBF5P+s+Wn0kot4dY8/LSLzS+TfBdtMPbqjElnEIVnksn6afWY/W7ryQR1Cra2piIqDS9GRka6uHOoS7PEYgy+Ea283Qltv1YehYg2qL4D2rN09YeI9ctzL0BN7VdYNebREnLrsh6mYJCgZJGCo12+qmOcXj782d1LZkEL1m8IiyROBTkQ1Iu5qGxVzi2ODhl4Am0aV1yutnIBoWcIv40QnHdanVJUIoxOmWn3DJuNwCCQUC3XVsTGTWQLeJR5f3tVfqCXUKxdFD2FHrl+xaWYAYQdNz7ITiCO5A20PWe2uO7M/vHLISmi1mSpNPeAD7KNJxsv39tdqxKWYJc7YGkh0dLRgAcd3TXG6kzpOI+/BsvE5932ned6IDc3IMtRvIFudjdHDwAYupHQMVQFqcJRzAZnSmI3DONrg0TaPKD7nyfkuXs0oY4AOBnzgr7xU3zNO2W+KyKOK6hL5ERcll/91Q==</ConfigURL>
     
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
         <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">20</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">20</AdsRate>
+        <AdsRate Name="FullAdFrequency">15</AdsRate>
+        <AdsRate Name="FullAdFrequency_ip">10</AdsRate>
     </Ads> <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
     <supportWifiTransfter>1</supportWifiTransfter>
     <supportNotWifi>1</supportNotWifi>
     <Tips>
-        <appVersion>1.6.1</appVersion>
+        <appVersion>1.0.0</appVersion>
         <info>
             <valid>1</valid>
             <frequency>8</frequency>
-            <link>https://itunes.apple.com/app/id577723645</link>
+            <link>https://itunes.apple.com/app/id997229527</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
     </Tips>
     
+    <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1" l="zhejiang,zhejiang">
             <streamURL>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7zdtNs6Gww7aM+iA2d47JWNZ0BgMyl5ETeRwZjI1EfYWw==</streamURL>
