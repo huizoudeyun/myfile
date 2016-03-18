@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.82</Version>
+    <Version>1.0.83</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -1716,21 +1716,6 @@
         <SubChannel iconURL="" name="寿光综艺" type="1">
             <streamURL>rtmp://tl.allook.8686c.com:1935/vod/sgzy</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="诸城新闻综合" type="1">
-            <streamURL ptag="1">gnmuvnWfIt5xs2pk+KT7qW/L5hd0oONOetBMYO5p7QAtoNBe8XVNJMFUpl4W91ZyP2LBS9c3W6m9U8moUqUIUg==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="诸城经济频道" type="1">
-            <streamURL ptag="1">gnmuvnWfIt5xs2pk+KT7qW/L5hd0oONOetBMYO5p7QDMygOK+ZRKp/7fmr2UqeKD221TGNIdAIrfSfCjVblxOg==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="诸城影视频道" type="1">
-            <streamURL ptag="1">gnmuvnWfIt5xs2pk+KT7qW/L5hd0oONOetBMYO5p7QB0HSjsvGvlOPsSS+XbXqrIaGQ3LbCUcMPc2JEO9sVnrg==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="诸城娱乐频道" type="1">
-            <streamURL ptag="1">gnmuvnWfIt5xs2pk+KT7qW/L5hd0oONOetBMYO5p7QBySK0qaalfjyGTXmwAumalf3Zlg8XCxkwgrADRfgVtcg==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="诸城党建农科" type="1">
-            <streamURL ptag="1">gnmuvnWfIt5xs2pk+KT7qW/L5hd0oONOetBMYO5p7QCfDA+xQhpj3ZJPoXl+BK4nFGI6M/SYShYYkU1HkftHGg==</streamURL>
-        </SubChannel>
         <SubChannel iconURL="" name="日照新闻" type="1">
             <streamURL ptag="1">Ic/2ZAZuGtkh8Y+bXtfldd6eV2p4iTfWMqXsIucz8XezPQpX+Zffxfhk/OPkcQjb</streamURL>
         </SubChannel>
@@ -2856,7 +2841,7 @@
             <streamURL>XJ4IJFc5TCu64ZzHZH0lDr1lz3sZ/+Ye7rjX3sw906DUBxJFClxHAZ1pqgTZRBj8MB75s/Da4sIjmbeys0GwAg==</streamURL>
         </SubChannel>
     </Channel>
-    <Channel name="港澳" type="30">
+    <Channel name="其他" type="32">
         <SubChannel iconURL="http://www.baiju.org/weibopic/1845798785.jpg" name="香港卫视" type="1" l="xianggangweishi,xianggangweishi">
             <streamURL>rtmp://live.hkstv.hk.lxdns.com/live/hks</streamURL>
             <streamURL ptag="1">jVcRLlSgr5qQvu/YV5VBEvhWSLq/yo2EsSGDTwv9AzP508A73FNbOcRcordfvL8awhBjPFqlY5QIpLEV7EMEMw==</streamURL>
@@ -2903,8 +2888,6 @@
         <SubChannel iconURL="" name="台湾宏观卫视" type="1">
             <streamURL>7FF6eXY5IwNTJyjU3dtrF3U4v0Y6/g+kQi4DfyBq+QkuvH48a5HSzu1hxOWB8JveOfWLxi7M9uXrh+J4MfYFMAGyZ9UWvTA/dxEbUHPhaos=</streamURL>
         </SubChannel>
-    </Channel>
-    <Channel name="国际" type="14">
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-nasatv1.png" name="美NASA" type="2">
             <streamURL>GY/geDtDIW6LUVpoH92wffkNxcOm9iKErMhlwXuEh0IDvmRyK9NKXsGMuxZwYqoixLQ0kI32BSBRZg2VhvHQQw==</streamURL>
         </SubChannel>
@@ -2993,8 +2976,6 @@
         <SubChannel iconURL="" name="韩UPTV" type="10">
             <streamURL>nU+/ZY5U5NjJtYAEDWk/v3F+T79c1242c/dunNF0VjA7AELGGxkzmqbt0xNjCIK7</streamURL>
         </SubChannel>
-    </Channel>
-    <Channel name="其他" type="32">
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/zh/thumb/1/10/CETV_logo.png/200px-CETV_logo.png" name="中国教育" type="1">
             <streamURL>eCf0k3Dq2T7JDQd2JY6w+XKaY7AIhu6ElXOeADDDQDAH4TdliQnXKLtvw+GOlmlnsCWgmdGseCrc5AzdK7gn4Q==</streamURL>
             <streamURL ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsnq1P8/txKp8i8XQhL/7tUtVzZXFglUPD8m9LvHeg/TPK0tLEraib6GXYqglIyFVU0=</streamURL>
