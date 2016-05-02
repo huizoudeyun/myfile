@@ -364,14 +364,12 @@
         </A>
     </Channel>
     <Channel name="甘肃" type="11">
-        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gansu1.png" name="甘肃卫视－高清" type="1" l="gansu,gansu" date="15,16,17" week="" bbtime="" betime="" tb="15-15:00,16-15:00,17-19:00" te="15-22:00,16-22:00,17-22:00">
+        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gansu1.png" name="甘肃卫视－高清" type="1" l="gansu,gansu">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T4TNPtGdQwCHF1kf7SCuekY=</B>
-            <B>P37Qt8albxMYCifnGe8oLv3lHqDOMoGrv/GtRwtuPNR/RDnA0d+Ua+13H7W22rg3mfzPtW5hPBdzEaPNcjaM4a/khZ7uVQc6Zlb6KnG8bQTuqBwkB8PmGvnrAW1HtF3d</B>
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7y452RWZx+tcCWBlLHm8o6bCjXfmp66BhadBo/K8dmGyQ==</B>
+            <B>P37Qt8albxMYCifnGe8oLu9y6RvjsHzups/hYvw24h/i8pa/cQaSMNA07IGq9gy+/53X2t94fMkAe2V5DiXvpKXPE8IKyhMzZVCocq9BZHVpnVgV//xxsRCY8SRPX5KG</B>
         </A>
-        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gansu1.png" name="甘肃卫视－标清" type="1" l="gansu,gansu" date="15,16,17" week="" bbtime="" betime="" tb="15-15:00,16-15:00,17-19:00" te="15-22:00,16-22:00,17-22:00">
-            <B>P37Qt8albxMYCifnGe8oLv3lHqDOMoGrv/GtRwtuPNR/RDnA0d+Ua+13H7W22rg3mfzPtW5hPBdzEaPNcjaM4a/khZ7uVQc6Zlb6KnG8bQTuqBwkB8PmGvnrAW1HtF3d</B>
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7y452RWZx+tcCWBlLHm8o6bCjXfmp66BhadBo/K8dmGyQ==</B>
+        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gansu1.png" name="甘肃卫视－标清" type="1" l="gansu,gansu">
+            <B>P37Qt8albxMYCifnGe8oLu9y6RvjsHzups/hYvw24h/i8pa/cQaSMNA07IGq9gy+/53X2t94fMkAe2V5DiXvpKXPE8IKyhMzZVCocq9BZHVpnVgV//xxsRCY8SRPX5KG</B>
         </A>
         <A iconURL="http://www.52image.com/uploadfile/200909/200909160031%C0%BC%D6%DD%B5%E7%CA%D3%CC%A8.jpg" name="兰州新闻" type="1">
             <B>G1Xoo6UpWsggf3skxJ5MbMx8zL91YJW622KRn5dBWDQ=</B>
@@ -486,12 +484,8 @@
         </A>
     </Channel>
     <Channel name="吉林" type="40">
-        <A iconURL="http://files.cnblogs.com/luxiang/channel-jltv1.ico" name="吉林卫视－高清" type="1" l="jilin,jilin">
+        <A iconURL="http://files.cnblogs.com/luxiang/channel-jltv1.ico" name="吉林卫视" type="1" l="jilin,jilin">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T1AVghTqm2DHqelNt3WHQzM=</B>
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wElbA9b4dWe6ww7UEA+N1OaJ0yVFHwbvN7J93tysP26g==</B>
-        </A>
-        <A iconURL="http://files.cnblogs.com/luxiang/channel-jltv1.ico" name="吉林卫视－标清" type="1" l="jilin,jilin">
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wElbA9b4dWe6ww7UEA+N1OaJ0yVFHwbvN7J93tysP26g==</B>
             <B ptag="3" index="1">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNskVaGBzThKkozwV8yeSQXt3LVVZ2yPqltnfeAieNLij4iAnX2V1q9KzrpsHw3qxXIE=</B>
         </A>
         <A iconURL="http://files.cnblogs.com/luxiang/channel-jltv1.ico" name="吉林综艺" type="1">
@@ -525,7 +519,7 @@
         <A iconURL="" name="长春新知" type="1">
             <B>LpnrQXANdbWfkD9zx3csNcoZPub1BpmGpTsE1aaX0k4nCqyGHgTgPhx3bkADnDtc</B>
         </A>
-        <A iconURL="" name="延边卫视" type="1" date="8" week="" bbtime="" betime="" tb="8-19:10" te="8-22:00">
+        <A iconURL="" name="延边卫视" type="1">
             <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wZDENrMHy/P2qA8Ji7mVQjwDwYChHbEv1T0Dq+M1xY6Q==</B>
             <B>XE4ZdOl4CcFVStYNV8LgIkTv8HL72QHjsnyOqAxObBw45EyvRNCpWxVL67AG/v8cCPophEJaA9RTxCwG15YoRg==</B>
         </A>
@@ -602,12 +596,8 @@
         </A>
     </Channel>
     <Channel name="辽宁" type="18">
-        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁卫视－高清" type="1" l="liaoning,liaoning">
+        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁卫视" type="1" l="liaoning,liaoning">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T/XCjZpt5sYzoCfHtEyT2oM=</B>
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7zbqnVcRooGB2TApMdws2fT5aoFARvtI3AMhI6NevPCaw==</B>
-        </A>
-        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁卫视－标清" type="1" l="liaoning,liaoning">
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7zbqnVcRooGB2TApMdws2fT5aoFARvtI3AMhI6NevPCaw==</B>
             <B ptag="3" index="1">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNskheI9gtMGaBG3k5fYkrnTbZSkIW5ouzuK5Ixr3wXM1l2hCq+FR4mlPuS7rR+W4/KA=</B>
         </A>
         <!--
@@ -893,7 +883,7 @@
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gxtv1.png" name="广西卫视－标清" type="1" l="guangxi,guangxi">
             <B ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsmbdtAE6umAZDSI8MIh2f67eDQ4zcrSWEJUqa5nT8sZeJ5ZfQiqE3h3XmUSQILAMUA=</B>
-            <B>uVZs14wvwLGKuQlRCaH+1GyidIiCMVhFE/1LlC3N8zC63TV2IYj5YC6F7rz8Ree/</B>
+            <B>P37Qt8albxMYCifnGe8oLj8HCxGxiMJPnq/9ClY4mIUYaBRP2KLyOabk3wb24nfJUJROog5Luodh8B7vBFZzmuYxudl4wfTkLXPWJUX7Gosgs67SZpFDzl2V7LTkmy0E</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gxtv1.png" name="广西综艺" type="1" l="gxzy,gxzy">
             <B>gEiVHNBqRfKOSCiPUj2/a17uR73fxTwhrQ8uJ5xDZLwRfDl5HljmqeIfm+RAdcCp96jrTrCmGS7Lawnurd7ifA==</B>
@@ -958,12 +948,12 @@
     </Channel>
     <Channel name="陕西" type="22">
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西卫视－高清" type="1" l="shan3xi,shan3xi">
-            <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZRIHJbtvnUtXqS+MqPfNLQLkJ5ARDfX8w2HK3rLqyd6wTZXfuQyRHSsom9wQuKMDW</B>
             <B>QW/CXAqXwY/X02cajpolUzM/YlT0ZKLyMkr+JAZlUJB+grcTC/bSEA4WyvnNyiBiHD7oO5oAOh/5LY/YKDuviA==</B>
+            <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZRIHJbtvnUtXqS+MqPfNLQLkJ5ARDfX8w2HK3rLqyd6wTZXfuQyRHSsom9wQuKMDW</B>
             <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7w9jTONtdQ9Mm6j26HtG21kyKS88XYqGUXTsqQymyqBaQ==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西卫视－标清" type="1" l="shan3xi,shan3xi">
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7y452RWZx+tcCWBlLHm8o6bumsm9VzvpssSK89vJtPHHw==</B>
+            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7w9jTONtdQ9Mm6j26HtG21kyKS88XYqGUXTsqQymyqBaQ==</B>
             <B>rtsp://124.115.8.76:554/sxtvs-8</B>
             <B ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsnkAH5/URfcEzHzfKzrcyL/0e2fOlr46Ex7JlCJs5kLEVWlG+3bYau2boLw8zF9L3M=</B>
         </A>
@@ -997,7 +987,6 @@
     </Channel>
     <Channel name="山西" type="21">
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-shanxi1.png" name="山西卫视" type="1" l="shan1xi,shan1xi">
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7whyN4pxJeOLjlHSI/RtsdNoG6f7twGstTLOmEWVfDOHw==</B>
             <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7xRBeG7erjW6TH4wDH/Z/S/ZiNLQN3h8YlpGvhGSIISLg==</B>
             <B ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsnzCK+bxStrZwGpGr+U73FCZ81wJEpondXw9kBfFX9uF0mfVGWD8mLM7H5CMJj1GJY=</B>
         </A>
