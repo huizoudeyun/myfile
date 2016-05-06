@@ -1506,18 +1506,6 @@
         <A iconURL="http://files.cnblogs.com/luxiang/hubei.ico" name="湖北职业指南" type="1">
             <B>lp9xC6Q0jLBjADn6wPG9UFF5WJcp1gEg2iDwCX479mlqT7Su73uyiDk/6EFFcY/NR90cFUo8w1Jcz9mEDTP0Fg==</B>
         </A>
-        <A iconURL="" name="武汉新闻" type="1">
-            <B>2+h3Ojtug5ErUIApAxg62T4iBw8hqwFSThmr61LCF1d9OjksgsBqdmyE32qTbrKMFgVnmoRQVhdIOCfc+GWdn7z+klClTwRSwG6ZUrsHDEo=</B>
-        </A>
-        <A iconURL="" name="武汉电视剧" type="1">
-            <B>2+h3Ojtug5ErUIApAxg62WIuCyTL8njgni4LnDifYtdAz5VRgH67PSZhcj2jf4eVrcIMc5yWGuu4uDaQgaO9tKpXTBZ0yAyRH524UrhoYEY=</B>
-        </A>
-        <A iconURL="" name="荆州新闻" type="1">
-            <B>Ly9eBDtZW6ESXecUKZUr6kOMlZn2PTi501N1GJWD4y82P51omfJ/4OPSodq/Rqs+SPgaSQBZioL675Td20ZXWQ==</B>
-        </A>
-        <A iconURL="" name="荆州社区" type="1">
-            <B>Ly9eBDtZW6ESXecUKZUr6kOMlZn2PTi501N1GJWD4y9h2RDrPqBz2T2+Y9i5VSm9ot4j4VIoTSQdVaaTQKOP+Q==</B>
-        </A>
         <A iconURL="" name="恩施新闻" type="1">
             <B>Ddzcj4ubjfISxuga4ZpU/yY6GuZOmEg9xFj3cxxsIPqWMl8lBgDBjBMFAM62zqXvGGM4UjdlN0xRHauBUtLlAg==</B>
         </A>
@@ -1891,10 +1879,12 @@
             <B>RjbQC4pTMWoKdFevR3Ksx6ZMGyApjlmC1URuJ2Vq9zxcNZMlUkyexZskV1+mJ7BaRqT5KDWsfj7s93ygzsMQ/wbk5tISSJ8ddii6USL0OqIW0L/kXZ5G3mdPtjyeSMJ/</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-nxtv1.png" name="宁夏公共" type="1">
-            <B>ZHt0sxuIdAc4h3A5ZnF03tM24WnY2BLhS5l+yopdzGdZpJ2JmapzqhtEjFpue5hJGC9dkdlmAJlKyTX7PF1Tdf5DiitEMJHup7JzgKWoKY0=</B>
+            <B>rtmp://218.95.143.34/live/gg_h</B>
+            <B>rtmp://218.95.143.34/live/gg_l</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-nxtv1.png" name="宁夏经济" type="1">
-            <B>ZHt0sxuIdAc4h3A5ZnF03tM24WnY2BLhS5l+yopdzGdZpJ2JmapzqhtEjFpue5hJ1srcbM24tsDN+0KwzLwH5x3OkEXrSnnzUFjuDaRnLBY=</B>
+            <B>rtmp://218.95.143.34/live/jj_h</B>
+            <B>rtmp://218.95.143.34/live/jj_l</B>
         </A>
     </Channel>
     <Channel name="西藏" type="24">
