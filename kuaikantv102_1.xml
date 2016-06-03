@@ -366,14 +366,6 @@
         </A>
     </Channel>
     <Channel name="甘肃" type="11">
-        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gansu1.png" name="甘肃卫视－高清" type="1" l="gansu,gansu" date="28,29" week="" bbtime="" betime="" tb="28-15:00,29-15:00" te="28-22:00,29-22:00">
-            <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T4TNPtGdQwCHF1kf7SCuekY=</B>
-            <B>yOekETGU1u5Mx0uftvvOZklwLsYqvBUh4MLORPZxXNzNU6syp2mxjACO2fr37iKLpFb2b69L8BETI3/cVtXaA4FHHjef9/ot5j+BD23Lun07TZ0EAkm4Q7fCv1gyM2ZFR8XRD3YKAv80JLnxM0Tchw==</B>
-        </A>
-        <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-gansu1.png" name="甘肃卫视－标清" type="1" l="gansu,gansu" date="28,29" week="" bbtime="" betime="" tb="28-15:00,29-15:00" te="28-22:00,29-22:00">
-            <B>P37Qt8albxMYCifnGe8oLu9y6RvjsHzups/hYvw24h/i8pa/cQaSMNA07IGq9gy+/53X2t94fMkAe2V5DiXvpKXPE8IKyhMzZVCocq9BZHVpnVgV//xxsRCY8SRPX5KG</B>
-            <B>yOekETGU1u5Mx0uftvvOZklwLsYqvBUh4MLORPZxXNzNU6syp2mxjACO2fr37iKLpFb2b69L8BETI3/cVtXaA4FHHjef9/ot5j+BD23Lun07TZ0EAkm4Q7fCv1gyM2ZFR8XRD3YKAv80JLnxM0Tchw==</B>
-        </A>
         <A iconURL="http://www.52image.com/uploadfile/200909/200909160031%C0%BC%D6%DD%B5%E7%CA%D3%CC%A8.jpg" name="兰州新闻" type="1">
             <B>G1Xoo6UpWsggf3skxJ5MbMx8zL91YJW622KRn5dBWDQ=</B>
             <B>G1Xoo6UpWsggf3skxJ5MbGxEpOAN0fXcSreJxRh1kZ4=</B>
@@ -1390,12 +1382,11 @@
     </Channel>
     <Channel name="海南" type="31">
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-travel1.png" name="旅游卫视－普清" type="2" l="travel,travel">
-            <B>DVFfC527qwT/KwxCcKYA4dMs0ZioGEmIddwNfoUYIqerdkHCxBRouANOebdp7sdXylACk4fqLE/sOC5YWLpCV73Xs5RLOCbB37gHY6QJ+5CjKGtJ47y+/54CVzVB8SxQNWZZGMWcYP5koflpngcfGA==</B>
+            <B>t2A5D34AIpywK3oWNLMRm+zWv6i0n30FqFHPxVw+60pSFw+2iHbNFVIjbuUDIfhcbc0d6M2vdiOF7OS1n5GF6QMIXoS6swVre/8ygJnCfYjRaLlksKDgCIhcxEQ7Sl19</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-travel1.png" name="旅游卫视－标清" type="2" l="travel,travel">
             <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wJiRoGA4cIPQeJLCme3kQY</B>
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7wJw3I8NSqFLUrluEzmbsS3</B>
-            <B>DVFfC527qwT/KwxCcKYA4dMs0ZioGEmIddwNfoUYIqerdkHCxBRouANOebdp7sdXylACk4fqLE/sOC5YWLpCV73Xs5RLOCbB37gHY6QJ+5CjKGtJ47y+/54CVzVB8SxQNWZZGMWcYP5koflpngcfGA==</B>
+            <B>t2A5D34AIpywK3oWNLMRm+zWv6i0n30FqFHPxVw+60pSFw+2iHbNFVIjbuUDIfhcbc0d6M2vdiOF7OS1n5GF6QMIXoS6swVre/8ygJnCfYjRaLlksKDgCIhcxEQ7Sl19</B>
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T36dMTkMJDqW3P15d+W5Kg0=</B>
         </A>
         <A iconURL="" name="三沙卫视" type="1">
