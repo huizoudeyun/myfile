@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.30</Version>
+    <Version>1.0.33</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -15,8 +15,8 @@
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
-    <bannerOnhomepageTime>0</bannerOnhomepageTime>
-    <loadHomeBannerAdRate_ip>0</loadHomeBannerAdRate_ip>
+    <bannerOnhomepageTime>120</bannerOnhomepageTime>
+    <loadHomeBannerAdRate_ip>1</loadHomeBannerAdRate_ip>
     <useConfigRate>5,5,5,85</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
