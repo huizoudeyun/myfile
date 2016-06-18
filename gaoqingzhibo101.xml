@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.50</Version>
+    <Version>1.1.51</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -21,8 +21,8 @@
     <Appstate>1</Appstate>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
-    <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
-    <ConfigURL>++wOS2l9N/2iJ8aGPaeYcqHEaD9rjrUtWCBWLURG4qG0YTQ2n38tSN0fLakAZK4TJUrEa1mnAYrgNC2Y9NU4bfK20mw2deCY/ojbCHrgLJxmFgj4KXEK1BIfs+pbu2ou8pd9egUvvaZgUj1IPB7+ybUT3I/0hta6PW7hObQvG4pqbYmfJ3y3P28eBwPzbdcxX+5AWM6cJDpFCftkuCG62aAvCd70Xol/IGouRMbsTQ5LkXH42y6ck2J6J9k7toW3oYG5xL8CQ0+uSIavHhDoSHcVhIn4ehBMC6T+ZuoQQVyekl+GNb0DrzrqIRmf6BspredcTs2opIYMtbLX+z5ohBg1XysrX2rQQOnGVL/kuNPWz/6JneJcaJANHYlhxWkkJbgRIQowFw+V1R41R2p6bgbVNLVehWE77lIEq1Aj6TRnY2GaVYpWP0knH8Z1nPNkd6DN6OuLRXgUNYhH/bW4RJ+PWQmJqAd7qWGlNJFty6n9xNPAlQpJSdpUbtX2rTAZ/KVYVonTFgI7QojZR1iCKQ==</ConfigURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIOSMG2jzcc9ctjGZaEzjK3KInirE3WwIQAcql28GY/3yTb4isMFg811EOUtStOG35DU8KIrOn+x5a7WzW6inIM0MNUrDtaryENvkjiNRT8wYMWPKw4aTiswxDGdCiVN0gQ==</IPAddressInfoURL>
+    <ConfigURL>Xo/gNOqapS84POAIdOmYjfDmh3d3AXHXE/iSKPiK9+hwrOynkJ3dK2cjVZutLYC6yurRkhHrRMGzouNmyQqtlQ8pUNXo/Dw6aBIJzmJFcGyF2u1L/Fz3cXvE8+UzdyeNGneX1Gyk6kZlhwtnfwjxPicTp8ST1ZZ4unHWrV05krjfG6a+inDM3tYxVVJRWVDDKsqt5Rd0Q3KBN4un1tl/yPkzROPYx4v3KkOkUFZP/Tr94MZgD4my0HpDWh2Rb5zBONSnE32MzaYgQBoJtXu34oB1IfLQ27xGhhhLJzTBOWGusnwco5Uig40IULfOfTvsExJeSKdM4WoEZ9Ztk7IusuQLaH4MEWSivndyZRxgNvE+8EWrW84WpMBWiEaZGgyYtmCJozmuRzAOJr9vC1L8KuPp2QZLPdRoB0Oj0RyOqb8dhZjzG/v7zz9zliqeN0yiAITytDceXrerWRgr6AZucvBvsmZPrsL5HgGkB8P8SJuWIVaTugcK59ACst1bekg9H0I/V4QOHyXWkisHg1922A==</ConfigURL>
 
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>

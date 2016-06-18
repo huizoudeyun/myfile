@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
     
-    <Version>1.0.63</Version>
+    <Version>1.0.64</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -13,8 +13,8 @@
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>15</reloadTime>
     <nofreshTime>25</nofreshTime>
-    <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ip>0.6</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <!--
