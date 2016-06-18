@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.96</Version>
+    <Version>1.0.99</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -11,8 +11,8 @@
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>10</reloadTime>
     <nofreshTime>20</nofreshTime>
-    <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ip>0.6</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <useConfigRate>5,5,5,85</useConfigRate>
@@ -20,7 +20,7 @@
     <Appstate>1</Appstate>
     <ConfigURL>++wOS2l9N/2iJ8aGPaeYcoRUKtSbEVtfOpzkCtXT04WSVw8tSK/dPx7ftQ9BC+2d7Hmj8cocSS0xaO97SaOvB6dW5fK0hWtpSDH5a9ufIsubmRlRcdsd2EQPKDbcXYlohoxAO+ptZ15wkKZU/+f8HCMIG4eMUQKcuojFEAaCyUo08Ljaht+KSKjYHuCnAMFyBum+XERBEW5D9SEik5CegIEa3A8F1BX3nGz2UNn+4LUtf7d0mLOVLHCnNAV8Z7zIg6akpm4MsMzlRRtXB3wTr0dJGGV5yT22rEHsg1+B6oUT4/7dJaKyg2Chpb50EBsEcBbJaodp47PODvC4Yu/KAlehyxIcgoEkOcZsStDYsBPwxlcNpKl88kQKfEXlzfoF5/6d6oVFWfRWWvmaxLxOM1qY4KfYxRIWvxW+u9ztrvQGRqaQgGPjLUSzjffkEpZ0ll8EkvDtD9um23iUJWfI+w==</ConfigURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
-    <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
 
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
@@ -35,7 +35,7 @@
         <appVersion>1.0.0</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>8</frequency>
+            <frequency>20</frequency>
             <link>https://itunes.apple.com/app/id1051594154</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>

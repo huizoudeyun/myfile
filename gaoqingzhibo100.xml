@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.93</Version>
+    <Version>1.1.96</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -12,15 +12,15 @@
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>10</reloadTime>
     <nofreshTime>20</nofreshTime>
-    <loadOpenAdRate_ip>1</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ip>0.6</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <useConfigRate>5,5,5,85</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
-    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIOSMG2jzcc9ctjGZaEzjK3KInirE3WwIQAcql28GY/3yTb4isMFg811EOUtStOG35DU8KIrOn+x5a7WzW6inIM0MNUrDtaryENvkjiNRT8wYMWPKw4aTiswxDGdCiVN0gQ==</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
     <ConfigURL>Xo/gNOqapS84POAIdOmYjfDmh3d3AXHXE/iSKPiK9+gKGBq8ovEYKiY0IJBfRtgxM9itcaofFaB7Cu+/o6HY15u9DiraG2q/dNyj14em4wYbLwElcZ2Uh8lwYxC7RBmx9dMet68kzuyBk1+VOMX8xoetlIvuzA1t98q4IZJpGgdbmXvg5JmVJ61ZLP5xo42A9ltdccx3fCSIz6GhZaMgQNtIzt4Qp2CejJwTw0q5JeT2E6DuQRqepizXACS8gI+mcPG969HQJaSsSrGWX3dMsxBO79Rzlxz7jiVSq2pHHCKkEJKGSeMsQGQshwUyjWcsQ/V83tCWsKfvxGg9ohagsHgbgUN0orRh9/d4CCUF3ZSrWANwLY/so4odCX8PkP//ayRHFB2ZO+DxlCxFVNkfQ9mgkax0Xh1Kamy0wKbocb/CYlrY0b11rJL0hef20IultRX04QCQQzPLs8YO3uo57sTeCYpg+PsCBqqQAQlhT6zB+rEKCnlgvkKs+YoxDHZiQED5czOxMckg56i3XpCc1Q==</ConfigURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
@@ -35,7 +35,7 @@
         <appVersion>1.0.1</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>8</frequency>
+            <frequency>20</frequency>
             <link>https://itunes.apple.com/app/id979828328</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>

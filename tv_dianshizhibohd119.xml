@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.54</Version>
+    <Version>1.0.57</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -26,7 +26,7 @@
 
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
-    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIOSMG2jzcc9ctjGZaEzjK3KInirE3WwIQAcql28GY/3yTb4isMFg811EOUtStOG35DU8KIrOn+x5a7WzW6inIM0MNUrDtaryENvkjiNRT8wYMWPKw4aTiswxDGdCiVN0gQ==</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
     
     <useConfigRate>5,5,5,85</useConfigRate>
     <ConfigURL>Xo/gNOqapS84POAIdOmYjX4uPtwx9Fh8f7DwJJz0h4xBWzmVeNB4UEfQx4Ux5yiSAxnCuO6F3R1fKxrYS0x4Q/lcYi8wNUU1897vcMqDfs4ofHhW3iIVcWyU/vu5Y5nEKwNXvBFta3MH0hB5BYnchlihL1lP1UV4/MXyXAvlI/bTuAaFZkDi1E1oFsyoDGlfMFToPVp0RbGyDLAHw1ri6vQHilc/IRgKRMb1Rye4FCnighutXe3mHxqMsTR0mn+n1EmyiWqK6AUS+CHsT6VaUTMZ2tQueu4KktSqKQjrXTj8/vddDCxmUsqoGJaQ03wjBEqnDtXgEXOnD5U3nWZ1eOMELlXPvb6dmQ4PBQfnKNW+5AKaax/K7Eh97Ky5IwXH+CSNnfx9aBEgY4/uuDI78iqBMFXdQNiP7wMk9SCVwx1FcLE5DxAkW/SeUvdAJvLl47+0DHnBOO16+YqBeQNNCjVBQWy8uAWL53sgJXqu6sHQGHD2oAdai51qrSfP4B0/EnOxG2V5WKFz5O5VSswCbSmqDK5MnfJ0wOfcgH26kDOrLjeZi8Htd0tTirhvH1cL</ConfigURL>
@@ -44,7 +44,7 @@
         <appVersion>1.7.0</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>8</frequency>
+            <frequency>20</frequency>
             <link>https://itunes.apple.com/app/id577723645</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>

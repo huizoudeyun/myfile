@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.35</Version>
+    <Version>1.0.38</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -11,8 +11,8 @@
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>10</reloadTime>
     <nofreshTime>20</nofreshTime>
-    <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ip>0.6</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <bannerOnhomepageTime>120</bannerOnhomepageTime>
@@ -23,7 +23,7 @@
     <severalParts>0</severalParts>
     <ConfigURL>Xo/gNOqapS84POAIdOmYjUq39+gAKeUYU24tv8QqnkWdVgRNNiyvRTrSk0sZaETdrxp0CF8HIIJTW+k+IkArST5l40mLsikrUGGJz2/anb0jvuhcg5JAiAJT7GRDYSswyxd1InLGDCidDoU5L271Pd5jJCL07t82HyFgF+MAQBL1ovuK3Y9lXZ+NTgxO20Ynm/gOc9gtQxL8fj9yap8Tnf3R27yO4EcuX+SbINxRgfoQna7Fkuav9vBdP5X3PWoan5KaRJfn/IkUGG+qV2TX3Pmann+R/IC7zucBby4/Jr2RsZ90d90JFM2pDwctssU3jMr6S4IUKiCtBY2b6WYZqMI27XCbGOd+UdLkB5HIlsyt8dHr88pxt3vxNHzq0mGPCGM23rWPsads0MJQvRnmyc3bD20JLIpytYgdGHfj/txscMDAtZ4pKVtW0Og3bJBgjiuYlL7+mlAll6NfM2Owlq6WvSZc8YR4dZK+zAO84D8=</ConfigURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
-    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIOSMG2jzcc9ctjGZaEzjK3KInirE3WwIQAcql28GY/3yTb4isMFg811EOUtStOG35DU8KIrOn+x5a7WzW6inIM0MNUrDtaryENvkjiNRT8wYMWPKw4aTiswxDGdCiVN0gQ==</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
 
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
@@ -38,7 +38,7 @@
         <appVersion>1.0.2</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>15</frequency>
+            <frequency>20</frequency>
             <link>https://itunes.apple.com/app/id979828328</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>

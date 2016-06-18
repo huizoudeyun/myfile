@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.117</Version>
+    <Version>1.0.120</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -12,8 +12,8 @@
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>10</reloadTime>
     <nofreshTime>20</nofreshTime>
-    <loadOpenAdRate_ip>1</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ip>0.6</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <useConfigRate>5,5,5,85</useConfigRate>
@@ -39,7 +39,7 @@
         <appVersion>1.2.0</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>5</frequency>
+            <frequency>20</frequency>
             <link>https://itunes.apple.com/app/id577726427</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>

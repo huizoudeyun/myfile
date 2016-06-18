@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
     
-    <Version>1.0.64</Version>
+    <Version>1.0.67</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -27,7 +27,7 @@
 
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
-    <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
     
     <useConfigRate>5,5,5,85</useConfigRate>
     <ConfigURL>Xo/gNOqapS84POAIdOmYjX4uPtwx9Fh8f7DwJJz0h4xXggpn2ienLSvRQZ+vbVia1jBAANykNrZh/akk0C1DugeecLw2KbJ2Wbr/4NTbhn0tYiB0e3xdkXaPJNnE58QYTI4UcimYjhKSekaK0scirWtH3rz6w4YhdEM8S+g/kySGFUtUUjEWoVUONF0Am+1ebStScUYJzD35KUtBVKGcurnu0KwUDJFog6zxElr7l0KtFbT6XuOAEQCBsIZFno7Q4O9UoBRB9Ucd+DEjK9XTaG613OQ3I2joIR1pavqHftAhORnLZILaBQitZiezWw9lKur6mtIHwpPNv0K5+swOOCVUdCLQ2fqNzehzyK/YdHF5TuZ2cnkHnXweT1glW6J5IjZy0VnrUTgaPTXoCDwddxAeEGyx2wFkdAMaFk/f3BdjvvgPmsBAhubPCrEMXDUITFJL7ruagpmrXocApwORYf8A6ozsKsViKeVxV4zjdBrjfJ49Z7d059dkPTEtwJ22ppBpn2YqL//xiGMx9p9qrz+4u6b4F1IhKZbar4AmaPRI4kAjflYBGI7mmx/w22eM</ConfigURL>
@@ -45,7 +45,7 @@
         <appVersion>1.6.1</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>8</frequency>
+            <frequency>20</frequency>
             <link>https://itunes.apple.com/app/id577723645</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>

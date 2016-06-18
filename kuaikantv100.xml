@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.93</Version>
+    <Version>1.1.96</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -12,8 +12,8 @@
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>10</reloadTime>
     <nofreshTime>20</nofreshTime>
-    <loadOpenAdRate_ip>1</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ip>0.6</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <useConfigRate>5,5,5,85</useConfigRate>
@@ -21,7 +21,7 @@
     <Appstate>1</Appstate>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
-    <IPAddressInfoURL>roPQO4b4EgaM1i9IYXFEtYtToUY41gC2RkpVtKTuGTU=</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
     <ConfigURL>++wOS2l9N/2iJ8aGPaeYcs48w2MdKv/KsxmMmDlf3aYp8mZvyPfj67aDRuOKWkNuVv4IZzY6HvV+/BdfZhrSEj/cMskRRl/oM5sSyTrPNoj7ntphOqDt339Zbhv/mxm3STTT1+jmdpYWo2DRHHvwnhGzGBZy4GABy9nOmI1ZQUOd6waWi7Psn+OgxnvPAACU3YcMurOMIuVM0+Hp30WFu7lcVuM13jRUY2Mz3P5lLOD9NNZmoA5iUlbNniQZbXPF2A6+b7ue1HlU/2512+d5JU1hh6W6hekFUVb685YGo1vScBw9fVKCclF02SrK39IgQjks2Ws/OlyA40THHfOm2jFjMXaF0VRyYm4Wlw+Z8O8MgjXcsTSVz4bjpzunICEYz6/t0cNFZ5sRApmArXgdL/NB6XvLWnShbNPMfRjUB0zDTpWCvQBP/NYw4sGrIptPyuUDpoX7ChWuKzIsYGCoo3+MNmAASLbd60TMnCAqVScghxuicliUQX5+RdI4eWAf</ConfigURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
@@ -36,7 +36,7 @@
         <appVersion>1.0.1</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>8</frequency>
+            <frequency>20</frequency>
             <link>https://itunes.apple.com/app/id991675873</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>

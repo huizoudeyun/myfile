@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>2.5.44</Version>
+    <Version>2.5.47</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -11,8 +11,8 @@
     <bufferTime4Reload>10</bufferTime4Reload>
     <reloadTime>3</reloadTime>
     <nofreshTime>5</nofreshTime>
-    <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ip>0.6</loadOpenAdRate_ip>
+    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <use1stConfigRate>0.5</use1stConfigRate>
@@ -20,7 +20,7 @@
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <useConfigRate>5,5,5,85</useConfigRate>
     <ConfigURL>Xo/gNOqapS84POAIdOmYjYtV7p8UBxSJS7bdK0HviZGq5GaTavoefgpPcUD+EAJMMj0S9v4yLO8O0WSq1EZ2YrbVmsC9KGy8lsD7I2eD1VYYbgK/IjZkt+/uoub5WFCrnw8+PfE3RaLT16d/2dW7PrJkRWKNX92KNPha4VsHkDaOYVPO/YsDP6fqy95nZQo7KzdT+Wt6ARBxEpl3R3ehTDOBDhpwgN6He9Im/R5MiZmAY9Jvi3zPZp42U+Qs2NFulebWOt0GuAiKfdjM2hPIXjD3CalbZqAqxUap9KqO9yQzsvsVEEiTlMGufoABsivouxi1ykPsx6yVlun9XUQjj+q2aCoKTcgH97j3NkESFYN7gCe+xdQhLCrleDmKM2BSoT1TxzlcZfVU+fkGHzGYc6TORpE7l6nNhJZMXCY07bIZrS0Kl61pjRFwfzJOiFZ2xNfN2WUtZjOYzlgFTj+kEp7NU/BRFlYQfmwjXUjC91lNpZm/jn9vpQNtaBodX5SK1ZO39ZGm6hxkazYJXUN/BswQzLE0Sr1FQYjfXCZFSWRzUxQvP+Kx/C3VBMImk5eWZwJHK5k45g43jMlwlIq+WrrOPQ/pwatYA2+cBP0vLfJ7XyJsJZIL3GAO07Vxwbv1P4oPMrIm7lsFkKFO1duieNdlJsmR5SU1hMeLGW0U5vc=</ConfigURL>
-    <IPAddressInfoURL>http://127.0.0.1</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
     <Appstate>1</Appstate>
 
     <Ads>
@@ -39,7 +39,7 @@
         <appVersion>2.5.1</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>8</frequency>
+            <frequency>20</frequency>
             <link>https://itunes.apple.com/app/id788605489</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
