@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.122</Version>
-    <isClearFavCh>0</isClearFavCh>
-    <isClearRecentCh>0</isClearRecentCh>
-    <isClearCustomCh>0</isClearCustomCh>
+    <Version>1.0.124</Version>
+    <isClearFavCh>1</isClearFavCh>
+    <isClearRecentCh>1</isClearRecentCh>
+    <isClearCustomCh>1</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
     <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
     <avoptions>user-agent==AppleCoreMedia/1.0.0.14C109 (Macintosh; U; Intel Mac OS X 10_10_2; zh_cn)</avoptions>
@@ -18,7 +18,7 @@
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <useConfigRate>5,5,5,85</useConfigRate>
     
-    <ConfigURL>++wOS2l9N/2iJ8aGPaeYcnY1j4XD1DwWqsBV8lJGr7dYSmFZNtEBd0S4TahzKbwCOdtCGAILk/9k2SFenkSKMXGzAFA4wmh8459CkkcCkieviQJYkWoXAIfJP7Es863EfAMsC9nvyluU4EKlmzimuuH30lQ1DObVOFjnWSmKLQnjK9iOVJ3TeHjP15h2Iap6go+7UGhim8dL0A8d/oIpCuBWgmEDsdXXOu4J2DPRZV5FYI9virZufkmsXtQGSYR06+nia5fKtVSsZ5LH1HQYki0vmV3PEuF+f4VuyOLhqIHaowxWm5TsH0KGzwCMGa5wOXQ/H9eCKDxpoBQ6UTBvqsJbr4KWTCq8ShQPmX+BxvPRiL+xE94oF1UIbc+C/Sb0L2KFOHcahmdWS7viHXNQb82pJcs++RIaxNXROisou7kqU+VkNCBOJCjiLZXXsfLFu8wSyMo31kKvelcpySooPikyvsh16SxWYTpno+ceoP7QdYY/nSs9RvIyLv5x5tqBT0WiEeyIGr0NW4FymAorktPXSdcA5w/dNZE6h19RahOsNryp2KJKHrFiNrqUiQLg4stE9rJKuuQuDa6ziyy5m5HRavWiD2fjOB+OVb607SjhYWq0ElpjmQkAg0p8gL6gkVK3GjUDjt/Z1MC/ebm8RpsgMqTm5AOfJlyVh4CLAxJv8g+L9AnGsTG8mFGYVJe1n8vln7i8hpHmaSB2BEWFvwco6v7moqSszL8uP9wGJ6E=</ConfigURL>
+    <ConfigURL>Xo/gNOqapS84POAIdOmYjYtV7p8UBxSJS7bdK0HviZGq5GaTavoefgpPcUD+EAJMu+aySPj0I5bwdqeHKPDwb7Na3G3MVO9xg7feRwxuuwbcGVrt6J9xRRv5xQpzYIHvhr99x3Esh5IF5HxN4UfTKr2t43UgN3eiAwGp8MwYZRwZdfX7F2O6TA5ge7QVTLyc2RNh+tBn8OLd3GQYgYuO5Cut8YjstenCJoBa33cXTWZH4KLsolP5UjpD0ceiIUzHkHI/n5Tf+fK7PDV0Tl77XGuVNozZcGWK7PQN+pwCHIEEVy8Ji8EXNW1EEmI8tqZoOMWZPfLOsbwg/wOB+7EvmDPBktKv3M6awYpPxAC2WgyfhHvG4tdvvz6vQLSO0ZAR0/j6zODT83Ec6iOeaWhAt4+dCiRtHKdGVjbFQRX+wCciwCskeh2/mi549TzhhybN4/wdz7jOx/BaNFIm7dbJ0TmasOZZ1/l+l/Tjz429r5FuxpOR3eBcHYFU0fpykQ5ANtSOtZinYx+x/I/bTxXtcRLCqvGYB2rMQkeyh1is9ThbvfGEw2JHYqNklUrTlNau9iI24NHgutKFUK3iV/L+kNOH9G5bMvxx9pOWZYm3QNMzmhgMc5mLNmTUpSVLsqYFH64Pgh1AXG5VdBJMzmWUx/qW40zByDahCGOjScM5pG8cknQSGa8teSQ6kVmqQU0Xe3liJQaK6uQGJYT+aSLth1vf+qyw3m/GlBCU7RHAazU=</ConfigURL>
     
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
@@ -154,48 +154,6 @@
             <streamURL>rtmp://58.200.131.2:1935/livetv/cctv1hd</streamURL>
             <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctms6FcLgGqRGcfluJZFCeiYamqIJVSHVEabbZpoitJT85Ire/lMtZyevEgQmYP2Rwg==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－标清" type="1" l="cctv5,cctv5">
-            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+KwdAYbpjawgXPvxSewvCMpg=</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+fKHTbXFax4NXj0QXv4nn+GtSUtfLfbzK2LFqprQVpfa2vC++RAjDwBDSovvWtT22Q==</streamURL>
-            <streamURL>dXXz/Ay3SkLi5V5qFtu3Bp4EMR+8SOyy+BvFBUKsD32M/0mwH4f0jmHUWVb/BGqNGK35fMb+ePe1A26GzaGLVg==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－普清" type="1" l="cctv5,cctv5">
-            <streamURL>rtmp://202.117.80.19:1935/live/live1</streamURL>
-            <streamURL>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZodhV0xv7lzLUWeo4UYPgomYJ2jKnqrxrjXNfcNrFvDNsbNqilQg1w+A0U5fLVg/3</streamURL>
-            <streamURL>rtmp://203.207.99.19:1935/live/CCTV5</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－高清" type="1" l="cctv5,cctv5">
-            <streamURL>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZodhV0xv7lzLUWeo4UYPgomYJ2jKnqrxrjXNfcNrFvDNsbNqilQg1w+A0U5fLVg/3</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+－普清" type="1" l=",cctv5plus">
-            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+K3WEDYlqY8TOS7vRkgMbcjr+nPee0+pKLtUFeM+oa7CU</streamURL>
-            <streamURL>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZl3i3KLJH9OFZgU4Bw1RwIeD5D+vHHM5V5bG9ObHkRo2IBKLEqs7FLwzIoxbkGsIT</streamURL>
-            <streamURL>rtsp://61.158.153.197:554/wasuzx_cu_qcif</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+－高清" type="1" l=",cctv5plus">
-            <streamURL>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZl3i3KLJH9OFZgU4Bw1RwIeD5D+vHHM5V5bG9ObHkRo2IBKLEqs7FLwzIoxbkGsIT</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育－标清" type="6" l=",btv6">
-            <streamURL>3qYmU+XG6EIPB2q0iXYOKwgfx84pyqOYi1cOXS7e42PrmGlcyxbw6o6GeIoGDGjd</streamURL>
-            <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxb1A3Eti+nF0TKXRrP8ZaInkazfCioVbNsdgyF8bzAlVix408yIDO6ZfVsQPZxVO44=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育－高清" type="6" l=",btv6">
-            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALS0Ug6t6qcnDl5aQVaZbEZlXHJmhNsyZGgzSVtxGnhBLk=</streamURL>
-            <streamURL ptag="1">bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxb1A3Eti+nF0TKXRrP8ZaInkazfCioVbNsdgyF8bzAlVix408yIDO6ZfVsQPZxVO44=</streamURL>
-            <streamURL>3qYmU+XG6EIPB2q0iXYOKwgfx84pyqOYi1cOXS7e42PrmGlcyxbw6o6GeIoGDGjd</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育－流畅" type="3">
-            <streamURL>rtsp://58.248.254.8:554/tvlive/gdty-l.sdp</streamURL>
-            <streamURL>3TpmI34LoLg171zWQgJPh06bWQYq2/jsoRkNFFVRRjWIQxfD13y20CEqF+i9R353miYyejnPtxjT/GoJAQX3hw==</streamURL>
-            <streamURL>OIXglKk24o5aYFZE8dWrqFdF4rOkp10LWnzpmOytm4q5Ae1PYyP4/WWlJqDWB+BlgFY4mPtMiFLJV/7QhkFGIQ==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育－标清" type="3">
-            <streamURL>OIXglKk24o5aYFZE8dWrqFdF4rOkp10LWnzpmOytm4q5Ae1PYyP4/WWlJqDWB+BlgFY4mPtMiFLJV/7QhkFGIQ==</streamURL>
-            <streamURL>rtsp://58.248.254.8:554/tvlive/gdty-l.sdp</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://photocdn.sohu.com/20120529/Img344336334.jpg" name="劲爆体育" type="3">
-            <streamURL>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYjZlJEe6FViEL+LbCqN9y96n+1icDVDoI8Qm0mHpibtpt8OmQxwBfv+lDRbEqx0E9rQx05RH2/pdNopQK85BfSZ+DslfrVKECUMotaz+dL2A==</streamURL>
-        </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-phoenix1.png" name="凤凰卫视中文台" type="1">
             <streamURL>LZkEKErVgI9rYemh6Xyes3ACYfmW5PlbWhjxs0QhMpN88afcogP9Nhs6Uo3S3UQ3</streamURL>
         </SubChannel>
@@ -222,7 +180,7 @@
     </Channel>
     <Channel name="央视" type="2">
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1－流畅" type="1" l="cctv1,cctv1">
-            <streamURL>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZjLSmSdY19z0/NPB6DOuMB0RlsrMj9qkg6HJpx0UsO1wnLTsFRBBvAfeMFW2KCYOb</streamURL>
+            <streamURL ptag="1">CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZjLSmSdY19z0/NPB6DOuMB0RlsrMj9qkg6HJpx0UsO1wnLTsFRBBvAfeMFW2KCYOb</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyLpfILJJGwBtN1aCmMUk6Q=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1－普清" type="1" l="cctv1,cctv1">
