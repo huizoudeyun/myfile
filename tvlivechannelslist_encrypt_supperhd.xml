@@ -1,49 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.126</Version>
+    <Version>10.2.182</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
-    <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
-    <avoptions>user-agent==AppleCoreMedia/1.0.0.14C109 (Macintosh; U; Intel Mac OS X 10_10_2; zh_cn)</avoptions>
+    <relatedChannelInfoURL>http://luzizi1.blog.163.com/blog/static/1965381912011976358342/</relatedChannelInfoURL>
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.7.2</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
-    <reloadTime>10</reloadTime>
-    <nofreshTime>20</nofreshTime>
-    <loadOpenAdRate_ip>0.6</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
-    <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
-    <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
-    <useConfigRate>5,5,5,85</useConfigRate>
+    <reloadTime>3</reloadTime>
     
-    <ConfigURL>Xo/gNOqapS84POAIdOmYjYtV7p8UBxSJS7bdK0HviZGq5GaTavoefgpPcUD+EAJMu+aySPj0I5bwdqeHKPDwb7Na3G3MVO9xg7feRwxuuwbcGVrt6J9xRRv5xQpzYIHvhr99x3Esh5IF5HxN4UfTKr2t43UgN3eiAwGp8MwYZRwZdfX7F2O6TA5ge7QVTLyc2RNh+tBn8OLd3GQYgYuO5Cut8YjstenCJoBa33cXTWZH4KLsolP5UjpD0ceiIUzHkHI/n5Tf+fK7PDV0Tl77XGuVNozZcGWK7PQN+pwCHIEEVy8Ji8EXNW1EEmI8tqZoOMWZPfLOsbwg/wOB+7EvmDPBktKv3M6awYpPxAC2WgyfhHvG4tdvvz6vQLSO0ZAR0/j6zODT83Ec6iOeaWhAt4+dCiRtHKdGVjbFQRX+wCciwCskeh2/mi549TzhhybN4/wdz7jOx/BaNFIm7dbJ0TmasOZZ1/l+l/Tjz429r5FuxpOR3eBcHYFU0fpykQ5ANtSOtZinYx+x/I/bTxXtcRLCqvGYB2rMQkeyh1is9ThbvfGEw2JHYqNklUrTlNau9iI24NHgutKFUK3iV/L+kNOH9G5bMvxx9pOWZYm3QNMzmhgMc5mLNmTUpSVLsqYFH64Pgh1AXG5VdBJMzmWUx/qW40zByDahCGOjScM5pG8cknQSGa8teSQ6kVmqQU0Xe3liJQaK6uQGJYT+aSLth1vf+qyw3m/GlBCU7RHAazU=</ConfigURL>
-    
-    <isOpenLoadConfig>1</isOpenLoadConfig>
-    <Appstate>1</Appstate>
-
-<playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
-<playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
-
-   <Ads>
+    <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
         <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">15</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">10</AdsRate>
-    </Ads> <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm,</supportFormat>
+        <AdsRate Name="FullAdFrequency">10</AdsRate>
+    </Ads>
+    <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
     <supportWifiTransfter>1</supportWifiTransfter>
-    <supportNotWifi>1</supportNotWifi>
+    
+    <supportNotWifi>0</supportNotWifi>
+    
     <Tips>
-        <appVersion>1.2.0</appVersion>
+        <appVersion>2.1.0</appVersion>
         <info>
             <valid>1</valid>
             <frequency>20</frequency>
-            <link>https://itunes.apple.com/app/id577726427</link>
+            <link>http://itunes.apple.com/cn/app/id577726427</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
     </Tips>
+    
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.zhiboba.cc/zbbimg/hunanweishi.jpg" name="湖南卫视－高清" type="1" l="hunan,hunan">
