@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.44</Version>
+    <Version>1.0.45</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -104,6 +104,7 @@
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-szmg1.png" name="深圳卫视－标清" type="2" l="shenzhen,shenzhen">
             <B ptag="1">CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZPXFuUONKf/S6DNTHSTB754sgBYd6nzf1uQ1KMQmmv36dfdCdxrC+flHjn/5QyGrV</B>
+            <B>zvl18gmYqnxyRsgPKucRfikQ6i608mjyWLyNPXBcr/OOKz7gDnm6UBjoHc4VG/11w1+allXkPwhJaAO6JffnPw==</B>
             <B>Mtl1YrkCqvHULwCDUsQTImmIIu+1yzTfx3YCXJisGo4=</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-szmg1.png" name="深圳卫视－高清" type="2" l="shenzhen,shenzhen">
@@ -118,7 +119,8 @@
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-guangdongnews1.png" name="广东卫视－流畅" type="1" l="guangdong,guangdong">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs1RClBZ1hZpm6/YexRRGq2Bno2POsCrR33z8En4xGhrQiiP2K/S9ZCxF6KJj+BFp</B>
-            <B>+moR95cVYLpeA+djdaqwW2WBkRGSwV98ocs5RWGsn7w1UWzpZzHv/EYsPb8PGdd+</B>
+            <B>zvl18gmYqnxyRsgPKucRfikQ6i608mjyWLyNPXBcr/OOKz7gDnm6UBjoHc4VG/11w1+allXkPwhJaAO6JffnPw==</B>
+            <B>q4lLpvRBp1OazQhOuo5HDcyvqvrfoKd45gXEp87+QztplWVkdkXxjjxs2Yvxzbk32cQxa68GUrwBbtZKeAmWDQ==</B>
             <B ptag="3" index="1">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsmQWhjzw6dzvhrRmYOzC+ll+AHIsr/eBVfHCdC8Cz7u2jNRqQlCnRbK5aFBBBcluoQ=</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-ctv1.png" name="重庆卫视－普清" type="1" l="chongqing,chongqing">
@@ -152,6 +154,48 @@
             <B>YE+SyEsGtZkoQK6PluvpJ2BUMjsBbQcEqLiMf/aVFnWfgl+sqUZNN7JdXM2CzKJOGEtIsU6cam+tsxkeMlNFmQ==</B>
             <B>rtmp://58.200.131.2:1935/livetv/cctv1hd</B>
             <B>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctms6FcLgGqRGcfluJZFCeiYamqIJVSHVEabbZpoitJT85Ire/lMtZyevEgQmYP2Rwg==</B>
+        </A>
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－标清" type="1" l="cctv5,cctv5" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国" date="25" week="" bbtime="" betime="" tb="25-14:30" te="25-17:00">
+            <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+KwdAYbpjawgXPvxSewvCMpg=</B>
+            <B>eCf0k3Dq2T7JDQd2JY6w+fKHTbXFax4NXj0QXv4nn+GtSUtfLfbzK2LFqprQVpfa2vC++RAjDwBDSovvWtT22Q==</B>
+            <B>dXXz/Ay3SkLi5V5qFtu3Bp4EMR+8SOyy+BvFBUKsD32M/0mwH4f0jmHUWVb/BGqNGK35fMb+ePe1A26GzaGLVg==</B>
+        </A>
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－普清" type="1" l="cctv5,cctv5" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国" date="25" week="" bbtime="" betime="" tb="25-14:30" te="25-17:00">
+            <B>rtmp://202.117.80.19:1935/live/live1</B>
+            <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZodhV0xv7lzLUWeo4UYPgomYJ2jKnqrxrjXNfcNrFvDNsbNqilQg1w+A0U5fLVg/3</B>
+            <B>rtmp://203.207.99.19:1935/live/CCTV5</B>
+        </A>
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－高清" type="1" l="cctv5,cctv5" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国" date="25" week="" bbtime="" betime="" tb="25-14:30" te="25-17:00">
+            <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZodhV0xv7lzLUWeo4UYPgomYJ2jKnqrxrjXNfcNrFvDNsbNqilQg1w+A0U5fLVg/3</B>
+        </A>
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+－普清" type="1" l=",cctv5plus" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国">
+            <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+K3WEDYlqY8TOS7vRkgMbcjr+nPee0+pKLtUFeM+oa7CU</B>
+            <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZl3i3KLJH9OFZgU4Bw1RwIeD5D+vHHM5V5bG9ObHkRo2IBKLEqs7FLwzIoxbkGsIT</B>
+            <B>rtsp://61.158.153.197:554/wasuzx_cu_qcif</B>
+        </A>
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+－高清" type="1" l=",cctv5plus" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国">
+            <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZl3i3KLJH9OFZgU4Bw1RwIeD5D+vHHM5V5bG9ObHkRo2IBKLEqs7FLwzIoxbkGsIT</B>
+        </A>
+        <A iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育－标清" type="6" l=",btv6" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国" date="25" week="" bbtime="" betime="" tb="25-19:00" te="25-21:30">
+            <B>3qYmU+XG6EIPB2q0iXYOKwgfx84pyqOYi1cOXS7e42PrmGlcyxbw6o6GeIoGDGjd</B>
+            <B>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxb1A3Eti+nF0TKXRrP8ZaInkazfCioVbNsdgyF8bzAlVix408yIDO6ZfVsQPZxVO44=</B>
+        </A>
+        <A iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育－高清" type="6" l=",btv6" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国" date="25" week="" bbtime="" betime="" tb="25-19:00" te="25-21:30">
+            <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALS0Ug6t6qcnDl5aQVaZbEZlXHJmhNsyZGgzSVtxGnhBLk=</B>
+            <B ptag="1">bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxb1A3Eti+nF0TKXRrP8ZaInkazfCioVbNsdgyF8bzAlVix408yIDO6ZfVsQPZxVO44=</B>
+            <B>3qYmU+XG6EIPB2q0iXYOKwgfx84pyqOYi1cOXS7e42PrmGlcyxbw6o6GeIoGDGjd</B>
+        </A>
+        <A iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育－流畅" type="3" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国" date="24,26" week="" bbtime="" betime="" tb="24-19:00,26-14:30" te="24-21:30,26-17:00">
+            <B>rtsp://58.248.254.8:554/tvlive/gdty-l.sdp</B>
+            <B>3TpmI34LoLg171zWQgJPh06bWQYq2/jsoRkNFFVRRjWIQxfD13y20CEqF+i9R353miYyejnPtxjT/GoJAQX3hw==</B>
+            <B>OIXglKk24o5aYFZE8dWrqFdF4rOkp10LWnzpmOytm4q5Ae1PYyP4/WWlJqDWB+BlgFY4mPtMiFLJV/7QhkFGIQ==</B>
+        </A>
+        <A iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育－标清" type="3" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国" date="24,26" week="" bbtime="" betime="" tb="24-19:00,26-14:30" te="24-21:30,26-17:00">
+            <B>q4lLpvRBp1OazQhOuo5HDfl2RCoFfg5HYZ5sQnwrZH847Uc54grVaEzAGx5+rJnh8Ns5KyJpJZKl3lcbydg0/A==</B>
+            <B>rtsp://58.248.254.8:554/tvlive/gdty-l.sdp</B>
+        </A>
+        <A iconURL="http://photocdn.sohu.com/20120529/Img344336334.jpg" name="劲爆体育" type="3" geo="1,2,11,12,31,32,33,43,44,50,81,82,美国,英国,法国" date="25" week="" bbtime="" betime="" tb="25-19:00" te="25-21:30">
+            <B>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYjZlJEe6FViEL+LbCqN9y96n+1icDVDoI8Qm0mHpibtpt8OmQxwBfv+lDRbEqx0E9rQx05RH2/pdNopQK85BfSZ+DslfrVKECUMotaz+dL2A==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-phoenix1.png" name="凤凰卫视中文台" type="1" geo="1,2,11,12,31,43,44,81,82,美国,英国,法国">
             <B>LZkEKErVgI9rYemh6Xyes3ACYfmW5PlbWhjxs0QhMpN88afcogP9Nhs6Uo3S3UQ3</B>
@@ -1636,6 +1680,18 @@
         </A>
         <A iconURL="" name="亳州都市" type="6">
             <B>rtmp://218.22.251.12/tslsChannelLive/gdhS3fc/live</B>
+        </A>
+        <A iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.7.2_4058.jpg" name="芜湖综合" type="6">
+            <B>tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaSA6BMkrmA9jSENqb5EtxXVcdtL1Tp+LV+QUnojmOt3w==</B>
+        </A>
+        <A iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.8.29_3726.jpg" name="芜湖生活" type="6">
+            <B>tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGg5xQAhJrO/O7JhGkzfglbebeVZyCI57woRkcUjfn5A==</B>
+        </A>
+        <A iconURL="http://www.jiarui.cc/meitipic/2011.8.31_16.14.43_7609.jpg" name="芜湖公共" type="6">
+            <B>tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGYJNSD2K9qXA9S3irCGtpX3/LuequdwyXkjvXZrOSfA==</B>
+        </A>
+        <A iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.7.2_4058.jpg" name="芜湖教育" type="6">
+            <B>tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSZ1Bar7leTy3hapHJPf9jOPHjE8rCna3+JzqsVZrfl7uA==</B>
         </A>
     </Channel>
     <Channel name="河北" type="33">
