@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.117</Version>
+    <Version>1.0.119</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -1672,16 +1672,16 @@
             <streamURL>rtmp://218.22.251.12/tslsChannelLive/gdhS3fc/live</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.7.2_4058.jpg" name="芜湖综合" type="6">
-            <streamURL ptag="1">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaSA6BMkrmA9jSENqb5EtxXVcdtL1Tp+LV+QUnojmOt3w==</streamURL>
+            <streamURL h="Referer==http://www.wuhubtv.com/||User-Agent==VLC/2.1.5 LibVLC/2.1.5">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaSA6BMkrmA9jSENqb5EtxXVcdtL1Tp+LV+QUnojmOt3w==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.8.29_3726.jpg" name="芜湖生活" type="6">
-            <streamURL ptag="1">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGg5xQAhJrO/O7JhGkzfglbebeVZyCI57woRkcUjfn5A==</streamURL>
+            <streamURL ptag="1" h="Referer==http://www.wuhubtv.com/||User-Agent==VLC/2.1.5 LibVLC/2.1.5">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGg5xQAhJrO/O7JhGkzfglbebeVZyCI57woRkcUjfn5A==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.jiarui.cc/meitipic/2011.8.31_16.14.43_7609.jpg" name="芜湖公共" type="6">
-            <streamURL ptag="1">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGYJNSD2K9qXA9S3irCGtpX3/LuequdwyXkjvXZrOSfA==</streamURL>
+            <streamURL ptag="1" h="Referer==http://www.wuhubtv.com/||User-Agent==VLC/2.1.5 LibVLC/2.1.5">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGYJNSD2K9qXA9S3irCGtpX3/LuequdwyXkjvXZrOSfA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.7.2_4058.jpg" name="芜湖教育" type="6">
-            <streamURL ptag="1">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSZ1Bar7leTy3hapHJPf9jOPHjE8rCna3+JzqsVZrfl7uA==</streamURL>
+            <streamURL h="Referer==http://www.wuhubtv.com/||User-Agent==VLC/2.1.5 LibVLC/2.1.5">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSZ1Bar7leTy3hapHJPf9jOPHjE8rCna3+JzqsVZrfl7uA==</streamURL>
         </SubChannel>
     </Channel>
     <Channel name="河北" type="33">
@@ -2903,13 +2903,10 @@
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西都市" type="1">
             <streamURL>Hir6jE165V+xu6/M1BBc9L80Mq/rMDDLKCnwp5R9t8xTQPkwi7t+bnPH5A5TOaFDjkEShiK2tzASJ8jjm5gbSA==</streamURL>
-            <streamURL ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNskxENpFWsNLu9v5Q7nO8dxmaw4JLdtH0529kpJa95cBSX1n4Rappz48C/GPBbt1xHU=</streamURL>
+            <streamURL ptag="3" index="1">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNskxENpFWsNLu9v5Q7nO8dxmaw4JLdtH0529kpJa95cBSX1n4Rappz48C/GPBbt1xHU=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西生活" type="1">
             <streamURL>QW/CXAqXwY/X02cajpolUzM/YlT0ZKLyMkr+JAZlUJDT/qvbP4Y5FRftAldAGh3iU7hNR7UByRw9K1qOSgj3cQ==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西影视" type="1">
-            <streamURL ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsnYyGLwDMj9F+jJ4SCCWTUkrajB+gA3TfovpeYCXoJzo67y8HmxPjz1GFDKxgFkNVI=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西公共" type="1">
             <streamURL>Hir6jE165V+xu6/M1BBc9L80Mq/rMDDLKCnwp5R9t8zKGPYOzjllwUHP8K+p/YPRIiGqA5Cr439RXR9h3oHs5w==</streamURL>

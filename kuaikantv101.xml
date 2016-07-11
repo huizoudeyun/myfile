@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.65</Version>
-    <isClearFavCh>1</isClearFavCh>
-    <isClearRecentCh>1</isClearRecentCh>
-    <isClearCustomCh>1</isClearCustomCh>
+    <Version>1.1.67</Version>
+    <isClearFavCh>0</isClearFavCh>
+    <isClearRecentCh>0</isClearRecentCh>
+    <isClearCustomCh>0</isClearCustomCh>
     <isEncrypt>1</isEncrypt>
     <relatedChannelInfoURL>http://www.bing.com</relatedChannelInfoURL>
     <avoptions>user-agent==AppleCoreMedia/1.0.0.14C109 (Macintosh; U; Intel Mac OS X 10_10_2; zh_cn)</avoptions>
@@ -22,7 +22,7 @@
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
     <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
-    <ConfigURL>++wOS2l9N/2iJ8aGPaeYcs48w2MdKv/KsxmMmDlf3aaF/DF43i2Mt7ia9gStNndWbV0gz/mxMclSuUGrVbr/n69747b7iDgEkYzh37RnlGtkXEO+MyrGsaJezC6z9OtreB8dL9qBa3GAL9eXMrd8hSP2JjLOZSNeRWukoQSmToEiTANMEZ/3Dtxy+ecuOBZNIVr2XV3h+KvrDxsFhf8W4Znl3FUCE81sqolwfntl7AvYy4nCAhZwnZ3KRWkL3AbSlysEqR4FkKBzU7pG0/rm1VtItR5eEy2q5nznJs4iJa1ZWeE/ESpm/VgCd/F7x1II0KWRN8Qa6mmHuFnM2fFyhQ4Dn/y1j3xEb+3rmolmOtwFtGN8Rm39RYskMU1C5jw3XZm+jNlxteRdXnxWFkKXlWczaohlYzW1ZpZPehRCUq2FhRaHr/e/YrzV4ndH+lfAX/b79rfzmQ+Quvd7LPd+3wM7SHNcs/ii7X40q0z8a+WIDUe1aoKB+aysmq+8Qsj7</ConfigURL>
+    <ConfigURL>Xo/gNOqapS84POAIdOmYjVAA3lWObMGicMELNXK1tjRble9Og0OqkmHTsvxvMMDRcgGda8uq1luEhCWx5j0kEblGOt7LEKw+3Q5E0nwhnjBLpeh+HUni0Ctyx76t1xdxn7VCe6QfGHvhn46c//du1wDZ/0zRqdIXMs4mz23nxlaZr17Y3a7t1vCmsiYQHJ1s6Rxjq2FMMb0R9Qmvan6e35Mlv1KJcBU1OrQIce1YesUZ7Vu1cWzY3mv/at8vlHnXL8Rt3VERKTupEY6F21cxLIaSP8RJ00KPH+X1tpgdiI538A520HeeAmI43OqqRNQIDtL64Q5IIX9ZCknAYr8BAeSNSnQCrGUztlEmtr2IrCmm+i53fcATeaYdxQk9p7iYbT8WKyZ5d4QZlRZ6E8iFcmg7eOySvU7XfCwHYJsc5vqfncNg9xN2NrjoEhitkbrg1s71S0B9pMhqms8uvd6hfMBd9D6iSTrJ1V+/Y8wt6b48daVrPXEdnU5ZxOdpNqFE</ConfigURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
@@ -1672,16 +1672,16 @@
             <streamURL>rtmp://218.22.251.12/tslsChannelLive/gdhS3fc/live</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.7.2_4058.jpg" name="芜湖综合" type="6">
-            <streamURL ptag="1">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaSA6BMkrmA9jSENqb5EtxXVcdtL1Tp+LV+QUnojmOt3w==</streamURL>
+            <streamURL h="Referer==http://www.wuhubtv.com/||User-Agent==VLC/2.1.5 LibVLC/2.1.5">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaSA6BMkrmA9jSENqb5EtxXVcdtL1Tp+LV+QUnojmOt3w==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.8.29_3726.jpg" name="芜湖生活" type="6">
-            <streamURL ptag="1">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGg5xQAhJrO/O7JhGkzfglbebeVZyCI57woRkcUjfn5A==</streamURL>
+            <streamURL ptag="1" h="Referer==http://www.wuhubtv.com/||User-Agent==VLC/2.1.5 LibVLC/2.1.5">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGg5xQAhJrO/O7JhGkzfglbebeVZyCI57woRkcUjfn5A==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.jiarui.cc/meitipic/2011.8.31_16.14.43_7609.jpg" name="芜湖公共" type="6">
-            <streamURL ptag="1">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGYJNSD2K9qXA9S3irCGtpX3/LuequdwyXkjvXZrOSfA==</streamURL>
+            <streamURL ptag="1" h="Referer==http://www.wuhubtv.com/||User-Agent==VLC/2.1.5 LibVLC/2.1.5">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSaGYJNSD2K9qXA9S3irCGtpX3/LuequdwyXkjvXZrOSfA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cbdcctv.com/meitipic/2011.8.31_16.7.2_4058.jpg" name="芜湖教育" type="6">
-            <streamURL ptag="1">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSZ1Bar7leTy3hapHJPf9jOPHjE8rCna3+JzqsVZrfl7uA==</streamURL>
+            <streamURL h="Referer==http://www.wuhubtv.com/||User-Agent==VLC/2.1.5 LibVLC/2.1.5">tFR4hEdjLKSyeKV/SKcmk2IbKvr0THx0UaBg/pfwUSZ1Bar7leTy3hapHJPf9jOPHjE8rCna3+JzqsVZrfl7uA==</streamURL>
         </SubChannel>
     </Channel>
     <Channel name="河北" type="33">
@@ -2903,13 +2903,10 @@
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西都市" type="1">
             <streamURL>Hir6jE165V+xu6/M1BBc9L80Mq/rMDDLKCnwp5R9t8xTQPkwi7t+bnPH5A5TOaFDjkEShiK2tzASJ8jjm5gbSA==</streamURL>
-            <streamURL ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNskxENpFWsNLu9v5Q7nO8dxmaw4JLdtH0529kpJa95cBSX1n4Rappz48C/GPBbt1xHU=</streamURL>
+            <streamURL ptag="3" index="1">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNskxENpFWsNLu9v5Q7nO8dxmaw4JLdtH0529kpJa95cBSX1n4Rappz48C/GPBbt1xHU=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西生活" type="1">
             <streamURL>QW/CXAqXwY/X02cajpolUzM/YlT0ZKLyMkr+JAZlUJDT/qvbP4Y5FRftAldAGh3iU7hNR7UByRw9K1qOSgj3cQ==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西影视" type="1">
-            <streamURL ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsnYyGLwDMj9F+jJ4SCCWTUkrajB+gA3TfovpeYCXoJzo67y8HmxPjz1GFDKxgFkNVI=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-sxtvs1.png" name="陕西公共" type="1">
             <streamURL>Hir6jE165V+xu6/M1BBc9L80Mq/rMDDLKCnwp5R9t8zKGPYOzjllwUHP8K+p/YPRIiGqA5Cr439RXR9h3oHs5w==</streamURL>
