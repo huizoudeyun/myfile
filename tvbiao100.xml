@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.117</Version>
+    <Version>1.0.118</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -3379,6 +3379,8 @@
         </SubChannel>
         <SubChannel iconURL="" name="亚洲联合卫视" type="1">
             <streamURL>P+iOFfps1pqrzGgFJEswqcriKBbOLIPyayrVgWD7FmbP/yttjDsYOQVfajjA/OwWshylUNqLAgt5aGuqhRiHT22BuoIjsQ8K3cahKNofMfE=</streamURL>
+            <streamURL>KLRP3loEC40mtqzG134hd4i4D7MJq8VaiPGs6Oqw0ZRTj66EECDB2JNyBoNH5w1o5jmOeufN5eICuWccLsnpvQ==</streamURL>
+            <streamURL>ymIPToSf5dFRLm7Y0NiFaMRRvEhpaHatOqrsloApeQ3sdcmPVM/pVi0cTIeR0INtUOoYnXFkeng1hPjiQy1a/Q==</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="耀才财经台" type="1">
             <streamURL>iubfSoi4rmsViIeCctO1GetlYSP+GxYaJD43Jn/qvyR+I97Qok7zh2SSr2uQAUqFSAgZsG64cx2IPiJ93bqGomjxoNmzxCm8LumH7qczYoU=</streamURL>
@@ -3406,10 +3408,6 @@
             <streamURL>S6popuqZGbDutad44yxFGQroRLmAisd/y5kg0Y4Aw1HZE98vQqimzvPhKM6y/cnGaACanwfThfS1eIVEoG2/8Q==</streamURL>
             <streamURL>hsxDRhLyLLLfs8rwh9gQheDlv4BS52r708vIfLyFR/Jez5mb20wfhnpFt8+Kq+uw0Ab2Xe6hKMQTlmMiFSkEQA==</streamURL>
             <streamURL>rtmp://live3.tdm.com.mo:1935/tv/ch3.live</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="亚洲联合卫视" type="1">
-            <streamURL>KLRP3loEC40mtqzG134hd4i4D7MJq8VaiPGs6Oqw0ZRTj66EECDB2JNyBoNH5w1o5jmOeufN5eICuWccLsnpvQ==</streamURL>
-            <streamURL>ymIPToSf5dFRLm7Y0NiFaMRRvEhpaHatOqrsloApeQ3sdcmPVM/pVi0cTIeR0INtUOoYnXFkeng1hPjiQy1a/Q==</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="亚太第一卫视" type="1">
             <streamURL>nTCit4qzKgvX8Y/zOScWUbw5QbBoNMU+/D/6bbHMxC5SUxjhRWHqI3hr4gVbJ2yYWWYouDTORudmerCtu9MYSw==</streamURL>
