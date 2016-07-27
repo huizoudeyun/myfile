@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.6.85</Version>
+    <Version>1.6.87</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -119,8 +119,8 @@
             <streamURL ptag="1">CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZPXFuUONKf/S6DNTHSTB754sgBYd6nzf1uQ1KMQmmv36dfdCdxrC+flHjn/5QyGrV</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-szmg1.png" name="深圳卫视－高清" type="2" l="shenzhen,shenzhen">
-            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSnwcKMb6+pvMymu5lO5z/uOi+TQvowQiHBYZlWvrXdbaNsyk7nXxg/jhk6cP6Lmus</streamURL>
             <streamURL>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKoBfhFqU6LAS+385bvPTQVQn/FL7yaPXkJtm0YWh/NKU=</streamURL>
+            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSnwcKMb6+pvMymu5lO5z/uOi+TQvowQiHBYZlWvrXdbaNsyk7nXxg/jhk6cP6Lmus</streamURL>
             <streamURL ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsl4A2x9NOlhzX6YtLCc3hxJfnpReShgLYPErE0haWTA2wCB95rqmVhRR3ODdoAK4fg=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-guangdongnews1.png" name="广东卫视－普清" type="1" l="guangdong,guangdong">
@@ -3553,11 +3553,6 @@
         <SubChannel iconURL="" name="韩PAX" type="10">
             <streamURL>rtmp://124.139.232.61/live//livestream</streamURL>
         </SubChannel>
-        <!--
-        <SubChannel iconURL="" name="菲律宾UN" type="4" geo="1,2,11,12,31,44,81,82">
-            <streamURL>rtmp://livestream01.untvweb.com/public/untvwebstream</streamURL>
-        </SubChannel>
-         -->
         <SubChannel iconURL="" name="意ForMusic" type="4">
             <streamURL>joXYdS0oC1nKSjYd069eQyjXCELkaOa9ZiZA3oO/G7gweYNnlC2vonwzDKtn6JSJQ1QLOgfH+R3u06a290Tr2GfXyy9QcVE4HpXQneh8qKc=</streamURL>
         </SubChannel>
