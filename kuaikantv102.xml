@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.75</Version>
+    <Version>1.0.77</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -173,54 +173,54 @@
             <B>YE+SyEsGtZkoQK6PluvpJ2BUMjsBbQcEqLiMf/aVFnWtb86CIv1ENJQSwEGSZLbPJDzJ8qJc9xsJWgfaapXeUA==</B>
             <B>rtmp://58.200.131.2:1935/livetv/cctv3hd</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1－综合" type="1" l="cctv1,cctv1">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1－综合" type="1" l="cctv1,cctv1" geo="11,深圳">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyLpfILJJGwBtN1aCmMUk6Q=</B>
             <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZjLSmSdY19z0/NPB6DOuMB0RlsrMj9qkg6HJpx0UsO1wnLTsFRBBvAfeMFW2KCYOb</B>
             <B>YE+SyEsGtZkoQK6PluvpJ2BUMjsBbQcEqLiMf/aVFnWfgl+sqUZNN7JdXM2CzKJOGEtIsU6cam+tsxkeMlNFmQ==</B>
             <B>rtmp://58.200.131.2:1935/livetv/cctv1hd</B>
             <B>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctms6FcLgGqRGcfluJZFCeiYamqIJVSHVEabbZpoitJT85Ire/lMtZyevEgQmYP2Rwg==</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－标清" type="1" l="cctv5,cctv5" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆" date="30" week="" bbtime="" betime="" tb="30-19:20" te="30-21:00">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－标清" type="1" l="cctv5,cctv5" geo="11,44,81,82" date="30" week="" bbtime="" betime="" tb="30-19:20" te="30-21:00">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+KwdAYbpjawgXPvxSewvCMpg=</B>
             <B>eCf0k3Dq2T7JDQd2JY6w+fKHTbXFax4NXj0QXv4nn+GtSUtfLfbzK2LFqprQVpfa2vC++RAjDwBDSovvWtT22Q==</B>
             <B>dXXz/Ay3SkLi5V5qFtu3Bp4EMR+8SOyy+BvFBUKsD32M/0mwH4f0jmHUWVb/BGqNGK35fMb+ePe1A26GzaGLVg==</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－普清" type="1" l="cctv5,cctv5" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆" date="30" week="" bbtime="" betime="" tb="30-19:20" te="30-21:00">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－普清" type="1" l="cctv5,cctv5" geo="11,44,81,82" date="30" week="" bbtime="" betime="" tb="30-19:20" te="30-21:00">
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKCI48DzsrwUa9Ui5CuEugi8kVnf3pa73v+/2ZLtKjtO0=</B>
             <B>rtmp://203.207.99.19:1935/live/CCTV5</B>
             <B>rtmp://202.117.80.19:1935/live/live1</B>
             <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZodhV0xv7lzLUWeo4UYPgomYJ2jKnqrxrjXNfcNrFvDNsbNqilQg1w+A0U5fLVg/3</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－高清" type="1" l="cctv5,cctv5" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆" date="30" week="" bbtime="" betime="" tb="30-19:20" te="30-21:00">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－高清" type="1" l="cctv5,cctv5" geo="11,44,81,82" date="30" week="" bbtime="" betime="" tb="30-19:20" te="30-21:00">
             <B>Nw7UqaauxkiUiNsKwGkzprC9ovghuSUH51AXWOnOHuZgtC6jusvdh3GoXrcbTcEwBZCIdENyl1oSCzaZyYigypdajGlc6YSOTb1ppIlvBWdDE1un/fV1O+mAUVyU/5U128gIG+WJuP0cTKA7BZHyhrE83A4C1WSncjdCwlUPGjFzIXSuevGVAw80pZMSmzIVNcyjmFLYhIeOAUGPJFHg9GyFcywEV5DELkWuK2Zky+4C9biNRWVvoUuDDACFYeeDASFR3NRHY/Tz5DdA+5j9WA==</B>
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKCI48DzsrwUa9Ui5CuEugi8kVnf3pa73v+/2ZLtKjtO0=</B>
             <B>eCf0k3Dq2T7JDQd2JY6w+fKHTbXFax4NXj0QXv4nn+GtSUtfLfbzK2LFqprQVpfa2vC++RAjDwBDSovvWtT22Q==</B>
             <B>/vV/Yw6Fe4+W0gaGVrW8oudBqZMGaFwbjPQudmEd0x0r0XXomhJkQy2bPqW86um+</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+－普清" type="1" l=",cctv5plus" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆" date="31" week="" bbtime="" betime="" tb="31-19:20" te="31-21:00">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+－普清" type="1" l=",cctv5plus" geo="11,44,81,82" date="31" week="" bbtime="" betime="" tb="31-19:20" te="31-21:00">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+K3WEDYlqY8TOS7vRkgMbcjr+nPee0+pKLtUFeM+oa7CU</B>
             <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZl3i3KLJH9OFZgU4Bw1RwIeD5D+vHHM5V5bG9ObHkRo2IBKLEqs7FLwzIoxbkGsIT</B>
             <B>rtsp://61.158.153.197:554/wasuzx_cu_qcif</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+－高清" type="1" l=",cctv5plus" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆" date="31" week="" bbtime="" betime="" tb="31-19:20" te="31-21:00">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5+－高清" type="1" l=",cctv5plus" geo="11,44,81,82" date="31" week="" bbtime="" betime="" tb="31-19:20" te="31-21:00">
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKS+5voU2/8pF9sDcF/mjg1OkjFeVivYIZhxXNrehFdZw=</B>
             <B>Nw7UqaauxkiUiNsKwGkzprC9ovghuSUH51AXWOnOHubZjSLss9rOyg74GDOPdMsb41/BAL6uOO8+1CUBCmluN2xtGVk8ODWMErl6zLz2+v9CPSZzU+3pC0oqNU84mXqevAsiN9YsmzswC0lrLduszBk66xFlcqQSjZHBMEh7pRUbjkLLCIFgfPPFSgsAciSmEvPHbZcqMJKpLG4RqPZdEhQWKrOSTrhmCdtF8cUogyzo2axIqSAMj46bgeNZf1gSPDs1/jk1h+O3/DghrB87jhXm2kyPi0MmC5SqTa6BrgI=</B>
         </A>
-        <A iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育－标清" type="6" l=",btv6" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆">
+        <A iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育－标清" type="6" l=",btv6" geo="11,44,81,82" date="9" week="" bbtime="" betime="" tb="9-19:20" te="9-21:00">
             <B>3qYmU+XG6EIPB2q0iXYOKwgfx84pyqOYi1cOXS7e42PrmGlcyxbw6o6GeIoGDGjd</B>
             <B>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxb1A3Eti+nF0TKXRrP8ZaInkazfCioVbNsdgyF8bzAlVix408yIDO6ZfVsQPZxVO44=</B>
         </A>
-        <A iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育－高清" type="6" l=",btv6" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆">
+        <A iconURL="http://files.cnblogs.com/luxiang/btv.ico" name="北京体育－高清" type="6" l=",btv6" geo="11,44,81,82" date="9" week="" bbtime="" betime="" tb="9-19:20" te="9-21:00">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALS0Ug6t6qcnDl5aQVaZbEZlXHJmhNsyZGgzSVtxGnhBLk=</B>
             <B ptag="1">bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxb1A3Eti+nF0TKXRrP8ZaInkazfCioVbNsdgyF8bzAlVix408yIDO6ZfVsQPZxVO44=</B>
             <B>3qYmU+XG6EIPB2q0iXYOKwgfx84pyqOYi1cOXS7e42PrmGlcyxbw6o6GeIoGDGjd</B>
         </A>
-        <A iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育－流畅" type="3" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆" date="30,31" week="" bbtime="" betime="" tb="30-19:20,31-19:20" te="30-21:00,31-21:00">
+        <A iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育－流畅" type="3" geo="11,44,81,82" date="9" week="" bbtime="" betime="" tb="9-19:20" te="9-21:00">
             <B>rtsp://58.248.254.8:554/tvlive/gdty-l.sdp</B>
             <B>3TpmI34LoLg171zWQgJPh06bWQYq2/jsoRkNFFVRRjWIQxfD13y20CEqF+i9R353miYyejnPtxjT/GoJAQX3hw==</B>
             <B>OIXglKk24o5aYFZE8dWrqFdF4rOkp10LWnzpmOytm4q5Ae1PYyP4/WWlJqDWB+BlgFY4mPtMiFLJV/7QhkFGIQ==</B>
         </A>
-        <A iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育－标清" type="3" geo="1,2,11,12,31,43,44,81,82,美国,英国,深圳,成都,杭州,南京,武汉,沈阳,大连,青岛,重庆" date="30,31" week="" bbtime="" betime="" tb="30-19:20,31-19:20" te="30-21:00,31-21:00">
+        <A iconURL="http://files.cnblogs.com/luxiang/images1.ico" name="广东体育－标清" type="3" geo="11,44,81,82" date="9" week="" bbtime="" betime="" tb="9-19:20" te="9-21:00">
             <B>q4lLpvRBp1OazQhOuo5HDfl2RCoFfg5HYZ5sQnwrZH847Uc54grVaEzAGx5+rJnh8Ns5KyJpJZKl3lcbydg0/A==</B>
             <B>q4lLpvRBp1OazQhOuo5HDfl2RCoFfg5HYZ5sQnwrZH847Uc54grVaEzAGx5+rJnh8Ns5KyJpJZKl3lcbydg0/A==</B>
             <B>rtsp://58.248.254.8:554/tvlive/gdty-l.sdp</B>
@@ -250,12 +250,12 @@
         </A>
     </Channel>
     <Channel name="央视" type="2">
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1－流畅" type="1" l="cctv1,cctv1">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1－流畅" type="1" l="cctv1,cctv1" geo="11,深圳">
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKTZ1fYxPb4i9JGzjJvOo/It0iRjNO9G5WTmP/wNq+l28=</B>
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyLpfILJJGwBtN1aCmMUk6Q=</B>
             <B ptag="1">CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZjLSmSdY19z0/NPB6DOuMB0RlsrMj9qkg6HJpx0UsO1wnLTsFRBBvAfeMFW2KCYOb</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1－普清" type="1" l="cctv1,cctv1">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV1－普清" type="1" l="cctv1,cctv1" geo="11,深圳">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyLpfILJJGwBtN1aCmMUk6Q=</B>
             <B>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctms6FcLgGqRGcfluJZFCeiYamqIJVSHVEabbZpoitJT85Ire/lMtZyevEgQmYP2Rwg==</B>
             <B>rtmp://58.200.131.2:1935/livetv/cctv1hd</B>
@@ -1848,11 +1848,56 @@
         <A iconURL="" name="洛阳公共" type="1">
             <B>sJOaRXbwWzZpkdiAdkuztV46NHMCiRHjztCsdiil+0cdpdhN2jLa6TYDkgM4nhSw/em9m4gqe3uihJnl4b2kFA==</B>
         </A>
-        <A iconURL="" name="洛阳影视" type="1">
-            <B>rtmp://live2.lytv.com.cn:1935/live/LYTV4-1</B>
+        <A iconURL="" name="濮阳综合" type="1">
+            <B>rtmp://218.29.171.3:1935/live/py1</B>
         </A>
-        <A iconURL="" name="漯河新闻" type="1">
-            <B>mms://61.54.143.126:1755/lhtv</B>
+        <A iconURL="" name="睛彩濮阳" type="1">
+            <B>rtmp://218.29.171.3:1935/live/py3</B>
+        </A>
+        <A iconURL="" name="焦作综合" type="1">
+            <B>yfbdh8GeXYFgUpi2M1PjErpeYZuLfPIw6iIk8H1qpVZHzaQoiumGUQyY1C6A2m43</B>
+        </A>
+        <A iconURL="" name="焦作公共" type="1">
+            <B>yfbdh8GeXYFgUpi2M1PjEvNWndtKSjYb8+K53XiHf9vV8Yy62r1lLu6wRLdQsjNC</B>
+        </A>
+        <A iconURL="" name="南阳综合" type="1">
+            <B>ZqpprG7fdz5bvmhJT4s6MSfgoY6MK8W9sPiEWwhrzrIypv9pRb4fCdtWD+ANPUy5cgDnaCVj4WBPgCNn5C9sGQ==</B>
+        </A>
+        <A iconURL="" name="南阳综合" type="1">
+            <B>ZqpprG7fdz5bvmhJT4s6MSfgoY6MK8W9sPiEWwhrzrIypv9pRb4fCdtWD+ANPUy5cgDnaCVj4WBPgCNn5C9sGQ==</B>
+        </A>
+        <A iconURL="" name="平顶山教育" type="1">
+            <B>aRJk0umzBPrMwZ+MCh7vcI2U+uuFu/fmwTfLXKkAkR0Df6pxJCLHMznYhuF6RNOB</B>
+        </A>
+        <A iconURL="" name="周口综合" type="1">
+            <B>85Ze8QSij7vkdWCRihRqnMQ8tmUs6HZRj6pyu6Wx0BU7vvyaWLlT8N1eQIVyqbUWTFfWBQ40ASG4Vm3tTNXq+Q==</B>
+        </A>
+        <A iconURL="" name="周口经济" type="1">
+            <B>85Ze8QSij7vkdWCRihRqnC6Q2QTOMpQjXqfIVot7JaRiWg7fR/fJVrRMVdtzEcKFYDCdP3IK6OFpW4E//m03Aw==</B>
+        </A>
+        <A iconURL="" name="周口科教" type="1">
+            <B>85Ze8QSij7vkdWCRihRqnGekEL/JGSi0nVov2ichVIaxDk40/fY6XZzL8dE42BOtgMuZBgcPSvoOlDJoWhW/Mw==</B>
+        </A>
+        <A iconURL="" name="周口图文" type="1">
+            <B>85Ze8QSij7vkdWCRihRqnIAX0kycSrq9EDGARtUKCnYm6mzMoIziORtlaXLj8T4Z5meLRohpiezy3bDe3hPA/w==</B>
+        </A>
+        <A iconURL="" name="商丘综合" type="1">
+            <B>hPHGknuSSE8Z2z3bgV3FYadzWwVGPBjxR46mf8bTPATmfYp/ANp5tlgDm2JYNG8CiPH0Wx2CrAUqw1hd0cYJrs5DPL0DHWLu6avxOOL4OaU=</B>
+        </A>
+        <A iconURL="" name="商丘公共" type="1">
+            <B>hPHGknuSSE8Z2z3bgV3FYadzWwVGPBjxR46mf8bTPATmfYp/ANp5tlgDm2JYNG8CiPH0Wx2CrAUqw1hd0cYJrg2VctcAqvGb+eDQ7TRBeWk=</B>
+        </A>
+        <A iconURL="" name="商丘文体" type="1">
+            <B>hPHGknuSSE8Z2z3bgV3FYadzWwVGPBjxR46mf8bTPATmfYp/ANp5tlgDm2JYNG8CiPH0Wx2CrAUqw1hd0cYJrktb57FhdyPJ7/xRe3Q7Gv0=</B>
+        </A>
+        <A iconURL="" name="禅城综合" type="1">
+            <B>RIITuc9PdUU1uCjEdlw6YuaaGhK70EMI7gI8FJEWU73eoptRV2bf/NAFE21epatcYGSSiX79/dDum5YCCFLPCir464PVCBQOfT0chpwfeGU=</B>
+        </A>
+        <A iconURL="" name="禅城经济" type="1">
+            <B>RIITuc9PdUU1uCjEdlw6YuaaGhK70EMI7gI8FJEWU72uaztVu8VS75W5KxGTiL4A554ICZa3bFaCMTzddKTab2WrnB45cHsh9KFN5MJSj00=</B>
+        </A>
+        <A iconURL="" name="登封综合" type="1">
+            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm815kFIcV8sIwuPKwXJOnrjU3sSN8gKmBd/sRDR66wTMvQy7qcaMdXZD1oetOJpRj24=</B>
         </A>
         <A iconURL="" name="项城新闻" type="1">
             <B>rtmp://www.xctvw.cn:1935/live/xctv1</B>
@@ -1862,6 +1907,10 @@
         </A>
         <A iconURL="" name="项城影视" type="1">
             <B>rtmp://www.xctvw.cn:1935/live/xctv3</B>
+        </A>
+        <A iconURL="" name="项城房产" type="1">
+            <B>rtmp://www.xctvw.cn:1935/live/xctv4</B>
+            <B>MfIu6wzRx2b4US1HCE4hBOSMejd27nYzCE5iRsjsgHpRQqNunTOhkm1eT6OXcaMr</B>
         </A>
     </Channel>
     <Channel name="山东" type="9">
@@ -1900,6 +1949,27 @@
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-shandong1.png" name="山东生活" type="1">
             <B ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNslbSpmpQotZaqafzB/BSGolJDigOX/Z2fmcNj2pzOVbhiquykbtIOJt9Io8x/Tksho=</B>
             <B>7DqKmqLzX6yntYK4gK3zLeRJ83xG7IdHfx/1oUSysmDSv/wlSL4xjSBJ7BxtM6cSAGZMDVDoUc58XH2+9OIVYw==</B>
+        </A>
+        <A iconURL="" name="济南新闻" type="1">
+            <B>rtmp://222.173.22.109/live/jnxw_sd</B>
+        </A>
+        <A iconURL="" name="济南都市" type="1">
+            <B>rtmp://222.173.22.109/live/jnds_sd</B>
+        </A>
+        <A iconURL="" name="济南影视" type="1">
+            <B>rtmp://222.173.22.109/live/jnyd_sd</B>
+        </A>
+        <A iconURL="" name="济南娱乐" type="1">
+            <B>rtmp://222.173.22.109/live/jnyl_sd</B>
+        </A>
+        <A iconURL="" name="济南生活" type="1">
+            <B>rtmp://222.173.22.109/live/jnsh_sd</B>
+        </A>
+        <A iconURL="" name="济南商务" type="1">
+            <B>rtmp://222.173.22.109/live/jnsw_sd</B>
+        </A>
+        <A iconURL="" name="济南少儿" type="1">
+            <B>rtmp://222.173.22.109/live/jnse_sd</B>
         </A>
         <A iconURL="http://img.365imgs.cn/zj/announce/h113/h69/img200809031619430.jpg" name="河泽新闻综合" type="1">
             <B ptag="1">Npurtkncg6ytemvRRE2mpo+Ku4XuAhZ2JSEhMfwpWjUA7R4F1/ADmMPEaPAjkYq3/GjW0ItaShLjNvT4yd4mBw==</B>
@@ -1940,6 +2010,10 @@
         <A iconURL="" name="威海新闻" type="1">
             <B>YmSxIfD2VAdQYW3CudOQzohh3eXdTQp5Wai/V/jsx4JU1CVIx3w4My0sDOkMaBjIeWw5yB/JSlIVPqP+/Osn9g==</B>
         </A>
+        <A iconURL="" name="威海公共" type="1">
+            <B>YmSxIfD2VAdQYW3CudOQzpC/XbX9pM6oq5vr713BBPBiahcADTmCCR4LLXW5vWN7VK07SsLOsBe+LYUt0Bitcg==</B>
+            <B>rtmp://l.weihai.tv/live/gongtvtwo</B>
+        </A>
         <A iconURL="" name="威海海洋" type="1">
             <B>YmSxIfD2VAdQYW3CudOQzmE4ceKZ3grS0fty2/ElUnyecdC+NFUETgSBuT5Z/fRnTucMCwuqwXmqx1j7FJFC7Q==</B>
         </A>
@@ -1953,26 +2027,23 @@
         <A iconURL="" name="枣庄公共" type="1">
             <B>gnQ3j2F4jA5pcbhLjTqIUcyB7c4UiqxeJlCfgNyi5cSPeoJ993RlRP4wFXu/s37/mPsDYEUrr/tBzVGgw0cY9g==</B>
         </A>
+        <A iconURL="" name="莱芜综合" type="1">
+            <B>rtmp://124.132.96.20/live/ltv1</B>
+        </A>
+        <A iconURL="" name="莱芜科教" type="1">
+            <B>rtmp://124.132.96.20/live/ltv2</B>
+        </A>
         <A iconURL="" name="东营新闻" type="1">
             <B>g1/Hm+WeWRs53rpkQZaJ6noRHd8UXbIq169aM/ToXAcbR5M2+SDPmUuTaWxEXOA+8d+Unce1DaIs5FsVCfh9nA==</B>
         </A>
         <A iconURL="" name="东营公共" type="1">
             <B>g1/Hm+WeWRs53rpkQZaJ6noRHd8UXbIq169aM/ToXAc4ZjyZzz5jpVUMF6+3D4kIfaXFHkA7NBkMzPzfz60Wig==</B>
         </A>
-        <A iconURL="" name="潍坊一套" type="1">
-            <B>rtsp://218.57.169.29:554/tv-xwzh</B>
-            <B>07G384CCdIiKhRRY/U+wYEhnmu7Z1o5qqAB7q30kB/OgGQCXljJ5lB1vtuKplAD1</B>
+        <A iconURL="" name="邹平新闻" type="1">
+            <B>7mCWG5WPWjFLHaWcsE4SlDpZ1HV7PEFmbcv7twh4y33nzP/UcdHKSoRFwyDQPn0bwPXvwgCeuRZNfFFS5AKfdg==</B>
         </A>
-        <A iconURL="" name="潍坊二套" type="1">
-            <B>rtsp://218.57.169.29:554/tv-jjsh</B>
-            <B>07G384CCdIiKhRRY/U+wYJsca5A0EVhKUpghxRbPndIO2/XzCyVOJKwV/Fmr9YKd</B>
-        </A>
-        <A iconURL="" name="潍坊三套" type="1">
-            <B>07G384CCdIiKhRRY/U+wYGnE+iobRenTWASTUfms7vJxP+MNE0rTPg1wFqcVZL4l</B>
-        </A>
-        <A iconURL="" name="潍坊四台" type="1">
-            <B>rtsp://218.57.169.29:554/tv-jcwf</B>
-            <B>07G384CCdIiKhRRY/U+wYI7ZnopSrOtTw5PS0UtERpbArV23wKPWWYeRXI9bIEht</B>
+        <A iconURL="" name="邹平综艺" type="1">
+            <B>7mCWG5WPWjFLHaWcsE4SlDpZ1HV7PEFmbcv7twh4y337j5/cxyXLHz7CTxVg1ZUxNWS9G2c/nwPrHYIBbk4nZg==</B>
         </A>
         <A iconURL="" name="济宁新闻" type="1">
             <B>NfiTrDeJRbsjNvUwfgi5A8cysTe7qmzrdbLQmupiCLKXsVTgAYO1kCz2XVRPFoiNXExksRpOYASt+nvvwsJeqg==</B>
@@ -2002,15 +2073,19 @@
             <B>5CJsWv60FDP5EiDFFcJPcyViuktyRpCgafokEVNzziDvIKsYwxueRmGBevfoFANvWOSCZyTeHySjqwa+IzKW/c2wrpvUdoCIk4qStT9Wz+4=</B>
         </A>
         <A iconURL="" name="新泰新闻" type="1">
+            <B>rtmp://111.17.214.4:1935/live/xtzh</B>
             <B>u719kN68qyoBhrHJH7aDOjjzG++A9BY2uh2Zyl5xaS+YOHYark7F8juwljukhn/ESPyeO0eG/lDsSrnEjxfMPQ==</B>
         </A>
         <A iconURL="" name="新泰生活" type="1">
+            <B>rtmp://111.17.214.4:1935/live/xtsh</B>
             <B>u719kN68qyoBhrHJH7aDOjjzG++A9BY2uh2Zyl5xaS8ZkrI9g3HSzEIoaXgLGZMzzBHhrMMLA08bcNVxiiPIng==</B>
         </A>
         <A iconURL="" name="新泰乡村" type="1">
+            <B>rtmp://111.17.214.4:1935/live/xtxc</B>
             <B>u719kN68qyoBhrHJH7aDOjjzG++A9BY2uh2Zyl5xaS8X+ZAhRzkyxPSLy3bZNNo7E79W/EAmTd9ZSLErup+oEw==</B>
         </A>
         <A iconURL="" name="新泰党建" type="1">
+            <B>rtmp://111.17.214.4:1935/live/xtys</B>
             <B>u719kN68qyoBhrHJH7aDOjjzG++A9BY2uh2Zyl5xaS9K7Uu/rzECY8tlgcbe4Duz8T712ED9zUWcz4NKAoH42A==</B>
         </A>
         <A iconURL="" name="泗水新闻" type="1">
@@ -2033,6 +2108,51 @@
         </A>
         <A iconURL="" name="寿光综艺" type="1">
             <B>mJqT6CykMk3Jx3DJhF/A8Faqk15SHVW3GJEf+EUzGdDwf+jM9866nUmdX6iwPxtt</B>
+        </A>
+        <A iconURL="" name="诸城新闻" type="1">
+            <B>rtmp://218.59.162.134:1940/live/zctv1</B>
+        </A>
+        <A iconURL="" name="诸城生活" type="1">
+            <B>rtmp://218.59.162.134:1940/live/zctvjjpde1</B>
+        </A>
+        <A iconURL="" name="诸城影视" type="1">
+            <B>rtmp://218.59.162.134:1940/live/yspd1</B>
+        </A>
+        <A iconURL="" name="诸城娱乐" type="1">
+            <B>rtmp://218.59.162.134:1940/live/ylpd1</B>
+        </A>
+        <A iconURL="" name="诸城农科" type="1">
+            <B>rtmp://218.59.162.134:1940/live/yjpd1</B>
+        </A>
+        <A iconURL="" name="龙口综合" type="1">
+            <B>mZ7yidWVnGfgOsm3jlImbHQ8IRZz7NHVPHhYGiqbvpf+EYm51k/q69+FMiZ7lPixhQ417xPS7cNL4NSiz762Dw==</B>
+        </A>
+        <A iconURL="" name="沂水一套" type="1">
+            <B>rtmp://60.213.23.98/live/win7live0001</B>
+        </A>
+        <A iconURL="" name="沂水二套" type="1">
+            <B>rtmp://60.213.23.98/live/win7live0002</B>
+        </A>
+        <A iconURL="" name="沂水三套" type="1">
+            <B>rtmp://60.213.23.98/live/win7live0003</B>
+        </A>
+        <A iconURL="" name="沂水四套" type="1">
+            <B>rtmp://60.213.23.98/live/win7live0004</B>
+        </A>
+        <A iconURL="" name="邹城影视" type="1">
+            <B>Is0llXlHWD/FI0Q85G8dOQhocb0QZt7I5G5QM/x2Z2XRgzwRXaDfizKgzHsYOQN8JLqV6A/5BZ6yBCt1lhCPfA==</B>
+        </A>
+        <A iconURL="" name="邹城党建" type="1">
+            <B>Is0llXlHWD/FI0Q85G8dOQhocb0QZt7I5G5QM/x2Z2WSYkFwSWJbAhkbGuJIzWcfIKHMe6kVx/0SRgRH3Um/fQ==</B>
+        </A>
+        <A iconURL="" name="福山综合" type="1">
+            <B>/Zik6vXmz8aqf9ybeNAmUO49A7Z30z0qgFyDxKVzdbn+9eecIGEJcfAGry6aol6zgywfYw3laGL78rjJsALY8g==</B>
+        </A>
+        <A iconURL="" name="福山生活" type="1">
+            <B>/Zik6vXmz8aqf9ybeNAmUO49A7Z30z0qgFyDxKVzdbkPBZIeInMMIyxkqmv144ZmHvE7QV0RWtVzgIOLKDjoxw==</B>
+        </A>
+        <A iconURL="" name="福山影视" type="1">
+            <B>/Zik6vXmz8aqf9ybeNAmUO49A7Z30z0qgFyDxKVzdbm4m9IGi0JHYlsTBfaaLXEXK71xv4VJjeiLWHNTP3gMKA==</B>
         </A>
         <A iconURL="" name="日照新闻" type="1">
             <B ptag="1">Ic/2ZAZuGtkh8Y+bXtfldd6eV2p4iTfWMqXsIucz8XezPQpX+Zffxfhk/OPkcQjb</B>
