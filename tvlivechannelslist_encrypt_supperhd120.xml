@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.153</Version>
+    <Version>1.0.154</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -1729,6 +1729,7 @@
             <streamURL ptag="3">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsnVUK54bTtDRnZdYCSNIfiejY5lrH31OjXfZNhApGgHLGOp+eoDXhUX53G+RdlUBxc=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/hebeiweishi.ico" name="河北卫视－普清" type="1" l="hebei,hebei">
+            <streamURL>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tK8MqePDVs1Dny+UpljtlC0bb2sXQgMf66QbfhtHpu8ww=</streamURL>
             <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T5JlsViRZzx+UZmkIGHI7jw=</streamURL>
             <streamURL>6zOv2vy2uwQAMbzgdQy2Xgcokn4jlrsCPLaiS8DcUt2eQGaW8K4z2URhfQp5n+7vfzx9bF/CK5dO/4X8bBJM6fDQiEW8ovTFwyUtRj3/blt9UqhRSGLJZ+ImTmxD79vCMRZQL8m5kHOVtRMN+56Kiw==</streamURL>
         </SubChannel>
