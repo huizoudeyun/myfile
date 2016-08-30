@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.89</Version>
+    <Version>1.0.90</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -26,7 +26,7 @@
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
-    <useConfigRate>8,8,3,77,2,2</useConfigRate>
+    <useConfigRate>5,5,2,88</useConfigRate>
     <ConfigURL>Xo/gNOqapS84POAIdOmYjX4uPtwx9Fh8f7DwJJz0h4wAN6pS8mhveQDHEUxquiuZERoIF5Rt9tDMemU3QTqEX0a5iY7h6h491PC+c/5E764B3Nt8thhLOTlE4VryEtlfY7KuOUmcww1h88htwzhS14TLzESOGqynD/FUocaCfXk0RuUS7MBVARSj9VwLi+gY2Y80+66MfxqeVoR3BdU7OP5eqeYIHgQEtWclqRnHSOvjPea3oLBKfsFvw38dQGd+1kv1Cq1/uyUSKeCjSszuaDQ9krBwcQFroWMz4o4H+J3Yr9SMnfsxO/w39q7c6nyJyK+8oPYm2fkBuzfTrVDWnNlXe499Gq4q0/e8wlnTIBhTpHx75cWHQee9OoqK+/Fk7zEQVgaYKdYqX25DbZbTaZL1hT5Lc753LW5ufaS3/W8ig5PYZ3DSPh606PYaLVbGG5No7qK2pcn89Fkej5piPfV/hpws5USf2mhHpkF+R6OLsq/CbaphaFGTIGhPWP67/Tk9F+R92M8sLv1YM/4wleqMnkpl6bgZr+/BxqgfTi3XoNzuoaNLvWAHZUvOZ9nq</ConfigURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
