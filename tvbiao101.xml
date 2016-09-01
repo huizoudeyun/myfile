@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.103</Version>
+    <Version>1.0.104</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -78,6 +78,7 @@
             <B ptag="1">CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZIR5Y5Db1BLpNTDcg5Jo/gal8ULhNHcOjziTqiwttS0dEK9vTz6NAuoTyKZy8Izyz</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－高清" type="1" l="dongfang,dongfang" geo="北京,上海,深圳,广州,杭州,南京">
+            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaUfWPBIkq1eSF11mU2NWXvDqFdLWI9d8T/+nYmrrOUzE=</B>
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaUfWPBIkq1eSF11mU2NWXvCbYdi4H92ZlxgNULsD580g=</B>
             <B>Nw7UqaauxkiUiNsKwGkzpno+xJ+0qlmtqUpearF2EIfAi1UdV+WNN6CnlpyE37uB4lu4II32TrDkQBtmrN4ZzS8Wbs0UGdANcCYhQjmuHtzvwgB5x4I0SH0AjdSl1HtzIzmqobyg40A9CQklWmxjTLdcQJsOF5kKWwck3NwtTIut2T5szEpgR2ani0NYJaADtkTFMDQhthB8HcueDIRRSXk3lkOe5GwwXXHohvIhpQ1zQ7QGaxCR3in3JejpLOw7RSW2LwJezJH5/pw3Mphu0Q==</B>
             <B>HPmBp19H43DZtXTHGQBYmAiAWc8mqOlAFvoT6Q6xcKep+c2nE0m0MXIdN5X9oaRmVG12hJncpJxEfHFnbFkmPQ==</B>
@@ -86,6 +87,8 @@
             <B>dXXz/Ay3SkLi5V5qFtu3BsYISv0acFPxGyyBpP8U0Z6H965xFVtYqN9L4jqjum4XVTkHpEt29RoZNqb7n1c/pg==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－普清" type="1" l="dongfang,dongfang" geo="北京,上海,深圳,广州,杭州,南京">
+            <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSR3vxGS9bwEhFcQqw8ybyl9nxsovwbN9cVoc+PeAO02OogKgu108X370S2RjjQv8n</B>
+            <B>urYmzeMZ5MWVT4VPyMQ27sJH1aZ9A4VQ7mk1fII+xeCJEZCsfU4/VNrt3CV/ha/DolckhoEtoqc7IpJEusJaaMXbv2QWQBSANcCfIhrhJ08=</B>
             <B>urYmzeMZ5MWVT4VPyMQ27lP4AQxyDzOgwExzIMNabnAoRCEE+mzxGmpyReI+B+OhQ1V0wtb9DTSkzChKjVvpGDV8cmtE06dVF8q22pps5as=</B>
             <B>zvl18gmYqnxyRsgPKucRfn2RqxrbtMvOl3+Luvqo1iyt3gKJcVTcOmkUhFmFEfBxgghUXBc5nAVUwTUB9KNWgg==</B>
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyuB0zdA3OVgluEpU++w5B0=</B>
@@ -189,18 +192,18 @@
             <B>rtmp://58.200.131.2:1935/livetv/cctv1hd</B>
             <B>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxYMq/2h6R+FwWsMVShoK6PnW4Ne/eT+kb7S+7aytvyctms6FcLgGqRGcfluJZFCeiYamqIJVSHVEabbZpoitJT85Ire/lMtZyevEgQmYP2Rwg==</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－标清" type="1" l="cctv5,cctv5" geo="北京,上海,广州,深圳">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－标清" type="1" l="cctv5,cctv5" geo="北京,上海,广州,深圳,香港,澳门,杭州,韩国">
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSs7GJ/sK6NIeerfjIw/n+KwdAYbpjawgXPvxSewvCMpg=</B>
             <B>eCf0k3Dq2T7JDQd2JY6w+fKHTbXFax4NXj0QXv4nn+GtSUtfLfbzK2LFqprQVpfa2vC++RAjDwBDSovvWtT22Q==</B>
             <B>dXXz/Ay3SkLi5V5qFtu3Bp4EMR+8SOyy+BvFBUKsD32M/0mwH4f0jmHUWVb/BGqNGK35fMb+ePe1A26GzaGLVg==</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－普清" type="1" l="cctv5,cctv5" geo="北京,上海,广州,深圳">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－普清" type="1" l="cctv5,cctv5" geo="北京,上海,广州,深圳,香港,澳门,杭州,韩国">
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKCI48DzsrwUa9Ui5CuEugi8kVnf3pa73v+/2ZLtKjtO0=</B>
             <B>rtmp://203.207.99.19:1935/live/CCTV5</B>
             <B>rtmp://202.117.80.19:1935/live/live1</B>
             <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZodhV0xv7lzLUWeo4UYPgomYJ2jKnqrxrjXNfcNrFvDNsbNqilQg1w+A0U5fLVg/3</B>
         </A>
-        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－高清" type="1" l="cctv5,cctv5" geo="北京,上海,广州,深圳">
+        <A iconURL="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CCTV.svg/320px-CCTV.svg.png" name="CCTV5－高清" type="1" l="cctv5,cctv5" geo="北京,上海,广州,深圳,香港,澳门,杭州,韩国">
             <B>Nw7UqaauxkiUiNsKwGkzprC9ovghuSUH51AXWOnOHuZgtC6jusvdh3GoXrcbTcEwBZCIdENyl1oSCzaZyYigypdajGlc6YSOTb1ppIlvBWdDE1un/fV1O+mAUVyU/5U128gIG+WJuP0cTKA7BZHyhrE83A4C1WSncjdCwlUPGjFzIXSuevGVAw80pZMSmzIVNcyjmFLYhIeOAUGPJFHg9GyFcywEV5DELkWuK2Zky+4C9biNRWVvoUuDDACFYeeDASFR3NRHY/Tz5DdA+5j9WA==</B>
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKCI48DzsrwUa9Ui5CuEugi8kVnf3pa73v+/2ZLtKjtO0=</B>
             <B>eCf0k3Dq2T7JDQd2JY6w+fKHTbXFax4NXj0QXv4nn+GtSUtfLfbzK2LFqprQVpfa2vC++RAjDwBDSovvWtT22Q==</B>
@@ -438,9 +441,8 @@
     <Channel name="上海" type="4">
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视" type="1" l="dongfang,dongfang" geo="北京,上海,深圳,广州,杭州,南京">
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKGrBXrEMj5ILL80T8TIbHBYwOLk6mo8Gz2TysY4Fo9Po=</B>
-            <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1TyuB0zdA3OVgluEpU++w5B0=</B>
-            <B>Nw7UqaauxkiUiNsKwGkzpno+xJ+0qlmtqUpearF2EIfAi1UdV+WNN6CnlpyE37uB4lu4II32TrDkQBtmrN4ZzS8Wbs0UGdANcCYhQjmuHtzvwgB5x4I0SH0AjdSl1HtzIzmqobyg40A9CQklWmxjTLdcQJsOF5kKWwck3NwtTIut2T5szEpgR2ani0NYJaADtkTFMDQhthB8HcueDIRRSXk3lkOe5GwwXXHohvIhpQ1zQ7QGaxCR3in3JejpLOw7RSW2LwJezJH5/pw3Mphu0Q==</B>
-            <B>eCf0k3Dq2T7JDQd2JY6w+XKaY7AIhu6ElXOeADDDQDAuy6vl3ErlYGY3zDXTYiLAQxbojE77VOyhyYDNXvyNYA==</B>
+            <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqss5ZcX5D31ZGiq7pMnmAALSR3vxGS9bwEhFcQqw8ybyl9nxsovwbN9cVoc+PeAO02OogKgu108X370S2RjjQv8n</B>
+            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaUfWPBIkq1eSF11mU2NWXvDqFdLWI9d8T/+nYmrrOUzE=</B>
         </A>
         <A iconURL="http://www.66zhibo.net/uploadfile/2014/0124/20140124021504386.jpg" name="东方财经" type="1">
             <B>BjXVHVd+GSjcUhJqyjHBZ2uAZi3X/aqiFHTI0PhqnH1eOBFXn6N5fayuhcCoHBpscZqS0to0FJzGufG2UQbJpg==</B>
