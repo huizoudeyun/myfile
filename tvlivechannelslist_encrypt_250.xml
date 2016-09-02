@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.145</Version>
+    <Version>1.1.146</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
@@ -2459,16 +2459,6 @@
         </SubChannel>
     </Channel>
     <Channel name="辽宁" type="18">
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁卫视－普清" type="1" l="liaoning,liaoning">
-            <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaQGJ4fcw2g7ZMF1GLFbg+acH98D63D3UdXduVHjFnQ9Q=</streamURL>
-            <streamURL>Nw7UqaauxkiUiNsKwGkzpi5nVaSggtAmfmiVlAocaOHD5lrFHiN2I1nAgKyUuIZ1g2nl0/na3xQcZGPT8QGAIPwlHeo4PW8msU7V0Na7AVTzt7mXd6f0bqF4Br3TYAVQZzeYvHdPsMyj8itTSQEiVleLGd8Zo6nlt2w+ubVAajbAqaTV3uaLrULOgccMhDwDyQ2tgBQ9DM2CPbW67YnaVGaPyHWIcLfoqNxuwwtlPffvhnajYxH2CruXvgKiZ1CMvLBP4sOnBgVuTE5x+8kg6g==</streamURL>
-            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T/XCjZpt5sYzoCfHtEyT2oM=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁卫视－标清" type="1" l="liaoning,liaoning">
-            <streamURL>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tK4QZKrfyFTG4S49vhzCwOrgtfoCQ8PSQNXkUlyfjZkyU=</streamURL>
-            <streamURL ptag="3" index="1">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNskheI9gtMGaBG3k5fYkrnTbZSkIW5ouzuK5Ixr3wXM1l2hCq+FR4mlPuS7rR+W4/KA=</streamURL>
-            <streamURL>mcIJZ98XZnH/bs8Axa/gAA6xZowT87LYIiT2O9/M8b43PPReGp+I0ZS+q5yN+BvoRFb94F5lqAvVEJiI2sRf/b2PKnxp1iV+ntjkk6vaByP7wScpmTxZNqpCGnHNgCsz</streamURL>
-        </SubChannel>
         <!--
          <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁都市" type="1">
          <streamURL ptag="3" index="2">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsl4Gelkutt6erYeZHNzrVVq2MawmDNREoSAzAoBWcaB3L++Sy7mj7lOHGD/ERNFdW8=</streamURL>

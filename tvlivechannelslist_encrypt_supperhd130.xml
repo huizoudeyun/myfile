@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.1.141</Version>
+    <Version>1.1.142</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
@@ -43,23 +43,6 @@
     </Tips>
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
     <Channel name="热门" type="1">
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－普清" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,香港,澳门,杭州,深圳,广州,天津,南京,无锡,长沙">
-            <streamURL>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKFStlPTgmNGUmK5VVpL8/PjvNnZRwuXzN8hR0FJeQvRQ=</streamURL>
-            <streamURL>j81Ov1m8nd+DeTrUQdtIvODgGb1OJ6oQe3+7rUC529Pq+GTr46oYWOLglSOX5XT4uatqcg2VIPTZ96x0YqrVBm+1gyEpHpceeDiVlLL6l9g=</streamURL>
-            <streamURL>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,香港,澳门,杭州,深圳,广州,天津,南京,无锡,长沙">
-            <streamURL>Nw7UqaauxkiUiNsKwGkzpgmcsJoJZYKQOqk71oKZNswqpDwBK3OtTRPcABdmbInuXNsFOgoV5V3d8EkODvW8RbbETRGN4CoWBeB6qUJxfzTW7CZ/1OG/kvh9Qe35lUE/rxgXqKeMrtWxNUmaEz6Z9IZ+4ldNb6eqVdmFP1CKMm64mpexU+MPDSFOk4O4VhshSIrB0U9ng/ed9yMhCKdgHZjqHmZUUOuYA+5CgpeHYbwzOXNo5srLjvu7cTNDinShSfEz4qsfsfs0RImbkIvajQ==</streamURL>
-            <streamURL>HPmBp19H43DZtXTHGQBYmLMeKvBDQTP6OwbNefwHdjmbGoUYpyhJGYZBWTp54sw2ScDX0KPBeQVi8GuUCO73xw==</streamURL>
-            <streamURL>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</streamURL>
-            <streamURL>0cBU5KNyx8Zc0nE7Ph+vh3y4ac+4WEiySGPQAhxfLaF+qnfN8EvjCX28/RFVwfdh</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－流畅" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,香港,澳门,杭州,深圳,广州,天津,南京,无锡,长沙">
-            <streamURL>urYmzeMZ5MWVT4VPyMQ27sJH1aZ9A4VQ7mk1fII+xeCJEZCsfU4/VNrt3CV/ha/DcvCS5/gXFjhrqsajmebYmgI81M6Mnq5BTzdcPys0QbY=</streamURL>
-            <streamURL>j81Ov1m8nd+DeTrUQdtIvODgGb1OJ6oQe3+7rUC529Pq+GTr46oYWOLglSOX5XT4uatqcg2VIPTZ96x0YqrVBpbXr4wUvmq/S2iXd5Sei/A=</streamURL>
-            <streamURL>eCf0k3Dq2T7JDQd2JY6w+XKaY7AIhu6ElXOeADDDQDDpsDRufx4LqCb+yiQhKK4O4Wc81dgbQRJCYNri8Mr6gA==</streamURL>
-            <streamURL ptag="1">CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZIR5Y5Db1BLpNTDcg5Jo/gal8ULhNHcOjziTqiwttS0dEK9vTz6NAuoTyKZy8Izyz</streamURL>
-        </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－高清" type="1" l="anhui,anhui">
             <streamURL>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKa8JvX/XxBkEVemyXwMSCXq7pBl35G3TpEUPorlWp+lo=</streamURL>
             <streamURL>Nw7UqaauxkiUiNsKwGkzpv7skYiXGPx54bpIuH2qApEVwJnLoRzWLkJU2rpXeD/jfgocu6aHpwmMUHJ0AC0JvEVxWBzOv4GGlgDKTpaGEl5p0CbhawUvgjPp9Y6kV+FcAhhoiXhHbT4rumnnQjl0F95bkFtxcagwPLRP53HUXXS6MdQYV86lpOsBZCBuo1i/p5wWKq1iZ3l2UFtxAEwTckxe+tNN6T4lGAsDrqw8/JzlAcyMq4/091DfqAOwTdliXaCIezlL8o7+rC3L5/Vuaw==</streamURL>
@@ -1010,12 +993,6 @@
         </SubChannel>
     </Channel>
     <Channel name="浙江" type="10">
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,香港,澳门,杭州,深圳,广州,天津,南京,无锡,长沙">
-            <streamURL>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</streamURL>
-            <streamURL>urYmzeMZ5MWVT4VPyMQ27lP4AQxyDzOgwExzIMNabnAoRCEE+mzxGmpyReI+B+OhWW7qY39zV2QHRNFk6KYXAw==</streamURL>
-            <streamURL>j81Ov1m8nd+DeTrUQdtIvODgGb1OJ6oQe3+7rUC529Pq+GTr46oYWOLglSOX5XT4uatqcg2VIPTZ96x0YqrVBpbXr4wUvmq/S2iXd5Sei/A=</streamURL>
-            <streamURL ptag="1">CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZIR5Y5Db1BLpNTDcg5Jo/gal8ULhNHcOjziTqiwttS0dEK9vTz6NAuoTyKZy8Izyz</streamURL>
-        </SubChannel>
         <SubChannel iconURL="http://awb.img.xmtbang.com/img/uploadnew/201510/23/69a46f9f3c65494d9fdd3eb2e1c4b6d2.jpg" name="萧山综合" type="5">
             <streamURL ptag="1">F4cU14q2WccLdfP+VyQMCY9wD+qIJypQd+QzhtD8f9Vuxv/LIhoxR6kJSlngCQl0z2hLMQk6CPOxzGCmhWGvf/kjegWcazuThq8vi4BbBjs=</streamURL>
         </SubChannel>
@@ -2476,16 +2453,6 @@
         </SubChannel>
     </Channel>
     <Channel name="辽宁" type="18">
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁卫视－普清" type="1" l="liaoning,liaoning">
-            <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaQGJ4fcw2g7ZMF1GLFbg+acH98D63D3UdXduVHjFnQ9Q=</streamURL>
-            <streamURL>Nw7UqaauxkiUiNsKwGkzpi5nVaSggtAmfmiVlAocaOHD5lrFHiN2I1nAgKyUuIZ1g2nl0/na3xQcZGPT8QGAIPwlHeo4PW8msU7V0Na7AVTzt7mXd6f0bqF4Br3TYAVQZzeYvHdPsMyj8itTSQEiVleLGd8Zo6nlt2w+ubVAajbAqaTV3uaLrULOgccMhDwDyQ2tgBQ9DM2CPbW67YnaVGaPyHWIcLfoqNxuwwtlPffvhnajYxH2CruXvgKiZ1CMvLBP4sOnBgVuTE5x+8kg6g==</streamURL>
-            <streamURL ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T/XCjZpt5sYzoCfHtEyT2oM=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁卫视－标清" type="1" l="liaoning,liaoning">
-            <streamURL>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tK4QZKrfyFTG4S49vhzCwOrgtfoCQ8PSQNXkUlyfjZkyU=</streamURL>
-            <streamURL ptag="3" index="1">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNskheI9gtMGaBG3k5fYkrnTbZSkIW5ouzuK5Ixr3wXM1l2hCq+FR4mlPuS7rR+W4/KA=</streamURL>
-            <streamURL>mcIJZ98XZnH/bs8Axa/gAA6xZowT87LYIiT2O9/M8b43PPReGp+I0ZS+q5yN+BvoRFb94F5lqAvVEJiI2sRf/b2PKnxp1iV+ntjkk6vaByP7wScpmTxZNqpCGnHNgCsz</streamURL>
-        </SubChannel>
         <!--
          <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-liaoning1.png" name="辽宁都市" type="1">
          <streamURL ptag="3" index="2">iFyoKs/GK9FnsLyOtkfobBsae/mO6N3C/A53QADSNsl4Gelkutt6erYeZHNzrVVq2MawmDNREoSAzAoBWcaB3L++Sy7mj7lOHGD/ERNFdW8=</streamURL>
