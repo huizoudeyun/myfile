@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.5.105</Version>
+    <Version>1.5.109</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -9,8 +9,8 @@
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.7.3</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
-    <reloadTime>0</reloadTime>
-    <nofreshTime>0</nofreshTime>
+    <reloadTime>15</reloadTime>
+    <nofreshTime>15</nofreshTime>
     <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
     <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0.3</loadPlayerAdRate_ipad>
@@ -18,18 +18,18 @@
     <useConfigRate>56,2,2,40</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
-    <useAdPlatform>90,10</useAdPlatform>
-    <useBaiduBeforeAd>0</useBaiduBeforeAd>
-    <loadHomeBannerAdRate_ip>300</loadHomeBannerAdRate_ip>
+    <useAdPlatform>95,5</useAdPlatform>
+    <useBaiduBeforeAd>2</useBaiduBeforeAd>
+    <loadHomeBannerAdRate_ip>600</loadHomeBannerAdRate_ip>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
-    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIO20lyad+Hjg+CWUtRRc9z0=</IPAddressInfoURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
         <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">13</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">13</AdsRate>
+        <AdsRate Name="FullAdFrequency">11</AdsRate>
+        <AdsRate Name="FullAdFrequency_ip">11</AdsRate>
     </Ads>
     <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
     <supportWifiTransfter>1</supportWifiTransfter>

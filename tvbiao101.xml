@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.107</Version>
+    <Version>1.0.108</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -23,7 +23,7 @@
     <severalParts>0</severalParts>
     <ConfigURL>Xo/gNOqapS84POAIdOmYjRWK6BjG+wuXAuJiL+XKo3Lux2bHFj9Qk7iGGIht+oRlAFbzaonvaN5+wLx2JARdreU+Lipedm8Z+RABvlCPwiPmOde7llaPATVXO1eDP27aY1QJG9HJKzPShKuYl1isib1Ts7dDruou1s22azkAEZufEb2WLz4u+horblmKHAk4VOXmkMJ/FA5ljTh/SYeKL71p8IzzIWHpl5ie24q0RKDeN59YODLYWICU+CZinfrcPY0crBH8ZJJCyrNOewVgkrx98/kjqFQcsCsaYLuV4Wzwf9kw1MBZE1T5d1vMtDHZxzTfIqzMzXWzJ8tzqY3o50c9YihwdS2gARQdAgHvcpEI6XL3YFDp7w8K8L7dQmjs39pM5w5E7ejvKbf79lNmDIz/5MtxlT4yVXWUtceEfBXgyXfQ5KOyvqDc9/K5CdCpWJdMwE4cr+qu2E7hhfhKqw==</ConfigURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
-    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIBnhN/t9Ct6sgX6C7F+y1UEpqnAlaW9nv0D8CBUjA5kD</IPAddressInfoURL>
+    <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIO20lyad+Hjg+CWUtRRc9z0=</IPAddressInfoURL>
     <Ads>
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
@@ -571,37 +571,37 @@
             <B ptag="3">2naiLIfQEou4wcSU40zJcpCIByGImPs9VwCtygFJqssaUNOFO1stcTudCmkgOyR8lIg5WSuEk+Kde9zJ3Xf1T0sbzMZVGsHa6QdCMUM7p+w=</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津新闻" type="1">
-            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1w8e6+oIhCstV7RkcSL9XhFRccDiHZPGizYv9Hh1Sk1Xg==</B>
             <B>jeX4NxTiRBSN/uAmwyc64NDGqYQpsNdrub9Cs7w+MfDAXqO3Z2Tt4c9Np6ViwJ2fQ4B5yWLc/MnumTm5t7pdOGDZPEkk9A1AmHiSCHrKZN8=</B>
+            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1w8e6+oIhCstV7RkcSL9XhFRccDiHZPGizYv9Hh1Sk1Xg==</B>
             <B>1anPeIR+jPLP+L7xXPF7vZ/FVe7vh26VVBZrSGYShJFsnVqdlsDnj49F+hPeRFQN6R0O/NwEtao16OxLy7yJEOUkfqY852rl0ODitm4zMb/rptR+1/fd0sVyx8cy4AGm</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津文艺" type="1">
-            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1xtp9vRzjVkQoYKat9SPOdiWC2OJbW7Audyl0saplp+SQ==</B>
             <B>jeX4NxTiRBSN/uAmwyc64NDGqYQpsNdrub9Cs7w+MfD1gogbMv2FgNEJfJRGEj/ZPf/D4kNjy6u7SvZ/6MFyt6nlrgrEPXwQ9G3C/O6m2As=</B>
+            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1xtp9vRzjVkQoYKat9SPOdiWC2OJbW7Audyl0saplp+SQ==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津影视" type="1">
-            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1zRBdM4jl1Swm3n7byQTW7op+KPgcZcOfMaEsz9/UZ6tw==</B>
             <B>jeX4NxTiRBSN/uAmwyc64NDGqYQpsNdrub9Cs7w+MfAIyi1cWSTqlSgFGUAi5MBz320TBF5pylVpnDRynZo+wUMYeBeta2c3tkYOoZik9rE=</B>
+            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1zRBdM4jl1Swm3n7byQTW7op+KPgcZcOfMaEsz9/UZ6tw==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津都市" type="1">
-            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1yDoDUFq98oww6oiuOf/KB2WC6OXAyF5qc4xXBYsNhtdg==</B>
             <B>jeX4NxTiRBSN/uAmwyc64NDGqYQpsNdrub9Cs7w+MfC81kvPkLwQVRCXeE2mNwlxav5xPwaSY35g0pPz1CJ6RaolfGvyFXEkOoQC+whjUzQ=</B>
+            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1yDoDUFq98oww6oiuOf/KB2WC6OXAyF5qc4xXBYsNhtdg==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津科教" type="1">
-            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1wCbcdSmKKEnXJMPV/0SgLQD1mjc1lZxmC3MZX/r9M4GA==</B>
             <B>jeX4NxTiRBSN/uAmwyc64NDGqYQpsNdrub9Cs7w+MfCF3xdLh9syivZv4WOjhrqRYKOIDLSlktj2rEa6uDPN6qxeqwXoJQjG9U9+Bme+1I8=</B>
+            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1wCbcdSmKKEnXJMPV/0SgLQD1mjc1lZxmC3MZX/r9M4GA==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津少儿" type="1">
-            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1yylgxQT2hS4BO0JBcPnDdAEo2RgEjNK+IQljZ5M7aHbw==</B>
             <B>jeX4NxTiRBSN/uAmwyc64NDGqYQpsNdrub9Cs7w+MfAB4niksP9D9fp7xwGttG+FLYOv7lFKa8Pgjf4aQ/OL6+DsqPomytlCq30FgaOnpPk=</B>
+            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1yylgxQT2hS4BO0JBcPnDdAEo2RgEjNK+IQljZ5M7aHbw==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津公共" type="1">
-            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1z8w8h12RH7QUQW9UE+2dmy1TufIqpmuah9vd1N6mKzjw==</B>
             <B>jeX4NxTiRBSN/uAmwyc64NDGqYQpsNdrub9Cs7w+MfCr3O3HyAfsX9/1NTgZ24R8xIWMgRMzwSKIuLzKP2RytHyd+5GEJkTaDp4pghQRZ7M=</B>
+            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1z8w8h12RH7QUQW9UE+2dmy1TufIqpmuah9vd1N6mKzjw==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津国际" type="1">
-            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1yUYsYBi+BLrAjC8UBztiz8Y2B+dqPPr3uaD7Z1BbNrRg==</B>
             <B>8uieyGnL7taf4FdHdMQfdU4kFTpGG6KDTYC+2tESKvApVYbLU1X9Ojl2+EA11V5SAIZRRFLRP41syRwgPZKYYu53PfbRiHpYJjqIr2Mnfqk=</B>
+            <B>XVlNs7JxjCD0dfYakLPmP7B/ftyXMuXZ8CMJYrMHn1yUYsYBi+BLrAjC8UBztiz8Y2B+dqPPr3uaD7Z1BbNrRg==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-tjtv1.png" name="天津购物" type="1">
             <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm81XCBd+YvvklyLqMD/zChyosGYPPxM2bZAhxD7/qcoBIg==</B>
