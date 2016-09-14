@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.5.116</Version>
+    <Version>1.5.111</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -9,18 +9,21 @@
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.7.3</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
-    <reloadTime>1</reloadTime>
-    <nofreshTime>1</nofreshTime>
+    <reloadTime>2</reloadTime>
+    <nofreshTime>2</nofreshTime>
     <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
-    <loadOpenAdRate_ipad>0.6</loadOpenAdRate_ipad>
+    <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
     <loadPlayerAdRate_ip>0</loadPlayerAdRate_ip>
     <useConfigRate>56,2,2,40</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
+    <useBaiduBeforeAd>0</useBaiduBeforeAd>
+    <playerUseBaiduBeforeAd>1</playerUseBaiduBeforeAd>
+    <loadPlayerAdFull_ip>0</loadPlayerAdFull_ip>
+    <loadPlayerAdFull_ipad>0</loadPlayerAdFull_ipad>
     <useAdPlatform>100,0</useAdPlatform>
-    <useBaiduBeforeAd>2</useBaiduBeforeAd>
-    <loadHomeBannerAdRate_ip>1</loadHomeBannerAdRate_ip>
+    <reloadBaiduBannerTime>60</reloadBaiduBannerTime>
     <bannerOnhomepageTime>900</bannerOnhomepageTime>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
@@ -29,14 +32,14 @@
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
         <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">11</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">11</AdsRate>
+        <AdsRate Name="FullAdFrequency">12</AdsRate>
+        <AdsRate Name="FullAdFrequency_ip">12</AdsRate>
     </Ads>
     <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
     <supportWifiTransfter>1</supportWifiTransfter>
     <supportNotWifi>1</supportNotWifi>
     <Tips>
-        <appVersion>1.9.0</appVersion>
+        <appVersion>1.9.1</appVersion>
         <info>
             <valid>1</valid>
             <frequency>20</frequency>
