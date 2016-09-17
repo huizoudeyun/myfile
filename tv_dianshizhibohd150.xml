@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.5.111</Version>
+    <Version>1.5.112</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -9,8 +9,8 @@
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.7.3</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
-    <reloadTime>2</reloadTime>
-    <nofreshTime>2</nofreshTime>
+    <reloadTime>5</reloadTime>
+    <nofreshTime>5</nofreshTime>
     <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
@@ -22,7 +22,7 @@
     <playerUseBaiduBeforeAd>1</playerUseBaiduBeforeAd>
     <loadPlayerAdFull_ip>0</loadPlayerAdFull_ip>
     <loadPlayerAdFull_ipad>0</loadPlayerAdFull_ipad>
-    <useAdPlatform>100,0</useAdPlatform>
+    <useAdPlatform>0,100</useAdPlatform>
     <reloadBaiduBannerTime>60</reloadBaiduBannerTime>
     <bannerOnhomepageTime>900</bannerOnhomepageTime>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
@@ -42,7 +42,7 @@
         <appVersion>1.9.1</appVersion>
         <info>
             <valid>1</valid>
-            <frequency>20</frequency>
+            <frequency>5</frequency>
             <link>http://itunes.apple.com/cn/app/id577723645</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
