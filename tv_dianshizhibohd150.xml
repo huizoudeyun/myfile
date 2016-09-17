@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.5.112</Version>
+    <Version>1.5.113</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -22,7 +22,7 @@
     <playerUseBaiduBeforeAd>1</playerUseBaiduBeforeAd>
     <loadPlayerAdFull_ip>0</loadPlayerAdFull_ip>
     <loadPlayerAdFull_ipad>0</loadPlayerAdFull_ipad>
-    <useAdPlatform>0,100</useAdPlatform>
+    <useAdPlatform>100,0</useAdPlatform>
     <reloadBaiduBannerTime>60</reloadBaiduBannerTime>
     <bannerOnhomepageTime>900</bannerOnhomepageTime>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
