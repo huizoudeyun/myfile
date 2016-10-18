@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.5.106</Version>
+    <Version>1.5.107</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -18,7 +18,7 @@
     <useConfigRate>66,2,2,30</useConfigRate>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
-    <useBaiduBeforeAd>1</useBaiduBeforeAd>
+    <useBaiduBeforeAd>0</useBaiduBeforeAd>
     <playerUseBaiduBeforeAd>1</playerUseBaiduBeforeAd>
     <loadPlayerAdFull_ip>0</loadPlayerAdFull_ip>
     <loadPlayerAdFull_ipad>0</loadPlayerAdFull_ipad>
