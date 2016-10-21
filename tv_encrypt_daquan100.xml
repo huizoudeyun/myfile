@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.1.118</Version>
+    <Version>1.1.120</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
@@ -3818,13 +3818,13 @@
     </Channel>
     <Channel name="青海" type="29">
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/qinghai.ico" name="青海卫视－普清" type="1" l="qinghai,qinghai">
+            <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaFfwdd9v4CQXxOJD2J9z8BtZUvEtHL7JrV2twBvOF/V4=</streamURL>
             <streamURL>XE4ZdOl4CcFVStYNV8LgIkTv8HL72QHjsnyOqAxObBx5jwE7Z/dIme31Cp5WQwy/N3H6LTSZ+4C+MlEYQkzsnw==</streamURL>
             <streamURL>1eflJFQdpzScMsF/W0MYRSEsDTY8cnCFAVp7E3oIA5SKbCLBUXRVMSc/icVWXrlG</streamURL>
             <streamURL>t2A5D34AIpywK3oWNLMRmwwcPVvOqX2w50PsMOZBD4sbjigdZxow205IRJ738yfUGfpFuW6qXCf786fMjt57Zj2LlHK8rxfWI2CW+Qdm0S1yzhqO9TW0wueEKLPnsY4ocv//uiJVtvmlVSiQo+7m8Q==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://files.cnblogs.com/luxiang/qinghai.ico" name="青海卫视－标清" type="1" l="qinghai,qinghai">
             <streamURL>P37Qt8albxMYCifnGe8oLuu7QLRfRi3hPcRE844U2xlbS1V9a0MFuhHrcTcru2z++WEKeSJiH32kcjR3NSP4+Q39yczshw+Sxwjue7NC6KrzXNpj/AbpJ7PZ60qX7t/v</streamURL>
-            <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaFfwdd9v4CQXxOJD2J9z8BtZUvEtHL7JrV2twBvOF/V4=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="青海生活" type="1">
             <streamURL>XE4ZdOl4CcFVStYNV8LgIkTv8HL72QHjsnyOqAxObBxsNnnLdn5xuBLyOV7tmQ+sanarPjzOgRy9lrHCl/qa2g==</streamURL>
