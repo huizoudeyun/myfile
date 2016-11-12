@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.6.87</Version>
+    <Version>1.6.88</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -44,11 +44,11 @@
     <!--ptag:0 ffmpeg,1 system,2 web ，3 converter-->
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.zhiboba.cc/zbbimg/hunanweishi.jpg" name="湖南卫视－高清" type="1" l="hunan,hunan">
-            <streamURL>AyBSOkKn++4qNcFqrQUNoX1kIsSJIBZu9tvdl7UB9H+G6bZyufHmZmCxL0jvKihbSICRZ9LtK0Zj+kDrMfWCSMP3G5nv3kuonXhXBVKeJMJ/9Q/5Q7dBFk/nYiBEbh7eYokx7Nnu+wbDYY05+ool9A==</streamURL>
-            <streamURL>gEiVHNBqRfKOSCiPUj2/a8PUONo1AQL++UIL6U24mVWRBAroTBpc51dQOYL6EBJvlj5zEhRj0yyg5DRmpsJwdg==</streamURL>
             <streamURL>/wIvhfPFrH4nkpPQHAhxK1KKfiL9LujpwKN0DJIKJEITm5uy/7UI+YYLfQCccw3F9ur1CEC8VF48Ljrf6H3jww==</streamURL>
-            <streamURL>JyrW2nxw5lTRHdlBE1SBm1RSESkKnxDO6bJZs/KXAP6v97fHWcT1NJJKVKqXKkGc</streamURL>
+            <streamURL>gEiVHNBqRfKOSCiPUj2/a8PUONo1AQL++UIL6U24mVWRBAroTBpc51dQOYL6EBJvlj5zEhRj0yyg5DRmpsJwdg==</streamURL>
             <streamURL>rtmp://203.207.99.19:1935/live/zgjyt</streamURL>
+            <streamURL>JyrW2nxw5lTRHdlBE1SBm1RSESkKnxDO6bJZs/KXAP6v97fHWcT1NJJKVKqXKkGc</streamURL>
+            <streamURL>AyBSOkKn++4qNcFqrQUNoX1kIsSJIBZu9tvdl7UB9H+G6bZyufHmZmCxL0jvKihbSICRZ9LtK0Zj+kDrMfWCSMP3G5nv3kuonXhXBVKeJMJ/9Q/5Q7dBFk/nYiBEbh7eYokx7Nnu+wbDYY05+ool9A==</streamURL>
             <streamURL>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZADK1kirToHS3t3qe+BKMRwxfZHV80TM3VSKxcynlMNdbVRRDkxZeFb0ikqUYE4Im</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.zhiboba.cc/zbbimg/hunanweishi.jpg" name="湖南卫视－标清" type="1" l="hunan,hunan">
@@ -78,9 +78,9 @@
             <streamURL>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－流畅" type="1" l="zhejiang,zhejiang">
-            <streamURL>AyBSOkKn++4qNcFqrQUNoX1kIsSJIBZu9tvdl7UB9H+G6bZyufHmZmCxL0jvKihbSICRZ9LtK0Zj+kDrMfWCSLjAlpxC9xXuLHtzkkRO5kG2YwX1iUYLhUi4ZpuaGm/vcNmzMvAgkqd9w0v8Kz7zCA==</streamURL>
             <streamURL>mGL0YAHl/tcUOadoi8JX4/2spEpZJ1BICWxDR6Yr1l7mVN3DFpKCZWpdBVIYsA8Z</streamURL>
             <streamURL>urYmzeMZ5MWVT4VPyMQ27sJH1aZ9A4VQ7mk1fII+xeCJEZCsfU4/VNrt3CV/ha/DcvCS5/gXFjhrqsajmebYmgI81M6Mnq5BTzdcPys0QbY=</streamURL>
+            <streamURL>AyBSOkKn++4qNcFqrQUNoX1kIsSJIBZu9tvdl7UB9H+G6bZyufHmZmCxL0jvKihbSICRZ9LtK0Zj+kDrMfWCSLjAlpxC9xXuLHtzkkRO5kG2YwX1iUYLhUi4ZpuaGm/vcNmzMvAgkqd9w0v8Kz7zCA==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－高清" type="1" l="dongfang,dongfang">
             <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaUfWPBIkq1eSF11mU2NWXvDqFdLWI9d8T/+nYmrrOUzE=</streamURL>
@@ -3645,36 +3645,11 @@
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-nntv1.png" name="内蒙古影视剧" type="1">
             <streamURL>mmst://mms1.nmtv.cn/ysj</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="鄂尔多斯新闻综合" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/ohyzhpd</streamURL>
-            <streamURL>WS9o8WzDepVZ3TTVvFjE/8/geAUHvLQThScBrQlYJ48rchY/B2EEadxXHeRJnfOPB//mhXRtn/tJPh1wjuL0/A==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="鄂尔多斯经济服务" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/ojjfwpd</streamURL>
-            <streamURL>WS9o8WzDepVZ3TTVvFjE/8/geAUHvLQThScBrQlYJ48rHhLz2hxkFzNmtD71uiw9cuy5y0VIaCVjyOKlM0Odtg==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="鄂尔多斯城市生活" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/ocsshpd</streamURL>
-            <streamURL>WS9o8WzDepVZ3TTVvFjE/8/geAUHvLQThScBrQlYJ48brjh803p9X9bcUbjMwkciTwZODAAyg9u6JRN0QdBNOw==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="鄂尔多斯蒙语综合" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/omyzhpd</streamURL>
-            <streamURL>WS9o8WzDepVZ3TTVvFjE/8/geAUHvLQThScBrQlYJ491RBPMPgAzoRxWBb1o0JZUxDrfcwYDm5mVa0tS9D7vhA==</streamURL>
-        </SubChannel>
         <SubChannel iconURL="" name="呼伦贝尔综合" type="1">
             <streamURL>Ph/Ikr/s7UuRTgIOj2BZYIyrxYXJJeV2mIWQ8zdSsUM5bvgNDbSHwuYgXr776aWPBMbBaGxyxFb1I4WD36sat/6LyiOhCcV5r7RwZJAegU0=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="呼伦贝尔生活" type="1">
             <streamURL>Ph/Ikr/s7UuRTgIOj2BZYIyrxYXJJeV2mIWQ8zdSsUM5rUraMmFSBex6Dd+x/PiBtkhgLkCFe0qUp2knXW/Ab6tpKVfJ9kZJlPJWe4ogHEo=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="巴彦淖尔新闻" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/bntv1</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="巴彦淖尔经济" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/bntv2</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="巴彦淖尔影视" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/bntv3</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="包头新闻" type="1">
             <streamURL>WRfWCRkSnatpWEyLfdPntRg+ARrcL94rHY9heuygXA8oZBjWl6cvXAULoBnUQFKLKrubIU0HtrAIU4PVPMnFkw==</streamURL>
@@ -4141,9 +4116,6 @@
         </SubChannel>
         <SubChannel iconURL="" name="唯心亚洲" type="1">
             <streamURL>rtsp://118.163.182.167/wxtv300k</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="中经电视" type="1">
-            <streamURL>rtmp://116.213.200.53/tslsChannelLive/PCG0DuD/live</streamURL>
         </SubChannel>
     </Channel>
 </Channels>

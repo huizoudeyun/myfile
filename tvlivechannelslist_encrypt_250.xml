@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.161</Version>
+    <Version>1.1.162</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
@@ -1033,13 +1033,13 @@
         </SubChannel>
     </Channel>
     <Channel name="浙江" type="10">
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江影视" geo="杭州">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江影视" geo="北京,上海,浙江,杭州,深圳,广州">
             <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcavHje1fTLdxU+4ct+A+TDkMlluIGEM46jKgmTPyZ9e7s=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江少儿" geo="杭州">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江少儿" geo="北京,上海,浙江,杭州,深圳,广州">
             <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcavHje1fTLdxU+4ct+A+TDkBAAtw4Cx6eI2p+JPIpwSvI=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江经视" geo="杭州">
+        <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江经视" geo="北京,上海,浙江,杭州,深圳,广州">
             <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcanA5J10B/tj8jCLSH0CIrKJC4PFiP2zuTHm0EQEMLU+A=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="杭州综合" geo="杭州">
@@ -3336,36 +3336,11 @@
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-nntv1.png" name="内蒙古影视剧" type="1">
             <streamURL>mmst://mms1.nmtv.cn/ysj</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="鄂尔多斯新闻综合" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/ohyzhpd</streamURL>
-            <streamURL>WS9o8WzDepVZ3TTVvFjE/8/geAUHvLQThScBrQlYJ48rchY/B2EEadxXHeRJnfOPB//mhXRtn/tJPh1wjuL0/A==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="鄂尔多斯经济服务" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/ojjfwpd</streamURL>
-            <streamURL>WS9o8WzDepVZ3TTVvFjE/8/geAUHvLQThScBrQlYJ48rHhLz2hxkFzNmtD71uiw9cuy5y0VIaCVjyOKlM0Odtg==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="鄂尔多斯城市生活" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/ocsshpd</streamURL>
-            <streamURL>WS9o8WzDepVZ3TTVvFjE/8/geAUHvLQThScBrQlYJ48brjh803p9X9bcUbjMwkciTwZODAAyg9u6JRN0QdBNOw==</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="鄂尔多斯蒙语综合" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/omyzhpd</streamURL>
-            <streamURL>WS9o8WzDepVZ3TTVvFjE/8/geAUHvLQThScBrQlYJ491RBPMPgAzoRxWBb1o0JZUxDrfcwYDm5mVa0tS9D7vhA==</streamURL>
-        </SubChannel>
         <SubChannel iconURL="" name="呼伦贝尔综合" type="1">
             <streamURL>Ph/Ikr/s7UuRTgIOj2BZYIyrxYXJJeV2mIWQ8zdSsUM5bvgNDbSHwuYgXr776aWPBMbBaGxyxFb1I4WD36sat/6LyiOhCcV5r7RwZJAegU0=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="呼伦贝尔生活" type="1">
             <streamURL>Ph/Ikr/s7UuRTgIOj2BZYIyrxYXJJeV2mIWQ8zdSsUM5rUraMmFSBex6Dd+x/PiBtkhgLkCFe0qUp2knXW/Ab6tpKVfJ9kZJlPJWe4ogHEo=</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="巴彦淖尔新闻" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/bntv1</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="巴彦淖尔经济" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/bntv2</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="巴彦淖尔影视" type="1">
-            <streamURL>rtmp://zb.allook.8686c.com:1935/vod/bntv3</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="包头新闻" type="1">
             <streamURL>WRfWCRkSnatpWEyLfdPntRg+ARrcL94rHY9heuygXA8oZBjWl6cvXAULoBnUQFKLKrubIU0HtrAIU4PVPMnFkw==</streamURL>
@@ -3627,9 +3602,6 @@
         </SubChannel>
         <SubChannel iconURL="" name="唯心亚洲" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
             <streamURL>rtsp://118.163.182.167/wxtv300k</streamURL>
-        </SubChannel>
-        <SubChannel iconURL="" name="中经电视" type="1">
-            <streamURL>rtmp://116.213.200.53/tslsChannelLive/PCG0DuD/live</streamURL>
         </SubChannel>
     </Channel>
 </Channels>
