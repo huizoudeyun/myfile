@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.112</Version>
+    <Version>1.0.113</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -45,43 +45,44 @@
     </Tips>
     <Channel name="热门" type="1">
         <A iconURL="http://www.zhiboba.cc/zbbimg/hunanweishi.jpg" name="湖南卫视－高清" type="1" l="hunan,hunan" geo="北京,湖南,广州,深圳,长沙,上海,南京,杭州,香港">
+            <B>DqSkkgH72+bLR0UCa9zsFsQBJJ8rp02lRcPuRjY3xivnhqK6d/fhgue/bfIbJO1Sju5IE7wXADLcvXDRTGfkkEmEHmCHRaFog85Bx+pMKameIelmDxbPL35hBbSQRmhnhLW8PghbozcWfb+dJh68tg==</B>
             <B>/wIvhfPFrH4nkpPQHAhxK1KKfiL9LujpwKN0DJIKJEITm5uy/7UI+YYLfQCccw3F9ur1CEC8VF48Ljrf6H3jww==</B>
             <B>gEiVHNBqRfKOSCiPUj2/a8PUONo1AQL++UIL6U24mVWRBAroTBpc51dQOYL6EBJvlj5zEhRj0yyg5DRmpsJwdg==</B>
             <B>rtmp://203.207.99.19:1935/live/zgjyt</B>
             <B>JyrW2nxw5lTRHdlBE1SBm1RSESkKnxDO6bJZs/KXAP6v97fHWcT1NJJKVKqXKkGc</B>
-            <B>AyBSOkKn++4qNcFqrQUNoX1kIsSJIBZu9tvdl7UB9H+G6bZyufHmZmCxL0jvKihbSICRZ9LtK0Zj+kDrMfWCSMP3G5nv3kuonXhXBVKeJMJ/9Q/5Q7dBFk/nYiBEbh7eYokx7Nnu+wbDYY05+ool9A==</B>
             <B>CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZADK1kirToHS3t3qe+BKMRwxfZHV80TM3VSKxcynlMNdbVRRDkxZeFb0ikqUYE4Im</B>
         </A>
         <A iconURL="http://www.zhiboba.cc/zbbimg/hunanweishi.jpg" name="湖南卫视－标清" type="1" l="hunan,hunan" geo="北京,湖南,广州,深圳,长沙,上海,南京,杭州,香港">
+            <B>lbO0Kak7rfb2TFhs7IV6t/utSQ4H2NGG43Hvkzqb/GEYceiMQlmYcIaxC/yX4TGFCM47lrq7najp/1T+gAPownGnHeQ54YQyc1NuHMHNF6g=</B>
+            <B>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVXX2Vi1BlzjAShIT3gQRJorw==</B>
             <B>urYmzeMZ5MWVT4VPyMQ27sJH1aZ9A4VQ7mk1fII+xeCJEZCsfU4/VNrt3CV/ha/DDp5mzAM/stDxPIRqgWthSs2hVL6wKgOSHz98Awq2EOE=</B>
             <B>urYmzeMZ5MWVT4VPyMQ27lP4AQxyDzOgwExzIMNabnAoRCEE+mzxGmpyReI+B+Ohk4mfuQPxlXxy7DEI3vkraA==</B>
-            <B>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVXX2Vi1BlzjAShIT3gQRJorw==</B>
-            <B>lbO0Kak7rfb2TFhs7IV6t/utSQ4H2NGG43Hvkzqb/GEYceiMQlmYcIaxC/yX4TGFCM47lrq7najp/1T+gAPownGnHeQ54YQyc1NuHMHNF6g=</B>
             <B>mGL0YAHl/tcUOadoi8JX4/2spEpZJ1BICWxDR6Yr1l4MQUL9f7AUgTZEwz2U6YIp</B>
         </A>
         <A iconURL="http://www.zhiboba.cc/zbbimg/hunanweishi.jpg" name="湖南卫视－流畅" type="1" l="hunan,hunan" geo="北京,湖南,广州,深圳,长沙,上海,南京,杭州,香港">
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcasegBvzoPi2j95+FL6a4xYMvBUXzoaZsyOGqH5/VFnzc=</B>
             <B>Nw7UqaauxkiUiNsKwGkzpgmcsJoJZYKQOqk71oKZNsw6NqFVfi/IxsJUvf0o4s+ybFANwCCW589sKmanRSyLrn4GmHOd+aY6/7e9qX1y8UnYdgJTcQuKmhdJd9vgTspuu/sRCqYtS48LiG6BjT0/PX20ie5k7UahV38b3DzXNN9TCF+6Xm+42N43YZ67Tu+iJiF+MgSKG/pwdc75vKFirt4reSoL6VFQwmmPm0P+KWGIgI82M7Ju4vIZx+wZKGUg0Sf6dN5SKWueGCCrCmCmzQ==</B>
+            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcasegBvzoPi2j95+FL6a4xYMvBUXzoaZsyOGqH5/VFnzc=</B>
             <B>rtmp://203.207.99.19:1935/live/zgjyt</B>
             <B>HPmBp19H43DZtXTHGQBYmLMeKvBDQTP6OwbNefwHdjk5lm5A51ZxY7VRTRdQAWo+ShuPcUzT5jlouOiC2H7bfQ==</B>
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKYb6i44lMENJ3el1Me/e7q7VtxbxaC8iNIecXibyVIAQ=</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－普清" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,杭州,深圳,广州">
             <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKFStlPTgmNGUmK5VVpL8/PjvNnZRwuXzN8hR0FJeQvRQ=</B>
-            <B>gEiVHNBqRfKOSCiPUj2/a8PUONo1AQL++UIL6U24mVWRBAroTBpc51dQOYL6EBJvTEQ/dujGoQ7nADZTclT0vQ==</B>
             <B>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</B>
+            <B>gEiVHNBqRfKOSCiPUj2/a8PUONo1AQL++UIL6U24mVWRBAroTBpc51dQOYL6EBJvTEQ/dujGoQ7nADZTclT0vQ==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－标清" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,杭州,深圳,广州">
             <B>Nw7UqaauxkiUiNsKwGkzpgmcsJoJZYKQOqk71oKZNswqpDwBK3OtTRPcABdmbInuXNsFOgoV5V3d8EkODvW8RbbETRGN4CoWBeB6qUJxfzTW7CZ/1OG/kvh9Qe35lUE/rxgXqKeMrtWxNUmaEz6Z9IZ+4ldNb6eqVdmFP1CKMm64mpexU+MPDSFOk4O4VhshSIrB0U9ng/ed9yMhCKdgHZjqHmZUUOuYA+5CgpeHYbwzOXNo5srLjvu7cTNDinShSfEz4qsfsfs0RImbkIvajQ==</B>
+            <B>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</B>
+            <B>HPmBp19H43DZtXTHGQBYmLMeKvBDQTP6OwbNefwHdjmbGoUYpyhJGYZBWTp54sw2ScDX0KPBeQVi8GuUCO73xw==</B>
             <B>RfwYeMKtplOXrKfOOT+GdiEGqEdt6uxx5Bw10mPxCZWw8ofyVMwE/jBWEM79vJz94z5buMQmLk1Obyq4t9PMEQ==</B>
             <B>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVX7h/g9wpj6p0oTxiT93xgrg==</B>
-            <B>HPmBp19H43DZtXTHGQBYmLMeKvBDQTP6OwbNefwHdjmbGoUYpyhJGYZBWTp54sw2ScDX0KPBeQVi8GuUCO73xw==</B>
-            <B>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－流畅" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,杭州,深圳,广州">
+            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaJ1hBwqFGpd0+4j2Q/sQ07wl8D0h3PrJ2LqHCONTh3h4=</B>
+            <B>DqSkkgH72+bLR0UCa9zsFsQBJJ8rp02lRcPuRjY3xivnhqK6d/fhgue/bfIbJO1SlL8UmNF6dOCcb49I9ySVY3klVW87nvwIb9nbltvPXUTDVCz3OJAlXRBmUnh9K9A5Hl1MiJzyvHuPsvb6MBk4Zg==</B>
             <B>mGL0YAHl/tcUOadoi8JX4/2spEpZJ1BICWxDR6Yr1l7mVN3DFpKCZWpdBVIYsA8Z</B>
             <B>urYmzeMZ5MWVT4VPyMQ27sJH1aZ9A4VQ7mk1fII+xeCJEZCsfU4/VNrt3CV/ha/DcvCS5/gXFjhrqsajmebYmgI81M6Mnq5BTzdcPys0QbY=</B>
-            <B>AyBSOkKn++4qNcFqrQUNoX1kIsSJIBZu9tvdl7UB9H+G6bZyufHmZmCxL0jvKihbSICRZ9LtK0Zj+kDrMfWCSLjAlpxC9xXuLHtzkkRO5kG2YwX1iUYLhUi4ZpuaGm/vcNmzMvAgkqd9w0v8Kz7zCA==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-dragontv1.png" name="东方卫视－高清" type="1" l="dongfang,dongfang" geo="北京,上海,深圳,广州">
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaUfWPBIkq1eSF11mU2NWXvDqFdLWI9d8T/+nYmrrOUzE=</B>
@@ -1113,12 +1114,11 @@
     </Channel>
     <Channel name="湖南" type="26">
         <A iconURL="http://h.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=67ce95aa4734970a47731729adf1b6f5/21a4462309f79052573f1abb0af3d7ca7bcbd517.jpg" name="湖南卫视" type="1" l="hunan,hunan" geo="北京,湖南,广州,深圳,长沙,上海,南京,杭州,香港">
-            <B>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVXX2Vi1BlzjAShIT3gQRJorw==</B>
+            <B>HPmBp19H43DZtXTHGQBYmLMeKvBDQTP6OwbNefwHdjk5lm5A51ZxY7VRTRdQAWo+ShuPcUzT5jlouOiC2H7bfQ==</B>
             <B>lbO0Kak7rfb2TFhs7IV6t/utSQ4H2NGG43Hvkzqb/GEYceiMQlmYcIaxC/yX4TGFCM47lrq7najp/1T+gAPownGnHeQ54YQyc1NuHMHNF6g=</B>
-            <B>mGL0YAHl/tcUOadoi8JX4/2spEpZJ1BICWxDR6Yr1l4MQUL9f7AUgTZEwz2U6YIp</B>
+            <B>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVXX2Vi1BlzjAShIT3gQRJorw==</B>
+            <B>DqSkkgH72+bLR0UCa9zsFsQBJJ8rp02lRcPuRjY3xivnhqK6d/fhgue/bfIbJO1Sju5IE7wXADLcvXDRTGfkkEmEHmCHRaFog85Bx+pMKameIelmDxbPL35hBbSQRmhnhLW8PghbozcWfb+dJh68tg==</B>
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcasegBvzoPi2j95+FL6a4xYMvBUXzoaZsyOGqH5/VFnzc=</B>
-            <B>urYmzeMZ5MWVT4VPyMQ27sJH1aZ9A4VQ7mk1fII+xeCJEZCsfU4/VNrt3CV/ha/DDp5mzAM/stDxPIRqgWthSs2hVL6wKgOSHz98Awq2EOE=</B>
-            <B>rtmp://203.207.99.19:1935/live/zgjyt</B>
         </A>
         <A iconURL="http://h.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=67ce95aa4734970a47731729adf1b6f5/21a4462309f79052573f1abb0af3d7ca7bcbd517.jpg" name="湖南经视" type="4" geo="北京,湖南,广州,深圳,长沙,南京,杭州">
             <B ptag="3">QQ4jqDIEIgisZ7JdGU2vxKVIkECYHW+S4izbD2OLTMFzsJjAWaNLiSy3STp/5vUZjCytPIqGAkI0BwjQqLLezOke0p7z8ke8ZJdplN8/7AI=</B>
@@ -1315,19 +1315,22 @@
     <Channel name="浙江" type="10">
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,杭州,深圳,广州">
             <B>HPmBp19H43DZtXTHGQBYmGF7DMykvuPdH9wB48DzTzDwdbPujRU/tHS6egncBoBi</B>
+            <B>HPmBp19H43DZtXTHGQBYmLMeKvBDQTP6OwbNefwHdjmbGoUYpyhJGYZBWTp54sw2ScDX0KPBeQVi8GuUCO73xw==</B>
+            <B>PpUQKmJYbY1Vxo9+V0UlOESDqAm89rZYshSpoyLXoUllMoffKc2C43SsVdtPR2tKFStlPTgmNGUmK5VVpL8/PjvNnZRwuXzN8hR0FJeQvRQ=</B>
+            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaJ1hBwqFGpd0+4j2Q/sQ07wl8D0h3PrJ2LqHCONTh3h4=</B>
             <B>urYmzeMZ5MWVT4VPyMQ27lP4AQxyDzOgwExzIMNabnAoRCEE+mzxGmpyReI+B+OhWW7qY39zV2QHRNFk6KYXAw==</B>
-            <B>AyBSOkKn++4qNcFqrQUNoX1kIsSJIBZu9tvdl7UB9H+G6bZyufHmZmCxL0jvKihbSICRZ9LtK0Zj+kDrMfWCSLjAlpxC9xXuLHtzkkRO5kG2YwX1iUYLhUi4ZpuaGm/vcNmzMvAgkqd9w0v8Kz7zCA==</B>
-            <B>mGL0YAHl/tcUOadoi8JX4/2spEpZJ1BICWxDR6Yr1l7mVN3DFpKCZWpdBVIYsA8Z</B>
             <B ptag="1">CBFnLsfAop1Xkz/M6SSs3ayShdxCjaobskbWdljLw3QZ8c5xJYlJDrorQP08UgQZIR5Y5Db1BLpNTDcg5Jo/gal8ULhNHcOjziTqiwttS0dEK9vTz6NAuoTyKZy8Izyz</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江影视" geo="北京,上海,浙江,杭州,深圳,广州">
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcavHje1fTLdxU+4ct+A+TDkMlluIGEM46jKgmTPyZ9e7s=</B>
+            <B>nOL+jUBjxp+e07saoTpRqtV1FdRXsZpP1wm8Ql8EOt+rXVyF6oibPUrubm5i08EGgiif2pA67eb0zdF8b139Wg==</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江少儿" geo="北京,上海,浙江,杭州,深圳,广州">
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcavHje1fTLdxU+4ct+A+TDkBAAtw4Cx6eI2p+JPIpwSvI=</B>
         </A>
         <A iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江经视" geo="北京,上海,浙江,杭州,深圳,广州">
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcanA5J10B/tj8jCLSH0CIrKJC4PFiP2zuTHm0EQEMLU+A=</B>
+            <B>nOL+jUBjxp+e07saoTpRqtV1FdRXsZpP1wm8Ql8EOt+rXVyF6oibPUrubm5i08EGzkwqh8O0GlzaoVV96pDnfw==</B>
         </A>
         <A iconURL="" name="杭州综合" geo="杭州">
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcavHje1fTLdxU+4ct+A+TDkHbghRQuyRhKZyI89qJM/po=</B>
@@ -1562,15 +1565,20 @@
             <B>ihN9n6r8BLvyRMc9dpNK1Oz0OnR17yLMCaHRn4YrmLVlJXdJmP06P9dHrv3JDusF</B>
         </A>
         <A iconURL="http://imgsrc.baidu.com/baike/pic/item/f7657560b044ff09eaf8f862.jpg" name="苏州社会经济" type="1">
+            <B>9BS1cynZLuLvaLz0yfG1A0SklwDpYin4FbOIlPsIiTpDZ1puYxWwdg2yV38brojf/wv70XJtd463q570AxvoAw==</B>
             <B>9BS1cynZLuLvaLz0yfG1A0SklwDpYin4FbOIlPsIiTpYsRKsKhvMvDB9ThRCLUKNqEqJjDxQfH9yd3SMG9cgIA==</B>
         </A>
         <A iconURL="http://imgsrc.baidu.com/baike/pic/item/f7657560b044ff09eaf8f862.jpg" name="苏州新闻综合" type="1">
+            <B>rUIVZw89jHyWCHtZM1kAPuZxGeEh3mCCZVDv501vBSH5GdEE70uU204/tTY8dpaXx0zzOblDsxyv8fXyI5P6sA==</B>
+            <B>Ly9eBDtZW6ESXecUKZUr6kOMlZn2PTi501N1GJWD4y8IvW5dsC5uJxO2hYZdCQ3UYR7qHxmg+6z/cA0dnquThQ==</B>
             <B>9BS1cynZLuLvaLz0yfG1A0SklwDpYin4FbOIlPsIiTpV00cod38loDAdMQtFqVcy0N37d2wY/BVIb8UIHDDPYA==</B>
         </A>
         <A iconURL="http://imgsrc.baidu.com/baike/pic/item/f7657560b044ff09eaf8f862.jpg" name="苏州文化生活" type="1">
+            <B>9BS1cynZLuLvaLz0yfG1A0SklwDpYin4FbOIlPsIiTplxshHNN/V82caGPio1yph7xM4elTEaaZQ6//30Y75uA==</B>
             <B>9BS1cynZLuLvaLz0yfG1A0SklwDpYin4FbOIlPsIiTpZ/x1pX7K0AOChRSyV/jnx3aIzGMmvuQyaBsVgp6/e/g==</B>
         </A>
         <A iconURL="http://imgsrc.baidu.com/baike/pic/item/f7657560b044ff09eaf8f862.jpg" name="苏州生活资讯" type="1">
+            <B>9BS1cynZLuLvaLz0yfG1A0SklwDpYin4FbOIlPsIiTrJOz4cUHHgxrHZtBokStT2P9qFMoePOhLbM1gLoZdQhA==</B>
             <B>9BS1cynZLuLvaLz0yfG1A0SklwDpYin4FbOIlPsIiTp/SMGrEcG/bmCdwIkZRkbcNb3pg/dRHRvyVNJP4t+EsQ==</B>
         </A>
         <A iconURL="http://g.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=fc4f6f4cb0de9c82a665fe8954bae737/63d0f703918fa0ec66edef78259759ee3d6ddb99.jpg" name="南京新闻综合" type="1">
@@ -4112,7 +4120,7 @@
         <A iconURL="" name="高清影院2" type="1" geo="北京,天津,上海,长沙,广东,韩国,杭州,香港,澳门,美国">
             <B ptag="1">o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiMrwTBHxKa2RWBGDWIs+ciL+u/3mg7GtQkfeg3wEpvwcg==</B>
         </A>
-        <A iconURL="" name="生命电视" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
+        <A iconURL="" name="生命电视3" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
             <B>vezkUgwOfHApeHuDN0qUTc3eErb86WoWiNE4Ud5EGhvjtoTxIYU/HzmeyDOSLvkSturU5ANsXujUCP3AjF+7dya19ThRXmjC1UitaYfwIjXtcoizVRNdQAOlNg/cScTAxT5jMf3Lx7G7LrZrEq92aljHvijWFsuiWPniYiAMa/s=</B>
         </A>
         <A iconURL="" name="唯心亚洲" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
