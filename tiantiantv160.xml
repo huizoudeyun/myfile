@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.3.105</Version>
+    <Version>1.3.102</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -9,8 +9,8 @@
     <supportWebUrl2VideoUrl>1</supportWebUrl2VideoUrl>
     <convertURLEngineConfigV>1.7.3</convertURLEngineConfigV>
     <bufferTime4Reload>10</bufferTime4Reload>
-    <reloadTime>1</reloadTime>
-    <nofreshTime>1</nofreshTime>
+    <reloadTime>5</reloadTime>
+    <nofreshTime>5</nofreshTime>
     <loadOpenAdRate_ip>0.5</loadOpenAdRate_ip>
     <loadOpenAdRate_ipad>0.5</loadOpenAdRate_ipad>
     <loadPlayerAdRate_ipad>0</loadPlayerAdRate_ipad>
@@ -22,7 +22,7 @@
     <playerUseBaiduBeforeAd>1</playerUseBaiduBeforeAd>
     <loadPlayerAdFull_ip>0</loadPlayerAdFull_ip>
     <loadPlayerAdFull_ipad>0</loadPlayerAdFull_ipad>
-    <useAdPlatform>100,0</useAdPlatform>
+    <useAdPlatform>0,100</useAdPlatform>
     <reloadBaiduBannerTime>30</reloadBaiduBannerTime>
     <bannerOnhomepageTime>900</bannerOnhomepageTime>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
@@ -32,18 +32,18 @@
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
         <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">12</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">12</AdsRate>
+        <AdsRate Name="FullAdFrequency">15</AdsRate>
+        <AdsRate Name="FullAdFrequency_ip">15</AdsRate>
     </Ads>
     <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
     <supportWifiTransfter>1</supportWifiTransfter>
     <supportNotWifi>1</supportNotWifi>
     <Tips>
-        <appVersion>1.0.3</appVersion>
+        <appVersion>1.6.0</appVersion>
         <info>
             <valid>1</valid>
             <frequency>30</frequency>
-            <link>http://itunes.apple.com/cn/app/id991675873</link>
+            <link>http://itunes.apple.com/cn/app/id577726427</link>
             <word>如果你觉得此应用不错，前去appstore评分？</word>
         </info>
     </Tips>
@@ -275,6 +275,9 @@
         </SubChannel>
         <SubChannel iconURL="kmUd949SBN9KwcX1ci45zv/R9Rdq+tFBszLVjySlSvlGbcekvuivkUWZIfr8e9DSx+sOhU/jEuzaUvSYNxiqvOox2fJMP1ew9l+T1mXu/4w=" name="香港影视" type="1">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvNhmiuK4DMcMKvQcyOHXVT9gzXLIPCTAFhH0Pff1CYWFejRvaFYOw+iM5J40LF7qhqkD+VrmcHas3v0HYO3Q13BlqG8V3pkBaEc2LbdBaTEuCK5dFd6fr33LEGFgIKdSVKKypLA2D9Oax6GJhSQ/SwVtVnvyoxlVHMpvjLjZCI5/gWvv+42KJ85wPR77JWbiik=</streamURL>
+        </SubChannel>
+        <SubChannel iconURL="XY751XMGqeAM1pn5LO99CM7CtdX1SVSdJ6Trs87COEj/f8Biy/CFO2D1DMaRM9J1in6Hroj1vAQb81IgCr4OEN1rl/ILafFiUjzh+A3sWYU=" name="美女直播" type="100">
+            <streamURL>http://m.v.6.cn/?src=ummeda5221</streamURL>
         </SubChannel>
     </Channel>
     <Channel name="央视" type="2">
