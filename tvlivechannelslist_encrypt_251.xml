@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>2.5.128</Version>
+    <Version>2.5.130</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
@@ -18,7 +18,7 @@
     <use1stConfigRate>0.5</use1stConfigRate>
     <playerlistURL_header>Referer==http://cctv.com##Referer==http://www.cctv.com</playerlistURL_header>
     <playerlistURL>SErmxGC8wjPr345vfHYZQyrgKuuu6T7f78Vl0X+tv/eoidvcRP5YPsNehR8Zm0bLWM4fkLd0JGx9Zvxv8egw4/2v5WikNdf2VpjL/vkALgnIBiLXwAkh/XjQpQP9xT8V</playerlistURL>
-    <useConfigRate>5,5,5,85</useConfigRate>
+    <useConfigRate>70,5,5,20</useConfigRate>
     <ConfigURL>Xo/gNOqapS84POAIdOmYjYtV7p8UBxSJS7bdK0HviZGq5GaTavoefgpPcUD+EAJMMj0S9v4yLO8O0WSq1EZ2YrbVmsC9KGy8lsD7I2eD1VYYbgK/IjZkt+/uoub5WFCrnw8+PfE3RaLT16d/2dW7PrJkRWKNX92KNPha4VsHkDaOYVPO/YsDP6fqy95nZQo7KzdT+Wt6ARBxEpl3R3ehTDOBDhpwgN6He9Im/R5MiZmAY9Jvi3zPZp42U+Qs2NFulebWOt0GuAiKfdjM2hPIXjD3CalbZqAqxUap9KqO9yQzsvsVEEiTlMGufoABsivouxi1ykPsx6yVlun9XUQjj+q2aCoKTcgH97j3NkESFYN7gCe+xdQhLCrleDmKM2BSoT1TxzlcZfVU+fkGHzGYc6TORpE7l6nNhJZMXCY07bIZrS0Kl61pjRFwfzJOiFZ2xNfN2WUtZjOYzlgFTj+kEp7NU/BRFlYQfmwjXUjC91lNpZm/jn9vpQNtaBodX5SK1ZO39ZGm6hxkazYJXUN/BswQzLE0Sr1FQYjfXCZFSWRzUxQvP+Kx/C3VBMImk5eWZwJHK5k45g43jMlwlIq+WrrOPQ/pwatYA2+cBP0vLfJ7XyJsJZIL3GAO07Vxwbv1P4oPMrIm7lsFkKFO1duieNdlJsmR5SU1hMeLGW0U5vc=</ConfigURL>
     <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhu6bpmjtQrybujdGxTOveZkISXOcNAqgXLKMlvXFVWyXS+qXFjjKHmGKyI61ypXfEPJAasOF/ayqk4DaESCmQKwuJbEY93E4bom+Ofr2lBjHndVHwIhyWBdoaL++k27gIO20lyad+Hjg+CWUtRRc9z0=</IPAddressInfoURL>
     <Appstate>1</Appstate>
@@ -43,7 +43,6 @@
     </Tips>
     <Channel name="热门" type="1">
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－高清" type="1" l="anhui,anhui" geo="北京,深圳,合肥">
-            <streamURL>DqSkkgH72+bLR0UCa9zsFsQBJJ8rp02lRcPuRjY3xivnhqK6d/fhgue/bfIbJO1ScEVDQs3b2GfLEfNZ/fLf7yfUUwcKZsqqIfs3fHchuTg4P5ksIHPxjsCNkqVwXs3hbsFuwx3ew/8ypiV+hF+1oA==</streamURL>
             <streamURL>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVX6O+TMcYXdyJjhSpPzV9a+w==</streamURL>
             <streamURL>pll4EHcrtLToBCqzQbi/ROcMdgxTyx1aY0L9FsNc77NZryK5Gw0XYk8HfmH6y11kQ52nCIlar17/diK22z71PQ71pidTVE/0Ji60Hzo2h2I=</streamURL>
             <streamURL>Nw7UqaauxkiUiNsKwGkzpv7skYiXGPx54bpIuH2qApEVwJnLoRzWLkJU2rpXeD/jfgocu6aHpwmMUHJ0AC0JvEVxWBzOv4GGlgDKTpaGEl5p0CbhawUvgjPp9Y6kV+FcAhhoiXhHbT4rumnnQjl0F95bkFtxcagwPLRP53HUXXS6MdQYV86lpOsBZCBuo1i/p5wWKq1iZ3l2UFtxAEwTckxe+tNN6T4lGAsDrqw8/JzlAcyMq4/091DfqAOwTdliXaCIezlL8o7+rC3L5/Vuaw==</streamURL>
@@ -3541,7 +3540,7 @@
         <SubChannel iconURL="" name="网络棋牌" type="4">
             <streamURL>rtsp://218.25.11.13:554/wlqp</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="生命电视5" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
+        <SubChannel iconURL="" name="生命电视1" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
             <streamURL>vezkUgwOfHApeHuDN0qUTc3eErb86WoWiNE4Ud5EGhvjtoTxIYU/HzmeyDOSLvkSturU5ANsXujUCP3AjF+7dya19ThRXmjC1UitaYfwIjXtcoizVRNdQAOlNg/cScTAxT5jMf3Lx7G7LrZrEq92aljHvijWFsuiWPniYiAMa/s=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="唯心亚洲" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">

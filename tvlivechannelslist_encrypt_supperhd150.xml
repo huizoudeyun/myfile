@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.95</Version>
+    <Version>1.0.97</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
@@ -77,12 +77,13 @@
             <streamURL>HPmBp19H43DZtXTHGQBYmLMeKvBDQTP6OwbNefwHdjmbGoUYpyhJGYZBWTp54sw2ScDX0KPBeQVi8GuUCO73xw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-zhejiang1.png" name="浙江卫视－流畅" type="1" l="zhejiang,zhejiang" geo="北京,上海,浙江,杭州,深圳,广州">
-            <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaJ1hBwqFGpd0+4j2Q/sQ07wl8D0h3PrJ2LqHCONTh3h4=</streamURL>
-            <streamURL>urYmzeMZ5MWVT4VPyMQ27sJH1aZ9A4VQ7mk1fII+xeCJEZCsfU4/VNrt3CV/ha/DcvCS5/gXFjhrqsajmebYmgI81M6Mnq5BTzdcPys0QbY=</streamURL>
+            <streamURL>Nw7UqaauxkiUiNsKwGkzpgmcsJoJZYKQOqk71oKZNswqpDwBK3OtTRPcABdmbInuXNsFOgoV5V3d8EkODvW8RbbETRGN4CoWBeB6qUJxfzTW7CZ/1OG/kvh9Qe35lUE/rxgXqKeMrtWxNUmaEz6Z9IZ+4ldNb6eqVdmFP1CKMm64mpexU+MPDSFOk4O4VhshSIrB0U9ng/ed9yMhCKdgHZjqHmZUUOuYA+5CgpeHYbwzOXNo5srLjvu7cTNDinShSfEz4qsfsfs0RImbkIvajQ==</streamURL>
+            <streamURL>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVX7h/g9wpj6p0oTxiT93xgrg==</streamURL>
             <streamURL>mGL0YAHl/tcUOadoi8JX4/2spEpZJ1BICWxDR6Yr1l7mVN3DFpKCZWpdBVIYsA8Z</streamURL>
+            <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaJ1hBwqFGpd0+4j2Q/sQ07wl8D0h3PrJ2LqHCONTh3h4=</streamURL>
+            <streamURL>urYmzeMZ5MWVT4VPyMQ27lP4AQxyDzOgwExzIMNabnAoRCEE+mzxGmpyReI+B+Oh8q5u0ybIIC/hQ5xBlE/Q7r66txA3PcUAZb8i2MIEST0=</streamURL>
         </SubChannel>
         <SubChannel iconURL="http://www.cnblogs.com/images/cnblogs_com/luxiang/318106/t_channel-anhui1.png" name="安徽卫视－高清" type="1" l="anhui,anhui" geo="北京,深圳,合肥">
-            <streamURL>DqSkkgH72+bLR0UCa9zsFsQBJJ8rp02lRcPuRjY3xivnhqK6d/fhgue/bfIbJO1ScEVDQs3b2GfLEfNZ/fLf7yfUUwcKZsqqIfs3fHchuTg4P5ksIHPxjsCNkqVwXs3hbsFuwx3ew/8ypiV+hF+1oA==</streamURL>
             <streamURL>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVX6O+TMcYXdyJjhSpPzV9a+w==</streamURL>
             <streamURL>pll4EHcrtLToBCqzQbi/ROcMdgxTyx1aY0L9FsNc77NZryK5Gw0XYk8HfmH6y11kQ52nCIlar17/diK22z71PQ71pidTVE/0Ji60Hzo2h2I=</streamURL>
             <streamURL>Nw7UqaauxkiUiNsKwGkzpv7skYiXGPx54bpIuH2qApEVwJnLoRzWLkJU2rpXeD/jfgocu6aHpwmMUHJ0AC0JvEVxWBzOv4GGlgDKTpaGEl5p0CbhawUvgjPp9Y6kV+FcAhhoiXhHbT4rumnnQjl0F95bkFtxcagwPLRP53HUXXS6MdQYV86lpOsBZCBuo1i/p5wWKq1iZ3l2UFtxAEwTckxe+tNN6T4lGAsDrqw8/JzlAcyMq4/091DfqAOwTdliXaCIezlL8o7+rC3L5/Vuaw==</streamURL>
@@ -3873,95 +3874,95 @@
         <SubChannel iconURL="" name="EuroNews france" type="2" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
             <streamURL>AwweFzA1THE737UcA/XBXLBkZ7NYEBHGB2OahJ3LXClJ/RTzTn+lQs70AAWYTh+usDOrfiCzw9180wxzxppUy3Bu37WDwLKFOaRDYa1pnDQ=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="日animax" type="4" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="日animax" type="4" geo="北京,上海,广州,深圳,香港,日本">
             <streamURL>rtsp://c.itvitv.com/animaxj.yuwnshydgtrf</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="日bskids" type="4" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="日bskids" type="4" geo="北京,上海,广州,深圳,香港,日本">
             <streamURL>rtsp://c.itvitv.com/bskids</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="日d365" type="4" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="日d365" type="4" geo="北京,上海,广州,深圳,香港,日本">
             <streamURL>rtsp://c.itvitv.com/d365</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="日Mega" type="4" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="日Mega" type="4" geo="北京,上海,广州,深圳,香港,日本">
             <streamURL>rtsp://c.itvitv.com/mega</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="日NTV" type="4" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="日NTV" type="4" geo="北京,上海,广州,深圳,香港,日本">
             <streamURL>rtsp://u.itvitv.com/ntv24t</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="日TbsMusicDay" type="4" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="日TbsMusicDay" type="4" geo="北京,上海,广州,深圳,香港,日本">
             <streamURL>rtsp://u.itvitv.com/TbsMusicDay</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="日Jp" type="4" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="日Jp" type="4" geo="北京,上海,广州,深圳,香港,日本">
             <streamURL>rtsp://c.itvitv.com/jp.test3</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩国综合" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩国综合" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>P9V3VI7SRH8MrcGrfW071vCZbGtVe+Of62V3kjgofeHNJRvapCvlrYFJvLIAha5CnxvAHYodrFNfqhjayxav0YE9ENzhBBOE2qZrEccrGOM=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩Good TV" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩Good TV" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>jXeWy2Pc6c540LIutK3shV2NNYQrxnd1j4DIMeeNlTLUsMb3tNu6YPAxt6XaGjSf7+U1uEz76c7Jjk8D5M+c1w==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩KCTV Ch.5" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩KCTV Ch.5" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>X88EcIbK/XgCfX8vsJmH6iTpMedn7VmUacczrjWp/1SIZM5tp4NmlHsmM7/YO7QQgKaheffZKXQVObrEDPT/pw==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩KCTV" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩KCTV" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>X88EcIbK/XgCfX8vsJmH6iTpMedn7VmUacczrjWp/1SdiwqR89h95NROjf7Kj+41fQvs/wKx12Plxq2sZbpojg==</streamURL>
             <streamURL>rtmp://122.202.129.136/live//ch4</streamURL>
             <streamURL>rtmp://122.202.129.136:1935/live/ch4</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩YTNWeather" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩YTNWeather" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLZkrK0ceNBG2AMtuybdqwSteqE6kyHEENvpFUUcb+uE4prK83NZzw5Ycb7hqRMM7tA==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩MOUNTAINTV" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩MOUNTAINTV" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLZkrK0ceNBG2AMtuybdqwStlw0ycD0huzR52Y1qwbYG6ThmnBgYaR4TpeZa086AFvg==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩eventTV" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩eventTV" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLZkrK0ceNBG2AMtuybdqwStfLckzweR7yaD0PDoQ9ZM/kGHjZTh7dSqjCgKX8LT4KQ==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩KBS2" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩KBS2" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLfyZTzYONFoOc1w9fA063xLeqAAg5KnWWjIfR9Pfk8t/</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩音乐" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩音乐" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLZkrK0ceNBG2AMtuybdqwStYvJdRovkdpxTcyX+Qzn+p</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩SAFE" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩SAFE" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLStGMCv4DH0Sf0cprnVPEQ/KfxkbDblYZtw32cTI1KHi</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩KTV" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩KTV" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>nU+/ZY5U5NjJtYAEDWk/v9CIDJv2XNuPMVc5QyIbiCXUhxMwwgW1W2FPCZWNdbaj</streamURL>
             <streamURL>rtmp://218.38.152.31:1935/klive/klive.stream</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩CTS" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩CTS" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>nU+/ZY5U5NjJtYAEDWk/vz5U24KRYbTlfjF3NM1YHf7NDsmQdRhomj2eY4s2l/C1</streamURL>
             <streamURL>rtmp://ctsnanum.rtsp.vercoop.com/CTS//CTS_34312_100.sdp</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩CBS" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩CBS" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩OBS" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩OBS" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>nU+/ZY5U5NjJtYAEDWk/v/TZjC3aTYadMvCSnGe6EMOsVuh/21FZE/FdDAuvNHlr</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩TVIS" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩TVIS" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>nU+/ZY5U5NjJtYAEDWk/v8LqswhtROVwgY5kZHyDzWf2DqB/FuhMqDTB0jwyCLNeIlAoQ80xESC55y3rsmJisw==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩ETN" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩ETN" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLZkrK0ceNBG2AMtuybdqwStrGrhbMnTiO4O1yZ5YxGHq</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩KBSN sports" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩KBSN sports" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLZkrK0ceNBG2AMtuybdqwSvOfILpsNFrNj6OH2uBv1yKS09ng8mnSuGnIyns4yz7yA==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩HANWOON" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩HANWOON" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLZkrK0ceNBG2AMtuybdqwSuUmLbOXuX7vb16SHqHb0igbwpk2Tw9l/IX6+xLc4stcA==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩HCN" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩HCN" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>OVyzvDIcxHI93dyZCnsjLW65uS/GKIeWFuciTuYLiMIDbA5RhOp/yc3gpIECpeQy</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩UPTV" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩UPTV" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>nU+/ZY5U5NjJtYAEDWk/v3F+T79c1242c/dunNF0VjA7AELGGxkzmqbt0xNjCIK7</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩TOMATO" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩TOMATO" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>rtmp://etomatomobile.hscdn.com/etomatomobile/_definst_//mp4:livestream</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="韩PAX" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
+        <SubChannel iconURL="" name="韩PAX" type="1" geo="北京,上海,广州,深圳,香港,美国,韩国">
             <streamURL>rtmp://124.139.232.61/live//livestream</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="意ForMusic" type="4" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门,美国">
@@ -4006,7 +4007,7 @@
         <SubChannel iconURL="" name="高清影院2" type="1" geo="北京,天津,上海,长沙,广东,韩国,杭州,香港,澳门,美国">
             <streamURL ptag="1">o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiMrwTBHxKa2RWBGDWIs+ciL+u/3mg7GtQkfeg3wEpvwcg==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="生命电视5" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
+        <SubChannel iconURL="" name="生命电视1" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
             <streamURL>vezkUgwOfHApeHuDN0qUTc3eErb86WoWiNE4Ud5EGhvjtoTxIYU/HzmeyDOSLvkSturU5ANsXujUCP3AjF+7dya19ThRXmjC1UitaYfwIjXtcoizVRNdQAOlNg/cScTAxT5jMf3Lx7G7LrZrEq92aljHvijWFsuiWPniYiAMa/s=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="唯心亚洲" type="1" geo="北京,天津,上海,长沙,广东,杭州,香港,澳门">
