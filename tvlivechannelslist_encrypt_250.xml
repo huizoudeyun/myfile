@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.1.171</Version>
+    <Version>1.1.175</Version>
     <isClearFavCh>1</isClearFavCh>
     <isClearRecentCh>1</isClearRecentCh>
     <isClearCustomCh>1</isClearCustomCh>
@@ -535,7 +535,7 @@
         </SubChannel>
     </Channel>
     <Channel name="乐视" type="1">
-        <SubChannel iconURL="kmUd949SBN9KwcX1ci45zv/R9Rdq+tFBszLVjySlSvlGbcekvuivkUWZIfr8e9DSx+sOhU/jEuzaUvSYNxiqvOox2fJMP1ew9l+T1mXu/4w=" name="乐视电视剧" type="1">
+        <SubChannel iconURL="kmUd949SBN9KwcX1ci45zv/R9Rdq+tFBszLVjySlSvlGbcekvuivkUWZIfr8e9DSx+sOhU/jEuzaUvSYNxiqvOox2fJMP1ew9l+T1mXu/4w=" name="乐视电视剧" type="1" geo="西藏">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvPYmHCMmsGomeVXYXBtTKxdgrqcqp65aWEGFC1Ns65661ZmX+UbBJs9cT65qJYo6JQAM+pukQuXOW2/3W/80XuCXKkJXNtnZmlFIoSzGXC36cJNRJlmVA0FOEU1KOwb9H7PTdmFcOLelf/eNvL6fD7dp/k0vMRzWl+zC0XBBNSnKANz4EGNk7uyNu1hNDjPlQk=</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1acj/+pZ0+j7StSPynj2Hj/c=</streamURL>
         </SubChannel>
@@ -599,7 +599,7 @@
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvMnQ+fMflOwUE+ZwS85l2ALqahUT3HNL+lUiiPbI3MX77MT56hUT4Y8pyl+4Wb2KZFV36U0bbUyjUALwZCMIii1/vYeCpQVGG5p/oonYeAZag80jqFHD/Pc2px04LRlvaDXOQ3vjkFcEbTLwc3CVBAL/35J79UW/rafQrJYD2WKSJehr/MCf1gehY+3kWr4THA=</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1ab2XWAaaqVyTJwtZBcUARTs=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="kmUd949SBN9KwcX1ci45zv/R9Rdq+tFBszLVjySlSvlGbcekvuivkUWZIfr8e9DSx+sOhU/jEuzaUvSYNxiqvOox2fJMP1ew9l+T1mXu/4w=" name="乐视跟播" type="1">
+        <SubChannel iconURL="kmUd949SBN9KwcX1ci45zv/R9Rdq+tFBszLVjySlSvlGbcekvuivkUWZIfr8e9DSx+sOhU/jEuzaUvSYNxiqvOox2fJMP1ew9l+T1mXu/4w=" name="乐视跟播" type="1" geo="西藏">
             <streamURL ptag="3">xQPvz/RhrCOqMhiwOdieHnDYA2mpJ/3Yi6WpYzjvUvOcdioXBC6ePK47hcZ+GCVOL5ze7VJeDzBUy3u94xjF5yiNO6r7eDs7vyijba4Imt+giTVayMTLpP71f49D2f/L4ZnXkvIqCjvq1FsOqQWloarH9wtLeE7CG6Npz0hhgOI6rU9IA0puCWUbjnbI1QNUVhtzDGFewCPfTk8Cs6lxcPkXONR6gCJz4apNP1zNQdg=</streamURL>
             <streamURL>AIiplGpC4u8QsgQ/b9AnQp3P0SLy4+iIgTxcPcyYD16XYEChtJCyBTYkmcod7i4T0NW2RTujDYA3nCYtFvV1adBSLjicivgXCDNE/mAQyr4=</streamURL>
         </SubChannel>
