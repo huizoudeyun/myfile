@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.164</Version>
+    <Version>1.0.165</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -4287,7 +4287,7 @@
         <SubChannel iconURL="" name="M20 TV" type="1">
             <streamURL>ztcW9IJASdPY4I5hoFnHu9rO49SR4YnNb47jM2dGA9I/zhrEjvAXtLgiNZGjBDAayhvcZmRE+giTYO2TcvsDuzFlAEyQla1cqmAuHbKX574=</streamURL>
         </SubChannel>
-        <SubChannel iconURL="" name="生命电视6" type="1">
+        <SubChannel iconURL="" name="生命电视7" type="1">
             <streamURL>vezkUgwOfHApeHuDN0qUTc3eErb86WoWiNE4Ud5EGhvjtoTxIYU/HzmeyDOSLvkSturU5ANsXujUCP3AjF+7dya19ThRXmjC1UitaYfwIjXtcoizVRNdQAOlNg/cScTAxT5jMf3Lx7G7LrZrEq92aljHvijWFsuiWPniYiAMa/s=</streamURL>
         </SubChannel>
         <SubChannel iconURL="" name="唯心亚洲" type="1">
