@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>2.5.175</Version>
+    <Version>2.5.176</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -870,7 +870,7 @@
             <streamURL>TycJGpTST4sSgpnfQNm+GJJrglxHZ3tI8xU0akSyU2UQ1GcVrCmo6ElvkcfiYg+BPP0AFni1IFML0zTcqSaNsg==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院18" geo="北京,天津,上海,广州,深圳,杭州,西藏,韩国,美国,英国,澳门,香港">
-            <streamURL>TycJGpTST4sSgpnfQNm+GJJrglxHZ3tI8xU0akSyU2Vu8J+S3MceEVN76jsxNIJgJ+QMw9m+yCPzMNTwRr2uuA==</streamURL>
+            <streamURL>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiNu7rqRulsJ0jzcJjCaqGiMn1emHvGkb1ulVtj78j84og==</streamURL>
         </SubChannel>
         <SubChannel name="CHC高清电影" geo="北京,天津,上海,广州,深圳,杭州,西藏,韩国,美国,英国,澳门,香港">
             <streamURL>dHaONthP+9VWo0/TG9kFSfdsgRDme7+BUk4l0VEcp35zjWCfzSni6chy2G5FJAtJS4cOzgiazGLwkP15Lr2ysu9N7jKKlo1hs3dfo0BFWGs=</streamURL>
