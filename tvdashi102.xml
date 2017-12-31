@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Channels>
-    <Version>1.0.184</Version>
+    <Version>1.0.186</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -210,20 +210,6 @@
             <B>8meRDwN6XkAU508Eetd9iVqBRSMkXRF97FDev3PiOOtajliH5ZVUajI6yWLB1/pB7fDyGK6174tHBeoFlZFaDA==</B>
             <B ptag="3">G8kO3Lwm1bS2ddrP/vrjLJpq+wA/1zumcg0YPOJjiQ3XxFIG73sZolUvF1idhSApR4byNMIai046EkYzWdrSQuxKnGpmxd32JSmkhGXDCpGxpO4cKzUvtNbLrQuAo/1VDS6A/zP9tc4Owhw8VLs+AP93qokugeWD+LzkoO9X48N5EYe83JHJT4vCAx7473GvdH3MJZzus6bAml1j0tsHceRBX5qa/7qyYatVlZF8lZ9I6ZKDvriGp9iAMcRWbLQ9E27ZNahGefG1ZRHtiApu8lCj/HZIwZfxWeM33i+8Zt9A19WiOnVw9X95dUjEu7U0AaITLwnN9qwZ/cdoEQK5GQ+/imFmsJSmTD5muHb8XnZPH4kfuFL105cbO3oR3DRMzsV/m/BvrxTEEFaBpkygFZb/VXBtfJ+96se8MOObEsrCPElZWM9bPhRtfwBHBVi4</B>
         </A>
-        <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPDqXClaTCZV8jQNCIoYGuBa3bLDZf4tzjoAXIt3hJvz9" name="CCTV3－综艺">
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaH43CyPIvqbc/F92AJ51j84Ge1lsTDS3mbtmFF5LJoiE=</B>
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcacDHQUNCboNN8cgbg9eIpd52Soy7ZJtF+iuLQeWCqh70=</B>
-            <B>8g6JJtrL93XW6UhdRegkfy0dJFfY8oW98eAIcybUquWhEnl8sjH9RCvkaBJFGddn</B>
-            <B>YE+SyEsGtZkoQK6PluvpJ2BUMjsBbQcEqLiMf/aVFnWtb86CIv1ENJQSwEGSZLbPJDzJ8qJc9xsJWgfaapXeUA==</B>
-        </A>
-        <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPMroRUmXwB3mo13CIJ59jr/kr5SaPerAv2AdoKVwEyKm" name="CCTV1－综合">
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaRLHBS8NXo4PMjD9YochdCCaZMffBMfXr3pA/o0oAGJU=</B>
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaRLHBS8NXo4PMjD9YochdCGr9f4TZKEbvYLhAZlqJnzk=</B>
-            <B>WhG/54xT6HFCwRiebqrh96aRr5WA+V9y0w25i+EM8izLlQhrTjnIfhOwQZLms8y6</B>
-            <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+trvALVoFYS7POxki/m0eKEzBebKFXhrAtMna3TD/+Kq</B>
-            <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aMvwIJ8KCCC2aiRVCf2cDNN</B>
-            <B>8g6JJtrL93XW6UhdRegkfy0dJFfY8oW98eAIcybUquUsIe+ZbWNpKVv8otL1niSW</B>
-        </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPCys/z2pfNbKPyySQ9xKvN45TBdHNqLq86D9jI1LfL1S" name="CCTV5－普清">
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaUfWPBIkq1eSF11mU2NWXvIVH5qlFDa9ANJzFuZl6exk=</B>
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaUfWPBIkq1eSF11mU2NWXvIWAZNozHq9Kcmzfk1kV0gU=</B>
@@ -346,47 +332,6 @@
         </A>
     </Channel>
     <Channel name="央视" type="33">
-        <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPMroRUmXwB3mo13CIJ59jr/kr5SaPerAv2AdoKVwEyKm" name="CCTV1－流畅">
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaRLHBS8NXo4PMjD9YochdCCaZMffBMfXr3pA/o0oAGJU=</B>
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaRLHBS8NXo4PMjD9YochdCGr9f4TZKEbvYLhAZlqJnzk=</B>
-            <B>clJd5Fz7cHb6r/ylyCzd2QCNm9RmojyWCryEd2ESwr11VE0GkqJcC7gw6VOg/inLBc4ls8MC493PqCqL/k4WLg==</B>
-            <B>hrOdhzdxo01tOmq3WnMUioKwULx1ezrZschMgMfPXmtCLtgNqynp78uH2ArOsGVwmr/jvE8vbciZoo6pvZ2b6w==</B>
-            <B>0kki7Gq3a146ukh9J4eLuGAs/2jwSvk4A/Xlt5NyPmczQVap88zzrztJQ960H17QeTjxvXRZ55xpN47Xgcc2Lg==</B>
-            <B>dHaONthP+9VWo0/TG9kFSfdsgRDme7+BUk4l0VEcp35zjWCfzSni6chy2G5FJAtJJtJsRH/AqMBWdajWHWMKttZf98P90jg28H/HJA+jFr8=</B>
-            <B>vXKhPcE434OQd8Rw1jg6ESvnu4iN4DVVpNjeSDJRrbSSI2jCIh3zSM/Za7NLn4AAR+2YYkCtfFrLu5Cn0QuDzQ==</B>
-            <B ptag="1">7VOt50IyF3TendqIWDHNC3+dL+SkUW915HyrEz/RA3xdXvG1qKFdqrIh5qvnlXph9gZGKH7/UShOaRxD1vA5gg==</B>
-        </A>
-        <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPMroRUmXwB3mo13CIJ59jr/kr5SaPerAv2AdoKVwEyKm" name="CCTV1－普清">
-            <B>WhG/54xT6HFCwRiebqrh96aRr5WA+V9y0w25i+EM8izLlQhrTjnIfhOwQZLms8y6</B>
-            <B>WcawYJq7Uw5qtNGU9VzwzfWf8Ep6YZH4Jn4zhfwIV5fGM0uic+v8ODZjkd33tYh3DyC8PT3RbV9XCUQlQwZsjXrR+3eVNp3VUIBKtG6MoeePvmId1roDXb2++YosDZ4h+b9Od3n/Dr4Yj0V19IPwGQ==</B>
-            <B>Z4bE6ks75OdGtHR9s4ZK1fmrwBVmoa/9Q5d0LLCDotguIIwjIYtxMNj6rzqWZCmePuWXqY+NwxHSa2pGJSI27kgxLV9CjkJ4pmlQH4LqzXM1jxKRzq2u5ozNT44lK4p2</B>
-            <B>0kki7Gq3a146ukh9J4eLuGAs/2jwSvk4A/Xlt5NyPmczQVap88zzrztJQ960H17QeTjxvXRZ55xpN47Xgcc2Lg==</B>
-            <B>jJtAx1SqH0o8P3YBZcYapFs4JZVz0sJa0rSPwxpSsLN4eUqYobgyJ8e076fogtsQ10D2Pk5Rpoqf4GSMjBOVE4KMmQxDIH10I3ip9h99EL0WIBioEjTMlghzP3CqMHN8</B>
-            <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aPk64NkW+vFXsrfxBkm1age</B>
-            <B>Xd/6Tha6tCFgdSlSqs4bWy7WBjblXnhIOWLUBPTXgNOQ4UlpT4Mqlb7Pda6nhvICnJf+L6QbjDkWUjauZ0ZVUDphCFz69GbHNOcOuOMNYkpgOV1ilv52IQUjN3JkU24AiRwq6ONAFZCje/5yglfcLRZm49LIspvHMcBSg0ntHGYAEzcoSVX6+MTtkk1HxDvdVXn/FaHEK7omWVrc8qBKsB7WQ+/5q9ARy79E/Rc6D3RTwxfgVS73Xaart9Dzn87q8elzWW4WTT9LAWIATQj4AQ==</B>
-            <B>8meRDwN6XkAU508Eetd9iVqBRSMkXRF97FDev3PiOOvc11yyf+nqucUlbIEw4E5AalJ0RmAKIY3A/7pzTRyHvQ==</B>
-            <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+jIq9g7ntlHFVSJ9ROXQDSn6BysmtKrQF2SkHlvs+AoY6fF7PlWBtXM4TXttqaUHVWQFT1xbMfnoskDHK8zz43k=</B>
-            <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aMvwIJ8KCCC2aiRVCf2cDNN</B>
-            <B>8g6JJtrL93XW6UhdRegkfy0dJFfY8oW98eAIcybUquUsIe+ZbWNpKVv8otL1niSW</B>
-            <B>tzYAQkdCkX4PHABkuhboek8W1zSRyxB+lKnkJu1tLRP5UXO+yXkcmrAVsBUG+P093F6qq7mgxdPEPSG81hkAqaLObv7AZ99WScrJqTSIm6c=</B>
-        </A>
-        <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPDqXClaTCZV8jQNCIoYGuBa3bLDZf4tzjoAXIt3hJvz9" name="CCTV3－标清">
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcacDHQUNCboNN8cgbg9eIpd52Soy7ZJtF+iuLQeWCqh70=</B>
-            <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaH43CyPIvqbc/F92AJ51j84Ge1lsTDS3mbtmFF5LJoiE=</B>
-            <B>hrOdhzdxo01tOmq3WnMUioKwULx1ezrZschMgMfPXmvnXiKYc4jQpaS3jE99J/xxEpK52qxJ7WbEu6HuuUKMig==</B>
-            <B>8meRDwN6XkAU508Eetd9iVqBRSMkXRF97FDev3PiOOvwOZDcSFubpWymrYu4TJWCTp0au/35JGhvcmcpi0c8Sg==</B>
-            <B>dHaONthP+9VWo0/TG9kFSfdsgRDme7+BUk4l0VEcp35zjWCfzSni6chy2G5FJAtJu3IC41WDscdLKNwhUQ+vJJjeBLtge9Xex2POjOadSE8=</B>
-        </A>
-        http://zzcs2.ott.henancatv.com/mlive/172_30_100_75_/cdn_proxy/os_ott_henancatv_com/live/C3H/1.m3u8 <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPDqXClaTCZV8jQNCIoYGuBa3bLDZf4tzjoAXIt3hJvz9" name="CCTV3－普清">
-            <B>Js88JX4lRDvd7VXLkyf/OB9bbcbu2qMuh1rlvdxK8kSurDxWq6k2Zgpfqe6fybEaU0uculQ9JIOxIUZ18/MoRLbaBXFfEypj6LAXObm5paWU9xH5pLuhklYWEscA589KKGDd9W5tES1r+PfG0Wya4Q==</B>
-            <B>3qYmU+XG6EIPB2q0iXYOK2LcxKpXZOY/MlhaL7R5alc0TocvovUyStzRb3LZ3gNH</B>
-            <B>Xd/6Tha6tCFgdSlSqs4bWy7WBjblXnhIOWLUBPTXgNOQ4UlpT4Mqlb7Pda6nhvICnJf+L6QbjDkWUjauZ0ZVUDphCFz69GbHNOcOuOMNYkpgOV1ilv52IQUjN3JkU24AiRwq6ONAFZCje/5yglfcLRZm49LIspvHMcBSg0ntHGYAEzcoSVX6+MTtkk1HxDvdVXn/FaHEK7omWVrc8qBKsB7WQ+/5q9ARy79E/Rc6D3RTwxfgVS73Xaart9Dzn87qux/GMfQq+oPKtlZcTW/3nw==</B>
-            <B>8g6JJtrL93XW6UhdRegkfy0dJFfY8oW98eAIcybUquWhEnl8sjH9RCvkaBJFGddn</B>
-            <B>tzYAQkdCkX4PHABkuhboek8W1zSRyxB+lKnkJu1tLRP5UXO+yXkcmrAVsBUG+P09lbCpcFWdawMrbqB3WJY7Boj8I4ijaQ9QAynCUP+TDZ0=</B>
-            <B ptag="1">7VOt50IyF3TendqIWDHNC3+dL+SkUW915HyrEz/RA3xdXvG1qKFdqrIh5qvnlXphJ5/LCoLHxqmQQKcxO7avog==</B>
-            <B>mdSNOCTHoqlg8uJ5ttEKyr8T/JtU0Liq0DcEGtCbf3sS13ahPtkfE6aPSJ6YNZSR60SPF/GNMr9yH3nwEfTVyA==</B>
-            <B>vXKhPcE434OQd8Rw1jg6ESvnu4iN4DVVpNjeSDJRrbSR5tpy/ilwsmy/hKvRr203wncVhBI9zvFsR/81GEaXHg==</B>
-        </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPB954VEgNDAsUSnFA4IrLdzm7+h01Nh2/hAn3fSrVoWu" name="CCTV13－普清">
             <B ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaRLHBS8NXo4PMjD9YochdCKYEe1WwTI8gUiH/v2dyhEQ=</B>
             <B ptag="3">G8kO3Lwm1bS2ddrP/vrjLJpq+wA/1zumcg0YPOJjiQ3XxFIG73sZolUvF1idhSApR4byNMIai046EkYzWdrSQuxKnGpmxd32JSmkhGXDCpGxpO4cKzUvtNbLrQuAo/1VDS6A/zP9tc4Owhw8VLs+AP93qokugeWD+LzkoO9X48N5EYe83JHJT4vCAx7473GvdH3MJZzus6bAml1j0tsHceRBX5qa/7qyYatVlZF8lZ9I6ZKDvriGp9iAMcRWbLQ9E27ZNahGefG1ZRHtiApu8lCj/HZIwZfxWeM33i+8Zt9A19WiOnVw9X95dUjEu7U0AaITLwnN9qwZ/cdoEQK5GQ+/imFmsJSmTD5muHb8XnZPH4kfuFL105cbO3oR3DRMzsV/m/BvrxTEEFaBpkygFZb/VXBtfJ+96se8MOObEsrCPElZWM9bPhRtfwBHBVi4</B>
