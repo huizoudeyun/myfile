@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.5.185</Version>
+    <Version>1.5.187</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -48,7 +48,7 @@
         </info>
     </Tips>
     <Channel name="热门" type="33">
-        <SubChannel iconURL="0nJrxEWtejY0fQE05ivaX1T9pspa8A3y8ufTOmWtRBPu43sxt9BtrMUox3ijUCnv" name="湖南卫视－高清" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港">
+        <SubChannel iconURL="0nJrxEWtejY0fQE05ivaX1T9pspa8A3y8ufTOmWtRBPu43sxt9BtrMUox3ijUCnv" name="湖南卫视－高清" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港" date="12" week="" bbtime="" betime="" tb="12-20:10" te="12-23:59">
             <streamURL>ffLIXCkgrNrNU5+5QBNB+FGMD9yWKT83MntcwM+j11tkA9mGV0piifdIZaJN762t</streamURL>
             <streamURL>NDngbiYrudgsoCeo3Ilj7yW9wl1AzWx1QNLBj4B2RhMbGrQOXqiCOqPQUoTri47HeqtQgMMjheRyynsMNpyC345b0zy5sHfsaT7+tjvZ9L8=</streamURL>
             <streamURL>lbO0Kak7rfb2TFhs7IV6t9cxLccEgXmVFttfqRruJCkkBDbgh1597xBxOExbMAFg5f1oTR9Uwb0LP+hyRwGtHUt0IMbTRRnbj5sTVKMS3B4=</streamURL>
@@ -63,7 +63,7 @@
             <streamURL>P1EO0NWEsdpogR48Cf4K2oOQYO1horAOlp7BUbpA6Z3Hk93SG5xcs+OMM3FYTLKRzurF14Z92YN9Jub5r0k0l96x4qHIoPzPwT8vMQw4ahU=</streamURL>
             <streamURL>7NckN+wHHRzVAaEwN3Cd150PlMCJMqbc3ktwsFb2K6RSawLjgcYj8QxX66zY782y</streamURL>
         </SubChannel>
-        <SubChannel iconURL="0nJrxEWtejY0fQE05ivaX1T9pspa8A3y8ufTOmWtRBPu43sxt9BtrMUox3ijUCnv" name="湖南卫视－标清" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港">
+        <SubChannel iconURL="0nJrxEWtejY0fQE05ivaX1T9pspa8A3y8ufTOmWtRBPu43sxt9BtrMUox3ijUCnv" name="湖南卫视－标清" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港" date="12" week="" bbtime="" betime="" tb="12-20:10" te="12-23:59">
             <streamURL>gN2nDP9kyyF+iwqkXGsq3fmpIAR4FnkYcrgsedAf2xvDALIzU2aqlY82orxOaoAd</streamURL>
             <streamURL>qFXvOvre2XictEUb5wBeJQ3rLSx43qyn7vFqSBXBWRLZm1VUnaPZunuQ3O/+2aLl</streamURL>
             <streamURL>3qYmU+XG6EIPB2q0iXYOK5JvYG95aYJ+EFrCZCyHjORdVPo59vLFoEOcuyAYUqH3</streamURL>
@@ -75,7 +75,7 @@
             <streamURL ptag="1">hrOdhzdxo01tOmq3WnMUiqWO1cDeGljmD2b/GXPSHhXpTa/Qo980ef44fdt4M+mrszKW0FuDsMkRy9BYyUGPFg==</streamURL>
             <streamURL>WcawYJq7Uw5qtNGU9VzwzfWf8Ep6YZH4Jn4zhfwIV5fGM0uic+v8ODZjkd33tYh3oPnFVvhflkJcOTyJDOm/5bfwIH5Sepm9UsL9GHGqP/s43I0eCzolg4R1WhIhrEZ22sanxFvAQiqe6ydqdyDF/g==</streamURL>
         </SubChannel>
-        <SubChannel iconURL="0nJrxEWtejY0fQE05ivaX1T9pspa8A3y8ufTOmWtRBPu43sxt9BtrMUox3ijUCnv" name="湖南卫视－流畅" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港">
+        <SubChannel iconURL="0nJrxEWtejY0fQE05ivaX1T9pspa8A3y8ufTOmWtRBPu43sxt9BtrMUox3ijUCnv" name="湖南卫视－流畅" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港" date="12" week="" bbtime="" betime="" tb="12-20:10" te="12-23:59">
             <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaSOoVc3i8ouBqj2JSvP/YRLr0iGrmiIwhDkGNongvn8w=</streamURL>
             <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7Fca2/jIfBjRRQLVbyhczYKzKP8HWSg7dsmnDG6uTHjc3H4=</streamURL>
             <streamURL>qFXvOvre2XictEUb5wBeJQ3rLSx43qyn7vFqSBXBWRLZm1VUnaPZunuQ3O/+2aLl</streamURL>
@@ -112,15 +112,14 @@
             <streamURL>WcawYJq7Uw5qtNGU9VzwzfWf8Ep6YZH4Jn4zhfwIV5fGM0uic+v8ODZjkd33tYh3oPnFVvhflkJcOTyJDOm/5bfwIH5Sepm9UsL9GHGqP/s5h1NRMfoViGFKfeKHsdl8vfKiZwC80oPDLvG7imj1yw==</streamURL>
         </SubChannel>
         <SubChannel iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4zi4hEp31MzDmlIm48yHep6U=" name="安徽卫视－高清" geo="北京,上海,深圳,广州,南京,杭州,合肥">
+            <streamURL>jJtAx1SqH0o8P3YBZcYapFs4JZVz0sJa0rSPwxpSsLN4eUqYobgyJ8e076fogtsQ6/jAkA0aSLy/il2uG8Ml4gbnLYcd8TfDSxdwJ/PDu3J5zin6QhgCkpvF2SVj+6yt</streamURL>
+            <streamURL>dHaONthP+9VWo0/TG9kFSfdsgRDme7+BUk4l0VEcp35zjWCfzSni6chy2G5FJAtJ4RJwTTtIZbbuTarUHrssn9RxO3AjZxmny9SWq4VYPJY=</streamURL>
+            <streamURL ptag="3">kpw7btdPYUb/V7UD65BB6F2+5NJ9bGYv2ZNXEyl1TITfyOo073fz6lYwIo3d8okOIPuXLdCRSLs3w/69pw3PBn2g5nR7CPcSko/BLoAz6LOjYNc5jN4YvKA89H1OzfhI</streamURL>
             <streamURL>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm83+nTwRNs0Fpr04uHJ2C2ySDvDdYVn4Muwbvy84zO4MlIoj+Q3/sCed88quglEk+d4=</streamURL>
             <streamURL>g/U4YA8AUxOvJhjvfkfHWBqmwcEdj5isZSGrUKceap4+tPJ4QR/wlzqMJfMtsHHNbYOAziWGLRQOGYwj4TS1ww==</streamURL>
             <streamURL>wvwmyWi3lha9CL5zHoim0mWS3NSsDb1w+1p5LD8SaI709tR6+cLz9JKQmE7kQaVX6O+TMcYXdyJjhSpPzV9a+w==</streamURL>
-            <streamURL>dHaONthP+9VWo0/TG9kFSfdsgRDme7+BUk4l0VEcp35zjWCfzSni6chy2G5FJAtJaqly9kgyqxy3KcIVTcER1OrVX9+6utmbZAQyioZc1UY=</streamURL>
-            <streamURL>dHaONthP+9VWo0/TG9kFSfdsgRDme7+BUk4l0VEcp35zjWCfzSni6chy2G5FJAtJ4RJwTTtIZbbuTarUHrssn9RxO3AjZxmny9SWq4VYPJY=</streamURL>
-            <streamURL ptag="3">kpw7btdPYUb/V7UD65BB6F2+5NJ9bGYv2ZNXEyl1TITfyOo073fz6lYwIo3d8okOIPuXLdCRSLs3w/69pw3PBn2g5nR7CPcSko/BLoAz6LOjYNc5jN4YvKA89H1OzfhI</streamURL>
         </SubChannel>
         <SubChannel iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4zi4hEp31MzDmlIm48yHep6U=" name="安徽卫视－流畅" geo="北京,上海,深圳,广州,杭州,合肥">
-            <streamURL>jJtAx1SqH0o8P3YBZcYapFs4JZVz0sJa0rSPwxpSsLN4eUqYobgyJ8e076fogtsQ6/jAkA0aSLy/il2uG8Ml4gbnLYcd8TfDSxdwJ/PDu3J5zin6QhgCkpvF2SVj+6yt</streamURL>
             <streamURL ptag="3">yf+iSgyZcXPHXby2k1G+NXbjZORNS60hdG1ZlofgOUrkui4pqNuhjD8pry+Q7FcaNk1Sui7QyNtvS5A6NL5J1F54GtjAVSqxfIq/hh8lIKE=</streamURL>
             <streamURL>9FKIyxLAN0cYxQGRagQRuTVn2ER5jI5qc9Bz4g7uUB1tbJOWAylaCjTfkxZXdbqVhaZp18cKgok3mQbPx3EZyQ==</streamURL>
             <streamURL ptag="1">hrOdhzdxo01tOmq3WnMUiqWO1cDeGljmD2b/GXPSHhVj4m00g9YjvKm2GCQE7SIaMgUHMus3Bvapkkpng58v+A==</streamURL>
@@ -1524,7 +1523,7 @@
         </SubChannel>
     </Channel>
     <Channel name="湖南" type="33">
-        <SubChannel iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南卫视" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港">
+        <SubChannel iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南卫视" geo="北京,湖南,广州,深圳,长沙,上海,杭州,香港" date="12" week="" bbtime="" betime="" tb="12-20:10" te="12-23:59">
             <streamURL>2S3+iewTfya2F9NL6kZQf0lsTmLHc74FRtWl6yYp9bEAXhaR8mIcNF5qHWz60OMq</streamURL>
             <streamURL>WcawYJq7Uw5qtNGU9VzwzfWf8Ep6YZH4Jn4zhfwIV5fGM0uic+v8ODZjkd33tYh3oPnFVvhflkJcOTyJDOm/5bfwIH5Sepm9UsL9GHGqP/s43I0eCzolg4R1WhIhrEZ22sanxFvAQiqe6ydqdyDF/g==</streamURL>
             <streamURL>AO+V4WA4gt8hoeAO0KSBMqNML5RFse4MmnOjQM01VuTMmozFkFNdT051AuQL2wsm</streamURL>
