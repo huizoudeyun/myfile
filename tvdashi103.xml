@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.431</Version>
+    <Version>1.0.432</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -23,8 +23,8 @@
     <IPAddressInfoURL>e3E3KT9a3f+2Ui4kRpk0WqNVoliXioWJnP6Nza40b6780s8LvgIlWCVia4kX6AClffdW7a48hVWkd1lbcbZWhocHktJb/Y1wDMCc17iBrNi+dujTEXzFSDy5/5ki71v320IXHwHvhRe7lu6MDrfQMggOmCKVvrxUB/w8DPBF0rVRyH3neV1nBU0UNbTIKsAuF1wOEYLrf0wrOMCQkYI3aVVoa1YZCl/0rq+H2Ej+ZrDGAzpz3sK55kwhEhV0N4B1YsEVoQHMV3h6RhM2ii0QaIFRYg/NTjVO09XngHkJJGngyN+IcBFoIw2ixXDFji/0</IPAddressInfoURL>
     <Ads>
         <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">20</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">20</AdsRate>
+        <AdsRate Name="FullAdFrequency">18</AdsRate>
+        <AdsRate Name="FullAdFrequency_ip">18</AdsRate>
     </Ads>
     <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
     <supportWifiTransfter>1</supportWifiTransfter>

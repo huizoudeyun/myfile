@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.5.187</Version>
+    <Version>1.5.188</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -32,8 +32,8 @@
         <AdsRate Name="AdsMogo">1</AdsRate>
         <AdsRate Name="AdsMobiSage">0</AdsRate>
         <AdsRate Name="SegIndex">0</AdsRate>
-        <AdsRate Name="FullAdFrequency">15</AdsRate>
-        <AdsRate Name="FullAdFrequency_ip">15</AdsRate>
+        <AdsRate Name="FullAdFrequency">18</AdsRate>
+        <AdsRate Name="FullAdFrequency_ip">18</AdsRate>
     </Ads>
     <supportFormat>3gp,asf,avi,divx,dv,dat,flv,gxf,m2p,m2ts,m2v,m4v,mkv,moov,mov,mp4,mp3,mpeg,mpeg1,mpeg2,mpeg4,mpg,mpv,mt2s,mts,mxf,ogm,ogv,ps,qt,rm,rmvb,ts,vob,webm,wm,wmv,h264,rm</supportFormat>
     <supportWifiTransfter>1</supportWifiTransfter>
