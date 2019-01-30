@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.3.241</Version>
+    <Version>1.3.243</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -12,7 +12,7 @@
     <nofreshTime>5</nofreshTime>
     <isOpenLoadConfig>1</isOpenLoadConfig>
     <Appstate>1</Appstate>
-    <UseGeoMask>1</UseGeoMask>
+    <UseGeoMask>2</UseGeoMask>
     <useConfigRate>600,200,200,0</useConfigRate>
     <UI100>1</UI100>
     <AD101>0,1000,0</AD101>
