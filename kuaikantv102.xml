@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.263</Version>
+    <Version>1.0.266</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -52,6 +52,7 @@
         <A iconURL="0nJrxEWtejY0fQE05ivaX1T9pspa8A3y8ufTOmWtRBPu43sxt9BtrMUox3ijUCnv" name="湖南卫视－标清" l="hunan">
             <B>uoUGMta32TP2n+v5MpJIj51hXiDMmRARSncvYFEl/c2m5LD33CVgznfMPaCG5JzVXUQ89Sxs/6dYSxS6vjta7nM8oG6arMLAPV+0xpkrH6eU+94TNlogsOZ3F4ekA1QR</B>
             <B>WmF/HhmD7UWVMecvLDk/sCswll/wIJcJ1Su0On4PJazzmViLvhDeq7/9QwgTA0Iiq/NDS8w/uYykopDsOQ6OZg==</B>
+            <B>0jrTBWtH4mCunXrnm66br9LdKPG/C3MqbdrxkUs9a2wvs3L/DpzMS8UNjay+DXSW</B>
             <B>Gi12iCUra6GM+q3sB6E3NJ/J09WpdZCjdkTSQaAb9Dm9neypvpjeJCwJFICo5aiZ</B>
             <B>3qYmU+XG6EIPB2q0iXYOK5JvYG95aYJ+EFrCZCyHjORdVPo59vLFoEOcuyAYUqH3</B>
             <B>AO+V4WA4gt8hoeAO0KSBMqNML5RFse4MmnOjQM01VuTZj+69WKYQ7bQc60Ns5Wfh</B>
@@ -77,6 +78,7 @@
             <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+nHrUa3yRIfzAj9lYRVtoNLSLLe0Ay1MQuRpaFgR0KgM</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4zjix/FyPE7gTm2Ut6plqqnQcerYjR2d5dUr6q9POGldO" name="浙江卫视－流畅" l="zhejiang">
+            <B>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49niJFaxk9DGUqCdIT1ho+wfrOojuqdMgfrby9ZqMTVdosw==</B>
             <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+pbnWWot3q/WDNKXc4OG+6/zQb9Y8+AptFRVRo4cD3gj9deMzh3r3ZpTnFi4w5acUQ==</B>
             <B>9Mige94Pmn+UFNI77EIZtFRLk3DNmDntqRH9vj6QcZgAsxw0eJUPDWsooGxG+6MdZfbtUBUQBqwaYU4F2tHmCg==</B>
             <B>tzYAQkdCkX4PHABkuhboepxJs7Mts9YDWF46eD2VXiewZ75/BiaAeJQYppNTI5Vk0xdMuqNYzoMITBV8JaP3vg==</B>
@@ -221,6 +223,7 @@
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPMroRUmXwB3mo13CIJ59jr/kr5SaPerAv2AdoKVwEyKm" name="CCTV1－综合" l="cctv1">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRBMDAnEio2JRCle2q7T42uVG5nSJBfy1fvIxq5qxm6tiCZ5Vr7GysYhmkQf80c5M6TlTvY4rR96UNGUFE0tVi0+4lTscU8OrTJsD+cK6qW3r</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRFNeIvBhg4qYHeoKt20EQaJB4piLNp5/24CtxOSwGMzxePrXXLkLpvV3pQgBsUs3vhJY/0tFAY/SoPhqFi036ZiPiQgVafavDbzaYCKZRspD</B>
+            <B>BuN49sVOjdpnwcaVNfCH6+up9LswZT1wS++1Bbd0I7tZaeRfJHHZP9JfZ/aejYSrN9dBS1+6gYHysv/mVprPbw==</B>
             <B>Xt0bUWyMfJPYJ8aUNcLXKwt8sAOJGLU2JMgYXokbakpx2QjMuVXo/Bus79IeTPZzd1ASH+VZOAkGBstVZ0sK5w==</B>
             <B>GchHUf4GmMih95PqLmr70d+RVcId9+or7TNdCMY9cpb2qaH0bYLn8PYBV705it4hMspthx1u9/aO+OawujUiMg==</B>
             <B>LN4q4u7beaXdzfdJ/xh3jiRrR9v/7/ZJ6FkUOD7+UkQTkWlSkJ7MOtHj8rr82EJdl61l90AxyncCfXYYYs9qb9GkCQ7SWuO4hDydw/zJQe0=</B>
@@ -341,10 +344,6 @@
             <B>j4g/PSzVYid7+dvdBmPBfY1w8teOf2QnEu05RuWHAZPkNoGRoUyimNhkUQjs2zCR</B>
             <B>jVcRLlSgr5qQvu/YV5VBEvhWSLq/yo2EsSGDTwv9AzP508A73FNbOcRcordfvL8awhBjPFqlY5QIpLEV7EMEMw==</B>
         </A>
-        <A name="Knews24新闻">
-            <B>RZEHNkQ6Howx6Octw3C2BkWXRqDf6AU0kXlK6VDmZ9Y+5Q3rvt7rNVNfQkn1SIbvCh9xKkiWZKyHJkXoUUs91Q==</B>
-            <B>707txkwhnl98UuFbwt75wPiZS7aHY+JAt1aSWgiBGTONSjMsFpYAwCI5qZSx8/2Ecd+VnDZoXcf2kP9eIcA9Lw==</B>
-        </A>
         <A name="动作电影">
             <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiMrwTBHxKa2RWBGDWIs+ciL+u/3mg7GtQkfeg3wEpvwcg==</B>
         </A>
@@ -352,7 +351,7 @@
             <B>J21loKOkVxL+ArFkd0LINiUlzdKTj89sCn0RTNJFddVt0uSXREBRCruIpXU+XJYohBAWs8X7YuxREGhb65kQAg==</B>
         </A>
         <A name="轮播电影">
-            <B>vjTd36sVf3FxnTv1XwVE3vJyXuZkizPb8cSZ6KOwPDGAimJGFwewI25zCbPYtG6eosNpVVKILD+sSt0FiJpuGSh/WTg10h0dmCSgt3gYo7HS0rkVcTfDONQd1ou9CUXSZIv8cufkwqryCbErPo77Iw==</B>
+            <B>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdchXpqc5QgwO8JcY/NHg/sKiewNfkSRCTDnDYV7Mh/lGN3fb27iBoyqw0l3ZRhH7LA9KAjTqFTpIdNQfDxdqVT3nQ+QorGGr6p8C3DB7r84mg==</B>
         </A>
         <A iconURL="XY751XMGqeAM1pn5LO99CM7CtdX1SVSdJ6Trs87COEj/f8Biy/CFO2D1DMaRM9J1in6Hroj1vAQb81IgCr4OEN1rl/ILafFiUjzh+A3sWYU=" name="美女直播" type="100">
             <B ptag="2">pLPtZ87P+z8q7dP1xKk/4STY06vwsPZycjBc4O9pdtA=</B>
@@ -361,62 +360,64 @@
     <Channel name="央视" type="33">
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPMroRUmXwB3mo13CIJ59jr/kr5SaPerAv2AdoKVwEyKm" name="CCTV1－流畅" l="cctv1">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRBMDAnEio2JRCle2q7T42uVG5nSJBfy1fvIxq5qxm6tiCZ5Vr7GysYhmkQf80c5M6TlTvY4rR96UNGUFE0tVi0+4lTscU8OrTJsD+cK6qW3r</B>
-            <B>uzdLhpfjXf7tOGwcHN5WVWW+DNKPTHYCsH/bXgxJJRX3w5Ke49peWVNPPd2Z01Do2+3PlDv1lSfCBWy2BfEYLA==</B>
-            <B>EkqbEQ5sBX+dRjJnkMf9VuyxssSz71suwGWGWh/SW+ce+fBIjdwtLmWHI33tWUX3dpyuiioCssB98yNaot053A==</B>
             <B>WhG/54xT6HFCwRiebqrh96aRr5WA+V9y0w25i+EM8izLlQhrTjnIfhOwQZLms8y6</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aPDm7WN5yQn4ADRmaWHpzFO</B>
+            <B>ij+TwE8rdBP4AK1/8lkCVV75l4QhVDYJVEFzJj8dYwMnP9N1W7/ZRuqTJuum0RNOr90OhG0zPgQQyvc/BTLJIukIKaY/byNEO+msZ8vvtXE=</B>
             <B>/xKsGEaDvW0J7gS2GjnslVQYUeTL2w0+KvG3RcczJQ5mtP2xtg2dJKc81bRPqodCQTFguOQnB5ym5HDCnuG+6g==</B>
             <B>IDO9JWDRx41cBiLaQVVZELtCkwE2e3eIgYBaDLQLyniEsff3S8tO6ZddLeX7v6en</B>
+            <B>uzdLhpfjXf7tOGwcHN5WVWW+DNKPTHYCsH/bXgxJJRX3w5Ke49peWVNPPd2Z01Do2+3PlDv1lSfCBWy2BfEYLA==</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPMroRUmXwB3mo13CIJ59jr/kr5SaPerAv2AdoKVwEyKm" name="CCTV1－普清" l="cctv1">
             <B>WmF/HhmD7UWVMecvLDk/sCswll/wIJcJ1Su0On4PJazbTj2ke0EmZQ+h3lJeT+ezBzUOiyxAjTiBxa/eks0SuQ==</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPLAxaaFY+zLQfvXpcTCl0jNWpado6ZIGDASL6swLwkYo=</B>
+            <B>BuN49sVOjdpnwcaVNfCH6+up9LswZT1wS++1Bbd0I7tZaeRfJHHZP9JfZ/aejYSrN9dBS1+6gYHysv/mVprPbw==</B>
             <B>WhG/54xT6HFCwRiebqrh96aRr5WA+V9y0w25i+EM8izLlQhrTjnIfhOwQZLms8y6</B>
+            <B>k61BWAFcB07sqgNF3OMXqJu28o1bLiLkF8oUPpVcwZWQ6lVwFzpYdNkuMhMSb6ti</B>
             <B ptag="5">GZen1pbqT8+keL+21+I5zzq4+/V7KiPoxXZj3DN1tKHy7wW3gfs5k7UzIOa7k8VIUr3x0HO5Z09CtjILGWHf4n7TyKjcj4Y2iy2nnuADOtewsn9tVKHrHZMPa8UOkSmnivv/chmsfnCyrVdyTqiXQg==</B>
             <B>8g6JJtrL93XW6UhdRegkfy0dJFfY8oW98eAIcybUquUsIe+ZbWNpKVv8otL1niSW</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aPk64NkW+vFXsrfxBkm1age</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aMvwIJ8KCCC2aiRVCf2cDNN</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPLAxaaFY+zLQfvXpcTCl0jNWpado6ZIGDASL6swLwkYo=</B>
             <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+jIq9g7ntlHFVSJ9ROXQDSn6BysmtKrQF2SkHlvs+AoY6fF7PlWBtXM4TXttqaUHVWQFT1xbMfnoskDHK8zz43k=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPDqXClaTCZV8jQNCIoYGuBa3bLDZf4tzjoAXIt3hJvz9" name="CCTV3－标清" l="cctv3">
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPsJEWvVXEXF4cvMTlVGq6MqSD0xHp1lexBv2QbnBXhEU=</B>
             <B>EMIJ6Qcr/KbObjM/GN6qXot+IdWHZbQjvT3Nh4wGo69xge1cJ+q+6NwGC0zBNF30</B>
+            <B>ij+TwE8rdBP4AK1/8lkCVV75l4QhVDYJVEFzJj8dYwMnP9N1W7/ZRuqTJuum0RNOlAmzM/6vQggVV9gDISMI9R7REz27Lw8EmLnm7PxcZuI=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2AhO9zXwKOMV5FAJFNdgS4cUlf+ScmJAvyzaDFbZNV9f</B>
             <B>8g6JJtrL93XW6UhdRegkfy0dJFfY8oW98eAIcybUquWhEnl8sjH9RCvkaBJFGddn</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPsJEWvVXEXF4cvMTlVGq6MqSD0xHp1lexBv2QbnBXhEU=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPDqXClaTCZV8jQNCIoYGuBa3bLDZf4tzjoAXIt3hJvz9" name="CCTV3－普清" l="cctv3">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRARS00wwZZW70HPPoKH+V9+/YcdGzWhvsE1MXKiYzqR8IdwBhlTe74y1yunCouiONeuD0A00AI5+iYRPKI6HkGBmFZ4c2NYr+kJYCySHqQhT</B>
+            <B>BuN49sVOjdpnwcaVNfCH6+up9LswZT1wS++1Bbd0I7u7yKntwfyuTIm+rywEetLKJGO4+TDR/24NB2FzE23lgg==</B>
             <B>3qYmU+XG6EIPB2q0iXYOK2LcxKpXZOY/MlhaL7R5alc0TocvovUyStzRb3LZ3gNH</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPB954VEgNDAsUSnFA4IrLdzm7+h01Nh2/hAn3fSrVoWu" name="CCTV13－普清" l="cctv13">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiREPZWFUbWMwgGYMUBRiV/a1WZGbxjc/yO5so6tdN078z1LTEzYR0BkiwBEd0L4IOMYdk3u6gdajbVBkmqCb8DvRZV4HVyrsFW8Qdcrgfr8tm</B>
             <B>EMIJ6Qcr/KbObjM/GN6qXtavK0jjhkl0yj4Umlr/DafpKv/jbLl9r3+Hknx/tx1s</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2ERT9ZBVSJ0pWUgCzc2JtY4YecWp3HyxG7lNbDwFl6jO</B>
             <B ptag="3">G8kO3Lwm1bS2ddrP/vrjLJpq+wA/1zumcg0YPOJjiQ3XxFIG73sZolUvF1idhSApR4byNMIai046EkYzWdrSQuxKnGpmxd32JSmkhGXDCpGxpO4cKzUvtNbLrQuAo/1VDS6A/zP9tc4Owhw8VLs+AP93qokugeWD+LzkoO9X48N5EYe83JHJT4vCAx7473GvdH3MJZzus6bAml1j0tsHceRBX5qa/7qyYatVlZF8lZ9I6ZKDvriGp9iAMcRWbLQ9E27ZNahGefG1ZRHtiApu8lCj/HZIwZfxWeM33i+8Zt9A19WiOnVw9X95dUjEu7U0AaITLwnN9qwZ/cdoEQK5GQ+/imFmsJSmTD5muHb8XnZPH4kfuFL105cbO3oR3DRMzsV/m/BvrxTEEFaBpkygFZb/VXBtfJ+96se8MOObEsrCPElZWM9bPhRtfwBHBVi4</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPB954VEgNDAsUSnFA4IrLdzm7+h01Nh2/hAn3fSrVoWu" name="CCTV13－流畅" l="cctv13">
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPWQ2DX9EOX6kcvyIROQXVzIsy1XgZwulPzlhKPb5IGCc=</B>
+            <B>BuN49sVOjdpnwcaVNfCH6+up9LswZT1wS++1Bbd0I7u8Ps3SyyI/Fjkc/rh4SPQQsxIzm7A6eU+iU9YBq9Z/0A==</B>
             <B>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49njEZSXdsLwo5LRmuWUsofKkDO44CGJHvsm6ZLN1p3UftQ==</B>
             <B>uhbCW7Rg1n4A0Al7qiokYg+wgZ2kruTF6Wsr/Zm9k6Qhmt13WHiNUI8gpi3Urhdm1Hm3Oh9iL1R6zorwZDPxJQ==</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aOq0J2BUuLLgIhC3fh2+BtU</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPWQ2DX9EOX6kcvyIROQXVzIsy1XgZwulPzlhKPb5IGCc=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPGJSxWii5n6P8k3JFOQHT/eSX1PYuzkl76Iudz+P5ZZC" name="CCTV2－财经" l="cctv2">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRJDVP3Ht8udjCafdZbeD+gwqezkQgnmFhA8CmM70pcjzR/EV37zQ62sYMup23U22yLpiCdOFZPbuTRFquBeROCeQxkJjH0TdzwVExSt6Et/O</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRG8293OvKEJi3LkSAyrL/ElpW9h7Btu+yjP2PupJpQiN0O4CGV7LuoeLFDtd1aV/VgAeMVnLKH671KMtJ58QS4F63weRUGJpQD+10pcO4SEx</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPRtmJGUd+2d7+nyUx9IyHUoX6UDeyAlcX21JziAF1t88=</B>
-            <B>BO+vHNU3l8En03r6RP6ZmkWCo51ZuaNzyTRdhgDMTZYIdjL7+vDC+EaHfJcn7pqT</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2LwVsCi5NEPOkZd97ddjpJGF5AfRddRx2qms0KWeHLzS</B>
             <B>5Xow8w1fPKdCm1UD2zvQQaRaSYylH21a/g9khRKCd5nT8nmaJZzINUfDIemlFfqM5PwXcb6DBWGGW0zYpx9uzg==</B>
-            <B></B>
-            <B></B>
-            <B></B>
-            <B></B>
-            <B></B>
-            <B></B>
             <B>3qYmU+XG6EIPB2q0iXYOK3QbM+WwoR+6Of1mbQQfQtK2DwprevGQWBHToMvY6DSu</B>
             <B>z88QlG05WvsyP/R8ot888klnoTLx1DL36WSrb36byaARtXLXvurqs+n+QDLUyHx0zkBDNgcVFD4Q6h6OucMusXmx4cipimRVb4UDM1NjcXY=</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPRtmJGUd+2d7+nyUx9IyHUoX6UDeyAlcX21JziAF1t88=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPJDCian88pchGxpccIbHdXOoZlznZMsO2flJgluLxN+D" name="CCTV4－亚洲" l="cctv4">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRJJA+x071zZS7097k/ABO5mKml5i2DjhrpdH34QV41jI1xusK3SzvAP0kCIRlOFkdLc0EiZYs5iRV7PXVKm8xg72d6I8Tdl8PF3K3nghstJ8</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRPJfEm0pnboyBk85kiqSC6O84pKhIRWqBI3a3AItCVCEv3Q7ez+n9BP4zcRe5zrKagFgFTaKPKeOksBxCjwWbXFOMKvKp8MZdm/96NTAdAGt</B>
             <B>8g6JJtrL93XW6UhdRegkfy0dJFfY8oW98eAIcybUquUGwsRiAocTsCgiPnuSTgaV</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2O+3Dlx+RnXDLrgddKohb5uUMofDXVWzuCMP7DvO62/j</B>
             <B>3qYmU+XG6EIPB2q0iXYOK87pVkJgcNKfatyQ+hakRLw5EbsRdxt2Rpvnwmw1RKx9</B>
             <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPjpko+k6tnpXDuszNr/oxohT0oPJY0isUddktWvG0mpM=</B>
             <B>qxj2LeWaADOg0wbLTOKciDJHtJYExyAXXfq5b56vryapOUIdr7lNzNL9xJMSbHhVfaCEQ8oxwK4n9ihTDQEnWud3YB4H/XvbqFFlGmiMp4c=</B>
@@ -458,60 +459,70 @@
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPNw+kXQPyBKEXODgajrwMSSEBTEH01/B3TBbbY0+JbAB" name="CCTV6－电影" l="cctv6">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRLfXfuKtZGOkFKLQzdTe/gAoqQdgvGj+Z0HvFMesoBJEznM5s/EWIwyWjPB5LlYVPao149kBoVHgxoj1ICNEwZFTqABFdiEXKgDYau+zo//8</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmP/hiDVblF8IyJxRrAixf6lMnqW5SFswiYEMKdh9EduMI=</B>
+            <B>0jrTBWtH4mCunXrnm66br+jWMOY0by2GdLohImZISPvFCxijMP92WzIAO0Zr6Fuc</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2JlBQJ2K5aYPIJvRlvyQ+FU+nHNjD/cPUZn0Wuo8hoea</B>
             <B>BO+vHNU3l8En03r6RP6ZmkWCo51ZuaNzyTRdhgDMTZZRoKaDm8K3+L7OX+aimtxy</B>
             <B>3qYmU+XG6EIPB2q0iXYOK7s4UhsPZq4xIm5AHuBnWhPn4QNnNMNI5B5iCPmXs5RK</B>
             <B>3qYmU+XG6EIPB2q0iXYOK7s4UhsPZq4xIm5AHuBnWhNqiawQ3BeSpIqhKZQY4NNt</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmP/hiDVblF8IyJxRrAixf6lMnqW5SFswiYEMKdh9EduMI=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPNRyJaYqLmLHppgEiMLbRAFLQYTd7yT3d6AWU64mFu90" name="CCTV7－军事农业" l="cctv7">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiREH8r0B2esP+afh7Y86esfv6jQjMCbFrZD7haz8F+GoVYVLENVtXxSO0uxmG9xgC2aCL23jHxziE4wfl1sb9VDi5009oNgk1DPImrTuG+0YC</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmP8hFtbdV2yhVoWZQeSXucdt8mwlFEJS10KFsp7HLn2jQ=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2MOoo7+aQuP7fMM7Pmqh0DnqC6Z/JC08UG1mtoDfbVxM</B>
             <B>3qYmU+XG6EIPB2q0iXYOKzjYVTxS9hkCbCf+cMlJyjqe6IBakmI2bhPTUNJUYPmu</B>
             <B>vXKhPcE434OQd8Rw1jg6ESvnu4iN4DVVpNjeSDJRrbSxlm/W2e0GxzI+5QFlkXkgdKUXeYAxbtMlNlQrUXa/8A==</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmP8hFtbdV2yhVoWZQeSXucdt8mwlFEJS10KFsp7HLn2jQ=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPKaE+GwJkUqMCKj/S/e8NXMC4xRfBZrtv8v1/smaA4Xj" name="CCTV8－电视剧" l="cctv8">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRO09ufqvIe5R7KW1+5dsb39AWa0XfbX4Cqs2a/1CnnXDrvfMHvJwIrS7bdOg1XnVcNReLBhlNeym5zMsba2oj1LHG5bJJZM2imGt5tS7Daw2</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRA3yrbO5E0RUd1FW/SfrmKe4RUg/SAKA3Id109AMJVu5sh2JMdCD5zq2jSy247Ul5xyLOsXK1omaEMukGGFQ8aSX8iD+OtKh/DHBvSGHSNHV</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPTzoLFFGFlWn+yN+lUPEbV1YHIy7/I+b/kcoVgy88hV8=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2G+BDAoGl+GANjiPkcy+XvfN0LDmav1s9309lZwkmPE/</B>
             <B>3qYmU+XG6EIPB2q0iXYOK4k0aV2XxOHIsUIpNsmrhYlYbKL92kLja75vEiFy2kE4</B>
             <B>3qYmU+XG6EIPB2q0iXYOK4k0aV2XxOHIsUIpNsmrhYnB/RY2cI0ei/vA+fiIC8c+</B>
             <B>r1ZKPJzA21p3xg9Z2ibHAxO5m/xF2V40lXs2Z7DaEY/x+rqnLIpOF4ZlV3jIsjDpO5trq4fygaTvhRULpDR5imjHo3UB79Qz0gw2jauDoH4=</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPTzoLFFGFlWn+yN+lUPEbV1YHIy7/I+b/kcoVgy88hV8=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPAW5MY2yQRzvw3C2mHFHTIK4ynYpKHeJ/1nbxL1CjIAu" name="CCTV9－纪录" l="cctvjilu">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRLTZv/yvolZ/jJO3R6DLArT19hMN6t9uIKt014Enwyzaq8Y4dih1qbuVPBHB/t5LXR/FS/MzgxACAFi17emzwx6z2EtRCp+KYo8gyXSfRara</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPz0601C3Da6z736lbidQen6Yu7UJ17VN1JdMEXtR+KPs=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2NEWbe7+yHHnc1RuUjUY/RW0lCZEvjWWsKKOS7iGpuMM</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/334Up8QMx/TqGi1gy53S+pNlQ9HYGc+IyhC9ppQwws</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPz0601C3Da6z736lbidQen6Yu7UJ17VN1JdMEXtR+KPs=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPN6OJdgfaHkL6teaVFNuJHbdKbwU/TXyEKYHXoxpxULr" name="CCTV10－科教" l="cctv10">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRBxaR8HdWULyvZXyHYi7fDKqqd1RF75+mIdZDsIPcK3xBUWk1NuYYz6DhydmIrv3zc8VSu537nrqZoHUydh3ECIZ5Xw/Djot1gx18eAQrtjx</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRJyY6xU7Q9EothQ90HzM+avQVDjzEOawfjvghkZmhc+R/aapZC94HpUiqbhI4NyxLIWporvWJ9gzspuLSdG9AtHz5ZHYfFnJQEjx0vjIP00S</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPsRT7MoWjlcgJYMPBEuZ7lhhBzF6zdytmMoqMsGb8WaE=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2ERT9ZBVSJ0pWUgCzc2JtY7tUZT/o/2K36PIWHGIdLjT</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aMRTENFadvi9sl2ZDlbL4G5</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPsRT7MoWjlcgJYMPBEuZ7lhhBzF6zdytmMoqMsGb8WaE=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPFhBSodvL7qOSb1GdSM3FBbimqN5YskntaeKkoJ+SH8B" name="CCTV11－戏剧" l="cctv11">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRBJxD/47P21SCDyBEWK0LzG22HRQXwaNNqdkk/ii2/vAk2YJw3aKqGwETW/pnOpOAMOZTyx3gGvc67cPYu/DfTJSECImoyvyKHYBbnzp4cLu</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmP45pWCaFlItaTsi1/8d/Ylsx+cyns5cUDdXh+DhAFzeU=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2ERT9ZBVSJ0pWUgCzc2JtY5c2tvcDLPvDEr2gxhLdh38</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aM+fI48HEBQobCt0cPMx4yI</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmP45pWCaFlItaTsi1/8d/Ylsx+cyns5cUDdXh+DhAFzeU=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPDwdIedhRZ8/wxxxl9JtiwPhXesF2FSEWnlWV2TrAylq" name="CCTV12－社会与法" l="cctv12">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRGKr/bWa2bjedUOEmvsFoqgNT73mo9sdoKmb7clVw6xnr97UEgDqgU5E2LhGYGRcAloafku0yaabUNplKz/OYxZRsbvzfgaiV4VHy6ugCRva</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPl6Q4Z+veBPlKwlScloJw0p+DGbZfeL86fzh8OyulliQ=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2ERT9ZBVSJ0pWUgCzc2JtY5t87szuKzJC6yjMOaxLcCm</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aN6T47AE1w9K7/mM9gKqcAn</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPl6Q4Z+veBPlKwlScloJw0p+DGbZfeL86fzh8OyulliQ=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPJ2+uIUZdHln5q6BouvHfSBAAAFbdh7oKqxtMiiEvBlh" name="CCTV14－少儿" l="cctvchild">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRGqeFwaG5PdPI7/0HwkGHugfoAURurKKM0RUowTOG5vZkB44fQdIaE3bsC5uJh8SFxh3KFgLkUM8OuPvK1iTCq2UrjMugRN1JcoiplNZSR2a</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRKKeXecrnewlrh2Xeq6/xD0sKLpbkxUyyeEAVA55cf50xIH5+j51109CnA+M0MwLtK7IyO+7/LufP6ew3wSLNSdbBsPkyHZwwHQjDsB6t9RD</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPROraJcbU2ByjS4+asvP4FcIT7q/5W2SO6uon7Ju/n9k=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2ERT9ZBVSJ0pWUgCzc2JtY5KzA+0jJCoTSHg8XLrZuQO</B>
             <B>IDO9JWDRx41cBiLaQVVZEO9L2fXDDa+hokn3is2uGeJ+XbwNZ4pLuxjz6O4QNGNu</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aNVjUEzQSIHULdD8O1vd0FO</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmPROraJcbU2ByjS4+asvP4FcIT7q/5W2SO6uon7Ju/n9k=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqp9X3yxPPZ0/1eVVDXGijPHOaD51TX7VGiKJmMs8uqYp8No1HaHyndWQB9ld9k5ur" name="CCTV15－音乐" l="cctv15">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRB35qb2lMuSL54WR74U4uYUvYkPSO/5Qy2fzMSQ484Qbplud/JW1zSY3PdmDDn/ygUEWOJpF/2nSMjFtzpuR9WHzQR1vKseYzUKjCM1H81Eo</B>
             <B>uhbCW7Rg1n4A0Al7qiokYg+wgZ2kruTF6Wsr/Zm9k6QCvsAMOR8Meu+q/WYGp11HJ5fjAwKbT8mjsB6UG3D7UQ==</B>
-            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmP2EPm9rcEAN6VdaFHpJcSWtq3iktla4IV7DRkmrg5E58=</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2ERT9ZBVSJ0pWUgCzc2JtY7sHIPGUBtUFziTED4aYyAz</B>
             <B>IDO9JWDRx41cBiLaQVVZEMf24pdQ0fKhUbPc5ehADM0CSoc7NVsATXatektKPQgp</B>
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aO+J/7S5dUro5S4wN8/lXI/</B>
             <B>8g6JJtrL93XW6UhdRegkfy0dJFfY8oW98eAIcybUquVucAuR4j4z5egA7Z9TFF3O</B>
+            <B>k9/v6mJ3AwM7mTpbqwkWmKRk93OgqBYoAV6FAThR3sm5Oi6rLXmnoR/w7ygUvDmP2EPm9rcEAN6VdaFHpJcSWtq3iktla4IV7DRkmrg5E58=</B>
         </A>
         <A iconURL="eEfNZWoa+mP3IjYTn423sfmk8eSgt1NbN4wU9vjN9hPvQHRs99avnrwce3m3aQDqzkc4B970u/mg4pJMtpg2PVusY1COtFKiTSIL6iyo5DOjP0ImmGFzeKi7L4gBQ3nq" name="CCTV-news">
             <B>3qYmU+XG6EIPB2q0iXYOK/SGoesd+/NnrDBjGzNa3aMph7vGegCNRTllsgFNq3uz</B>
@@ -609,6 +620,7 @@
         </A>
         <A name="怀柔电视台">
             <B>yujfPQXyGb9Y/yFfB/hnrqvvGZxLlYRIJ6SiiE+s1Aiz6KvjjRG3caoBeTT9fKesXI9nW3FZzKLr0dsiGmnkVA==</B>
+            <B>yujfPQXyGb9Y/yFfB/hnrqvvGZxLlYRIJ6SiiE+s1Aiz6KvjjRG3caoBeTT9fKesgTqLLAvZJfSkH/rAcaq97A==</B>
         </A>
         <A name="平谷电视台">
             <B>1SB4KAvk0Wg0LOx2J/Uf1NOWR6WX7ssVH+Adx75YxOsJGk8lvCdjJA4vj/abnQfq</B>
@@ -622,6 +634,7 @@
         </A>
         <A name="顺义综合">
             <B>1t8QB6QDpHFzqtC3L0cON72asBsdP40DbHBw8rNDpApWBgu97erBP6ut2c9YUbeSjA9kJWKHDlQnHnl13U+E+HA0Sw5yE28kyZuMMhyFflE=</B>
+            <B>1t8QB6QDpHFzqtC3L0cON72asBsdP40DbHBw8rNDpApWBgu97erBP6ut2c9YUbeSmiLXhC68NY8iqZoysJxLIAay9zjPvgEtjeBLJESa7Uo=</B>
         </A>
         <A iconURL="tHM85qotxc+ZK/AHEPXxhv7cLpQkMzCTGuRx54pi1yyP48FnTr6xrf+1PBtnhgmO" name="车迷频道">
             <B>bMN+oF8mo/S/9MpCxKVQ7I0r5c37IkVs8tGkd4S4dxZddIPp14xIlFWHErHPEwXDvwc5MuUeoaGiBv167jzebZvqAHrOSV9ACEQ2ZVbZ66A=</B>
@@ -962,36 +975,70 @@
         <A name="新娱乐">
             <B>r1ZKPJzA21p3xg9Z2ibHA/yCyDf4wceV4dlG6+nvR0awDt1rjX8FmefeKsW8cqztUaEnAZ3fgtSvlIAMVDe+SbjxZtyaAb4JrtJ13duhDi0=</B>
         </A>
+        <A name="网络频道1" l="hunan">
+            <B>o0QGIaMAvjw1xWNjiOt9OS+xRweEBcBZYl2Ib+ioefIWdfrOTBJYQoRfj+HvMVSGRZnzyapcGubFtABVthTPaw==</B>
+            <B>uoUGMta32TP2n+v5MpJIj51hXiDMmRARSncvYFEl/c2m5LD33CVgznfMPaCG5JzVXUQ89Sxs/6dYSxS6vjta7nM8oG6arMLAPV+0xpkrH6eU+94TNlogsOZ3F4ekA1QR</B>
+            <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRISoV9lB/OIiKFrtyOiLP+/z5NFSNB9fUJipJeVS+uq8S8FdoO9H6vLbmrH67oU/X6bhNFP+ei8gprtC/iFHzqi4tsizKHDo9uc4+Yy8B6Cm</B>
+            <B>WmF/HhmD7UWVMecvLDk/sCswll/wIJcJ1Su0On4PJazzmViLvhDeq7/9QwgTA0Iiq/NDS8w/uYykopDsOQ6OZg==</B>
+            <B ptag="3">G8kO3Lwm1bS2ddrP/vrjLJpq+wA/1zumcg0YPOJjiQ3XxFIG73sZolUvF1idhSApR4byNMIai046EkYzWdrSQuxKnGpmxd32JSmkhGXDCpGxpO4cKzUvtNbLrQuAo/1VDS6A/zP9tc4Owhw8VLs+AP93qokugeWD+LzkoO9X48N5EYe83JHJT4vCAx7473GvdH3MJZzus6bAml1j0tsHceRBX5qa/7qyYatVlZF8lZ9I6ZKDvriGp9iAMcRWbLQ9E27ZNahGefG1ZRHtiApu8lCj/HZIwZfxWeM33i+8Zt9A19WiOnVw9X95dUjEu7U0AaITLwnN9qwZ/cdoEQK5GQ+/imFmsJSmTD5muHb8XnZPH4kfuFL105cbO3oR3DRMzsV/m/BvrxTEEFaBpkygFReEuRSkeF1yCzDM8LajT+kVRZRaBNT+gx53PpObvupo</B>
+        </A>
+        <A name="网络频道2" l="dongfang">
+            <B>BTXIhk97W3WgK6ibiyKcc+wg/tWa6W0vSnRfba+K88AjafN35IMdEuriDpy0VoHbYWHfoo+uo/oRqI/tQZkTpRZ1UH2oGfCHUH2fj15ISz8DRt2m9iUxxav/ETzTuVl0McXCRsjFFI+iKtUjHwMzf0GXElt4wkwwbC8ifMQPHCkrGVUIzutvMPhES8GYE9mMOuOTxkCzp4ZelUL5N93mxiKk6Ii4cVXk4gCbtDdqpsZG0o52xEc9ASJgVM1qYVKCiLN9ddchAcXEe9+ryh11KQ==</B>
+            <B>Nwge9f7Ztlj5j5nofeR45UeLxNwl6jhRINj6+p6ODqsZQohCSZaxXdMXWhL2DoFcgWRpu+R7m4J4dBEGbdesFZASyR8ClIXo1mWlopjNHRI=</B>
+            <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRB2WkTUft/Mem1EAqPyfEYiMtKPKfXnRgPSw1ygDG7A+pkvcthmCW4Ud6mEu6dIPxZZW/P+qBydzf2zyS5RtGrgTwpmeTyEuK1IXGNvJ1NAu</B>
+            <B>Pjj7cegCcRYvzHJDNMYyTaucAQLN66kkvBQRuqzzbgkl+BS8RXYa/NEJ863M+7TAWn5M4lYdJfA5Ahnfq4K8hw==</B>
+            <B>Gi12iCUra6GM+q3sB6E3NJ/J09WpdZCjdkTSQaAb9DmWsToG7M5tOmUxxz01KLpN</B>
+            <B>3qYmU+XG6EIPB2q0iXYOK5IWFoEiFJEYZcqQ+5pmCXA/b4HphNt1rHWT+VTTe+7p</B>
+            <B>3qYmU+XG6EIPB2q0iXYOK8ism0tUIY1enK8GbTe7i/eMRJbq5mcyD3NptKHuNjgF</B>
+            <B>tzYAQkdCkX4PHABkuhboepxJs7Mts9YDWF46eD2VXif9Xx7UvHb3BCtdVMz6FwYg+ioEsym2DBUAqfQo8MAeDw==</B>
+            <B>A1JR6tgI4JkTmvdm2z/V2OxNtooDjmq5Ak97whzFIYqBnVJSbsKeOhFcUQeHM+SH</B>
+            <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+kYKsJx1ya+reoYa+PAiS6IanqypMYkRcZKl/mQQeIRAsVKgbAJBYx8MQy+LrSxINBUSjCHnmtPdmsQ7PlYySro=</B>
+            <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+kYKsJx1ya+reoYa+PAiS6Jqd8rJxhiWwEMcRd8baHW3LGsbQ7LvwrhEoqGGe4F7Lw==</B>
+            <B>3qYmU+XG6EIPB2q0iXYOK8ism0tUIY1enK8GbTe7i/eMRJbq5mcyD3NptKHuNjgF</B>
+        </A>
         <A name="CGTN纪录">
             <B ptag="1">mmAtfUOHVaAnepGmxDl3jnHr9aFVVSER0CSSw73VapoooYGSZS4EXlI9KJUjbLkR</B>
+            <B ptag="1">6C6zfx3hEpaorg8sXkOmeM9GsXyROzdaUdvjFilNX23BEQYJxA6/ayAE5A4sCBuyYmwygh3J9VVoJiolTbhBlg==</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRMX4teJbGm8s3kGLA20F9hjx0hld/n9HPpOj6SqnhtVy+On+UZTeXdDYc9hHGh2E4BBK/5Q8LYxrrNHBBQg1qvpYkpdqVyctlgmbUJdMwi5l</B>
         </A>
         <A name="CGTN法语">
             <B ptag="1">mmAtfUOHVaAnepGmxDl3jmCriz+Hd8hYzgcGh3oT11HnwRl5Ewn7ptjjvhSP1rMo</B>
+            <B ptag="1">ZH9hVc3VE5HgYUXNJRc5OVD2fdbJDfGJEISYHeUZRvIKoXRE5a7fvk5Rh3EFFb9R</B>
+            <B ptag="1">6C6zfx3hEpaorg8sXkOmeM9GsXyROzdaUdvjFilNX22Weq5SVds/sioyaNA7JTuF2VfZ203OjtUveYsLMBonEA==</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRCziCybqJj2VPQPdA71R6Hg7fLoANWpV7MN3iuuvumP0vZSDEiDXPit0YoZs6BlnI8Bci8yNjcmRw6myA+JJH+CuaTmhgzmuyMEXfuPJqCbC</B>
         </A>
         <A name="CGTN西班牙语">
             <B ptag="1">mmAtfUOHVaAnepGmxDl3jqDzhKzdt4Q5YbZtnqGHfYUivsBNvlYhm1V1SRaaCLPW</B>
+            <B ptag="1">o5povmR+Mm1sv71O6Mn8V6c8BkBHRfeC1nNS/XzrPKPmkrNUtvQUuk3ny1yCMYNv</B>
+            <B ptag="1">6C6zfx3hEpaorg8sXkOmeM9GsXyROzdaUdvjFilNX230r9GI8ero9EptJP8qnUT66cklCAOXF5oST7R+vAn9Sw==</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRG9bEpFxZKIuz/afWizsw6koTzEEw2sy6W3kyAxH3S9oaewSjyYliets8tt1wTy0nQKMUg10f0Ci7I0eppoVYJEGiMTZP9ymbK2boSlcHR9k</B>
         </A>
         <A name="CGTN阿拉伯语">
             <B ptag="1">mmAtfUOHVaAnepGmxDl3jvVMdbUWDR5GLfJENcV8pTArtbDnLrX2RhSl48Bg3jH9</B>
+            <B ptag="1">xKMLoew8hRdE4yuG9UU9KdToysgT/QZDPTCFQErgTkQ4GoKbYxeEAIUxhjsyvACg</B>
+            <B ptag="1">6C6zfx3hEpaorg8sXkOmeM9GsXyROzdaUdvjFilNX233btUns/TS7P/W+5ByAJZeUMAvD/K8LfIkxifFSSzQmw==</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRHKoPaejZce/ijYjNJIOPh+ZDb+rCk5IWPUBJUuA5N+r86G0ZskTUla2jiB35JrpPJEYr+woajjZNvpe3b30snHO76TfmXS7RaSFb/lgV5sQ</B>
         </A>
         <A name="CGTN俄罗斯语">
             <B ptag="1">mmAtfUOHVaAnepGmxDl3jvhvvHADVm3Ch5Q61+liAJ+m5tX2L6Ft0be5IK2HW7Fl</B>
+            <B ptag="1">S44yadd1U3zLrKjNVkerL6DsST2+wm5MkGdjGVfsw6m29m0vqcuaf3GenPw5xddh</B>
+            <B ptag="1">6C6zfx3hEpaorg8sXkOmeM9GsXyROzdaUdvjFilNX23UN0u7ACdaGL+BqT5k3JPZEy18V7NUf5ANJHGJjgjqeg==</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRNMtVcKPxLf8x+mtBdcVR9jKwh2YpBM7JuWRAyKlNTPwRqvJp48rLsRWYxEDaIaArboWmk0miEqxMiwvLjVFHnFBRIJJz17QVP8iPBxq3/Pm</B>
         </A>
         <A name="CGTN Global Watch">
             <B ptag="1">mmAtfUOHVaAnepGmxDl3joJ5anyuaZ28Yv8lxUuyYlYTAqfBZfNlzuwJNBcEYWcq</B>
+            <B ptag="1">f8/wt9/djbCrjceJj+YlgkP4jPA5nsp9Y2Axn9SJ6RcXKsDexi8JkeuLmNsrPYL3</B>
+            <B ptag="1">6C6zfx3hEpaorg8sXkOmeM9GsXyROzdaUdvjFilNX21gONePFWZ4NLhGq9A1uTp1ujagft8xWHMsNMojCos9/w==</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN高清大片">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRLgSDcbIpRyawRtytfGv/f+qkYLBGw4yqBqEeT8d5kD7ZCWWXlt2tlvfNKJFYfb6IhxzAn6L2H0Zcov0ajduCgJlnQ9w47Bkq9hdRxT6n91C</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN纪录片">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRDinha2Vms2CIHLsyF0aVr/9hP1ykNiOnMRZOjZslYzkRtSWZ0qp2mrX4sw15xmsp/bCNj77P8XCJZM6IxRIQV++RLRep+xIHywKL+NjOK/f</B>
+            <B>Nm83jvBJHUqdbVPLiOsfnDYnTQUdI8puRbylwtC5M0Wx6Ww0B55TWEfRVBQjRmzGdVIvji6Bxx3dtGZB84nTihXfCMrL4yzLHdqYitURtSAtPOuvy0pALNZ/EyPpios+FDlVyTgK37s2hdk0MAmviA==</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN TEA电竞">
+            <B>AS4AtOzQK9R8yixFKv4Oe9Qxc+ibg00z75YVTQVY3ETvXCuyTnIi4z5QhZ5z5CMU2yyT4O5SIY9zg6Dr2boKj0AQKUici2Jbjj1G7ql/2xtvMhLZ1DIY7HzbygmgKugBMGU1zSh5+X6ElqiG6Mfx3LUcyCJ/ObTH267DvCtb/mM=</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRLABaqibYhRPKBWrxCzJUjk6nNd+oPuhA7gISN3/QGmBvlQAaT+2IoiMFLv4cEF1mjW2oYFpyCTohlWfYuNKEaIFvRh9yzO8xKaiHzFhl357</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN动漫">
@@ -999,27 +1046,68 @@
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN好莱坞">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRDc4VlNVT7YqK4AyGkE9SnQPaWycQwnYun5P9V20yfj+OzK5BxMncva4wU6GM1PSxO8GuE/qqzsWDCCgTRGRwWUJxS+QWVxZ276X3A6CyLqk</B>
+            <B>Nm83jvBJHUqdbVPLiOsfnDYnTQUdI8puRbylwtC5M0U7OIa48YiVcmwHwz5Sv63cBPUMTfW/JeZbZapWksAVW8gITfEcYVGQsnW0YIGCtcsKtQY+TalL08h4rZ9SAow8WzARdAhz6KP/PMko4DKNiA==</B>
+            <B>Nm83jvBJHUqdbVPLiOsfnDYnTQUdI8puRbylwtC5M0U7OIa48YiVcmwHwz5Sv63cBPUMTfW/JeZbZapWksAVW8gITfEcYVGQsnW0YIGCtcsKtQY+TalL08h4rZ9SAow8WzARdAhz6KP/PMko4DKNiA==</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN精品影院">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRLoJXW7Lp5HMoDlHK+mKAkHLB9QEAg+cDqiwRHbA3eX4j+LDmsc4/cAjjOsO+HQs0ywaTwC6rzUtWwexxWpvVfTjLU7Ru2QtDTV/2SK7Thu+</B>
+            <B>AS4AtOzQK9R8yixFKv4Oe9Qxc+ibg00z75YVTQVY3ETvXCuyTnIi4z5QhZ5z5CMUfqg310wHJtgem1e5YPwOCrOrJaz0DVokZWj2GH8aQweCxE4kmH3sRI6QT6ThLNKVcrDMQbZtAjl3+oYeBtzXWA==</B>
         </A>
-        <A name="电视剧轮播">
-            <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiMP0794x/xPqptSVP1QtTQpB+49XaMFWNueJrzK8ZIOBg==</B>
+        <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN财经">
+            <B>Nm83jvBJHUqdbVPLiOsfnDYnTQUdI8puRbylwtC5M0Wx6Ww0B55TWEfRVBQjRmzGdVIvji6Bxx3dtGZB84nTihXfCMrL4yzLHdqYitURtSAtPOuvy0pALNZ/EyPpios+FDlVyTgK37s2hdk0MAmviA==</B>
+        </A>
+        <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN电影">
+            <B>AS4AtOzQK9R8yixFKv4Oe/bh8mLdFKvw/frOaeQRbS4Cwf6ULq4YFObQnDzaPkodLlCH7smmY/Ozj2O+MPWtX0giCVUvmIwspB+FeFXq7KnOwBRn745Eoe9FVFoHltpadz7b4rzwcXeE6lAPZK+ltw==</B>
+        </A>
+        <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQwpT0UUC/S6BRH7mRK/FF4Ee1sM8oJxcCccYC4rMcztygUrl92U1iT3EK3+P1IiKWtXCcplPrmlNndU283prULlr+y7wg8gQpmGMb3WpZyP01FpQojsD8dFVpRT3QW3QH" name="CIBN动作影院">
+            <B>Nm83jvBJHUqdbVPLiOsfnDYnTQUdI8puRbylwtC5M0X+nIJyChmJJUYtLK7OajXJccFw4I2ERf1IHGzm4oZz0U1Df4h+2bz0emMWwB5QYq5aGyZ1VaXvIwEM04jlxiS2zQGy2OuUW9IBB6qCpqsFQg==</B>
+        </A>
+        <A name="侏罗纪世界2">
+            <B>rhTFfHxYEqDLgsZh45W32O2M61UffvYT9YkvkflCZG+kHx4sYAXzk9dRjQxvAwx5OczFVOkkZ+H0Hwr0sLpTGQ==</B>
+        </A>
+        <A name="九门提督">
+            <B>CTd5dEA9OkikGPWWZqlDIamwP6AVjiPPbrtZItXpbNJ9HXghWoE1fZHI2BzilkERJ/+285x+UWikxWGcVeU0XQ==</B>
         </A>
         <A name="周星驰电影">
             <B>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL+Mntj/yP8lLa+Tw7hNxmop5LaQgANt1pweduAIk8HSw2pWdSWGfxPp5ULIVStiUM9z+bkT1YF7246D9Uc2qL5g==</B>
         </A>
         <A name="李连杰电影">
             <B>Yp3KTcjtPK8mWDtXtq+vIApYldSjP7JY/xtI60YxQoEMHUaUNqRzJ/yFBKNS0XC6xYiQgnRzKPhnMqA7a0WO40RK+3SF25Yir+V8ac9g/1XlJjgQqT5QTJiMJVqUWHTGHd103kUu98pB3A/prUjZCg==</B>
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6lUsmr6TU3qAElZ9kPGs0wfHifPLujzre5ttq6D+/HJFNCuAU3N+d1UwGyJAUAKIGmQsjFEPTm2XUD+WTpatLNVl9Ch6CZZt033Lb6dg4/nw==</B>
         </A>
         <A name="刘德华电影">
             <B>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyLHRrt2iapLz5GURmvGmHARltDV+dAUNe2WhMnX5tG30w6eG1j4YnCelYJ5GDJAjOIh74a4s84kSNy2IHiENdBGg==</B>
         </A>
+        <A name="周润发电影">
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6FWP1bacpzB7Ddz3aGpRoJHGSDmWnoMYc65h2qY5Ocm+40J1lWz2jWFzP83is36nGGfcBk0V35A3RHWo5ZQxavTrbCGej7Sck30c0y+LNuBw==</B>
+        </A>
         <A name="林正英电影">
             <B>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL96DPQ71IzcWI0GIZ1y19zxsCcfcVTYjE8MLj39FJrDVQmSkd2/LKHpLdmcNe8U1AnSpEkPR/oqQTqnGe2fq3DQ==</B>
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6lUsmr6TU3qAElZ9kPGs0woLR8irwFw+PNoccl2mdss/9aTM1viRTKHCX8OIr4yYEnx7wjZjUAJvhGdwDxN93/l9r2d4rkBl9tQaVVMX7i7A==</B>
         </A>
         <A name="甄子丹电影">
             <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6nBE5k+nCVNwXdL/j8awMGP1IGfI/A9myKy7bnbxnJwu6JlvnSGstgYykV98snnV7vPix0N9NEb9eKeNmeKdYV0Z1eI/L0pVgVA147Vs72cQ==</B>
+        </A>
+        <A name="洪金宝电影">
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6pCLcGLNmeObsG0zaLCC+2Dhs0D2nl/M19e+A2kTR8b9+TYTFCeWJaZtdKq6TFpJ7p4C8vcYnpFlGgq47l7wisc5bhjkoCQzSEfD2JVzHI3A==</B>
+        </A>
+        <A name="古天乐电影">
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp7Ckifhxy2FCH7IA3k/BNI4zTfwI4CG9gbjksFp0y32oabskKbE88VWORMkDR2Xa+yqmY/3nGU9+ZCLhVxdZniy+KKy/lJBXt7oeNO+xhtLcA==</B>
+        </A>
+        <A name="古惑仔电影">
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp4V8fTErXGAGujZI0GtkOp3hZxx+uqzgUiYc+osP6UKKxOmH9XEmE69hhj/19xbektxAPmGBjFcSc0U0ugY3xM6dtDyZt9HdfZoNNcQkLphxA==</B>
+        </A>
+        <A name="漫威科幻">
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6Ki1kDvME/UHI8BIrAeCbYb/PTjEQOJ24k7lvteKOp7V6YXDHgJtnqCSBs+BiV1lLq9CTkIkI8/pfcIKDHO/CUTJDhoqnCNGPXsmhiPvzh2A==</B>
+        </A>
+        <A name="丧尸电影">
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp4Hja47Ndu65m8XgnLVfeMPeljEjYV/XfIJsJGETwIG8Q0abVz7H/g0+o4Vivb7rkrVxlzu2PLNAL279WhpqJF0wcGQL8fn+KNMeW4wuLveeA==</B>
+        </A>
+        <A name="徐峥电影">
+            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6w7ld9pgl0Ff0uxsVq9TxXu4yCC/O+2wDb+KhBBfiXRCN2tLrW1QeARwDBJaL5IrZRONcyqI96EHN20XTZaYV1w1aSmls01QXHeX8QJcizHw==</B>
+        </A>
+        <A name="郭德纲相声">
+            <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiNQZprxFNnsjJYD3N9iNm9tj8E26FIypOnzekhJ/inKiA==</B>
         </A>
         <A name="高清影院1">
             <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiNcVr52UXvSWmzAEb/W7O9/46B2WK+AEvAJAon1JVqe+w==</B>
@@ -1031,110 +1119,65 @@
             <B>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdchXpqc5QgwO8JcY/NHg/sKlZVGRqlZv4FLUKwdB1wudoc5eZZvb9iDspfANRTc7R4IYmPOYMVE8SN9QYnE8A+nlt6pJMjhFbmXP2oIYTWktw==</B>
         </A>
         <A name="高清影院4">
-            <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiOlBpAckIQJsIaqnfIdnEBxZb4WY3hEabHkLd4H2kqZdA==</B>
-        </A>
-        <A name="高清影院5">
             <B>vjTd36sVf3FxnTv1XwVE3vJyXuZkizPb8cSZ6KOwPDGAimJGFwewI25zCbPYtG6eosNpVVKILD+sSt0FiJpuGSh/WTg10h0dmCSgt3gYo7HS0rkVcTfDONQd1ou9CUXSZIv8cufkwqryCbErPo77Iw==</B>
         </A>
-        <A name="高清影院6">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvsGBU06SEvpKnhu6zkkpg/xU4Biy3oZF+zAnyBef2/PKtKDTHxbtaf7hANPmOvuOLo=</B>
-        </A>
-        <A name="高清影院7">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvtpmH+UCGOd8lIw0Jf2UKTN/4jDg1QAePIKbg7GPDLaU4JKAldRRIZo0sFz56w1Jxs=</B>
-        </A>
-        <A name="高清影院8">
-            <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiNtYbF5/5e//bsGMhL5iYMAx+JMLInpDDI+ThvxP+CFsg==</B>
-        </A>
-        <A name="高清影院9">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvvgkNgrvUnXRSn9MBvS0QmHOwtjDUo25k5+UALeiVq/rg9unU4r84GPBO+Temhhqjg=</B>
-        </A>
-        <A name="高清影院10">
+        <A name="高清影院5">
             <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp4Rf4y5TydDOgaPXFvRy84IpWkqlNwgW/ZNDukpRzGtDrNwKRK/bX7xCWO0AN/cVEoIZpkZdTmdOpNZgXn1VyBkAmgsqGzvNVnkYsX/GKj5kA==</B>
             <B>QB4RaVDM4ne0SFaSmUTMkZI+aWG/hlLSOLLzT1vVEUOqrlWuPkIeD+flO4jHpQp6Qlb30ezdh84Wn73avBKPuaCMpTbJ2uOUO8r1wCd44fo=</B>
         </A>
-        <A name="高清影院11">
+        <A name="高清影院6">
             <B>+z1fz6wGpOd4gcqL6XFZJAxIz25ePTVVeLe9n4oxBsf6FtKm30aPLRcTQ6bw7sUV</B>
         </A>
-        <A name="高清影院12">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvvyIYMSeZMyXfWRVTqlPYwS6KipqwV+Z1lEjjGnNgJgBrKBCZfnoG7l8U/ZTNSnGCY=</B>
-        </A>
-        <A name="高清影院13">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvsS4EflTAvvmYv3sK7CoVhLurm3NxS03v+/bxz55maxrsXfxBRTi0oWjtyp53u/1Tk=</B>
-        </A>
-        <A name="高清影院14">
+        <A name="高清影院7">
             <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiNPxQwiBzcKWP9E1+YkCkx+pN7JscUwzT3+LKx2J2VptA==</B>
         </A>
-        <A name="高清影院15">
+        <A name="高清影院8">
             <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiPTzDSXO7RpuHQmBa/Xm1eus450cWVLRCuWDypCH8HqkQ==</B>
             <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiMYJhAEdBbZYSS9kBJR8mzoDic5WAMLmwMM2kVEgfO7Ng==</B>
         </A>
-        <A name="高清影院16">
+        <A name="高清影院9">
             <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiMrwTBHxKa2RWBGDWIs+ciL+u/3mg7GtQkfeg3wEpvwcg==</B>
         </A>
-        <A name="高清影院17">
+        <A name="高清影院10">
             <B>o0cqK9IQfO+mwEsxKoy7s8FV+BFgO2iuHkFV+aQCQiNOyak5IH8QMHDkO0QdyJw19aVZgW6x2cN8B3NT/eN2/w==</B>
         </A>
-        <A name="高清影院18">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvvGKvLgd78/bvzdacXjeRHIQSOQC2L50rLg7A+Cp/qn2eM/tY2NyGCuwiduIZUWgPo=</B>
-        </A>
-        <A name="高清影院19">
+        <A name="高清影院11">
             <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6pCLcGLNmeObsG0zaLCC+2Dhs0D2nl/M19e+A2kTR8b9+TYTFCeWJaZtdKq6TFpJ7p4C8vcYnpFlGgq47l7wisc5bhjkoCQzSEfD2JVzHI3A==</B>
         </A>
-        <A name="高清影院20">
+        <A name="高清影院12">
             <B>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL/fbtetxOgCwyg2x5oIZhkt2F4zaz2K0zrUwUbDrpaQoozLJsnXjMa6iXJUOQu3Shiqx4KlR4GlbUGNTfzfipmg==</B>
         </A>
-        <A name="高清影院21">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvvb287deZBSyH+KRiX5cqjkkLmtwE7S7l+FEHiYWAI8VHtTC4zOz9/aBQlOz0XF1wI=</B>
-        </A>
-        <A name="高清影院22">
-            <B>J21loKOkVxL+ArFkd0LINiUlzdKTj89sCn0RTNJFddVt0uSXREBRCruIpXU+XJYohBAWs8X7YuxREGhb65kQAg==</B>
-        </A>
-        <A name="高清影院23">
-            <B ptag="5">1rbgBKFXMh84vbH3lFdpFjwG+vbKGa7qvh9A6/zKgjXV7rTFdu0Ynf939pGs2BmQzdA0YbDlQK1tZt/SUYFRTW0BuPlIOuXPw6sqW1hmhyP3kZL/2jY6kc843vdRM9jw</B>
-        </A>
-        <A name="高清影院24">
-            <B ptag="5">1rbgBKFXMh84vbH3lFdpFqvQ0YdOlDQB1CAvMXnucg/629mCxUdijRn5bdwvkZrODD/Xc6LDvzB5eeAdIEGypXAPzr80iU7IoGZmL9X8eoiwXrgv7aY/qxkvwWwaALoN</B>
-        </A>
-        <A name="高清影院25">
-            <B ptag="5">1rbgBKFXMh84vbH3lFdpFh3sh1eHPbjWycMP/rGrnQNnTdEM1qHavhOJf0RuAcig15KGtDWiXGd6DIp52YVd2k+L9YA/4er/MUPnLEO2RDuy9TFY0UDALJkBHyPAAK2/</B>
-        </A>
-        <A name="高清影院26">
+        <A name="高清影院13">
             <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp4V8fTErXGAGujZI0GtkOp3hZxx+uqzgUiYc+osP6UKKxOmH9XEmE69hhj/19xbektxAPmGBjFcSc0U0ugY3xM6dtDyZt9HdfZoNNcQkLphxA==</B>
         </A>
-        <A name="高清影院27">
+        <A name="高清影院14">
             <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp5DyWjfFtEPYsVgTnhWG+SmxfAC0q69oOj177quMptxLvMFStxbkKKowon0ZoiE8NHoR48fJJRqYBbQ+/Z0BmzabpdYA429LdGDg+36dUXVwQ==</B>
         </A>
-        <A name="高清影院28">
-            <B>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6gFZzxAXICipiEvqxnehWHleT+SDBYmlEM2cEK+umMPNO1bcoBLl+CnKDCtgo4p41h9CKbKxINWJOGhqaIw15Pm5/+wGJ0LIdy+US4WGOoHg==</B>
-        </A>
-        <A name="高清影院29">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvtdi+Db2UXdSqXT9uPlIEThT/6hj1aomsfikPnnE81jslyN+O6yY50DaX9CihJH7Qk=</B>
-        </A>
-        <A name="高清影院30">
-            <B>8ye8GNSSp3TuOt3qtXPYD/4mR7K69FX0UJSBKxpjmvtnh/GMztCYVp7U0ukm/0C0L9V2eYaTC7nuV3LEQdVIyLFytS39VkM59tHau86Tx3w=</B>
-        </A>
-        <A name="高清影院31">
-            <B>J21loKOkVxL+ArFkd0LINiUlzdKTj89sCn0RTNJFddX5pFA7y1jCy5CGgyu7bESTKxRHWvfVMeoFIb+sWO0qGA==</B>
-        </A>
-        <A name="高清影院32">
-            <B>J21loKOkVxL+ArFkd0LINiUlzdKTj89sCn0RTNJFddUSU4YM7zquOVqJtIeKF/pbBZdnNH8XZG4qI57/uT2KNw==</B>
-        </A>
-        <A name="高清影院33">
+        <A name="高清影院15">
             <B>J21loKOkVxL+ArFkd0LINiUlzdKTj89sCn0RTNJFddVt0uSXREBRCruIpXU+XJYohBAWs8X7YuxREGhb65kQAg==</B>
         </A>
-        <A name="高清影院34">
+        <A name="高清影院16">
             <B>J21loKOkVxL+ArFkd0LINiUlzdKTj89sCn0RTNJFddV67qbHHdsHaEqhw7js3/GfHqRcgQGZiy6GzcT1ue6PVw==</B>
         </A>
-        <A name="高清影院36">
-            <B>S+RE+OFF372wogB3gFH9BWuSB+v9aQagL8IMF1nSJrwkUo0M7vva+aBsbQEx9Z63G0NrjPMOU+8gvYauX1LCLbZyNtKHdVr5XWzq1q2FDqL8Mm3hhpBwZh6gYWZt5sNORJyR6ZwNXiEkbBfhOjmtrYZcmHLmS4QAmZ6B+y76ALhpTSqLZsvcL9wKlyKtGPmD</B>
+        <A name="高清影院17">
+            <B>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49nh8wdJNY59GetZvlSITu5xSKb4wbUlCISIUhmOZmWSr7A==</B>
+        </A>
+        <A name="高清影院18">
+            <B>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49njh8m3cpVNIhE8S8oGQTIDRFQVRQHJ90jupbJVjkEHgqw==</B>
+        </A>
+        <A name="高清影院19">
+            <B>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49ngIsRE+uIrw3nMWTrQgoTS4e/isXJm8Vpkd9bJDALF8bQ==</B>
+        </A>
+        <A name="高清影院20">
+            <B>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49ngaQ8e7jgVhQj2A3A1h6tMEXnDQ09wwvJSN7hOL9sY58Q==</B>
         </A>
         <!--
-         http://dlhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8
-         http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
-         http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
-         http://wshls.cdn.zhanqi.tv/zqlive/182988_cn66n/playlist.m3u8
-         http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8
-         -->
+     http://dlhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8
+     http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+     http://dlhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+     http://wshls.cdn.zhanqi.tv/zqlive/182988_cn66n/playlist.m3u8
+     http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8
+     -->
         <A name="@TV新闻">
             <B>qCj3/PKhvLa6BFUgry+xRnf94LcVOGtkhGSU4zW+etoJx83MvlG9dnD2qeb3fXsr</B>
             <B>H9emN//WFH5+KpyguoI0HWvmv6NTiMnkYz3xwMG6y7Wlww+2ns0IICEMW2VfjUw9/s7lJJhvcz5WZ0fJ7CAqGg==</B>
@@ -1326,6 +1369,7 @@
         </A>
         <A iconURL="MO3K4IyXb1Nnngc+nKCeXl5XT/P6ff+94sTIfm+18FO3N82HWgIE/T8g10cKPS+ZeN3IjDLm6E/9nBrcd6mB3XqXW+woP/klvRnckyccE99D5aPk//MDG2B/PRcWAj7bq7QUWPhV5ZClMUZuF2TiT/A2ROlA68xufSK5UBOcyelQLK4r+7XcIBc49ucIjJzj" name="潮州综合">
             <B>A8khPJROXSXwNBXs8IATsp5Ekq66ue648GRKMp8/xk+QCFENaWLW7Q+Hme1AFMxV</B>
+            <B>woYRMV1jwgrEPBgGymNiwWhBMkcSEJyLQsg/2BixA7bmsacgfYKS7d0unZir4/sU</B>
             <B>KbRsSLHP2nXBTnGGkTt7CiJrUoVWyCWhVBzEBYTOLItNCWTK+aQI2tZAeW+AFUHR</B>
             <B>HWTo1TjwVpUJqk2D6KjQ/FfBV3JutZ5Szqp2vOZZtoocD1QmomYrqjQ1Lb5lYOgw</B>
             <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+m7S1ISmIdYaaCEPhIorjbcna7WwIu/vbZoBd6Gso8iaaUm9276LxhBg0KLvaQiar58a8FOFvcrBt3qqZvyB/U4=</B>
@@ -1391,7 +1435,7 @@
             <B>1t8QB6QDpHFzqtC3L0cONxtLXEEvW0PC5++/BhiyRepcsVTsOh5aUmqQk0p4yUlEFHE3Hw129iaZW/TwNmjKMg==</B>
         </A>
         <A name="阳江综合">
-            <B>pIDhCcFZLPNUqrgqI3gbvrB9U9UldeZtqtV4jLUwGYhsyLTUeRJvdnZEwgkH+d6FqI5s91kGp17wyjyHOSPcDA==</B>
+            <B>woYRMV1jwgrEPBgGymNiwWNYKLxTGMb7+gaxV0zG8CsCQ/32tHRwGN++d5rQKZUU</B>
             <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+sGqaBe++0nqSgfyClVDowhLC+TW2UoZle89eersPiyXtrkqtlOHd+fzfdeTb/b35Dua5HMJ6QOdReLGvPTbsCo=</B>
         </A>
         <A name="阳江公共">
@@ -1407,19 +1451,18 @@
             <B>vNDg8NkqtO/Ttob+8DHddMs7TOYOpudvHmyq7a9H//S+l/ZtvjWu4qyWyMp6U7s9</B>
         </A>
         <A name="潮安综合">
-            <B>nhLQIoi4OhepAbhtjsf2cHhIZ/by6j5zYkmzBMmCHi1IEzM1tIPkgkCnlT94Vdd0gCEsBQlsESVjr6RdgTxySg==</B>
-            <B>fWZF9Vr/oXPyn6BuBqkEvUA8KBb0/UL6kmp8jyXyYzrolEAKQ6SbRVTEaWLWF3YPhyhFJLjWBUw8e/Ns4qrXRQ==</B>
             <B>nhLQIoi4OhepAbhtjsf2cHhIZ/by6j5zYkmzBMmCHi2TRTWGih3KkTcwdBFCTY09YM4N9Ph2cJwzMI1LiWVbHw==</B>
             <B>nhLQIoi4OhepAbhtjsf2cHhIZ/by6j5zYkmzBMmCHi12XS5KWCclkPd2gSRm0HORev27p/3pm0BVKQ26QkkARg==</B>
+            <B>nhLQIoi4OhepAbhtjsf2cHhIZ/by6j5zYkmzBMmCHi1IEzM1tIPkgkCnlT94Vdd0gCEsBQlsESVjr6RdgTxySg==</B>
         </A>
         <A name="潮安影视">
-            <B>nhLQIoi4OhepAbhtjsf2cHhIZ/by6j5zYkmzBMmCHi2G/krS45SXA6OhtOpkTxyXC6FKfna7enntXhK0iOOLg6UyigdH5whPShsoxOKixL0=</B>
-            <B>fWZF9Vr/oXPyn6BuBqkEvUA8KBb0/UL6kmp8jyXyYzoZLRgnPOYfMA9VlxB4d9i4ckDGge9XFx7V9Zy1aYlksQ==</B>
             <B>nhLQIoi4OhepAbhtjsf2cHhIZ/by6j5zYkmzBMmCHi2ifo1lbZSGW2yF9SEO6ai4Fj5+fSmVCvw1qbVNv9ttIw==</B>
-            <B>nhLQIoi4OhepAbhtjsf2cHhIZ/by6j5zYkmzBMmCHi21smASYWOm48YaaauDUADfk7jS/TR/5WJUpvmCKZii/g==</B>
         </A>
         <A name="增城综合">
             <B>bPaYkjDSdQN1SpdVs1d5XakGkmrBbUAhBJLekZSDoMTvgujfIGTwZ1IPQueeVmKPJf6ZuKGVQEBTyIbDUjtGE7uNJl2eJZHsKEsRejtTjF0=</B>
+        </A>
+        <A name="湛江综合">
+            <B>woYRMV1jwgrEPBgGymNiwcrcVLEqfKxCHShnqHUNbMcPJKwTSM+Zuu91uZRry4nu</B>
         </A>
         <A iconURL="0nJrxEWtejY0fQE05ivaX3EKAXGkEYmBldVx1PVas9ciDZvYR2GRWGl4FtFZHSQs" name="南方卫视">
             <B>vsCUGeb37l1sAXy5Y0cNUUgqYctOMaoy9k07+DgtxvgH6/8WIUVX7cXeZ5jI+fVO</B>
@@ -1428,16 +1471,13 @@
         </A>
         <A iconURL="0nJrxEWtejY0fQE05ivaX3EKAXGkEYmBldVx1PVas9ciDZvYR2GRWGl4FtFZHSQs" name="南方综艺">
             <B>vsCUGeb37l1sAXy5Y0cNUWCMCvO12qfVIoZ87rzH7QQV8iHEu9HroqPKk+tcqfgq</B>
-            <B>Ut8dCVe6R38k6Zy1lDLNX6uZgus0HpbiqcLP1N6mUB7gDXPSa5ZZku+vq7n7ZAUmtmMOv8DrbGe+XhCK9nYe2A==</B>
         </A>
         <A iconURL="0nJrxEWtejY0fQE05ivaX3EKAXGkEYmBldVx1PVas9ciDZvYR2GRWGl4FtFZHSQs" name="南方经济">
             <B>vsCUGeb37l1sAXy5Y0cNUT5ibSnhQQddmyIOyzUBp7lbqLIBaewaEt5y3QF1fbvt</B>
-            <B>Ut8dCVe6R38k6Zy1lDLNX6uZgus0HpbiqcLP1N6mUB7JPmdBrVvhVmQ8ZAAJw099gaHM4pOhF9GZaT1FhQyXMA==</B>
             <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+qBDk7+suTPkBgmkexlqDuYY6z4zsELhArq7AzFRErfmE4ahS6twfSBBriNGzGdOLCTsJN5/LKC7wZDpaTbHcrs=</B>
         </A>
         <A iconURL="0nJrxEWtejY0fQE05ivaX3EKAXGkEYmBldVx1PVas9ciDZvYR2GRWGl4FtFZHSQs" name="南方影视">
             <B>vsCUGeb37l1sAXy5Y0cNUVjTjimYLUYn9X9B6ZrfAlxq0Xcfx37wVeUtbWA5YI91</B>
-            <B>Ut8dCVe6R38k6Zy1lDLNX6uZgus0HpbiqcLP1N6mUB70vJW+38aQhf1KYtI/iQl0oOMXAPucrbv2arTfGn+B2w==</B>
             <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+oGugH4Duw9303if8kdkoRbGT2trCh+cjDH4h+ZUWOJJweedi6sARS0oo984XOnFL6TNW2dl5p52kxJbcngAqK0=</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRK0WDeCjB6CIyFi5nixO2y3wOdMcWVMGF7sNxuR4k9W0kEJ8oy1SpVM3IQQ28f7Y21+Cwi2x3jCHRWNZ6IvtKp2HCEE+rHC0AeGe6Hb8RTLu</B>
         </A>
@@ -1455,69 +1495,40 @@
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南经视">
             <B>J9W8UxJpmQrP0G40NXEM0bWcH1Tgi+RN5ZZzQrEVjSZl3u77SOlh0hrSzB3CvaAb6RECnqnJ9gKJYj6nUnR6LA==</B>
-            <B>pll4EHcrtLToBCqzQbi/RN2LtmDEs+bNojmGZObv2qyEn5UrIDiW404kZBS9WTqMRw39EPBLPoBM2cM4R4hPTufw4V1/LAzsPFjsIT8GcEA=</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE4CwEgpzTy8ciJmGBwToMHyyJfh8iW5GITU5fYGSqfi3w==</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南电视剧">
-            <B>1t8QB6QDpHFzqtC3L0cON0FHCFK0koHUFy+g4kZ2d8bW/gl+1OpnNJjqoP9QTPEG12fLxTz7yEowzqY7Flm2Qw==</B>
-            <B>1t8QB6QDpHFzqtC3L0cON0FHCFK0koHUFy+g4kZ2d8bW/gl+1OpnNJjqoP9QTPEG4B1kHb6yFTgFxxzM/kmqKg==</B>
-            <B>pll4EHcrtLToBCqzQbi/RN2LtmDEs+bNojmGZObv2qyEn5UrIDiW404kZBS9WTqM2JETDJsVb4JjLJEfcCRJ01ZgCQXRDWo14zAO9M5H08Y=</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE40q32ESt/r2TuId2EfkX2qQ0WfpWIb65xE94wTGXKtgA==</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南都市">
             <B>J9W8UxJpmQrP0G40NXEM0bWcH1Tgi+RN5ZZzQrEVjSZktsrswJKSWpgEZgj240U/rEbdJ/CJD+pKjgs+bxOkkQ==</B>
-            <B>pll4EHcrtLToBCqzQbi/RN2LtmDEs+bNojmGZObv2qyEn5UrIDiW404kZBS9WTqMqwtOxgIPOvOp1HmzOWCSmCKLJT1THWnGbpBDfR7vBuc=</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE7njvIBfLBz1BLcUX9e/+UJPFZp6OcJoahpq13EYNObeQ==</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南快乐购">
-            <B>1t8QB6QDpHFzqtC3L0cON0FHCFK0koHUFy+g4kZ2d8bW/gl+1OpnNJjqoP9QTPEGZL7tdC6ywaa7uFiyoOyZ8g==</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE60Hy1uUEZYvkE3REBtpeia4IttD82vrzFbKNfxWE2tAw==</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南国际">
-            <B>1t8QB6QDpHFzqtC3L0cON0FHCFK0koHUFy+g4kZ2d8bW/gl+1OpnNJjqoP9QTPEGV3dj+WAwHbbqHm82Nkc0nQ==</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE4Ie7oRVuew0HB11CnUeYtuSBJD89fQ5IFpWddNMQTZLQ==</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南娱乐">
-            <B>1t8QB6QDpHFzqtC3L0cON0FHCFK0koHUFy+g4kZ2d8bW/gl+1OpnNJjqoP9QTPEGW9uWXnPmrlLi2MmkPiaKjg==</B>
-            <B>pll4EHcrtLToBCqzQbi/RN2LtmDEs+bNojmGZObv2qyEn5UrIDiW404kZBS9WTqMpG7jWTmi+2xf6wz4TaEeUjDVkq3I2+enlD8jGU/NimY=</B>
-            <B>pll4EHcrtLToBCqzQbi/RDVLYtQ6JLONEIy76cI+LwOk0PX9P97AXi/PQsBVFCwhz6VBPozpviO284uNeqqePpX4ENaSj3hKUy5HYGtql6A=</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE6pkXlPpHw7kogL5Yd0QD16BtIbzZC/wWUmim2ygJt/bA==</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南公共">
-            <B>1t8QB6QDpHFzqtC3L0cON0FHCFK0koHUFy+g4kZ2d8bW/gl+1OpnNJjqoP9QTPEGgXPfHuwoq7XNYTKtFZrkpf1VsKIAx7+4qij++uyYZOQ=</B>
-            <B>pll4EHcrtLToBCqzQbi/RN2LtmDEs+bNojmGZObv2qyEn5UrIDiW404kZBS9WTqMZk9gm/yPvRqcWC5h9abgL2eClcIUg5NuwDYrBrtzlZ0=</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE52ZqxZZcmzxaq0Fio5V1ydCZq/d2yttT4mICSZgt4EpQ==</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="金鹰纪实">
-            <B>1t8QB6QDpHFzqtC3L0cON0FHCFK0koHUFy+g4kZ2d8bW/gl+1OpnNJjqoP9QTPEG5/lYSLm2WQnkjOyxBrtuZg==</B>
-            <B>pll4EHcrtLToBCqzQbi/RN2LtmDEs+bNojmGZObv2qyEn5UrIDiW404kZBS9WTqMMNDXmhIwW7ovRYVpNLdZM5o27oIXmDjIAPMM16Gt7jQ=</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE5TEcZ8kZVjvs+khrmvJSVQ2wQfGFhA+BEj9yM5sbX2FQ==</B>
         </A>
         h <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="金鹰卡通">
-            <B>pll4EHcrtLToBCqzQbi/RN2LtmDEs+bNojmGZObv2qyEn5UrIDiW404kZBS9WTqMphdZescgUU9DyH103ACz8fyflbnqqrMLHmcRJLU1B94=</B>
-            <B>JNBPjwrFSTPfg4WRwN2IKC+xbcqaK790sG0uGtu5Z8GLAImrzhxzr4yNhYY8TVywVt9EDTwPs0ihPE6tgOh09h/zl/CGKPD084U6pi23GtURfVvK+76H5xQCXOuj5C83v7I4iK0mb37ptx6uEVWBj5Er0RhkqXynJlFtfwUJDJE=</B>
-            <B>JNBPjwrFSTPfg4WRwN2IKBjc/eZ56JskU50EuqRMMe28j+CcsqIOtMWJtupX4NhrfBOo0gXznDaenM4anARIuQ/Xbq7y3gEMrPB6g22OkWjB8mi56BsJlHOycVQOwEaGh3aQXkik3cXdxTYxtzymbENjo6YM+33ImstwWgrJYmfKSnPjClhLd/7Z38YZWIRZh2NrTK7Jph3tGeA1zI+rynAKJkPTjfB3rZbcGJkdKS9i1wWuRODBqd/P955rGgPsGDeWMxsyYQQ6E9LJwOeydrmAF/gEqc34bN+Ih0WkbJxnZv0U8ON+jfh6oNZx/ny0vluV9FEyUXlv4QHYG4XfV6h30aLfoKTG/CL46npH89lVbDRHjvdGLbOXu2QuhkghPW0eIJes96+6MR9oQRPpoA==</B>
+            <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE6rlZUuH2W5ArpIEqKLibLfbTyLQdc5VrxkNLuMN5/PnQ==</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南垂钓">
-            <B>1t8QB6QDpHFzqtC3L0cON0FHCFK0koHUFy+g4kZ2d8bW/gl+1OpnNJjqoP9QTPEGYxDlqNjeRrT+Cg5MAS+5ng==</B>
             <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE4HmNwDHK3/9kxQiL6Z7HckeHyhuVXg5ouZJTd0P1PDUQ==</B>
-        </A>
-        <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南电影">
-            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm80CohNoi8IjWxaOXmxcz9GmX4GqsBCtws+2/hde+GrvlIHaOK4N43Whr563gP9F9r4=</B>
-        </A>
-        <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南导视">
-            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm80CohNoi8IjWxaOXmxcz9Gmuc+HByMfyshPjum72i/a/E+fZzuHTxHOyQdy+uo7VS8=</B>
-        </A>
-        <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="湖南教育">
-            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm80CohNoi8IjWxaOXmxcz9Gmbazaw7nZOzO6652uL9J5vsLcLQ6wKQlw2GvfBws2tfA=</B>
         </A>
         <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="先锋乒羽">
             <B>sfRShkEJ2AO/5kkavfwJ0oGj4jzHKgDxGaeRzpUbxrjZT7ccPsoPtpfuZS7Z0mXd1a+NZLm0cbqc+fNPfzI6ixTin46LKPizUiWN0djJdb4=</B>
             <B>sfRShkEJ2AO/5kkavfwJ0oGj4jzHKgDxGaeRzpUbxrhts89zRtYfGxVLsaVGO9j/4MudC+TyG4SEDz+DLefyxg==</B>
-        </A>
-        <A iconURL="bT6rpTGMWexXit26HZShiN5PeP+lnNwR/7LEU4FuyEirhUqLhI1QwOjlMh0fQAs8pqzeTmDQey7SdF5Zd3foMLDiZ86bJ8HK58HpN6SlxY12dwdnh3Mc+YcPCKSBJAXBaPlzV0brBaK2uymYeSzPtn0NEqX/wpUhghnT6uzNubKDuplpX5kvtO+k+w/0leyO" name="快乐垂钓">
-            <B>sfRShkEJ2AO/5kkavfwJ0oGj4jzHKgDxGaeRzpUbxrhcjKEkrUhuSJ2W1sXQDzvxVE3o41evRLKbD7Qnkt+JAQ==</B>
-            <B>sfRShkEJ2AO/5kkavfwJ0oGj4jzHKgDxGaeRzpUbxri9hpdZK3cKRNNNUGoWzYvk+Jv2PpAteOvDXTbRr5Y3ld5Geqd1PZH8f4Y/GgexuiM=</B>
+            <B ptag="3">x9kiM7wb1hV8odfdd2NsINcKwVwWlMuklOQmHNObrNdgPCOX8aad73khqs3bUPlxcZ7GkiPXW9boXxc/NXni5+tzO0mzCCsb8kEjsCGgp76e/1A5s3RG+UgwMXjMWxy16PRx7/MdOz6fyE/bclJJ8Od6a2uU6sFimLbtiCUJwE67kWUvMJvdasnU6Yame8Ad64SR2pzop0aCR5asS+aMUw==</B>
         </A>
         <A iconURL="Da+/eIzgR+wpJbkwW5DKSZrQH+47psbECbyYQlJFuGLK2uHiDR0ENgn1qKakD2tbQtZhFiE+JDS0EpaoXnl6NEoitYtPksF1lgJ2eueRgzu1wYAExUrMoxhemNrk5/JyL/ZFmRMmocmltjaC6JqE8+FzgY1t9+01MyazEnJgRBm1hW+wpDUaLE7y+jJv5psc" name="长沙新闻">
             <B>y7ZGRabtoDywSf4KxKJb+L4iNlFL7mL43vR1Kn9FixxwPmi3N8xlWjIWkCKpKPKhxj89gUSfrweUmevF71AHDfr4qO7JtYta6+XcCZXnQ7M=</B>
@@ -1777,6 +1788,9 @@
         </A>
         <A name="舟山群岛">
             <B>KuSom6WDJ+mq5aXL81C8KCfJW8P2BAL2qF5frrrmkUVO9OZWet6FW0pdp7+YkQSr</B>
+        </A>
+        <A name="嵊泗综合">
+            <B>aQSzBekHAjn1zAw2M0bM6PAeL24AD7Ird0q7YjDCJr6Zt367eouzmRfdnVCm6VpJ63AK/8SKGxCMdtmJVasKhg==</B>
         </A>
         <A iconURL="HFkpqd6/3M5DisDSOlmMXT9OwvFT3nWmlJG7q5KXnGvGwmkdcyufe9WYXi+TtLIFZL8jxYwgvKz3pRHIZwIA1w==" name="海宁综合">
             <B>sd5vGwCdUemP7ZoEr9cZrzqgFlVOVtbz2SgJLzV47u30wjJqr18FyFDWOUX1fcOh</B>
@@ -2292,6 +2306,10 @@
         <A name="昆山生活">
             <B>uUri/iwxg2gOUgrrGR08MKS8asMb4fGuqEgESFszWbBLId0yiVpSK7FO0ZugSqrVaOA841BTwvtxDirQe1B4fQ==</B>
         </A>
+        <A name="睢宁综合">
+            <B>oONnAjvg2mVV/5qQpfH0Wj2ImTKQ5xj95fw/MzkqFVpb5QKtezBSQZA+pjFO7LgGMjT1mN6H2PtckyrRtOhTrg==</B>
+            <B>BdPUVRL+eH6FW3BTb1O7w6lXSKjKkUXSUaMHoRR1U8eJld6r7bN6Q72g5qMrCWccPMHcxRB8dSUKfIes/VOgMQ==</B>
+        </A>
         <A name="泗洪新闻">
             <B>hVzTsyn2L8+Qnz2xMouJhWFHAWbRlOJWDkZPG9rfaGzlsYdeqC9ePv1N/kpRZjx8B2/Ni2F1POqzlsYiMe2KiQ==</B>
         </A>
@@ -2705,6 +2723,12 @@
             <B>Pjj7cegCcRYvzHJDNMYyTaucAQLN66kkvBQRuqzzbglkEu62NNdEq4BR++NoVF0jCEoY6zqYcPYPGX3BHD7Heg==</B>
             <B>Pjj7cegCcRYvzHJDNMYyTaucAQLN66kkvBQRuqzzbglkEu62NNdEq4BR++NoVF0jBi2Vriy6iU6WrrSUS+tTZkgCpChZnPYk/rjnkLtb0Xg=</B>
         </A>
+        <A name="东光一套">
+            <B>iE8/N/U7+JRosJNv24sZZuzcErBiNi+mnz3klWV+1nqfekoEx0y0BdVwbXAP0eQZD9/6XepcCcubzo03m2Qs+kuJoKoEEoowOtub7UeK5SE=</B>
+        </A>
+        <A name="东光二套">
+            <B>iE8/N/U7+JRosJNv24sZZuzcErBiNi+mnz3klWV+1nqfekoEx0y0BdVwbXAP0eQZ4grGfUx9y7dR5h0X5dCUAyGdzYKVj6BWOfQa2Z5tLqw=</B>
+        </A>
         <A name="张家口综合">
             <B>orPi52wjfupTFcv4nqiKeykP6TiJyHNcPNKofvaBBM/h8Jtkooi0OmlqCfG6Nd6Q</B>
         </A>
@@ -3042,6 +3066,18 @@
         <A name="睛彩开封">
             <B>+TjmRkbyeZuWOLtEJ3r+A+UBpyDOrWvqiNUsNOUmODIR/9Hen9MGN4S49QF2uuGh</B>
         </A>
+        <A name="卢氏综合">
+            <B>FkvZ4snt9BKKMbtT5ywyyHlUYVJkUYyNmyGFFE+mj4hz+5FrDkukT+e4iPqFI9K+</B>
+            <B>zfmMr1r0bYSY/oG00ApMpi0EAO0e5/y6OTe7CR4Z48o=</B>
+        </A>
+        <A name="卢氏影视">
+            <B>FkvZ4snt9BKKMbtT5ywyyMJ0WAJLevif+LHt8o57oYSJOkkt60Q6BRg3l92jHdtF</B>
+            <B>zfmMr1r0bYSY/oG00ApMpks+/2TtX6o+7C0hsdbnkFs=</B>
+        </A>
+        <A name="卢氏远教">
+            <B>FkvZ4snt9BKKMbtT5ywyyATpIK/oh3ky++QCgoRlNe0NWHb6oRKeY3BNidV/NG5o</B>
+            <B>zfmMr1r0bYSY/oG00ApMptvHG8/lZeMqK28CCwbUKKM=</B>
+        </A>
         <A name="遂平综合">
             <B>ajpdRWY1nUqtxRPQMzUFIktkx9fjDRf5L4joB5F71/h02LWfEev4TV0HphiB299z</B>
         </A>
@@ -3165,6 +3201,7 @@
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4zlCHiF0xVLfJneuBrDgP2aCsfeut+6w69wVtXbzrZT1A" name="山东卫视－标清">
             <B>J4akxqg8KPuOTg3iND8Mvn3NcI6VfFgxQISarCtEcH0AQdrkgEYgPuaqeDpfgaOY</B>
             <B>K0ZF/RuNsqg7k0HVlsAduFzdYnQiTuJ642SWfSeAhaYkmlLLRoSQEUyYrb1Kmagt</B>
+            <B>k61BWAFcB07sqgNF3OMXqI+QYeQuzzfN7M70vc8ei98sQVM8iIpI5eYF7mPwnyEE</B>
             <B>pm5bB9ZRzigdeql0XDgq5iD/IPfvRdIuyMaMGS22HSX5+0NPXwYBte4CRPTrw5Z+y6hzLOKdtJV2MuDl7MamZQ==</B>
             <B>XYM9tvsCqJTxnZaeFaaJxYxZ+Er1cO/0nsn2gBPtrzUI3z0JwCIo8in1TINQGH8StBPsx9lR5a5PlKWNfUb0HMVQUwUgzb6m6n1fgwJ/Xue/msIEaPklxvv4Q2xo01n0</B>
             <B ptag="3">vYqNuwrwCAhW9GN3WtsNbmbWrux4Lcv5I1FFonMBouyAQUaXp+NJ2xaQNzYu1Tyt2ZbmTu4Hn0DZmi9gPNza+vrf5Ni7otWXQ5UiquwRzWrIhhsr9o01YdG8Zg6ZULwLhJR86iTtTa7ske9vpWQYOr90/2r+nHSuGtcBD9jARkE=</B>
@@ -3338,19 +3375,17 @@
             <B>iTO67w6GGU0m/pw+KQQHntitEjSnXtWa0YsjXeHOnjJkixjN4iHKhFW6qyjTr7Qn</B>
         </A>
         <A name="威海综合">
-            <B>YmSxIfD2VAdQYW3CudOQzo7Ddt3jI6r/QStWvWIkuRv7jfekDFjYeya56ZSQQDr5LXlOlCoCEutT5SFdxUzR+Q==</B>
+            <B>PXd5VCmR6O8sWPhayXDwpovBusPbFvvrbF8LVmXaZBO1aakudqPERTzALGpj7Rba</B>
         </A>
         <A name="威海公共">
-            <B>YmSxIfD2VAdQYW3CudOQzvf/FQUTWXCGGnwLnYnLw1exnNO1SuVC5T5WSIYry90bK0GBb0P6fC0OYX/4CANNtg==</B>
+            <B>k61BWAFcB07sqgNF3OMXqNsJQBEmNci+CgPstQsR0Q60c0rltrKT0L45UZSYL3lo</B>
+            <B>yQDXuP1KnvxAQm9+06s3GOuRdsDQR9o7lP6zj4hHO7t7nSu0JJPHiHVCbtnsAONQ</B>
         </A>
         <A name="威海海洋">
-            <B>YmSxIfD2VAdQYW3CudOQzmHAMHK7Y0Pf9OcYlcrjySNjnVXoXOA1oarw+fFh4S/7f5DI6PbWXtPqqKmWRaMyEA==</B>
+            <B>PXd5VCmR6O8sWPhayXDwpppcLaF/QXwDpkrLLInP179EiN/PDZ1UAgO+D2Jb+Igu</B>
         </A>
         <A name="威海图文">
-            <B>YmSxIfD2VAdQYW3CudOQzhrlO+71kHdPGl2/l99owiTJuIR5KGCVh1cpmpYrw0ym</B>
-        </A>
-        <A name="威海睛彩">
-            <B>YmSxIfD2VAdQYW3CudOQztTf9omoKhlt90O2mdFUhvSjclij+yMTamLGi0mVkBxWjkHpXUhNilQm0L9N8pPC9Q==</B>
+            <B>PXd5VCmR6O8sWPhayXDwphOm/qsjeo0KJEoQKP02hTbGBFAZWYvwCPXCsFZz58G2</B>
         </A>
         <A name="德州新闻">
             <B>CbjIXoBsfAyv+GYZh2SEnu8TlXSqcydtmF2RX3x7Zl3+wRvFz7nEb6bGW0cuO9lynD5gKdyt5KH26VCSOOR9Vg==</B>
@@ -3368,12 +3403,6 @@
         </A>
         <A name="商河影视">
             <B>mgYVgCPoE9sQ5MrX1T/a+LtU2K2/0On+kiM+YxfC/Sl89wRY8YKGY+b1OeV3Geij</B>
-        </A>
-        <A name="嘉祥综合">
-            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm80xWl8qmqGMG9NHh/0LJYDlXmXFKy2u9HknxcVEyaTtyORjTV1bMLZY7EMZMw+LwmY=</B>
-        </A>
-        <A name="嘉祥生活">
-            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm80xWl8qmqGMG9NHh/0LJYDlznFAgMWFsD2rqoFsIPXL7vMytvl5h+fO8Z0FU0n0mmU=</B>
         </A>
         <A name="青州综合">
             <B>GOmIT9zapok14wfyFX2jlmumId/MaNvxclNPiOkJFm4mHktgbNE5qcGZHLOlnB4S0KuiZLjSGYx7Kez8Lt7AGOgkRq+OwG57AZYEBRLvvi4=</B>
@@ -3450,9 +3479,6 @@
         </A>
         <A name="莱州综合">
             <B>rq+LVm7L82U0TdLoK+p+gMX1WRVIm9Ht3fwp8xftJcr57DgAFPHM/AxtHICSQFtn</B>
-        </A>
-        <A name="莱山影视">
-            <B>1t8QB6QDpHFzqtC3L0cON5O0waZEmC/8IWBBV/iq/XMKjPTxKoPG2KP8oAJhBOp0+ltfPXiq1+hnw6npADIIwpaftrlgUuFwZX8xx9esRck=</B>
         </A>
         <A name="莱芜综合">
             <B>rJDvMhKw+yE2FeTGcivxg3lf7BbjpE2l8M+TPpUisYI=</B>
@@ -3893,17 +3919,11 @@
             <B ptag="5">+gHPSgQfHNFfnpZysBij6roFS6ifTE3slsc1CKYZd/8NOzbVLQEJwuCb8En6Q4Wzza5bUE3BCdgYvohFboJHbtk3keZ3xFZJtAxSnfvPU2/vd/+kJTWTuJhyvTJx4w/op88m7THzGzba2JL7nHtdP68Fgox7ALkO0qE/9vdXkB8=</B>
         </A>
         <A iconURL="fZ3WhZhL0BzfqvIU5ppNbwYm7NVnS/N6N4jYik4rLE/a7ynijmcxLBvc8eUVzbwUE+3N51ayElJ7mVEt8qg/6RWbKM1BHmeVnambAb7Mq3+vY94riezHJw6GN3TJur8T" name="兰州新闻">
-            <B>3nmZnbAOs5p7nImGyz8XATYbLQd8+IfNtaT+D3oFhPhmCdYLOh/8E9B2pExe9MJM</B>
+            <B>J2wPUJ84XLPJaccZ0KNCzVNf/XDr77C70C0xotJSRKRHy1hE+Dn4zJTciZryca94d4y9i/VoRflxEMRrga9ZaQ==</B>
             <B>G1Xoo6UpWsggf3skxJ5MbGxEpOAN0fXcSreJxRh1kZ4=</B>
         </A>
-        <A iconURL="fZ3WhZhL0BzfqvIU5ppNbwYm7NVnS/N6N4jYik4rLE/a7ynijmcxLBvc8eUVzbwUE+3N51ayElJ7mVEt8qg/6RWbKM1BHmeVnambAb7Mq3+vY94riezHJw6GN3TJur8T" name="兰州综艺">
-            <B>G1Xoo6UpWsggf3skxJ5MbJFV+plgVDYJ0s3dQs0anR0=</B>
-        </A>
-        <A iconURL="fZ3WhZhL0BzfqvIU5ppNbwYm7NVnS/N6N4jYik4rLE/a7ynijmcxLBvc8eUVzbwUE+3N51ayElJ7mVEt8qg/6RWbKM1BHmeVnambAb7Mq3+vY94riezHJw6GN3TJur8T" name="兰州公共">
-            <B>G1Xoo6UpWsggf3skxJ5MbA3ViyfnlkyCLt8XVmt8dTM=</B>
-        </A>
-        <A iconURL="fZ3WhZhL0BzfqvIU5ppNbwYm7NVnS/N6N4jYik4rLE/a7ynijmcxLBvc8eUVzbwUE+3N51ayElJ7mVEt8qg/6RWbKM1BHmeVnambAb7Mq3+vY94riezHJw6GN3TJur8T" name="兰州生活">
-            <B>G1Xoo6UpWsggf3skxJ5MbJphNKfFcCUQBVTUrMINYA8=</B>
+        <A name="兰州铁路">
+            <B>1t8QB6QDpHFzqtC3L0cON6ndU5JDepUcJj7Gi7rFf4Ku5SFYRLpQATcI0j66bEeD32QpacjU510HRAXEICw71Ngpf0j5t3wa3c58n3lyBXk=</B>
         </A>
         <A name="庆阳综合">
             <B>g79znFMWcOCCZSQqD9zqnXbCoxBqvNpSSvpkEV5mKqwQ21kUAlom1SOec0sGZPUw</B>
@@ -3921,10 +3941,10 @@
             <B>paYReM+5Yooas6196EaT09k5fUG7qE3FEJS7bMrChp4CVcI48nY4LNKc8Obqg20d1ckBDK+rdCPIMMzARfun/+gaNkrP1DrPCc22UDGWPEs=</B>
         </A>
         <A name="张掖综合">
-            <B>AQQP2VhOoYdax9+QkEpYEBTKICA9WxxcsTJA0eFp8E0hONkdC9Uzg7NNCuGK6BZd</B>
+            <B>AQQP2VhOoYdax9+QkEpYEJpKptlpG5jmDhwLMOzDDGGy/H36DCX9+39K5nl7nmtJ</B>
         </A>
         <A name="张掖公共">
-            <B>AQQP2VhOoYdax9+QkEpYEBTKICA9WxxcsTJA0eFp8E2x4jhTNfeHvAhZNzad0BBX</B>
+            <B>AQQP2VhOoYdax9+QkEpYEJpKptlpG5jmDhwLMOzDDGFgEK6kLO52wt0+qcBiyVVO</B>
         </A>
         <A name="天水综合">
             <B>/GHlFEVGawvYkhT5PO5xLFIVl/pbuvQcCXSJ/eXJ1D4=</B>
@@ -3949,11 +3969,24 @@
         <A name="陇南公共">
             <B>15RRdihSLEKgt00lXxC15CzAeGbs6MPWS+Xc8XVcUf8eKE97azP3znTOLYJZF1houLVLVTAhmFka1Fs82o2yO6mgFtiSyk5x9wcTEWBqTbw=</B>
         </A>
+        <A name="庄浪综合">
+            <B>CpzYe7FH2rpZ3rtEzgnoVyTYC7tY/PVYwBn58vMXE+E=</B>
+            <B>BSVBkc69eN4NCBJ96UX6MGPMRDp3YSY36k8DQTY5Y+s4LdSotYg4LNn4NUnlDcNT</B>
+        </A>
         <A name="临泽综合">
             <B>vSWK9pbctx5vWRM0Wkn2Yh4CtUW/0pD4uPk0iHolwekoAMroOwM/ijhFCv8lwBl2</B>
         </A>
         <A name="临洮综合">
             <B>u+ljHYg2+sWaEIz+bVqNlncW9lxEHask1FsDEMsVq0pQHBpbWFbNO+kgnbDj9hu3QjrGXDi8USm2+4xsr10JBaMOF0YZmtTmRjU0RsYAYUs=</B>
+        </A>
+        <A name="靖远综合">
+            <B>7uG2KJ+C/SEJg219jeX/fUqPUCO7XoRBzi1PpcqABOZxHk69cL/7QV4JwA9Tks7yN7hzlnxljYOOKj4Bku92Hg==</B>
+        </A>
+        <A name="酒泉新闻">
+            <B>ydRCJif868Vmk9n8TrSWY9Ibj4UgxgIS+Y+SVwqhaI8vxPwzFyLoRzDv06r9VhaNNPaiFCIqi1tMIpBkMMjpow==</B>
+        </A>
+        <A name="酒泉公共">
+            <B>ydRCJif868Vmk9n8TrSWY9Ibj4UgxgIS+Y+SVwqhaI++lqXi0W5Q61el5Y0Ag3LNRH+8F+rNKi7WC6z/LTvq2A==</B>
         </A>
     </Channel>
     <Channel name="福建" type="33">
@@ -4384,6 +4417,8 @@
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znlGGhc7cCENhQTXBuY9S7Y=" name="江西卫视－标清">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRO7qWcQedZDrZKGfIS3031hxKLGIEDl5ABh3XN0xbiKih9CIsSP1pC6dg6RTVXWfizat8Ufh/mqPTkJUHnbp2Uj/NSC7Vt2pvPt5Gc/ijbyQ</B>
             <B>+KKdqGp2GdWIvNDtmx6Ess7LIbt/yj84ifvQrrgkN81TfbPYtOvitSIoPGURuZFcZ3Mgco2PPuDGjYD4cIM3yw==</B>
+            <B>Hjle9niI+AL4Yl+3Ei1dRZcJJct1D9wWlv44dM54ll+ZJ52OWHZ0EiHtgMI2dv/VNMlPIsuBSkcX8beFSnE4+Q==</B>
+            <B>r1ZKPJzA21p3xg9Z2ibHA+GicIFD5tiMctU7klzjvrNPzEsHgVCRcFc3V9uIs2+IDcQ923KdNuKqOBXlsSdL/66ytRzZceltmvb5+lXTNoI=</B>
             <B>ij+TwE8rdBP4AK1/8lkCVVtNOXd7fSZGOBkfNiIYC2TzirfEW3BcOusKP2D4sdk9CxKC/WyDKq4ReyjRjU0hTQ==</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znlGGhc7cCENhQTXBuY9S7Y=" name="江西都市">
@@ -4400,6 +4435,7 @@
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znlGGhc7cCENhQTXBuY9S7Y=" name="江西少儿">
             <B>cyShm6NPseshmRamq57J0vs+y6FKXFCXyL1AmRo1NoUE5uAfcCpQOGcAsK4SFugKash97I/JEGWKNU3vQNMi0Q==</B>
+            <B>mRmuUUr2barSlpL2veoDFUlJqMyCOZHMGekYIkum3MPeWgogs6gc9TO3fkeobprhetF0jCpvtpUwZ8WTT2sdvw==</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znlGGhc7cCENhQTXBuY9S7Y=" name="江西电影">
             <B>cyShm6NPseshmRamq57J0vs+y6FKXFCXyL1AmRo1NoVpzwYp4VBNm10EFkTQU+i+wF3o41nEaPnEXcKxUzpJUg==</B>
@@ -4409,6 +4445,8 @@
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znlGGhc7cCENhQTXBuY9S7Y=" name="江西风尚购物">
             <B>cyShm6NPseshmRamq57J0vs+y6FKXFCXyL1AmRo1NoUtgidQgSpqXnOntt8rJdYtsuqYSz9z8nAkbvyQo/iq0g==</B>
+            <B>mRmuUUr2barSlpL2veoDFUlJqMyCOZHMGekYIkum3MN/rmq/acdsuL2mbaqrfyc75xh6ksDm/mAfJEBso7boFA==</B>
+            <B>mRmuUUr2barSlpL2veoDFUlJqMyCOZHMGekYIkum3MN/rmq/acdsuL2mbaqrfyc75xh6ksDm/mAfJEBso7boFA==</B>
             <B>rlFaoL6HODziDBGEC/AR/lAekan4PRsNi1YztNOpkQ0FTZduzJgwVaS3SiahzQMRRszxYYBUk9AvjEWLAW7c/Q==</B>
             <B>ij+TwE8rdBP4AK1/8lkCVQD9k8t+sWZCwDhsa6dxODoN51dBrwTxqA75ZzQl/fKzLGHlpKygzKqaM9fSwpw5hg==</B>
         </A>
@@ -4477,31 +4515,11 @@
         <A name="安源综合">
             <B>P5kyjsfmv0wXRyimuNlzML5v0ew3eZRWgC0f/2Fxhsq7ID++Yx1alj3jriHbLRJjSG41POI0l+OpKe0hfW8C193tHHi0GFYozb++pCl2KP0=</B>
         </A>
-        <A name="上高综合">
-            <B>0rW6/QzEmBREOJDFq5ucBeD/naQ2P8WoZpwBeeWueUjRiQixb/J/E+zKzZtdFiwZOWAhpcKdcqmhEoaVAfqBNs/Dcl8HExTas9fO9ntQTgE=</B>
-        </A>
-        <A name="武宁综合">
-            <B>tL70o6QV7upcwWZmH8ftLqHBlByGjocsgP8pyWGOD/DLAT4VlFa3qg3neCcQusu5</B>
-            <B>dm/kUc1wymQym2TRJpazjK0uOCEr7qT5bob2YLFeb/HwroX/FhNxh0lhdejzHL7mehXMKeMgpn6GEgBqZoHsmLapXRIE5xin0av4EosVsk4=</B>
-        </A>
-        <A name="新干综合">
-            <B>EWpYOzjbfc6Bcj85ncdFe7Rw1FR5GH4JjHuKeCNeXGOFSI2IAYHsBZWdRg5a5jYb</B>
-        </A>
-        <A name="宁都综合">
-            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm83Bd0QcjTzXOleNT0spO7kURFWZ8dFAYWBWrudbtlgEHoUOtJyHvjJQRdLlrzhxdEU=</B>
-        </A>
-        <A name="九江综合">
-            <B>8dDqTBiMSFZgfS8ay3f/8h4eDsBDC+1jSxnqscwqYlBvDByJ35eOGud2npM1DK7TD825TeOwo3OIE0GSX1lXGg==</B>
-        </A>
         <A name="上饶新闻">
-            <B>AylIVhCkHnBtEsCtbks+i87hdKaNgqNUqkLaC60ckRXqMo0BvY8fXq7BfUA6IkopqUQHQV5FQtza6S9G+9y08g==</B>
-            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm83RMW2wML1XTEMiMB/gFpclc/yxjUW7JWqoqHnZm3RyW1Rmp/5XKWSMPwyVoSyyLiQ=</B>
+            <B>DiLRyMTEE9Jfq69HKoDFD0YtrwrFsKZnBAMAdX2aQ1EYisKI43lS7p6FwEleLcG3</B>
         </A>
         <A name="上饶公共">
-            <B>AylIVhCkHnBtEsCtbks+i87hdKaNgqNUqkLaC60ckRVVyh09ugPyXkwMviLWIt0yUwzeI+rMG4cIxZ6bdNnUrA==</B>
-        </A>
-        <A name="上饶青少">
-            <B>AylIVhCkHnBtEsCtbks+i87hdKaNgqNUqkLaC60ckRW16NtSCIuvN0EoFwSz1D3zy0xns3DeAMsYxRL7avL3Ow==</B>
+            <B>DiLRyMTEE9Jfq69HKoDFD/3W96urfMXll0hf5k5hWFDS5r50mp5q3Vo1aLyE+akX</B>
         </A>
         <A name="永新一套">
             <B>74boNZyNlwQAPgW0SZknJ//9wRjkZNxrtf713sa0hzCAIg0IdMs3V3iq/sS6IBuSG1+qhrbemporM+WqUIXygw==</B>
@@ -4680,16 +4698,9 @@
             <B>0AgvG49h0Al2+SlUzUn5b/y07gWurnP7lAj8KyUB4B/VwXdqi+W3K9Qg9IOu/X5oCO4+7E5zd/6RlkqnXdbMHA==</B>
             <B>G6DM0ZNntCKwn+Yrz/fLZRX9NLcidy4oNmAOVuexA3DYc6HDNXRoLJa/GOhJYwKSvvje3el17lsBcoc3TIczHm1BiT+F7lTcsYQmCbOsidE=</B>
         </A>
-        <A name="公安综合">
-            <B>uvbROmyOj6/hM+wag76XE5AmMu8WGu9A7HGBsCBmwLuD62pvMOpLGsl8LcXZXEEvSv1wbYmT/mwdzLlK90lbBA==</B>
-        </A>
         <A name="红安综合">
             <B>bwBqUrxo+yXTUinY5B0jVVzhpGHQK9uqWPhv689hrt39AZdiz042wCH4W4K9iHTYMuQVbupLJmf7dn0bUu+MJA==</B>
             <B>bwBqUrxo+yXTUinY5B0jVVzhpGHQK9uqWPhv689hrt0YDiugILr9A1t/iBFBaGKnscd4Sm26t4gp5BtqDBX8Aw==</B>
-        </A>
-        <A name="监利综合">
-            <B>Fhg0cwAl9fwgNLibsEVs1q7n0BdeMLjHJmrCe6QKBL6uBOkAElvEm55f4xk8a25efDS7LUVzX3b3dBch6TzaZCHh/0yafVGJP4Tq56+O3xQ=</B>
-            <B>BvcDnKRoXEZqL2YundopcsEyGRGEW22XPXEcq0yhm80e/cF+oLUWD2CF1PFM2vP1OzzYOkCG+SIM3Z6q/g5vw7RXDBjswhYqdVnRNPh71ok=</B>
         </A>
         <A name="宣恩综合">
             <B>Hf6dMRs4mL2Z8w+ylMFqtiVvVyqITlMNKzBiOuzHoUtJsZIMZlqrSJhH98kdVqxAwQ7qtx8e79Ouc/o0qWu6dA==</B>
@@ -4705,12 +4716,6 @@
         </A>
         <A name="广水综合">
             <B>+GX0RPchWVCRHZoORrSRy/D1C2n/Xywa2M9j/bJNj8sXQ+XLEt8HX65+v95PxVg6sh/uRwR1umRoMYAUYzlMASdS64XoZi0WrBPa/V+FR5w=</B>
-        </A>
-        <A name="咸丰综合">
-            <B>0UHOcntYFuWiQxxf6jZ232wQ70gLDBofle17HGxj30uzet8u2wEhZobq+BOtKwaYDJCAT9ivRylsuFtsGucZbw==</B>
-        </A>
-        <A name="咸丰影视">
-            <B>0UHOcntYFuWiQxxf6jZ232wQ70gLDBofle17HGxj30uzet8u2wEhZobq+BOtKwaYNb4eDVWYJp0MThRyZ+Hc4g==</B>
         </A>
         <A name="咸宁综合">
             <B>8pmyOIQU9wTEH/mSRf0aHuNGEmE3KpBNWWJclDr6Igp3fZrd4bFaruWRk8i8LmMkXTh7y0tTrYJmMjXF6Db+zA==</B>
@@ -4751,12 +4756,6 @@
         <A name="襄阳文教">
             <B>blqBt1+zqhgH02hiBlqcsZzk81lK9ALDgVemi3K9J3DBGi+RHWKaSYrjxZKfNMRsPnj72Wsgudwh9MgKrXzme2mnygBs0WL3b/wapF/r21k=</B>
         </A>
-        <A name="鄂州新闻">
-            <B>8dToSmqi7pEj1nEm/zml0+dATe2A6coBJnm8wJdR9gVY4itBx3gU+WFKGFonlQR9XcqxVNAoKwoDP4WhCOSEQQ==</B>
-        </A>
-        <A name="鄂州公共">
-            <B>8dToSmqi7pEj1nEm/zml0+dATe2A6coBJnm8wJdR9gX6f9eU7TTFWAEK1F2/ysNzAlTpT1KVPhyvpt7WyGgyvQ==</B>
-        </A>
         <A name="罗田综合">
             <B>lPPyrNBaLIlD8MLvvzyvNsiNaeIULblBf64o8Z+XwWLJirZOuKzqGcJspthW2KUlSnxCW/c+DmPDY+rcH7vVHw==</B>
             <B>7cSFIGhKdtS6HUjJHPkwPUiMAx9qEcQrzmOaonkIHCloHUmv/Z8DlieVNSx3u1hOrgOM1M6zoTtQSConXkS4zg==</B>
@@ -4777,9 +4776,6 @@
         <A name="大冶二套">
             <B>EDGWnh2Bw/usD60A12i+ql0cALt84hZiCSEaynCoE0F50DEcO6YBzxcenGyTNCkW5N1ndyGlhG+Yfk50tnQtiSf3QzkWBsNg+M0B6wHw3r0=</B>
         </A>
-        <A name="秭归综合">
-            <B>h29b4sz/1gq5gOhXD7sC3oR6g43AS/YNiBvs/kMSNQf3Li+iiI57k0AXj04D3q55gGTkd+JOg02tRbSe22jekg==</B>
-        </A>
         <A name="来凤综合">
             <B>uHkucYLeu3NhPApZurvA0hpbkZyJi/d0pwA782Ap6KVJan7wePMsPIZjXa/LH/dbN3z93ffCO9MSBB/seL64Eg==</B>
         </A>
@@ -4788,9 +4784,6 @@
         </A>
         <A name="大悟综合">
             <B>2zvN13jfFcHFYBpbkNgiBYJQgIIEK6tjFvlBMRnAfudmW2H4EEStSSf/DrQ2EM20rEm64fJid5gSFg9RW2yvz4DW1pPDKt4QsfJvfUVtJdk=</B>
-        </A>
-        <A name="京山综合">
-            <B>p9wX/H9T7mqku3gsbBu55CdBTfNJwqVV89QBQGgL1w5iSdhdOhXMqY1NWhoQav3NkMzdFW1z/X06PRbJJNBC1A==</B>
         </A>
         <A name="蕲春综合">
             <B>EzUiihBGQxTNzU/FZ3X60Lm5VFW5Mb+4jajak5pnfNsv1KXtge7I5UHFHR3fDlUxxLObhCskuiixuW8s2xqhpA==</B>
@@ -4805,12 +4798,6 @@
         <A name="仙桃生活">
             <B>kPDi0isIJ4ffauLapWNiWM5IPgsMtET6IQUAoH80SVIxiyvD9h2TjYLzSqYlHRg5MrgRkIOSiNDlOMGLs9ZUOQ==</B>
             <B>o++aUcpf+7Zi75O02SftwxSIVaYsJmW0wMWXteYty18p5si2hdydjcqrZ8A5fsnRZ7jHrQ97ux9+RWlVivEz0cHiuZ/DdUb3Cx3Ru/OWD28=</B>
-        </A>
-        <A name="仙桃直播">
-            <B>kPDi0isIJ4ffauLapWNiWM5IPgsMtET6IQUAoH80SVIys870sEfQldzCRX+z/klNlocFe0iCgQBk62Du5LcLKQ==</B>
-        </A>
-        <A name="神农架综合">
-            <B>aNC/K+OSyALVotGhkUqJMOkhVk1Pla6DWZoQF8EW/AJqZI/C6XMa6TD52kE4GJiNq3arPCSjvuDtsTIaRMMGg2QiwwRaiEtfpzYTpmzNGB4=</B>
         </A>
         <A name="嘉鱼综合">
             <B>DevNxVL1YcWWgK/c8V6nMTAeDfDsTB5gJY3TMAaNBKUjUKil3W5rkwMSbt+/OZPAIgBrthI6Fhcuw14720tzQcL3qBjHlBfGqvTXOohgNVg=</B>
@@ -4906,40 +4893,53 @@
     <Channel name="贵州" type="33">
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znlvR9fJBip7N39bA0Uddcw=" name="贵州卫视－普清">
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRCNxIbNFENC1nNX6Kaqs9p0/peNY6EsPkR0PUrN8n5EmXBPDtSWh2MAXztmyIN4cC6LSwLcjlv28TRysysTCsvY++2+uKAERr6q07KtCQXuf</B>
-            <B>zrlAzshpX1Dze2yu3Rdia80dDGUiO50Ev7049rAjBWTpQxu8eGDBeyzI8ZmIfT0+JVJIvU1IpatMsYFxni6QOw==</B>
+            <B>AO+V4WA4gt8hoeAO0KSBMqNML5RFse4MmnOjQM01VuQKSs8tvo5EqvYmgiJzdRo7</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znlvR9fJBip7N39bA0Uddcw=" name="贵州卫视－标清">
-            <B>zrlAzshpX1Dze2yu3Rdia80dDGUiO50Ev7049rAjBWTpQxu8eGDBeyzI8ZmIfT0+JVJIvU1IpatMsYFxni6QOw==</B>
+            <B>Hjle9niI+AL4Yl+3Ei1dRZcJJct1D9wWlv44dM54ll/0jlVnIuG7x9GT5BTOqPbO6Y6BXdTIXBShYgcvRJeuv7Nb7fAYl9FWn4OIkxUY8Ww=</B>
+            <B>ij+TwE8rdBP4AK1/8lkCVcE4oaM6itRQWreyypKU8aoqeRMTdlQasG6vZdl3+ImOdqn0IM1xmt1RUrLHmsBHMA==</B>
         </A>
         <A name="贵州二套">
             <B>FTHtwbaEViVi2C24uprrmHAEPzxFx3pdOP+VcPhtJWBxENJIzOf6MzbzzsCYJQdV</B>
         </A>
         <A name="贵州三套">
+            <B>g65QRFq2Jub1ESTjexoqGPWnQYH58PQA4wySxDzNTu3ZtnVbDMpXDMyduImPVk5O</B>
             <B>FTHtwbaEViVi2C24uprrmHAEPzxFx3pdOP+VcPhtJWDt1e3EL1Hsl7y43u6AzU8i</B>
         </A>
         <A name="贵州四套">
+            <B>g65QRFq2Jub1ESTjexoqGPWnQYH58PQA4wySxDzNTu0eJYP/VbgA5JWhmQIlQO7E</B>
             <B>br4CPteMYl59fQ681joiefHagsr3SVyUE0/zkvyONKEG4/KXOKWmYgTnaQLdTEL4VBJZyeZK6w1kX8BVdmKLZQ==</B>
         </A>
         <A name="贵州五套">
+            <B>g65QRFq2Jub1ESTjexoqGPWnQYH58PQA4wySxDzNTu3ogYTJcVb4CXU2ptZY4Iu9</B>
             <B>br4CPteMYl59fQ681joiefHagsr3SVyUE0/zkvyONKEKUcUaK9ZH2yjwXT++kJzGOSggNeU5uuAIhQJgAmCK+Q==</B>
         </A>
         <A name="贵州六套">
+            <B>g65QRFq2Jub1ESTjexoqGPWnQYH58PQA4wySxDzNTu1sT17sbgAp0n4ADBlSFKxE</B>
             <B>br4CPteMYl59fQ681joiefHagsr3SVyUE0/zkvyONKHPBbjqUSEEPhx21Ayh+D6x6235ShfaGUeJ6lvEs/teeg==</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQpMw6m4TY9V6uiv2reZ7Yx3INgj73n49Yr24i/Voj/WL7JHHrbXNk6pky0bUhPl7JJjyLHk4FZrvbHpkvPotH9B7pmffvPvwtVpostatJFnDF4KbnquwYiQ2xoIacQEyk" name="贵阳新闻">
-            <B>wUcqtt6uDIuCpiHrSKmuhks5tTjgsTddOErax90udLPQFL4L2l1PVt3fY6qRZfqy</B>
+            <B>NnZt6KUId7zB/T8kecgW1+Rat/lE8OhnpO+YoiK2MkQAEe0mz81zX0DayWjyMbgHk22YWLdF9lxkh3CuaAT1rQ==</B>
+            <B>xWTOlXJxpaZYdWViMXUHZ7MsRPWcZow3HvKu65Hz27T/+ORwM5j7eNnwO7fd7mOD</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQpMw6m4TY9V6uiv2reZ7Yx3INgj73n49Yr24i/Voj/WL7JHHrbXNk6pky0bUhPl7JJjyLHk4FZrvbHpkvPotH9B7pmffvPvwtVpostatJFnDF4KbnquwYiQ2xoIacQEyk" name="贵阳经济">
-            <B>wUcqtt6uDIuCpiHrSKmuhkJ72bGC0A2mYknycNnP2vru/eWAKfT3d70daS6gV0XJ</B>
+            <B>xWTOlXJxpaZYdWViMXUHZ2QsLJFWVHEJ+TkR8Gvj4jWnfjThBIae6tcna82jE8o0</B>
+            <B>NnZt6KUId7zB/T8kecgW1+Rat/lE8OhnpO+YoiK2MkS4e0Xen0mDVkPP1XUp4MjGiDlExya2PNrAYbPR7rvJrA==</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQpMw6m4TY9V6uiv2reZ7Yx3INgj73n49Yr24i/Voj/WL7JHHrbXNk6pky0bUhPl7JJjyLHk4FZrvbHpkvPotH9B7pmffvPvwtVpostatJFnDF4KbnquwYiQ2xoIacQEyk" name="贵阳法制">
-            <B>wUcqtt6uDIuCpiHrSKmuhiTJRIfkc/4wrlRit/84Fl68sIuP7ZbU2vP7lgfwy9AL</B>
+            <B>xWTOlXJxpaZYdWViMXUHZ8Cs1Df2fDsW75UOxaTKpXGWnFjduS81iJE0wyjgF2jt</B>
+            <B>NnZt6KUId7zB/T8kecgW1+Rat/lE8OhnpO+YoiK2MkRLZEJVxeZt6qnAWjyqNOsOMRBJAOo9W22Sh/ZiqRmPlA==</B>
+            <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRPr8+TyvK2kBpMlIlBrKEs6jWD+xVbyFcku0UT0FzpXoMm+c6X8z7xGAEruZ5/5aj+YKhCdwkub/H1N97zWeIozjUCWf+4Fv2DilKd3NqzB0</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQpMw6m4TY9V6uiv2reZ7Yx3INgj73n49Yr24i/Voj/WL7JHHrbXNk6pky0bUhPl7JJjyLHk4FZrvbHpkvPotH9B7pmffvPvwtVpostatJFnDF4KbnquwYiQ2xoIacQEyk" name="贵阳都市">
-            <B>wUcqtt6uDIuCpiHrSKmuhhvZD9DbaSzNbX/Jw37I40eutuZKlXKwOwpRQk3onKPC</B>
+            <B>xWTOlXJxpaZYdWViMXUHZwifb2mknsKuuL1JpIqatLLgFqZ++a2Ij9HCLIQrZN14</B>
+            <B>NnZt6KUId7zB/T8kecgW1+Rat/lE8OhnpO+YoiK2MkQ+zqPrTzNU0XuuowM5E6K93tJiP0eqBvRx5kD6qQGa6g==</B>
+            <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRH8wDLxWgnHZ+VygFAgZswkLrOe4avjPyWQmGbf4i1w0J06b6RpfcERayYrwLTOdOgVXJxmSvgLdnmvaHl1VFnas2nxFj7HXaBtbN8n9bHsj</B>
         </A>
         <A iconURL="RkiWqKlvNnLqTRN48DmV/8bImQMpNAGlqRF+VezSS67htxFUhhlzC4YxT8LpmfXQpMw6m4TY9V6uiv2reZ7Yx3INgj73n49Yr24i/Voj/WL7JHHrbXNk6pky0bUhPl7JJjyLHk4FZrvbHpkvPotH9B7pmffvPvwtVpostatJFnDF4KbnquwYiQ2xoIacQEyk" name="贵阳旅游">
-            <B>wUcqtt6uDIuCpiHrSKmuhv0ldAQBhIvngbu8UubA+j18PYmQxcu8uhlwH3ly0+/0</B>
+            <B>NnZt6KUId7zB/T8kecgW1+Rat/lE8OhnpO+YoiK2MkT8Uh8k7xexT8HIdWLB4fUwI3BSEZsIvl7j+EuAL71lWg==</B>
+            <B>xWTOlXJxpaZYdWViMXUHZx5vTNm1T16MBxgzpY3Z6icvXDnFN2bmJnfzADN6vUqC</B>
+            <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRAIPhQEzSRFX3odKGH60Tz5tA1FVO4m+JyfmkjWgInxX5NxEjL4yny4gMg3vZLlGgGt/K3aVtpO9wS48MmhmeRb3D9SfIAj87/hvdAvYS89J</B>
         </A>
         <A name="遵义新闻">
             <B>66q16bi8bHSu6Worwzloo2Uu1d2s6AGPdtYIu6B2UPvNBEpmgz7DydcH9ZTa1BbGqDdSH1FDWnaFhUYhWWrKNA==</B>
@@ -4956,12 +4956,6 @@
         </A>
         <A name="黔西南二套">
             <B>/Uq3coTBOqNNB6yXLLGvajICydFNx64HcMOl+tCmMUfCEaTDARGBqV1jqITdTtvJ</B>
-        </A>
-        <A name="安顺新闻">
-            <B>xWTOlXJxpaZYdWViMXUHZ395teO+LZT2bxaVEHFCdTS54MUhHDRLkvvFzPbDvPho</B>
-        </A>
-        <A name="安顺公共">
-            <B>xWTOlXJxpaZYdWViMXUHZ49pa3hRVou+Bizdzo2UtyYPytT99CK4Or60Yq40EfEH</B>
         </A>
         <A name="铜仁新闻">
             <B>h+aR3YQxG0x58ORrMpTOz/CRKqnxLf0reupYOErJg1yfUjOpH7W5ajFwnooeSKgN8FNDf+XZRLVDyMc+nSsofSLQ9I7JALS/sc1910wZigY=</B>
@@ -5503,10 +5497,10 @@
         <A iconURL="tHM85qotxc+ZK/AHEPXxhv7cLpQkMzCTGuRx54pi1yy1qH+qzIT3kL45Z3XfSm4O" name="青海卫视－普清">
             <B>XE4ZdOl4CcFVStYNV8LgIkTv8HL72QHjsnyOqAxObBx5jwE7Z/dIme31Cp5WQwy/N3H6LTSZ+4C+MlEYQkzsnw==</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRIuLRAC1cJnQ3fioebJuDj55TA1pC7NbCJ/Dfx1iia14x4rsbJVM/AM+nYWLYv6kBBxqWrrCVLDfEgVeRf6E4MYgQTtWSt3VhklT4KeRoElL</B>
-            <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRHep1gVGmn3H0niIYfXTr3NKZBMAnRvQHrxmXNWUKJBFcbpRRG8UwgEJf9LR2HTuaY6vM3MXGZV3qEvYudXdoAFM6Rcly3BShLzRu3+tffY2</B>
         </A>
         <A iconURL="tHM85qotxc+ZK/AHEPXxhv7cLpQkMzCTGuRx54pi1yy1qH+qzIT3kL45Z3XfSm4O" name="青海卫视－标清">
             <B>rE5saXd9FXxRtcaOjBS27NLBSWvBERCOJ+nkcdYyDACygWGVAhEP6T0uDM5NvMmA</B>
+            <B>Hjle9niI+AL4Yl+3Ei1dRZcJJct1D9wWlv44dM54ll9LzoS6sdJK2Ezzz9efByGUC3TnM1zsQQlnlzuIy2+/RVoYxY2gXuTT65Y1i6GIFDQ=</B>
             <B>uoUGMta32TP2n+v5MpJIjw0mrZBsooGVJ2E/7/21azDZEx3zwyUx1Y6tPjUsuPeD8a3eNfk04fzd4QP2jvYdOZmkLV3U7SBV+TvR/W2gHUXSHV6hdjLayptkp9KA1wpE</B>
         </A>
         <A name="海东综合">
@@ -5579,15 +5573,6 @@
             <B>5/9TFCJc29E/5my9lXtIo3BFTZThW5V2ngz24ctC1zC8jHwkmGvDPCLTfb+NJuE8</B>
             <B>hrOdhzdxo01tOmq3WnMUik8jgVa6zKSYd4sfi6AkIZ/8OpK92iNALM+y8Ts0b3RuEyXaeUd4jeSn2PkK13rJPk8JTnKItjVA2hWGEybqgtqz1WjNajCkgnyhgUQIQ1yn</B>
         </A>
-        <A name="哈密维语综合">
-            <B>FLpD/ccdftIQej8o6fjdvMb02niODSDgVWnBBFJyxKevTQ9fMnbSg8pkdUu4OI1FCpPQOql3as89o+Ii4o+Vrw==</B>
-        </A>
-        <A name="哈密汉语综合">
-            <B>FLpD/ccdftIQej8o6fjdvMb02niODSDgVWnBBFJyxKc7f4IVfdrb6aek3OjWoKG/P2MLmKMeiXfj10Ys88Qrwg==</B>
-        </A>
-        <A name="哈密影视">
-            <B>FLpD/ccdftIQej8o6fjdvMb02niODSDgVWnBBFJyxKevn5uHLclmkCFLVRPJjlE/GSCr3AvNbrsosXc3JKD7IA==</B>
-        </A>
         <A name="福海汉语综合">
             <B>wQivABiCzRcdb0m5FXJnSzpdm7o92X1yqKuXhBe73LHa3fNj+F6B++0eqneRofAI</B>
         </A>
@@ -5603,54 +5588,40 @@
         <A name="七师电影">
             <B>wQivABiCzRcdb0m5FXJnSzpdm7o92X1yqKuXhBe73LEJBZsWDHDtWn9HlVBea92g</B>
         </A>
-        <A name="克拉玛依汉语">
-            <B>wQivABiCzRcdb0m5FXJnS2ZLfJBOaJwlutSAxb0rbnTeI9JVUPKp8Uw/+3ApDhwX</B>
-        </A>
-        <A name="克拉玛依维语">
-            <B>wQivABiCzRcdb0m5FXJnS2ZLfJBOaJwlutSAxb0rbnSTzPKrQPoD3Gn/Zyr4E+vk</B>
-        </A>
-        <A name="克拉玛依影视">
-            <B>wQivABiCzRcdb0m5FXJnS2ZLfJBOaJwlutSAxb0rbnSA3xXXsSC6KK0PwkQtIXUu</B>
-        </A>
-        <A name="克拉玛依生活">
-            <B>wQivABiCzRcdb0m5FXJnS2ZLfJBOaJwlutSAxb0rbnQtjUy0fj7AjodG71fh+2st</B>
-        </A>
-        <A name="克拉玛依新闻">
-            <B>wQivABiCzRcdb0m5FXJnS2ZLfJBOaJwlutSAxb0rbnRnad3fqgCblzec5h19f1hQ</B>
-        </A>
     </Channel>
     <Channel name="海南" type="33">
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znUp1/xm4y3FY6AKiMeoWfU=" name="旅游卫视－普清">
             <B>1t8QB6QDpHFzqtC3L0cON+IHE8ts/hYi6Pcu90HK9+hKC08PGCPGvZOuPOEnLjZOlJUTnI1e5pwFYdbkBRDzNA==</B>
             <B>1t8QB6QDpHFzqtC3L0cON+IHE8ts/hYi6Pcu90HK9+hKC08PGCPGvZOuPOEnLjZO5j0r2ct/kwvUg2M0MsuUeg==</B>
-            <B ptag="5">5Gor2JIUOCAPern57z46HlCiM3h2WX0XuLSKEgBfctuckeUbGH5wSHIWqjfh1uqsCOBkk0dntxf9lomqN8QCRzrjdkL3snN7kbNn28qTxyqeTRVNixzEkUS0wA+g4knUlTYT0JyJ8gXST65tC5nstQ==</B>
+            <B ptag="5" subptag="1">5Gor2JIUOCAPern57z46HlCiM3h2WX0XuLSKEgBfctuckeUbGH5wSHIWqjfh1uqsCOBkk0dntxf9lomqN8QCRzrjdkL3snN7kbNn28qTxyqeTRVNixzEkUS0wA+g4knUlTYT0JyJ8gXST65tC5nstQ==</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znUp1/xm4y3FY6AKiMeoWfU=" name="旅游卫视－标清">
-            <B ptag="3">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv3f9CtDuUV9x5ntzMD+Jwd4=</B>
+            <B ptag="3" subptag="1">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv3f9CtDuUV9x5ntzMD+Jwd4=</B>
+            <B ptag="5" subptag="1">5Gor2JIUOCAPern57z46HlCiM3h2WX0XuLSKEgBfctuckeUbGH5wSHIWqjfh1uqsCOBkk0dntxf9lomqN8QCRzrjdkL3snN7kbNn28qTxyqeTRVNixzEkUS0wA+g4knUlTYT0JyJ8gXST65tC5nstQ==</B>
         </A>
         <A name="三沙卫视">
             <B ptag="3">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv1QlXk3td3dKIfLQSyFuzR4=</B>
             <B ptag="5">5Gor2JIUOCAPern57z46HgqyjUrkdglDJzmpGoYvrUwAqC8ySZwAFKOjj0VaEn6b/X/hDrXCvy6iqgZW2uZSoFxv0wMzSZ2uL+F2zpqZpvogtCGCEMI9JJkhBIAO3ANDJhdZaSEX5l1zwU2/bcyNZA==</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znUp1/xm4y3FY6AKiMeoWfU=" name="海南新闻">
-            <B ptag="3">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv96JW9ujkrO+O9o9826uc24=</B>
-            <B ptag="5">5Gor2JIUOCAPern57z46HrILsBp5r56L+/v+trVYnzulCfurbtUZ8YCcuHqbtjiQ2TEIoAuxh61RHTThAuSHrFcqtPOTz/tTUHgHh4HPRIpZUfXNdFT2AIP3CHBvmICQ48O0IuM7HMSIR6/PFx7lVg==</B>
+            <B ptag="3" subptag="1">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv96JW9ujkrO+O9o9826uc24=</B>
+            <B ptag="5" subptag="1">5Gor2JIUOCAPern57z46HrILsBp5r56L+/v+trVYnzulCfurbtUZ8YCcuHqbtjiQ2TEIoAuxh61RHTThAuSHrFcqtPOTz/tTUHgHh4HPRIpZUfXNdFT2AIP3CHBvmICQ48O0IuM7HMSIR6/PFx7lVg==</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znUp1/xm4y3FY6AKiMeoWfU=" name="海南影视">
-            <B ptag="3">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv9sgdl82hfKfYFSyupHX5a8=</B>
-            <B ptag="5">5Gor2JIUOCAPern57z46HiM1248onS4HaSXiDMuNzxrp2IyxdfTmXACdp04sjOSjZEL6OdqZcjXmj7i/5yagE1hjBNsr1I7n8zszu+s60uFTBvcpAlPgwT3xxns66Bk1WV22fkzCyhn4ir4+ejvaVA==</B>
+            <B ptag="3" subptag="1">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv9sgdl82hfKfYFSyupHX5a8=</B>
+            <B ptag="5" subptag="1">5Gor2JIUOCAPern57z46HiM1248onS4HaSXiDMuNzxrp2IyxdfTmXACdp04sjOSjZEL6OdqZcjXmj7i/5yagE1hjBNsr1I7n8zszu+s60uFTBvcpAlPgwT3xxns66Bk1WV22fkzCyhn4ir4+ejvaVA==</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znUp1/xm4y3FY6AKiMeoWfU=" name="海南综合">
-            <B ptag="3">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv81HTozXdMr+4dcYO+oTbI0=</B>
-            <B ptag="5">5Gor2JIUOCAPern57z46HtJVCdlXmY6ee949jCkizIQQC1+sQAHofM8e0rG/GnR9+8ypev7qs7+ST65vtTwfAl2k5VYP2vCpQHX0exBSS2uL3BczpMoh3yffv00IRlm+E03N6/SqzloL6bbeeKYwBg==</B>
+            <B ptag="3" subptag="1">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPv81HTozXdMr+4dcYO+oTbI0=</B>
+            <B ptag="5" subptag="1">5Gor2JIUOCAPern57z46HtJVCdlXmY6ee949jCkizIQQC1+sQAHofM8e0rG/GnR9+8ypev7qs7+ST65vtTwfAl2k5VYP2vCpQHX0exBSS2uL3BczpMoh3yffv00IRlm+E03N6/SqzloL6bbeeKYwBg==</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znUp1/xm4y3FY6AKiMeoWfU=" name="海南公共">
-            <B ptag="3">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPvxWl5PNI9PhZayjp7IeWyig=</B>
-            <B ptag="5">5Gor2JIUOCAPern57z46HnWBRm5z4NYVzE030XNHDHJQzRk5dRe+LDzp7zTf03IHUgfyEZPsPdPhd9YXiKSj/iIPl3VznSwREhsxNf+Mx1xb7NFkhusWzIF0suGGTKrDZaoVvNzqmVeZXyG5717zow==</B>
+            <B ptag="3" subptag="1">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPvxWl5PNI9PhZayjp7IeWyig=</B>
+            <B ptag="5" subptag="1">5Gor2JIUOCAPern57z46HnWBRm5z4NYVzE030XNHDHJQzRk5dRe+LDzp7zTf03IHUgfyEZPsPdPhd9YXiKSj/iIPl3VznSwREhsxNf+Mx1xb7NFkhusWzIF0suGGTKrDZaoVvNzqmVeZXyG5717zow==</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znUp1/xm4y3FY6AKiMeoWfU=" name="海南青少">
-            <B ptag="3">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPvxtFD+ALlmsZl3BalYiT4oM=</B>
-            <B ptag="5">5Gor2JIUOCAPern57z46HtzcJs03babxTZXCCKiCZqi+1II0v3XNFx8cAuBkB7lUFPV0thfiV8XpOSR+amoTpAm1jRfhTSQLmq49dhH+Dulp52DaflpiHDufSr0x52e9zCPQ1VG0DU8NDh4C008yQA==</B>
+            <B ptag="3" subptag="1">402fDvKjOpJEgpk7z9gdiKMfIY+kiy+TDd9XKJR3ZzESJ3ua9u0EgGYj+J+FnNGBmlX3JTkDjylLQuGoqXTPvxtFD+ALlmsZl3BalYiT4oM=</B>
+            <B ptag="5" subptag="1">5Gor2JIUOCAPern57z46HtzcJs03babxTZXCCKiCZqi+1II0v3XNFx8cAuBkB7lUFPV0thfiV8XpOSR+amoTpAm1jRfhTSQLmq49dhH+Dulp52DaflpiHDufSr0x52e9zCPQ1VG0DU8NDh4C008yQA==</B>
         </A>
         <A name="海口综合">
             <B>//MaxscOZ8yD6zTsK8sMVtcqrUkmLOlNQHoZQahnU17ijP4z8O+e7uThw3SVq6IoARxbtAGDcTvr9awc1YkCXXm7Gc5sAa9iYPQz2P6w5uw=</B>
@@ -5660,15 +5631,6 @@
         </A>
         <A name="海口三套">
             <B>//MaxscOZ8yD6zTsK8sMVtcqrUkmLOlNQHoZQahnU14FAWT/nd5IgONabM75wTrXAB6eYBhoESYrNPikW6C0WSFtW0XyjXYY4JYl6hOsY4o=</B>
-        </A>
-        <A name="三亚新闻">
-            <B>3xfZ2TwWX91qu3uqA9W5wuryEWH4UwK9cyhIpQX4aIB+MX+CULmObYVf5sd2aammzKmueXTkbjplwOTWO0tN1w==</B>
-        </A>
-        <A name="三亚新闻">
-            <B>3xfZ2TwWX91qu3uqA9W5wuryEWH4UwK9cyhIpQX4aIB+MX+CULmObYVf5sd2aammzKmueXTkbjplwOTWO0tN1w==</B>
-        </A>
-        <A name="儋州综合">
-            <B>DtZYfJtfv4ML+H9L6njc4/DARxtqqdLU+VizDf4+vHA5j7do7JuKRwWTGMD1qdXeGLClEkDekt58g3qwqzPtdsW9WNEmSJTd2zyFMwBvI+g=</B>
         </A>
     </Channel>
     <Channel name="其他" type="33">
@@ -5695,6 +5657,8 @@
             <B>2PTxMDCotfQanlm3kYATD0tW7cyTOa4m9m01zEKKq5qJMQJIrzeM2imGZrgLRbR1JSOj+rPRF6pylG77pvgZhg==</B>
         </A>
         <A name="TVB 翡翠台">
+            <B>rBMP8GoU3wTDpLX/haWnGfPd+MMqiMsmVQvEm/Ch7+l34Kl7QKI5DbuyIU9pZQZR0796bc9op+NF50RpBeSlj+OnZG1w1sZQEk9sG48ufEOhhhr35aEqZI9G2ssot9bc</B>
+            <B>rBMP8GoU3wTDpLX/haWnGdBBwD/RsF4dEqE/RcFfQcHb+Nxma1YQ1p41Le0lgUa1x49VKHtUWVz96wCBiyKP6Ue9N/1XmMcaNTvn6XnDdVN3kGE3dTEaeG+tb5f9K2KA</B>
             <B>OiiuOTdGjAw/689tQusniVPqC3xB/uxgot81tjIwZtxySH+Axk1nZaWcaIOFWqCK</B>
             <B>Dz+4l33mngla6kBdXZRHKCFbwkuP7AQPKu9GGCuMZ6w=</B>
         </A>
@@ -5702,25 +5666,23 @@
             <B>PnWMPMo/vvEtun+g2Xv4hlbFvmikxWK8c8fEi34EQfXmQLpshWpxhdxYKgQ3yZOhvUAEj3k433xZykX71pYhaQ==</B>
             <B>PnWMPMo/vvEtun+g2Xv4hlbFvmikxWK8c8fEi34EQfXmQLpshWpxhdxYKgQ3yZOhl9OU54Q77AzTrw+pXPohNQ==</B>
         </A>
-        <A name="TVBS 新闻台">
-            <B>VCh0DLD1BKSFYfMuThi77FKYSeulV7LzNI21fp/lDVWKgL+yOK7KpmEFUhxuWoZ8</B>
-        </A>
-        <A name="香港十八台">
-            <B>s6cLQ71Yx+bX9tmZvZqDhOEAXkeqFzpQ0gTYz9YCp6w=</B>
-        </A>
         <A name="港台电视31">
             <B>DDs2HY+minII5LsTs2doCGDybUk8gVHvrbxzto9rBtkkHQIUL7Mk/9+3GvOFnvItxtAKm7kKEkBigCBMqElSJU3SDJhTRLjoBG+jXpPGFAM=</B>
             <B>DDs2HY+minII5LsTs2doCGDybUk8gVHvrbxzto9rBtkkHQIUL7Mk/9+3GvOFnvItxtAKm7kKEkBigCBMqElSJWE/JUgf1gCFdPrZy2afqhgbWyb+lkc40+FZF1sswTY2</B>
             <B>DDs2HY+minII5LsTs2doCGDybUk8gVHvrbxzto9rBtkkHQIUL7Mk/9+3GvOFnvItxtAKm7kKEkBigCBMqElSJVkb3cdQ0n24OjYjiRDiI8g=</B>
         </A>
-        <A name="港台电视32">
-            <B>P+iOFfps1pqrzGgFJEswqcriKBbOLIPyayrVgWD7FmbP/yttjDsYOQVfajjA/OwWshylUNqLAgt5aGuqhRiHT22BuoIjsQ8K3cahKNofMfE=</B>
+        <A name="无线新闻台">
+            <B>3Rgk5BTgAoPORenz0glBSMCz+yOLQwyTbjlmGtOYjGp6WRosAK7EvusxtSMg85xrcbI95E8qVb9n8PhwvFDTN3Kh2xh6ybaDM2DH3wNF4MuUqR72A0am2o5f3shxGeOgXamQ/XvOeL87oUvvQDDag3gBp5e5AAdfkPhUkcVNk1exBpz8LWxorjcd22iNJ3rY</B>
         </A>
-        <A name="港台电视33">
-            <B>Vs+hHK6ETS8ax8k7sZ2+vYQGHBF7Av4OqsbPkAMrrx+tP8hyiMB4kVNNpYtuVosD</B>
+        <A name="天映频道">
+            <B>qRt4KTVU+oFKDy588ZExV6kgglVbTXzHZeIXCSU+YvVvbptFsO0pUym0JSeFhihRkqKYBg+VDwcCD27rC2A9IajZSeNc7BoaQFRj4y91Vtj6kXZpUY0VEZiehPqE8X7X</B>
+        </A>
+        <A name="天映频道">
+            <B>qRt4KTVU+oFKDy588ZExV6kgglVbTXzHZeIXCSU+YvVvbptFsO0pUym0JSeFhihRkqKYBg+VDwcCD27rC2A9IajZSeNc7BoaQFRj4y91Vtj6kXZpUY0VEZiehPqE8X7X</B>
         </A>
         <A name="NowTV">
             <B>twaXYd8QFjFF/3PWJ3riXc5hMftVPKCGSYjbA1F9IalOW7W5/qrWDTx7wTOmcK0zmSOUJhq2MOAee9gq0mj2bvISG8GiXKKUd3aYI6TbsrQ=</B>
+            <B>twaXYd8QFjFF/3PWJ3riXc5hMftVPKCGSYjbA1F9IalOW7W5/qrWDTx7wTOmcK0znVYbVi6PnC3TuoBYXzNHdg==</B>
         </A>
         <A name="奇妙电视">
             <B>IjH1Zn7Te6OdZJnDH2eL6buuDSgSSMjNJTFEFkqpwt1zWgliaCkm3awZgUwU52vSkQq+yZBLx5eLuqIQJYsPGA==</B>
@@ -5729,18 +5691,12 @@
         <A name="翡翠财经">
             <B>h+7PTMs70fExykcLgTRLiWe5l0us/5dt0A5hkeI2hSI3AuwUlmxv8Gw4e/AQJJV/b3XZ9sUtqRlNjZCuFuaBMiU0QD9LOi37ffvJN0LGx7/0cTtlzMSbX3NnK+AUhwWV9eZ0T5L/Oc2hhk5+SrlNNA==</B>
         </A>
-        <A name="创世电视">
-            <B>7gqJ3HgHqo/Mi61o0/d/najCGvfdXnuv+EjZs3vJeDfppEwbfsbEnKySP2hdchgLPEBzRp7fT4ZH2ssckSFTG90rnYo73h2Mo/cb3JaeV9ZMEsx+DVaf7HdlAt6BjGZdDTUP8cfIz2cal1K6uz2UiQlkv1EU0g41uACpgEnqdq0=</B>
-        </A>
         <A name="阳光卫视">
             <B>5Xow8w1fPKdCm1UD2zvQQaRaSYylH21a/g9khRKCd5kZR6z3tTozPzLoAL/BRsoaHdB/XrVQ4POIatppc53yGljLttxiEhuXDW48pykiCt4=</B>
         </A>
         <A name="环球电视台">
             <B>ewg2+HDoX7UpZsRym7MpEwWSa2WJmwzvETR65TSLMC8z1vLPN4udav0xRtZ7HHif</B>
             <B>ewg2+HDoX7UpZsRym7MpEwWSa2WJmwzvETR65TSLMC/NB3v5fB1F2RF4qEoSQ4Br</B>
-        </A>
-        <A name="卫视电影台">
-            <B>8TFisOQsUab3yOKqDEusX5dHCZRATam3oxdG6w5MfRbL3gdPWOlT6hCUoDWNHwDu</B>
         </A>
         <A name="东森新闻">
             <B>/n1UjKRd+zZzHCK4LzsQ/cp+jXBKP54OVLvH38F3ZlqlmOe4H3NGFt7zATflZmtn</B>
@@ -5752,9 +5708,15 @@
         <A name="东森电影">
             <B>UlJ7lI4aot4ZjmEC6mlJ5crOwm5to5vLNAKuQLQCBzMbFBo2+Cgjo98ufALWkGBI</B>
         </A>
-        <A name="壹电视新闻">
-            <B>mYuu0vG1IExq8cE7gFHylSMz6cXBr3vQSUW04w/Hje8F6vZ829AIdIGk2I53m7loTT4nKON77sKot+C7xPDLHFQUCWoClGxXF8XhSKGISWc=</B>
-            <B>mYuu0vG1IExq8cE7gFHylSMz6cXBr3vQSUW04w/Hje8F6vZ829AIdIGk2I53m7loQ6JPyBdGprivRoVQxpGE9biaMLHkplrV99Y19IqxPKk=</B>
+        <A name="台中天">
+            <B>aE29R0yeYRmT73Sdj5Y3xd/eO+8pbK+BuPO1yvsXnJw=</B>
+        </A>
+        <A name="台三立HD">
+            <B>twaXYd8QFjFF/3PWJ3riXc5hMftVPKCGSYjbA1F9IakCofv+wvCiOQdXLhCAoww1f8qY8YVfv1WPu5OWPpl+DvmDDQ1fvL3Dhid9OJwfs4Q=</B>
+        </A>
+        <A name="三立新闻">
+            <B>VCh0DLD1BKSFYfMuThi77JVWn8VRCEM4TigxIa/vCU+eyV5x1HrCoASYmF8RhdDa</B>
+            <B>VCh0DLD1BKSFYfMuThi77JVWn8VRCEM4TigxIa/vCU84f027EGaQj03Yc1TmrI/v</B>
         </A>
         <A name="耀才财经台">
             <B>iubfSoi4rmsViIeCctO1GetlYSP+GxYaJD43Jn/qvyR+I97Qok7zh2SSr2uQAUqFSAgZsG64cx2IPiJ93bqGomjxoNmzxCm8LumH7qczYoU=</B>
@@ -5773,88 +5735,45 @@
             <B>leNStS6x04Fo/b2Sq778In0/Bu9pgQxaghUG88SxD/i7Nfi0TpVC3snepU2YE8BzABS9t0NMwd0W8QpBws1Yy85f805My+fQ1sIfPiB27DM=</B>
             <B>leNStS6x04Fo/b2Sq778In0/Bu9pgQxaghUG88SxD/i7Nfi0TpVC3snepU2YE8BzABS9t0NMwd0W8QpBws1Yy4pjTte6XFEwsIqPCdh6bIk=</B>
         </A>
-        <A name="好消息3台">
-            <B>vrxLHWWftzNaY9fXX3RFE38aInFNukM2NAJGmpmDcuUN0pOLoWNe/iC/0/HGDR36</B>
-        </A>
-        <A name="亚太第一卫视">
-            <B>nTCit4qzKgvX8Y/zOScWUbw5QbBoNMU+/D/6bbHMxC5SUxjhRWHqI3hr4gVbJ2yYWWYouDTORudmerCtu9MYSw==</B>
-            <B>+4V7VJE9uRkqCycDv4NR1xXh2/irekfDwT0SkQBbBGqXX3+M0wpdKFQdB1symJqo</B>
-        </A>
-        <A name="台湾中视HD">
-            <B>RjDs8od1B+A2mjkTMsUbjwxHKnFfkrtHagBbWGB39iWmBm6W6czQjDKidP/ISXHd</B>
-        </A>
-        <A name="台湾华视HD">
-            <B>RjDs8od1B+A2mjkTMsUbj9O0taLR3v1uMeP8HxgBn4Y=</B>
-        </A>
-        <A name="台湾台视HD">
-            <B>UlJ7lI4aot4ZjmEC6mlJ5cV86W+5TqJ9ffR9tDEfQzgtwhq6whHWm5qq+6fq87Az</B>
-        </A>
-        <A name="台湾民视HD">
-            <B>UlJ7lI4aot4ZjmEC6mlJ5aKx0+Buc6UFGnkE1YBOLldz0QZ+RVs7lPoWXbWNT1Ek</B>
-        </A>
-        <A name="台湾民视新闻">
-            <B>L9+rVRQQzGXXk+UJ3x3RBcwXsfpNFoF87WeVFPJCvDnT2ZsZ1rLZuxuzg1waA7DgAKvGioQbEwLX09F/vw7o8Q==</B>
-        </A>
-        <A name="台视新闻">
-            <B>twaXYd8QFjFF/3PWJ3riXSEgQ4XB0bBx30DpgDana7ER6Hhzh/9or0zhSFJchWwV</B>
-        </A>
-        <A name="台湾公视">
-            <B>7FF6eXY5IwNTJyjU3dtrF3U4v0Y6/g+kQi4DfyBq+QkpFQ60chhhIITJ2Ct9uN3YjbsXmymWk/Ek9WpwlX9AI4rVxZIJ7vWKc5B0U7aKftI=</B>
-            <B>R/Uyq1JF0SGvQsnbKqFqS20V6ccpHaG0h6tP3t+r36mUZOQHcUKZhMbb+9aBl3Wy</B>
-        </A>
-        <A name="台湾冠军台">
-            <B>GlRhAgbHtacwoKgUypBr7kE0jzz5kLEjYvmEt1ES1okh7Zj56xdeX4W/mSrF4t7HckPDt+4LFPUtSeg9n4nHh4GXQz9UcaVEwzuJTaLRX3E=</B>
-        </A>
-        <A name="台湾壹新闻">
+        <A name="台壹新闻">
             <B>mYuu0vG1IExq8cE7gFHylSMz6cXBr3vQSUW04w/Hje8F6vZ829AIdIGk2I53m7lo85hlWpQGy3QPluaSY+nZQeRg14kdVr/UJk3xRvN0kag=</B>
             <B>mYuu0vG1IExq8cE7gFHylSMz6cXBr3vQSUW04w/Hje8F6vZ829AIdIGk2I53m7loMkmLN9lcxfi4vse9JKlTiu5qyAX6MOD5/Ia+wyszgro=</B>
+            <B>mYuu0vG1IExq8cE7gFHylSMz6cXBr3vQSUW04w/Hje8F6vZ829AIdIGk2I53m7loTT4nKON77sKot+C7xPDLHFQUCWoClGxXF8XhSKGISWc=</B>
+            <B>mYuu0vG1IExq8cE7gFHylSMz6cXBr3vQSUW04w/Hje8F6vZ829AIdIGk2I53m7loQ6JPyBdGprivRoVQxpGE9biaMLHkplrV99Y19IqxPKk=</B>
         </A>
-        <A name="台湾宏观卫视">
-            <B>7FF6eXY5IwNTJyjU3dtrF3U4v0Y6/g+kQi4DfyBq+QkuvH48a5HSzu1hxOWB8JveOfWLxi7M9uXrh+J4MfYFMAGyZ9UWvTA/dxEbUHPhaos=</B>
+        <A name="台全美台">
+            <B>Ofqssszt2Ie8VlDjhxcv/fS71PAZfsvuSMDwPlRGQVdPxss5FG6udGZjs1qrNfn/aL7R5OHrvuGDcb05drfZpiEWVNS15lClhejKoavCmcM=</B>
         </A>
-        <A name="中天新闻台">
-            <B>VCh0DLD1BKSFYfMuThi77JVWn8VRCEM4TigxIa/vCU84f027EGaQj03Yc1TmrI/v</B>
-            <B>VCh0DLD1BKSFYfMuThi77JVWn8VRCEM4TigxIa/vCU+eyV5x1HrCoASYmF8RhdDa</B>
-            <B>ViaHhrSZe9aMMul6NPQ2JA+kmv6AjB1LbhYXn1Ny+Sw5v4g8MZ11W0eMmUq3Q1sCbReijyXwdXEhp7jktTBSGM1nO1M54jlkODmYFmja6rk=</B>
+        <A name="TVBS新闻">
+            <B>VCh0DLD1BKSFYfMuThi77FKYSeulV7LzNI21fp/lDVWKgL+yOK7KpmEFUhxuWoZ8</B>
+            <B>VCh0DLD1BKSFYfMuThi77FKYSeulV7LzNI21fp/lDVWRqvmENvLSZxWlpaJWSPs9</B>
+            <B>VCh0DLD1BKSFYfMuThi77FKYSeulV7LzNI21fp/lDVVE81QQ8BtvxXtI/CcPsH/f</B>
         </A>
-        <A name="三立台湾">
-            <B>UlJ7lI4aot4ZjmEC6mlJ5TtcIr6P35h8+XAoGaeEPutdm+nGSB5L8O7Q5yscY1ad</B>
-        </A>
-        <A name="三立都会">
-            <B>/n1UjKRd+zZzHCK4LzsQ/Xnu8H8But6VVAAHH9PJ3BGALlGqoo68upm/hEubhUit</B>
-        </A>
-        <A name="客家电视">
-            <B>4YKvsBN95lUkOllz+FOuGXOWBupLg9up0BIEesKcsQX1JiDTYM9jicjSFODwNhvj</B>
-        </A>
-        <A name="緯來日本">
-            <B>/n1UjKRd+zZzHCK4LzsQ/VcV0dkVMyKZHW7uovTmpR/HisgOa/cbDxBYB7gM3Kb1</B>
-        </A>
-        <A name="年代新聞">
-            <B>/n1UjKRd+zZzHCK4LzsQ/ZzNyvOKs0MXoyCbpwFL0D6LauFG4yVifljzkuWaHyP5</B>
-        </A>
-        <A name="寰宇新闻">
-            <B>qW7AGS3jT1sBMxvDR7ey5vjB8SRerfx9dgos84EgECYP2rzWJdQb24u3r76qWZgFIo35U9LDlDz3hFEQDQMZzA==</B>
-        </A>
-        <A name="寰宇新闻2台">
-            <B>3eHA6o1aH2QOMxbW2zhRVqPQCO8/qNnxrECg7cKjyWwr+oEg20xvyCfqRcmfGeD1Su4dy7Y8YPaySif2EUmftA==</B>
+        <A name="非凡新闻">
+            <B>VCh0DLD1BKSFYfMuThi77FSmhtqAj582D83bdsQla4mtwKJdtKILq8AL90imIoyA</B>
         </A>
         <A name="澳视澳门">
+            <B>S83n0bRwkNLW0/WgImHMCTfoo5cXUbteXXIvzsnOFrq9tVzT8Pf4veEItr5j/7v4</B>
             <B>mus6Izc53MAm9t4trxsbDBH5L4knxDZdc5s7l9RZFHhVHrDk/p9esgRMTr3q3yWZJQvvfDkeCk6UbLbd8V0rIg==</B>
             <B>mus6Izc53MAm9t4trxsbDL2I4hS7OvbqsVqPfmVB67g8i+vJgaxH1wbCp9iZmEHgDyTLyPJZC4c1dlrt9aJEzg==</B>
         </A>
         <A name="澳视葡文">
+            <B>S83n0bRwkNLW0/WgImHMCYo842HAYCbiyOBtUGjr8NnW/d1ClWKllRowqHCR9Ooc</B>
             <B>mus6Izc53MAm9t4trxsbDO3IFggqRiGGiLZDV9eiapxP8+3Z+wBKjTb0ueqrHQC+VIUcvaj56y+xy2ZxxTTaeQ==</B>
             <B>mus6Izc53MAm9t4trxsbDGi85eZvAkKUbmFz8qMMNI1HL3nG1ANnP17q4QErcQpSk15gWlKcoYcbm/nz3lHS0Q==</B>
         </A>
         <A name="澳门卫星">
+            <B>S83n0bRwkNLW0/WgImHMCQ1eClWQtNxXVTBfc2IBbhGDr+50MGTxZ3M7iZyW8s+o</B>
             <B>mus6Izc53MAm9t4trxsbDDqKpSl+uhfvrY0Bu28VCruVX5soEVaxBe1tTVISEhjtkyDjvZBdcbBGWTer+4yonQ==</B>
             <B>mus6Izc53MAm9t4trxsbDH6MXv06Vd7TcacaXIhJjvE83fimXLiKBgNmc12YbdaQubp34tgYvdJ6ztvJuV3/tA==</B>
         </A>
         <A name="澳视体育">
+            <B>S83n0bRwkNLW0/WgImHMCWuMvStciXR+TOzFc4ILrbxyMbCpn3GjztJAVSs4I3CZ</B>
             <B>mus6Izc53MAm9t4trxsbDJgjvAD87Z7zTdtAiVfB/oVAZXjXsWvU8SR0yYYul0pTY4DG1KFxJza/t+lJ6X3zYA==</B>
             <B>mus6Izc53MAm9t4trxsbDHr7LgxxoSBEFrnNFHBgwx4nggk0dA/XtI82jhgZc1kp/lglm9YxGE5oU/t+De5rFJJUhXbRWrg0S30OnDT417E=</B>
         </A>
         <A name="澳门资讯">
+            <B>S83n0bRwkNLW0/WgImHMCXivSOZsid2EK+Cw88e0knyKUzZYOXQoHmCu7IXzIQXJ</B>
             <B>mus6Izc53MAm9t4trxsbDJ2mvvtIOHRQcj8Zao8X/ER4+MmqpOPIyq6pR4oFxNHh3NGUUdvv4HV4JK3xn9Jwpw==</B>
             <B>mus6Izc53MAm9t4trxsbDHOvO4Uq9Wbgk/LH5oQbdqHMfG/ZLJrGclXWHnYncIYQgNaf4ARaQrOH2fxXyIceQA==</B>
         </A>
@@ -5865,9 +5784,11 @@
             <B>TaxY4D6g/m/Gfs9RokXhS+HhI/eVLXTzkiUqKVmNEC2Vvs+TPsjqMnUM+9vkei8qgs5pvQfWjyn8mRSS67u8CrNuzK5RuYxbafW82uMqua0=</B>
             <B>u0waLor2mqe3jNi+3RTuUzGtF92+c2EZ7U8wMboa7/9WqwXXvG/Vwn1YwLBQyWKj3tsdlKUeoRGGp9Tmlj66L0JNtfcP7SglEyZtaaq4SDA=</B>
             <B>8m7xY9Lah9JmgxjyE0VUT09ZKA3KaVDZpxn3EM7wYzcWpOKdSjb/Djuzrnr88OF8ElrK/15g/YesxWPDBZ31Ytwa2WaZeYShMqZHq5PeeXw=</B>
+            <B>Gi12iCUra6GM+q3sB6E3NJ/J09WpdZCjdkTSQaAb9DnYx2kproq+nrbEqm1GUZD2</B>
         </A>
         <A name="澳亚卫视">
             <B>snTdUoLIRMyKuCoagTwevdR3N7xmrWssLeoxR+aPJzyGd9qVerCYQjhygXs0tEO6</B>
+            <B>Gi12iCUra6GM+q3sB6E3NJ/J09WpdZCjdkTSQaAb9Dkx73gVpF0J/GpxUYt3Bns5</B>
         </A>
         <A iconURL="yl+kkUVpfZItgYIpV9Y4c5PRTh/kfAS1mBgWPLyJZ1KTICAPW0p/kwfU3siS4uwEEBt+A3Yb/UggJpgIPRG4znhC8eVZRxSDV/7Ey0DtIME=" name="美NASA">
             <B>ngTdiKjxD5jC9sB8YR+1kic/rjuSPslc5rRmkPdvzHF6g+fl2ouwtwvtiGEJhu/2mdhemGKc0RyORgirLo8Svx0Nct6/Ozj/vaPsh7dI79c=</B>
@@ -5901,11 +5822,8 @@
             <B>Qse+veHrfDL5npe7nG7KDYz//7DsLGWRT/EXOKxJB12+sDoYgqnz/qXVUTORiECKC5shosnvZjsq+aq82vrgPtWakgoxbEn3SfD0wrzBdgQ=</B>
             <B>ughtYc0ou9P2YiiePfNQ3GG9/t7xe1qaobkERFPJ8lVcyNHvzloBHrJkmLiKqIkxKyoX5MVBJiZ+67Df2akQKw==</B>
         </A>
-        <A name="EuroNews france">
-            <B>AwweFzA1THE737UcA/XBXLBkZ7NYEBHGB2OahJ3LXClJ/RTzTn+lQs70AAWYTh+usDOrfiCzw9180wxzxppUy3Bu37WDwLKFOaRDYa1pnDQ=</B>
-        </A>
         <A name="日WOWOW">
-            <B>xKroDXidULhRGb4SqXQHXnVLiBKag93q9FT45GS/J1B8ofTxDsvREBHkgGKQvZECaPrIhMMAZMSyg96aZMqSIh/DcVk1MjKn27rCR8vvbEENhBDdatzfQuxRRrrEnVW5</B>
+            <B>xKroDXidULhRGb4SqXQHXnVLiBKag93q9FT45GS/J1B8ofTxDsvREBHkgGKQvZECevRw+HQmjc1jUSyikcSyTg==</B>
         </A>
         <A name="日SHOP">
             <B>mRZWE2bLDDSb62E8p0bSyGDKEGlDmfSRjDR7K4d6EedntXnC06UFibMn0Ry8V8oGIMLOHdcMQ6uHoOOv7dHHt/vO5LtIKPRDHApij6Ui52lATTUR83a+FkHwfe/oHAxX</B>
@@ -6010,15 +5928,6 @@
         <A name="韩PAX">
             <B>O/x1brMeNsoDa7xyfah11bkr7WEZgnyRW0MOLot4p9RpinLoVeOtvk4zd8psbFNo</B>
         </A>
-        <A name="新NewsAsia">
-            <B>2nfb8fvqzjy/bJe40Q9pGZ5+GEEpvXeKcBVMnv6zK6VzkiQclkp5HMMEueeHxS8NtAIFL0f1j2RPiS+aq2acbA==</B>
-        </A>
-        <A name="新8频道">
-            <B>WoN1KGSg98HBt2y3dBjt/2QC+rb/6bYpes3ncNhxcy6ffdILsdCz+rM4jWIWnSqTOD/1HOf5MRG6tN41vJc/Qw==</B>
-        </A>
-        <A name="东盟卫视">
-            <B>L2BcybtZJslG/JaCDWW02l7xm3QTI7sn0RDiUi0v5Atv2++KXhvwsco3aI5nWV/7RKx/MlBNVwDID8MfYmgmBw==</B>
-        </A>
         <A name="英Sky News">
             <B>qCzDt3LIYpA5j3FnG5dTprjho+2UQKQIunE7r6jQA0sNuPcmcK+uhilRJS11VNrPJRHFygVcCZhep8mAKo1C8pFwQi0plZ0iPp4k89a7JQU=</B>
             <B>qCzDt3LIYpA5j3FnG5dTprjho+2UQKQIunE7r6jQA0sNuPcmcK+uhilRJS11VNrPOFYXmKp3EOVDJZexmDvxutYAJMxENnlR9VahVcbgOK4=</B>
@@ -6028,15 +5937,6 @@
         </A>
         <A name="法France 24">
             <B>0yGEsGqzbPWMvZk/aM5WRGPd8wGjbSve8/pKdg+z+e3buLpP7g9IpmFDw5+udoKqv/e0E69BOb0SxkzMH23uCNy5UtHDh6Bay6jrxtIcw0g=</B>
-        </A>
-        <A name="法Nancy-Web-TV">
-            <B>DN+373OYbuec3VWOp4eDJrB9I8TOO7tbHRJM7EnlnDF6oH5XRi/FcTYc0+hPY2ZMbQ7+oySVMBWmnkpDLlSQbg==</B>
-        </A>
-        <A name="法FashionTV">
-            <B>DN+373OYbuec3VWOp4eDJrB9I8TOO7tbHRJM7EnlnDF6oH5XRi/FcTYc0+hPY2ZMbQ7+oySVMBWmnkpDLlSQbg==</B>
-        </A>
-        <A name="俄RT">
-            <B>BeQWDUWeFLvBz3Fi8KkYoiAp8aACVgAmFuOUuYMEnN0qETB91A1PdpH4VF3PPGRkAN897O3DXHQraXXc5HlPzg==</B>
         </A>
         <A name="意Paroledivita">
             <B>Ofqssszt2Ie8VlDjhxcv/bm6bsPamBR7tp5mC/NSDhnrtjBg/LI+HifnO6XIIp0LlMnzCvNmAXRr4rfMEVWQO247REOhQ8WWDyt/ghT1jyQ=</B>
@@ -6050,23 +5950,11 @@
         <A name="德Oberpfalz-TV">
             <B>t28cum/xoS9i6w7Ecm0P04QnmtEl3fKrFyJgtsaamvBTXyCqbSRjuWtfflGa51Ngx9K85u/hPIUCIlDEPYUb8CuMIMMkn2spJF+hMJUzsHA=</B>
         </A>
-        <A name="德DW">
-            <B>j2B1wqweB47xf30iou76hHJGY44Gl1JZztGofqHFXiXbcuZM5MDWN+z14IQSIEOPDyPnO4xYU9Ychz4BLQ0Lzupz0JAC9UjrWD33TX+QhWc=</B>
-        </A>
-        <A name="加Miracle">
-            <B>hAhO7JZmlApMpsVy/UmF4ODMDodBLRLqJHHknASA5CsN1bXPQzu885i7iwLjQQsmVlSfJf5MsAjJl/EIuiuv9w==</B>
-        </A>
         <A name="泰Music">
             <B>Gi12iCUra6GM+q3sB6E3NJ/J09WpdZCjdkTSQaAb9DkyvbBkp28EAGbGlprboSYD</B>
         </A>
-        <A name="越TTXVN">
-            <B>OvNrGdN75zvfvS65LfgZRk3JXBt0Y58b8ygD2QOiQ6o=</B>
-        </A>
-        <A name="越VTC5">
-            <B>YE+9jY2gFmwWxcaDGXnZ3fqgPIY2cqVISaFrYYPjKIruBolEQ84UsYZ1l+s3nSaB</B>
-        </A>
-        <A name="越VTV9">
-            <B>jMS0Wj7Ff6YMA+0oB5nxvMIXCTDdzoH6bEB0xuJbkTbMN7D6mfpKBbPtO6W2t+2TPFilCQzYp1vVD3btyNRKXSM9tX2rA024XzQPjPcjxiQFS29if0N0c4/6hU1dXrd9</B>
+        <A name="新CNA">
+            <B>w8AdFt1po7QD19VrXVAY6m+otYNJTWEHeVo0IKdffHvCBevDMzDB3sHydDFZbInMqfHuoyirRXiZV+GFI4YCNA==</B>
         </A>
         <A name="乌克兰">
             <B>PrILDbz8aj0Jc/jInC+6+67+I6JDkblb+C0cO/OZMf8c6wmQteWWBEoflCv6PVZ6</B>
@@ -6074,50 +5962,22 @@
         <A name="Silence TV">
             <B>K+Dqmb6+yO+Znb/RMGm/qcY2CTj44YE3/xFAvPlAl4P3WzvW6Xv7W2k427BR4qNYiuTZZhh6gt10SavwZWC3Fg==</B>
         </A>
-        <A name="Zhetysu">
-            <B>Vzut/pvoyAUm4Inpzu3aed2bOGJldL35+FE5kGklJFnUw18mK4OHWokmK4aEX7aRHAemjh2ea5S32aGoe5yWi03j+bWBni6aSuXkuLKXkEQ=</B>
-        </A>
-        <A name="四海钓鱼">
-            <B>PxquV8DkqyErjOATuPBLAnwuxnxYePz7IeXLNa7rOJMnnRqlsY+wm/t3v+l3UFadf7PAdwCa4M5J2zBd+lxReg==</B>
-            <B ptag="3">QQ4jqDIEIgisZ7JdGU2vxKVIkECYHW+S4izbD2OLTMFzsJjAWaNLiSy3STp/5vUZvzbXLCMj+wfw1raQRcgFOyp6CYr59drCQOQg82+XeDU=</B>
-            <B>1eflJFQdpzScMsF/W0MYRYKeetitfS9p6DYJaBjt1t5FU9JwuuzgXNQ9SplPz5y3</B>
-        </A>
-        <A name="KIX动作">
-            <B>2nfb8fvqzjy/bJe40Q9pGZ5+GEEpvXeKcBVMnv6zK6VzkiQclkp5HMMEueeHxS8NtAIFL0f1j2RPiS+aq2acbA==</B>
-        </A>
-        <A name="好莱坞中文">
-            <B>VQSc+lF9v9WicD+lVxRdsdUUsFSqZT0c8FnheuVx7iZVBsbWwQhC7+61WX0KmAsMP9Fh7anNqZ0Yv6oN/fP7iYYJou29uwGZyrdLo/K0S9unPLHbpp9tD0YoO1LeFLb5</B>
-        </A>
         <A name="CNC中文台">
             <B>uzhQ9pV9GpiEQJnvDbLUvNcee9ls8w1nWJ5d8mzClOPO81ET6y63K/mBR2WIjz2glqEkbwUSKIv3NWPfdW2PJQ==</B>
             <B>Q4RZO6YgK9tuUg80lCoVwO+OnALzR6N0RJiTAcVYhWztdsfDbqQ2cjcKinseejkvt6LDuP95wS4dO+B+io66xqUOyrOfoSNqVZFHAIxAbyE=</B>
             <B ptag="5">3i3Vr5NkelYYbnN+izfOuSSbBPRtYe3pTr6ouM3gVHi5MYnCvWLhwEKFNYcALeikKAoECQMNjOYvANMsTcXiRHm7nGuOaBgBwtUfJEMqIH6QZWuW2H4mAb9/1SGEKH/AeJq43/GwcziZmQp0bhqlYBRHGb3bwcQpkqpfLDBFOjFs9GIge6MA21u5/D9LJvJE</B>
         </A>
-        <A name="CNC英文台">
-            <B>uzhQ9pV9GpiEQJnvDbLUvNcee9ls8w1nWJ5d8mzClOM0Q4kzWcr6kZ39C5BlY1AntTqdXv8832Kv3d4bkwKqxA==</B>
-        </A>
         <A iconURL="VpUalCGShlZhsFkwWEcKoCpD7SKsR0mUHee8FtL3uv3J4R2hjkJop567VHxbqm2rV3GHK/MO/7D/VuyH69BswA==" name="美国中文电视台">
             <B>Q5u9TwHENifJBDF+4pM8YYqAaX8JWDUo0/RoadCc4ED7MVNFwQ+Inp6uhwqpsYA6kVHAJiSfn+5gDn+sQ6CI7A==</B>
             <B>eCzzHsA3YZrF5K77qFSEFZ6/6sEbDoVruexu2IATKoZ5roKcMj4hsJV+B9uEFDhc+Bkvv+eTZsSNCQswpOzuIg==</B>
+            <B>twaXYd8QFjFF/3PWJ3riXc5hMftVPKCGSYjbA1F9Iakn1baIuvinwaB03mAWS64s3puhPGbpnIa/OGQO8qKp+A==</B>
             <B>4TOkF69qeIfhnaQQfUB+wdyTSpcY6Pg/v6JszzeoLEGxsc2RjRdK0quqt3mhInWI</B>
         </A>
         <A name="捷Retro">
             <B>qbZfnrheYpLLKlBREIXhg9DRt/LZFVeMg/jd3CBFzugQrnhNnhVy/GjDvU0OsZttVRwMiC5XhSp+rDLVXMhH4vw8ErgghIz4Y3thQU9tqCg=</B>
         </A>
-        <A name="Klipkar TV">
-            <B>Hhicb3b5uMy3jVKKwFAN0qO721JOHIV1PFDtcOlky2ozxaxBdTzykglzDxIpOg7TobTQY+47ws1XZveQr+eSwjOnkCbOkNBoxRZzJXbzk+z98Fl1okuayrC+NaV9odDU</B>
-        </A>
         <A name="M20 TV">
             <B>ztcW9IJASdPY4I5hoFnHu9rO49SR4YnNb47jM2dGA9I/zhrEjvAXtLgiNZGjBDAayhvcZmRE+giTYO2TcvsDuzFlAEyQla1cqmAuHbKX574=</B>
-        </A>
-        <A name="English Club">
-            <B>3iOrLBK3RUFiJ1Ao7qHCsRgpyMk6LGfSdXbQqkrtZvUUyO9A8hbPXcbRR5tPSKNF</B>
-        </A>
-        <A name="Flix HD">
-            <B>9dUvBy1Wabhl3ckLUDv4Tk53BVvZb5IULwuilIkjoEHR3ks0wOqG3UwFGkAKgX3uPPl/gwCld0i1ypAvb1r2WQ==</B>
-        </A>
-        <A name="Sony Movie">
-            <B>vbj2DSNNxE4FYAXPzY2rl49NKyNuZ3ykVbL4GS+Xw4OusaV6LEUPe8p20/QP6CyHey/PGTX5dh8bOqoL/mxhgQpAMTTvvQAKjVpup+MiujZls2I3rA8Rw3Xyj/v0g5kp</B>
         </A>
         <A name="First Movie">
             <B>aQrWd/tgyHgEubWmuHS1eb0PrgKVoHV4jnF7p4SHiUDCnIxIHnbPn/wtvpgxaNWvdkdAEQovcYT2ewCLA1LEsmb9aeYa1xpGbUpxRy1cEL8zEGFLn05IRLujKRlSXb0F</B>
@@ -6125,14 +5985,11 @@
         <A name="Rai Movie">
             <B>lvnCbaX/R+aJqL8zqn9XpYXMVUqYz8n+uVkyDnZsj/OVkU9srI587lEbgfZPYvP6j+z7J7ZUdoRQFe23q87MaK7m3qdRjYT1n/FbWMOr5So=</B>
         </A>
-        <A name="MTV Music">
-            <B>lvnCbaX/R+aJqL8zqn9XpYXMVUqYz8n+uVkyDnZsj/OVkU9srI587lEbgfZPYvP6j+z7J7ZUdoRQFe23q87MaK7m3qdRjYT1n/FbWMOr5So=</B>
-        </A>
         <A name="MEZZO">
             <B>3iOrLBK3RUFiJ1Ao7qHCsT8pAZadbDrhT8RW2HcA4TMIFnjYcuHZWT1KKvumdAVL</B>
             <B>s/MHOqY9k+uxAZgk3X7lp92c8vduLa80LkM/f7WoiT6IE8E0VY/oEg5cyfZN41fs</B>
         </A>
-        <A name="生命电视3">
+        <A name="生命电视2">
             <B>vezkUgwOfHApeHuDN0qUTc3eErb86WoWiNE4Ud5EGhvjtoTxIYU/HzmeyDOSLvkSturU5ANsXujUCP3AjF+7dya19ThRXmjC1UitaYfwIjXtcoizVRNdQAOlNg/cScTAxT5jMf3Lx7G7LrZrEq92aljHvijWFsuiWPniYiAMa/s=</B>
         </A>
         <A name="Christian TV">
