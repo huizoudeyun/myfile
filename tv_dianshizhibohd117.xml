@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Channels>
-    <Version>1.0.1064</Version>
+    <Version>1.0.1066</Version>
     <isClearFavCh>0</isClearFavCh>
     <isClearRecentCh>0</isClearRecentCh>
     <isClearCustomCh>0</isClearCustomCh>
@@ -291,7 +291,7 @@
             <streamURL>4Qbr7sUUj6GN9ry0XPuBdmQ0JZltgv9ZkoAJvx9b7tDpLZsbT2BqZIKjGC1Rep6WQetCiQyajh3ZLsbwrkpAVQ==</streamURL>
         </SubChannel>
         <SubChannel name="动作电影">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTddZsp7MBr7+vhSJupEmnY6WfYo3ubNkBXOXh0UPVWJHgKgwgkSL5XJCR2nAhWmZz4r8/L9QnsPSjfF/Yn8ubssKhPd12lpAwjEcl8WJme7D8g==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTddZsp7MBr7+vhSJupEmnY6WfYo3ubNkBXOXh0UPVWJHgKgwgkSL5XJCR2nAhWmZz4r8/L9QnsPSjfF/Yn8ubssKViLOVFIU/Ficfmf9qtdJgg==</streamURL>
         </SubChannel>
         <SubChannel name="轮播电影">
             <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp5DyWjfFtEPYsVgTnhWG+SmxfAC0q69oOj177quMptxLvMFStxbkKKowon0ZoiE8NHoR48fJJRqYBbQ+/Z0BmzabpdYA429LdGDg+36dUXVwQ==</streamURL>
@@ -975,9 +975,6 @@
         </SubChannel>
     </Channel>
     <Channel name="网络" type="33">
-        <SubChannel name="网络棋牌">
-            <streamURL>JW56g8UG7BBASjQc3QHz0Q6HmmmDs+sj5oMVyd1so0s=</streamURL>
-        </SubChannel>
         <SubChannel name="股票老左">
             <streamURL>4W9BKfLdX4jsxONVXeo7b9Ki1aDxR9jeFmL9e8V0K6AyDfEWDgm17I4VcJj5Aj91</streamURL>
         </SubChannel>
@@ -1041,99 +1038,85 @@
             <streamURL ptag="1">6C6zfx3hEpaorg8sXkOmeM9GsXyROzdaUdvjFilNX21gONePFWZ4NLhGq9A1uTp1ujagft8xWHMsNMojCos9/w==</streamURL>
         </SubChannel>
         <SubChannel name="周星驰电影">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL+Mntj/yP8lLa+Tw7hNxmop5LaQgANt1pweduAIk8HSw2pWdSWGfxPp5ULIVStiUM9z+bkT1YF7246D9Uc2qL5g==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL+Mntj/yP8lLa+Tw7hNxmop5LaQgANt1pweduAIk8HSw2pWdSWGfxPp5ULIVStiUMFUSMOqlgMzsr0lkA4089KQ==</streamURL>
+            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6FWP1bacpzB7Ddz3aGpRoJnC5bD9vwHbXEeq0s7m8WxT40gR8aN5cdxQtZlbJqvx0fTT5nwqDxZpUUNQK2J+2jQ27LuphUXCCMqX4fjLsi3w==</streamURL>
+            <streamURL>Yp3KTcjtPK8mWDtXtq+vIApYldSjP7JY/xtI60YxQoEIOSrFdBm8ZHE1ixho70ARd9rBBqfUEGqyd8iItFHIaT5rqk4iZSU5Vq+7Fs+cifYZgZJoOAj5h+N7YDFmnOcGVWKyQJMEXq7rMEQbbePn5Q==</streamURL>
+            <streamURL>vjTd36sVf3FxnTv1XwVE3vJyXuZkizPb8cSZ6KOwPDFo40VxtCdbu+udH0PsYL+6bdQIzLkR9IUKLO/Ydmg19ds6g0vvVfI5kMoO5edCCzR6NtDCX0lxzWJxCu841WrmqfSw67FFS3KfP+reTAZSvA==</streamURL>
         </SubChannel>
         <SubChannel name="李连杰电影">
-            <streamURL>Yp3KTcjtPK8mWDtXtq+vIApYldSjP7JY/xtI60YxQoEMHUaUNqRzJ/yFBKNS0XC6xYiQgnRzKPhnMqA7a0WO40RK+3SF25Yir+V8ac9g/1XlJjgQqT5QTJiMJVqUWHTGHd103kUu98pB3A/prUjZCg==</streamURL>
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6lUsmr6TU3qAElZ9kPGs0wfHifPLujzre5ttq6D+/HJFNCuAU3N+d1UwGyJAUAKIGmQsjFEPTm2XUD+WTpatLNVl9Ch6CZZt033Lb6dg4/nw==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyLkaFQM1EzC6JGK/HOzdsKLV5HfZJF+NVCN3wf48qZw+mQFrGFv55xCDD25zYnL21w652JIkFHhuYF22/ODAwskw==</streamURL>
         </SubChannel>
         <SubChannel name="刘德华电影">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyLHRrt2iapLz5GURmvGmHARltDV+dAUNe2WhMnX5tG30w6eG1j4YnCelYJ5GDJAjOIh74a4s84kSNy2IHiENdBGg==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyLHRrt2iapLz5GURmvGmHARltDV+dAUNe2WhMnX5tG30w6eG1j4YnCelYJ5GDJAjOIvX3u4tfwVpsGtYPP1gq2cg==</streamURL>
         </SubChannel>
         <SubChannel name="周润发电影">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6FWP1bacpzB7Ddz3aGpRoJHGSDmWnoMYc65h2qY5Ocm+40J1lWz2jWFzP83is36nGGfcBk0V35A3RHWo5ZQxavTrbCGej7Sck30c0y+LNuBw==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyLh6X2wKDSUEpcrRlE4jnoq4xvnJvvYpr/asUifWY8Tzp1ijhF7PtEYTHwFPIY5yloMzg/GFuRkIddo1KtjGjU5w==</streamURL>
         </SubChannel>
         <SubChannel name="林正英电影">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL96DPQ71IzcWI0GIZ1y19zxsCcfcVTYjE8MLj39FJrDVQmSkd2/LKHpLdmcNe8U1AnSpEkPR/oqQTqnGe2fq3DQ==</streamURL>
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6lUsmr6TU3qAElZ9kPGs0woLR8irwFw+PNoccl2mdss/9aTM1viRTKHCX8OIr4yYEnx7wjZjUAJvhGdwDxN93/l9r2d4rkBl9tQaVVMX7i7A==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL96DPQ71IzcWI0GIZ1y19zxsCcfcVTYjE8MLj39FJrDVQmSkd2/LKHpLdmcNe8U1ADfamNiSw/xps0qqKYX6GwA==</streamURL>
         </SubChannel>
         <SubChannel name="甄子丹电影">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6nBE5k+nCVNwXdL/j8awMGP1IGfI/A9myKy7bnbxnJwu6JlvnSGstgYykV98snnV7vPix0N9NEb9eKeNmeKdYV0Z1eI/L0pVgVA147Vs72cQ==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTddZsp7MBr7+vhSJupEmnY6WDRFg9iFFKF8AcnVrUZ/wqzPrgxLOUMXVyLPAJ9GyWV6N5l6fq9rWD3ZGzmZZo4yrPEJAb0mqpTQH1rGGF+l6T05te1k8lr37GBUsOXTkJGk=</streamURL>
         </SubChannel>
         <SubChannel name="洪金宝电影">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6pCLcGLNmeObsG0zaLCC+2Dhs0D2nl/M19e+A2kTR8b9+TYTFCeWJaZtdKq6TFpJ7p4C8vcYnpFlGgq47l7wisc5bhjkoCQzSEfD2JVzHI3A==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdfDfUsa+RIKLLtXNP23h3FmZl29V7scYMkyds7S+D1RSfe4FNPk6rxwPaJsBHrR9X+ub4y5sXAngfUi/jng5dh6GyOgEPhfmaqcPhKvHA/QMQ==</streamURL>
         </SubChannel>
         <SubChannel name="古天乐电影">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp7Ckifhxy2FCH7IA3k/BNI4zTfwI4CG9gbjksFp0y32oabskKbE88VWORMkDR2Xa+yqmY/3nGU9+ZCLhVxdZniy+KKy/lJBXt7oeNO+xhtLcA==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTddZsp7MBr7+vhSJupEmnY6WMnEdZw/jBJI4DplSesaISfWYFRsohP5gHWZu3RGPBpQdw+/gDUTzJttzyjDYiF7bgNPTjAAZW3e1wUUH3nBZs6KeSUui36Cnu2oUE7SAPD4=</streamURL>
         </SubChannel>
         <SubChannel name="古惑仔电影">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp4V8fTErXGAGujZI0GtkOp3hZxx+uqzgUiYc+osP6UKKxOmH9XEmE69hhj/19xbektxAPmGBjFcSc0U0ugY3xM6dtDyZt9HdfZoNNcQkLphxA==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdc/G9fdmFqSkFqMP5+DLzv2aZ0AmxR7Zb4NxYGojhWF2+DL4nyMXpavf4bAEsOqKTT/Kx0Dmn6wBcweZhoSO1fCRcD1JTEutzzwJ5lVgHyWcg==</streamURL>
         </SubChannel>
         <SubChannel name="漫威科幻">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6Ki1kDvME/UHI8BIrAeCbYb/PTjEQOJ24k7lvteKOp7V6YXDHgJtnqCSBs+BiV1lLq9CTkIkI8/pfcIKDHO/CUTJDhoqnCNGPXsmhiPvzh2A==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdc/G9fdmFqSkFqMP5+DLzv2R2r92xZaQ9+TJvFrQvUe/xaf3BHxc7U22odiTksb1qdk2os9TwLFT/4d/DhBsq9YEwFagUMfAAAHZHY1ckHyYA==</streamURL>
         </SubChannel>
         <SubChannel name="丧尸电影">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp4Hja47Ndu65m8XgnLVfeMPeljEjYV/XfIJsJGETwIG8Q0abVz7H/g0+o4Vivb7rkrVxlzu2PLNAL279WhpqJF0wcGQL8fn+KNMeW4wuLveeA==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdfDfUsa+RIKLLtXNP23h3FmK72/yHnQPnuzE1GGPZb9Zk7Oe/trPUjfh5v2HVsx4GxDzMrB02JBv2zKhDi59FGyuzfvgTbw0gZKApR+u4q+/A==</streamURL>
         </SubChannel>
         <SubChannel name="徐峥电影">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6w7ld9pgl0Ff0uxsVq9TxXu4yCC/O+2wDb+KhBBfiXRCN2tLrW1QeARwDBJaL5IrZRONcyqI96EHN20XTZaYV1w1aSmls01QXHeX8QJcizHw==</streamURL>
-        </SubChannel>
-        <SubChannel name="猫和老鼠">
-            <streamURL>7ML7tyiM2ku2Y64sBLGKq1zPdDAKAR3nXKzw8EAveIy9509ISFyiWp+Yr4O8wnaBVsipR25xJIP1pLDnyagk9Q==</streamURL>
-        </SubChannel>
-        <SubChannel name="谍战剧场">
-            <streamURL>ydRCJif868Vmk9n8TrSWY9Ibj4UgxgIS+Y+SVwqhaI+/HtjWOKQj1Am0KA8S7QM8bsWeN+e4UBZ9KRaAGom8SA==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdc/G9fdmFqSkFqMP5+DLzv2q2/P165C08aej4AAQINYednrLp4w5cmjyhfM9bPH4D7UX47cugmSNifVQL2Xtcw4kUbkesaZ3jse8zaBpy2ISw==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院1">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdchXpqc5QgwO8JcY/NHg/sKlZVGRqlZv4FLUKwdB1wudoc5eZZvb9iDspfANRTc7R4IYmPOYMVE8SN9QYnE8A+nlt6pJMjhFbmXP2oIYTWktw==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdchXpqc5QgwO8JcY/NHg/sKlZVGRqlZv4FLUKwdB1wudoc5eZZvb9iDspfANRTc7R4IYmPOYMVE8SN9QYnE8A+nnIKy+Xg9h80PAm/pdloIwA==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院2">
-            <streamURL>vjTd36sVf3FxnTv1XwVE3vJyXuZkizPb8cSZ6KOwPDGAimJGFwewI25zCbPYtG6eosNpVVKILD+sSt0FiJpuGSh/WTg10h0dmCSgt3gYo7HS0rkVcTfDONQd1ou9CUXSZIv8cufkwqryCbErPo77Iw==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyLkaFQM1EzC6JGK/HOzdsKLV5HfZJF+NVCN3wf48qZw+mQFrGFv55xCDD25zYnL21w652JIkFHhuYF22/ODAwskw==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院3">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp4Rf4y5TydDOgaPXFvRy84IpWkqlNwgW/ZNDukpRzGtDrNwKRK/bX7xCWO0AN/cVEoIZpkZdTmdOpNZgXn1VyBkAmgsqGzvNVnkYsX/GKj5kA==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdc/G9fdmFqSkFqMP5+DLzv2eeg3cdaPIMfQU65EYKO0seqjbSGXeXKcLX052YZAS93M6RIWD0y4eE8PiZgGZjfgzsMtVhj9syS2BsgsTrMh+w==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院4">
-            <streamURL>+z1fz6wGpOd4gcqL6XFZJAxIz25ePTVVeLe9n4oxBsf6FtKm30aPLRcTQ6bw7sUV</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdfDfUsa+RIKLLtXNP23h3FmZl29V7scYMkyds7S+D1RSfe4FNPk6rxwPaJsBHrR9X+ub4y5sXAngfUi/jng5dh6GyOgEPhfmaqcPhKvHA/QMQ==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院5">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp6pCLcGLNmeObsG0zaLCC+2Dhs0D2nl/M19e+A2kTR8b9+TYTFCeWJaZtdKq6TFpJ7p4C8vcYnpFlGgq47l7wisc5bhjkoCQzSEfD2JVzHI3A==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL/fbtetxOgCwyg2x5oIZhkt2F4zaz2K0zrUwUbDrpaQoozLJsnXjMa6iXJUOQu3ShG05YYj+xDH/rktecp4UBQA==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院6">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyL/fbtetxOgCwyg2x5oIZhkt2F4zaz2K0zrUwUbDrpaQoozLJsnXjMa6iXJUOQu3Shiqx4KlR4GlbUGNTfzfipmg==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdc/G9fdmFqSkFqMP5+DLzv2aZ0AmxR7Zb4NxYGojhWF2+DL4nyMXpavf4bAEsOqKTT/Kx0Dmn6wBcweZhoSO1fCRcD1JTEutzzwJ5lVgHyWcg==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院7">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp4V8fTErXGAGujZI0GtkOp3hZxx+uqzgUiYc+osP6UKKxOmH9XEmE69hhj/19xbektxAPmGBjFcSc0U0ugY3xM6dtDyZt9HdfZoNNcQkLphxA==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdfDfUsa+RIKLLtXNP23h3FmlyL6dTG+MiIBsb1m1SSZ/dcLDGCImpnnw/vl5iLWx3nCEDgJ043wkS71EIy/YjuA/fgvEMkhplxmEFqS2C2xAw==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院8">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp5DyWjfFtEPYsVgTnhWG+SmxfAC0q69oOj177quMptxLvMFStxbkKKowon0ZoiE8NHoR48fJJRqYBbQ+/Z0BmzabpdYA429LdGDg+36dUXVwQ==</streamURL>
-        </SubChannel>
-        <SubChannel name="高清影院9">
             <streamURL>/RPW8ntQ7QT2+XDtFhQyDTGOKpmHvPBVXWUgKuzb1+BNZenK+cJ3QNUhOV3uAk+IHOxuS2QiBJxvKcgt9XnPXOHuDMv+M7B4Ed0ALBiQgIZLGorYhFrKsD0ypMFUuL3YvQLbVb09cn1NohQRCoqzn0ScJ0mszcrT89Vs7cy1M3M=</streamURL>
         </SubChannel>
-        <SubChannel name="高清影院10">
-            <streamURL>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49ngQVAoIja+kPlVSkZgwSVDDGGlsTZcH8E1aFNFXZn5B4A==</streamURL>
-        </SubChannel>
-        <SubChannel name="高清影院11">
+        <SubChannel name="高清影院9">
             <streamURL>/RPW8ntQ7QT2+XDtFhQyDTGOKpmHvPBVXWUgKuzb1+CuMJvXorLVuHucTmCEolafYsmHikgB9ksj92rjleR3sn0j8N0o4ZbDb4bzdw1qPIxIBXA54qhT1Xa2x8jpjdw3</streamURL>
         </SubChannel>
+        <SubChannel name="高清影院10">
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdchXpqc5QgwO8JcY/NHg/sK9yhnsqEMUAjnpuVGmJ9qF+GUaGqJFkLX9JxKb4aM9+kcTMKEefZZYUlNRvTsgI5Fe5gqj6U07sQMesHm8GpptA==</streamURL>
+        </SubChannel>
+        <SubChannel name="高清影院11">
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTddZsp7MBr7+vhSJupEmnY6WfYo3ubNkBXOXh0UPVWJHgKgwgkSL5XJCR2nAhWmZz4r8/L9QnsPSjfF/Yn8ubssKViLOVFIU/Ficfmf9qtdJgg==</streamURL>
+        </SubChannel>
         <SubChannel name="高清影院12">
-            <streamURL>7vQ9erzDqB0hSsuCtUju4X2RvwU22opnOZJY/ur5Lp41W/tnrsskLPcvcIug0LtZ8bl5EBcB8TjibOrzP2HgkIvjH9Tu94bcs7Cwrs3cbNkbqblIJXuu28mSbt4NsxOT7kgZbZrqVYVI7Xk68N9XJw==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdc/G9fdmFqSkFqMP5+DLzv2R2r92xZaQ9+TJvFrQvUe/xaf3BHxc7U22odiTksb1qdk2os9TwLFT/4d/DhBsq9YEwFagUMfAAAHZHY1ckHyYA==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院13">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTddZsp7MBr7+vhSJupEmnY6WfYo3ubNkBXOXh0UPVWJHgKgwgkSL5XJCR2nAhWmZz4r8/L9QnsPSjfF/Yn8ubssKhPd12lpAwjEcl8WJme7D8g==</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyLDGM3980uwjbCIPpTyIJ0ucXg9Q0TqMHBeKErOEDc/OC16EVsq96ORiNRvi48pm6WhAIHFObte9KJ7CBwvGXfaA==</streamURL>
         </SubChannel>
         <SubChannel name="高清影院14">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdc/G9fdmFqSkFqMP5+DLzv2R2r92xZaQ9+TJvFrQvUe/xaf3BHxc7U22odiTksb1qdk2os9TwLFT/4d/DhBsq9Y9AWP4NBgLaPT907uppmpbA==</streamURL>
-        </SubChannel>
-        <SubChannel name="高清影院15">
-            <streamURL>Yp3KTcjtPK8mWDtXtq+vIApYldSjP7JY/xtI60YxQoGeGCkLw3jgOceHSu9P98fdCngaY/hMEZDJt6p8Dv2KXjBI+B+2weDijf8KF4tV+md+zUcO1Wwimk9xgwrOQyOiJ0RnyPZ4nlZuSV5iCcNCXg==</streamURL>
-        </SubChannel>
-        <SubChannel name="高清影院16">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdcz9f3ripNAmZU/9hpVRgyLDGM3980uwjbCIPpTyIJ0ucXg9Q0TqMHBeKErOEDc/OC16EVsq96ORiNRvi48pm6W1xWThBmG3wsgsfKbAdyN/Q==</streamURL>
-        </SubChannel>
-        <SubChannel name="高清影院17">
-            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdfDfUsa+RIKLLtXNP23h3Fm1O89vR4fVLRpi80oUw6rooRiFVIrA1NnAj6gV6nNkKPmdNACHm8zC9xSj0LEEuI0WKXo0UUtMcir//nvQ5Nu4E8x6lTRK0HNIRh1X+JS77E=</streamURL>
+            <streamURL>qb1usF1cL7h/hvYhJ6NFU9bJJpc8ua3HyJnaA83fTdfDfUsa+RIKLLtXNP23h3Fm1O89vR4fVLRpi80oUw6rooRiFVIrA1NnAj6gV6nNkKPmdNACHm8zC9xSj0LEEuI0uJ3zZGwOtNiTUi4S4s9m5QSPtKnm4ZUMfBKenX/n8E4=</streamURL>
         </SubChannel>
         <SubChannel name="CHC高清电影">
             <streamURL>3qYmU+XG6EIPB2q0iXYOK/cHP1OyFsJRL3bX+d48KU8TY8Z18ATwrwf9IDecZaU5</streamURL>
@@ -1141,12 +1124,6 @@
         </SubChannel>
         <SubChannel name="CHC动作电影">
             <streamURL>8g6JJtrL93XW6UhdRegkf0Cw9EsvC1OfdRKZwKlLZiQihANpbkasHa6ANt0LMEjv</streamURL>
-        </SubChannel>
-        <SubChannel name="华数时尚">
-            <streamURL>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49ngAmEi5gRGEy8djMX4+gK6yIlO0TvA6n4J1ZIZ2VqA8vQ==</streamURL>
-        </SubChannel>
-        <SubChannel name="华数时装">
-            <streamURL>KM+hgEdnsYcwwiPOL0fJFi6km9TII4/1WEFYgqQ49nhJvXZjfMoB15mWvdG9ITQsG9x+0NSiabmCZJcxVxaVDw==</streamURL>
         </SubChannel>
     </Channel>
     <Channel name="广东" type="33">
